@@ -1,7 +1,7 @@
 require "bundler/setup"
 require "verbalyser"
 require "verbalyser/cooljugator_fetcher"
-# require "verbalyser/cooljugator_scraper"
+require "verbalyser/verb_shortlister"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure

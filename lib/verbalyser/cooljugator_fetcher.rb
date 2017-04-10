@@ -74,6 +74,3 @@ module Verbalyser
 
   end
 end
-
-# testing = Verbalyser::CooljugatorFetcher.new
-# testing.clean_verb_list
