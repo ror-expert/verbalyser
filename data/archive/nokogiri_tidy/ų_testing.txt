@@ -1,0 +1,3 @@
+<a href="morfema_list.php?letter=%C5%B3&amp;morfema=%C5%B3">ų
+ href="morfema_list.php?letter=%C5%B3&amp;morfema=%C5%B3j%C4%AF">ųjį
+ href="morfema_list.php?letter=%C5%B3&amp;morfema=%C5%B3j%C5%B3">ųjų</a>

@@ -1,0 +1,64 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Morfema - duomenys</title>
+        <link href="style.css?rev=201207111" rel="stylesheet" type="text/css" />
+        <script type="text/javascript" src="jquery.js"></script>
+		<script type="text/javascript" src="jquery.generateFile.js"></script>
+		<script type="text/javascript" src="sortable_last.js"></script>
+		<script type="text/javascript" src="main.js"></script>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    </head>
+<body>
+<div class="morfemaBlock">
+<p>Duomenų bazę sudaro 72 264 žodžių formos: 11 522 būdvardžiai, 30 134 bendriniai daiktavardžiai, 530 įvardžių, 473 skaitvardžiai, 28 273 veiksmažodžiai (12 162 asmenuojamosios formos, 3 183 bendratys, 10 777 dalyviai, 1 047 pusdalyviai, 1 104 padalyviai), 1 332 prieveiksmiai. Internete prieinamoje morfemikos bazėje kol kas nepateikiami tikriniai daiktavardžiai, dalelytės, jungtukais, prielinksniai, jaustukai, ištiktukai.
+        <br/><a class="daugiauA" href="apie_morfema_2.php">Plačiau</a>
+        </p>
+<div class="morfemaKorteles">
+	<a href="morfema_search.php">Paieška</a>
+	<span>Morfemų sąrašas</span>
+	<a href="apie_morfema.php">Apie projektą</a>
+	<div class="isvalytiApacia"><!--IE--></div>
+</div>
+
+<div class="isvalytiApacia"><!--IE--></div>
+
+<div class="morfemuSarasoAbecele">
+	<a href="morfema_list.php?letter=a">A</a>
+	<a href="morfema_list.php?letter=b">B</a>
+	<a href="morfema_list.php?letter=c">C</a>
+	<a href="morfema_list.php?letter=č">Č</a>
+	<a href="morfema_list.php?letter=d">D</a>
+	<a href="morfema_list.php?letter=e">E</a>
+	<a href="morfema_list.php?letter=ę">Ę</a>
+	<a href="morfema_list.php?letter=ė">Ė</a>
+	<a href="morfema_list.php?letter=f">F</a>
+	<a href="morfema_list.php?letter=g">G</a>
+	<a href="morfema_list.php?letter=h">H</a>
+	<a href="morfema_list.php?letter=i">I</a>
+	<a href="morfema_list.php?letter=į">Į</a>
+	<a href="morfema_list.php?letter=y">Y</a>
+	<a href="morfema_list.php?letter=j">J</a>
+	<a href="morfema_list.php?letter=k">K</a>
+	<a href="morfema_list.php?letter=l">L</a>
+	<a href="morfema_list.php?letter=m">M</a>
+	<a href="morfema_list.php?letter=n">N</a>
+	<a href="morfema_list.php?letter=o">O</a>
+	<a href="morfema_list.php?letter=p">P</a>
+	<a href="morfema_list.php?letter=r">R</a>
+	<a href="morfema_list.php?letter=s">S</a>
+	<a href="morfema_list.php?letter=š">Š</a>
+	<a href="morfema_list.php?letter=t">T</a>
+	<a href="morfema_list.php?letter=u">U</a>
+	<a href="morfema_list.php?letter=ų">Ų</a>
+	<a href="morfema_list.php?letter=ū">Ū</a>
+	<a href="morfema_list.php?letter=v">V</a>
+	<a href="morfema_list.php?letter=z">Z</a>
+	<a href="morfema_list.php?letter=ž">Ž</a>
+</div>	
+
+<div class="isvalytiApacia"><!--IE--></div>
+
+<h2 class="letter">F</h2><div class="isvalytiApacia"><!--IE--></div><hr class="letter"/><div class="morfemuAbecelinisSarasas"><a href="morfema_list.php?letter=f&morfema=fa">fa</a>, <a href="morfema_list.php?letter=f&morfema=fabrik">fabrik</a>, <a href="morfema_list.php?letter=f&morfema=fago">fago</a>, <a href="morfema_list.php?letter=f&morfema=fail">fail</a>, <a href="morfema_list.php?letter=f&morfema=fain">fain</a>, <a href="morfema_list.php?letter=f&morfema=fakel">fakel</a>, <a href="morfema_list.php?letter=f&morfema=faks">faks</a>, <a href="morfema_list.php?letter=f&morfema=fakt">fakt</a>, <a href="morfema_list.php?letter=f&morfema=faktor">faktor</a>, <a href="morfema_list.php?letter=f&morfema=fakultatyv">fakultatyv</a>, <a href="morfema_list.php?letter=f&morfema=fakultet">fakultet</a>, <a href="morfema_list.php?letter=f&morfema=falsifik">falsifik</a>, <a href="morfema_list.php?letter=f&morfema=fanat">fanat</a>, <a href="morfema_list.php?letter=f&morfema=faner">faner</a>, <a href="morfema_list.php?letter=f&morfema=fantasmago">fantasmago</a>, <a href="morfema_list.php?letter=f&morfema=fantast">fantast</a>, <a href="morfema_list.php?letter=f&morfema=fantaz">fantaz</a>, <a href="morfema_list.php?letter=f&morfema=faraon">faraon</a>, <a href="morfema_list.php?letter=f&morfema=fariziej">fariziej</a>, <a href="morfema_list.php?letter=f&morfema=farmac">farmac</a>, <a href="morfema_list.php?letter=f&morfema=farmako">farmako</a>, <a href="morfema_list.php?letter=f&morfema=farvater">farvater</a>, <a href="morfema_list.php?letter=f&morfema=fasad">fasad</a>, <a href="morfema_list.php?letter=f&morfema=fason">fason</a>, <a href="morfema_list.php?letter=f&morfema=fatal">fatal</a>, <a href="morfema_list.php?letter=f&morfema=faun">faun</a>, <a href="morfema_list.php?letter=f&morfema=faust">faust</a>, <a href="morfema_list.php?letter=f&morfema=favorit">favorit</a>, <a href="morfema_list.php?letter=f&morfema=faz">faz</a>, <a href="morfema_list.php?letter=f&morfema=fazan">fazan</a>, <a href="morfema_list.php?letter=f&morfema=faš">faš</a>, <a href="morfema_list.php?letter=f&morfema=feder">feder</a>, <a href="morfema_list.php?letter=f&morfema=fejerverk">fejerverk</a>, <a href="morfema_list.php?letter=f&morfema=fekal">fekal</a>, <a href="morfema_list.php?letter=f&morfema=femin">femin</a>, <a href="morfema_list.php?letter=f&morfema=fenacetin">fenacetin</a>, <a href="morfema_list.php?letter=f&morfema=fenomen">fenomen</a>, <a href="morfema_list.php?letter=f&morfema=fenoskand">fenoskand</a>, <a href="morfema_list.php?letter=f&morfema=ferenc">ferenc</a>, <a href="morfema_list.php?letter=f&morfema=ferez">ferez</a>, <a href="morfema_list.php?letter=f&morfema=ferm">ferm</a>, <a href="morfema_list.php?letter=f&morfema=ferment">ferment</a>, <a href="morfema_list.php?letter=f&morfema=fermion">fermion</a>, <a href="morfema_list.php?letter=f&morfema=festival">festival</a>, <a href="morfema_list.php?letter=f&morfema=fibril">fibril</a>, <a href="morfema_list.php?letter=f&morfema=fibro">fibro</a>, <a href="morfema_list.php?letter=f&morfema=fig">fig</a>, <a href="morfema_list.php?letter=f&morfema=figūr">figūr</a>, <a href="morfema_list.php?letter=f&morfema=fik">fik</a>, <a href="morfema_list.php?letter=f&morfema=fikac">fikac</a>, <a href="morfema_list.php?letter=f&morfema=fiks">fiks</a>, <a href="morfema_list.php?letter=f&morfema=fil">fil</a>, <a href="morfema_list.php?letter=f&morfema=filial">filial</a>, <a href="morfema_list.php?letter=f&morfema=film">film</a>, <a href="morfema_list.php?letter=f&morfema=filo">filo</a>, <a href="morfema_list.php?letter=f&morfema=filosof">filosof</a>, <a href="morfema_list.php?letter=f&morfema=filtr">filtr</a>, <a href="morfema_list.php?letter=f&morfema=fin">fin</a>, <a href="morfema_list.php?letter=f&morfema=final">final</a>, <a href="morfema_list.php?letter=f&morfema=finans">finans</a>, <a href="morfema_list.php?letter=f&morfema=finik">finik</a>, <a href="morfema_list.php?letter=f&morfema=finiš">finiš</a>, <a href="morfema_list.php?letter=f&morfema=fino">fino</a>, <a href="morfema_list.php?letter=f&morfema=fiord">fiord</a>, <a href="morfema_list.php?letter=f&morfema=firm">firm</a>, <a href="morfema_list.php?letter=f&morfema=firn">firn</a>, <a href="morfema_list.php?letter=f&morfema=fisharmon">fisharmon</a>, <a href="morfema_list.php?letter=f&morfema=fistul">fistul</a>, <a href="morfema_list.php?letter=f&morfema=fito">fito</a>, <a href="morfema_list.php?letter=f&morfema=fiz">fiz</a>, <a href="morfema_list.php?letter=f&morfema=fizik">fizik</a>, <a href="morfema_list.php?letter=f&morfema=fizio">fizio</a>, <a href="morfema_list.php?letter=f&morfema=fizo">fizo</a>, <a href="morfema_list.php?letter=f&morfema=flakon">flakon</a>, <a href="morfema_list.php?letter=f&morfema=flavanoid">flavanoid</a>, <a href="morfema_list.php?letter=f&morfema=fleit">fleit</a>, <a href="morfema_list.php?letter=f&morfema=fliuvial">fliuvial</a>, <a href="morfema_list.php?letter=f&morfema=fliuvio">fliuvio</a>, <a href="morfema_list.php?letter=f&morfema=flor">flor</a>, <a href="morfema_list.php?letter=f&morfema=fluid">fluid</a>, <a href="morfema_list.php?letter=f&morfema=fluor">fluor</a>, <a href="morfema_list.php?letter=f&morfema=flygel">flygel</a>, <a href="morfema_list.php?letter=f&morfema=fobij">fobij</a>, <a href="morfema_list.php?letter=f&morfema=fojė">fojė</a>, <a href="morfema_list.php?letter=f&morfema=fokus">fokus</a>, <a href="morfema_list.php?letter=f&morfema=fol">fol</a>, <a href="morfema_list.php?letter=f&morfema=foliant">foliant</a>, <a href="morfema_list.php?letter=f&morfema=folikul">folikul</a>, <a href="morfema_list.php?letter=f&morfema=folklor">folklor</a>, <a href="morfema_list.php?letter=f&morfema=fon">fon</a>, <a href="morfema_list.php?letter=f&morfema=fond">fond</a>, <a href="morfema_list.php?letter=f&morfema=fonet">fonet</a>, <a href="morfema_list.php?letter=f&morfema=fono">fono</a>, <a href="morfema_list.php?letter=f&morfema=fontan">fontan</a>, <a href="morfema_list.php?letter=f&morfema=for">for</a>, <a href="morfema_list.php?letter=f&morfema=ford">ford</a>, <a href="morfema_list.php?letter=f&morfema=forez">forez</a>, <a href="morfema_list.php?letter=f&morfema=form">form</a>, <a href="morfema_list.php?letter=f&morfema=formalin">formalin</a>, <a href="morfema_list.php?letter=f&morfema=fors">fors</a>, <a href="morfema_list.php?letter=f&morfema=fort">fort</a>, <a href="morfema_list.php?letter=f&morfema=fortepijon">fortepijon</a>, <a href="morfema_list.php?letter=f&morfema=fortifikac">fortifikac</a>, <a href="morfema_list.php?letter=f&morfema=forum">forum</a>, <a href="morfema_list.php?letter=f&morfema=fosfat">fosfat</a>, <a href="morfema_list.php?letter=f&morfema=fosfor">fosfor</a>, <a href="morfema_list.php?letter=f&morfema=fotel">fotel</a>, <a href="morfema_list.php?letter=f&morfema=foto">foto</a>, <a href="morfema_list.php?letter=f&morfema=fragment">fragment</a>, <a href="morfema_list.php?letter=f&morfema=frak">frak</a>, <a href="morfema_list.php?letter=f&morfema=frakc">frakc</a>, <a href="morfema_list.php?letter=f&morfema=frank">frank</a>, <a href="morfema_list.php?letter=f&morfema=fratr">fratr</a>, <a href="morfema_list.php?letter=f&morfema=fraz">fraz</a>, <a href="morfema_list.php?letter=f&morfema=frenč">frenč</a>, <a href="morfema_list.php?letter=f&morfema=freon">freon</a>, <a href="morfema_list.php?letter=f&morfema=fric">fric</a>, <a href="morfema_list.php?letter=f&morfema=front">front</a>, <a href="morfema_list.php?letter=f&morfema=frot">frot</a>, <a href="morfema_list.php?letter=f&morfema=frustr">frustr</a>, <a href="morfema_list.php?letter=f&morfema=fryg">fryg</a>, <a href="morfema_list.php?letter=f&morfema=ftiz">ftiz</a>, <a href="morfema_list.php?letter=f&morfema=ftor">ftor</a>, <a href="morfema_list.php?letter=f&morfema=fulan">fulan</a>, <a href="morfema_list.php?letter=f&morfema=fund">fund</a>, <a href="morfema_list.php?letter=f&morfema=fundament">fundament</a>, <a href="morfema_list.php?letter=f&morfema=funkc">funkc</a>, <a href="morfema_list.php?letter=f&morfema=funkcion">funkcion</a>, <a href="morfema_list.php?letter=f&morfema=furij">furij</a>, <a href="morfema_list.php?letter=f&morfema=futbol">futbol</a></div>
+</div>
+ </body>
+</html>

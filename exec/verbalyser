@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+require 'verbalyser'
+
+cli = Verbalyser::CLI.new
+verbs = cli.load_verbs(ARGV[0])
+cli.run(verbs)

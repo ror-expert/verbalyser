@@ -1,0 +1,9 @@
+<a href="morfema_list.php?letter=%C4%AF&amp;morfema=%C4%AF">į
+ href="morfema_list.php?letter=%C4%AF&amp;morfema=%C4%AFdom">įdom
+ href="morfema_list.php?letter=%C4%AF&amp;morfema=%C4%AFj%C4%AF">įjį
+ href="morfema_list.php?letter=%C4%AF&amp;morfema=%C4%AFkand">įkand
+ href="morfema_list.php?letter=%C4%AF&amp;morfema=%C4%AFkyr">įkyr
+ href="morfema_list.php?letter=%C4%AF&amp;morfema=%C4%AFs">įs
+ href="morfema_list.php?letter=%C4%AF&amp;morfema=%C4%AFstri%C5%BE">įstriž
+ href="morfema_list.php?letter=%C4%AF&amp;morfema=%C4%AFs%C4%8D">įsč
+ href="morfema_list.php?letter=%C4%AF&amp;morfema=%C4%AF%C5%BE%C5%ABl">įžūl</a>

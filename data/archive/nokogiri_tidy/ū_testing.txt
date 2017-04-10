@@ -1,0 +1,15 @@
+<a href="morfema_list.php?letter=%C5%AB&amp;morfema=%C5%AB">ū
+ href="morfema_list.php?letter=%C5%AB&amp;morfema=%C5%ABb">ūb
+ href="morfema_list.php?letter=%C5%AB&amp;morfema=%C5%ABd">ūd
+ href="morfema_list.php?letter=%C5%AB&amp;morfema=%C5%ABg">ūg
+ href="morfema_list.php?letter=%C5%AB&amp;morfema=%C5%ABk">ūk
+ href="morfema_list.php?letter=%C5%AB&amp;morfema=%C5%ABki">ūki
+ href="morfema_list.php?letter=%C5%AB&amp;morfema=%C5%ABm">ūm
+ href="morfema_list.php?letter=%C5%AB&amp;morfema=%C5%ABm%C4%97d">ūmėd
+ href="morfema_list.php?letter=%C5%AB&amp;morfema=%C5%ABn">ūn
+ href="morfema_list.php?letter=%C5%AB&amp;morfema=%C5%ABp">ūp
+ href="morfema_list.php?letter=%C5%AB&amp;morfema=%C5%ABr">ūr
+ href="morfema_list.php?letter=%C5%AB&amp;morfema=%C5%ABs">ūs
+ href="morfema_list.php?letter=%C5%AB&amp;morfema=%C5%ABsuose">ūsuose
+ href="morfema_list.php?letter=%C5%AB&amp;morfema=%C5%ABs%C5%B3">ūsų
+ href="morfema_list.php?letter=%C5%AB&amp;morfema=%C5%AB%C5%BE">ūž</a>

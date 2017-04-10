@@ -1,0 +1,70 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Morfema - duomenys</title>
+        <link href="style.css?rev=201207111" rel="stylesheet" type="text/css">
+        <script type="text/javascript" src="jquery.js"></script>
+		<script type="text/javascript" src="jquery.generateFile.js"></script>
+		<script type="text/javascript" src="sortable_last.js"></script>
+		<script type="text/javascript" src="main.js"></script>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    </head>
+<body>
+<div class="morfemaBlock">
+<p>Duomenų bazę sudaro 72 264 žodžių formos: 11 522 būdvardžiai, 30 134 bendriniai daiktavardžiai, 530 įvardžių, 473 skaitvardžiai, 28 273 veiksmažodžiai (12 162 asmenuojamosios formos, 3 183 bendratys, 10 777 dalyviai, 1 047 pusdalyviai, 1 104 padalyviai), 1 332 prieveiksmiai. Internete prieinamoje morfemikos bazėje kol kas nepateikiami tikriniai daiktavardžiai, dalelytės, jungtukais, prielinksniai, jaustukai, ištiktukai.
+        <br><a class="daugiauA" href="apie_morfema_2.php">Plačiau</a>
+        </p>
+<div class="morfemaKorteles">
+	<a href="morfema_search.php">Paieška</a>
+	<span>Morfemų sąrašas</span>
+	<a href="apie_morfema.php">Apie projektą</a>
+	<div class="isvalytiApacia"><!--IE--></div>
+</div>
+
+<div class="isvalytiApacia"><!--IE--></div>
+
+<div class="morfemuSarasoAbecele">
+	<a href="morfema_list.php?letter=a">A</a>
+	<a href="morfema_list.php?letter=b">B</a>
+	<a href="morfema_list.php?letter=c">C</a>
+	<a href="morfema_list.php?letter=%C4%8D">Č</a>
+	<a href="morfema_list.php?letter=d">D</a>
+	<a href="morfema_list.php?letter=e">E</a>
+	<a href="morfema_list.php?letter=%C4%99">Ę</a>
+	<a href="morfema_list.php?letter=%C4%97">Ė</a>
+	<a href="morfema_list.php?letter=f">F</a>
+	<a href="morfema_list.php?letter=g">G</a>
+	<a href="morfema_list.php?letter=h">H</a>
+	<a href="morfema_list.php?letter=i">I</a>
+	<a href="morfema_list.php?letter=%C4%AF">Į</a>
+	<a href="morfema_list.php?letter=y">Y</a>
+	<a href="morfema_list.php?letter=j">J</a>
+	<a href="morfema_list.php?letter=k">K</a>
+	<a href="morfema_list.php?letter=l">L</a>
+	<a href="morfema_list.php?letter=m">M</a>
+	<a href="morfema_list.php?letter=n">N</a>
+	<a href="morfema_list.php?letter=o">O</a>
+	<a href="morfema_list.php?letter=p">P</a>
+	<a href="morfema_list.php?letter=r">R</a>
+	<a href="morfema_list.php?letter=s">S</a>
+	<a href="morfema_list.php?letter=%C5%A1">Š</a>
+	<a href="morfema_list.php?letter=t">T</a>
+	<a href="morfema_list.php?letter=u">U</a>
+	<a href="morfema_list.php?letter=%C5%B3">Ų</a>
+	<a href="morfema_list.php?letter=%C5%AB">Ū</a>
+	<a href="morfema_list.php?letter=v">V</a>
+	<a href="morfema_list.php?letter=z">Z</a>
+	<a href="morfema_list.php?letter=%C5%BE">Ž</a>
+</div>	
+
+<div class="isvalytiApacia"><!--IE--></div>
+
+<h2 class="letter">ę</h2>
+<div class="isvalytiApacia"><!--IE--></div>
+<hr class="letter">
+<div class="morfemuAbecelinisSarasas">
+<a href="morfema_list.php?letter=%C4%99&amp;morfema=%C4%99">ę</a>, <a href="morfema_list.php?letter=%C4%99&amp;morfema=%C4%99s">ęs</a>, <a href="morfema_list.php?letter=%C4%99&amp;morfema=%C4%99sp">ęsp</a>
+</div>
+</div>
+ </body>
+</html>

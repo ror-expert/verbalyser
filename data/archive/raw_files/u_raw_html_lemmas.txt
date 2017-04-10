@@ -1,0 +1,64 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Morfema - duomenys</title>
+        <link href="style.css?rev=201207111" rel="stylesheet" type="text/css" />
+        <script type="text/javascript" src="jquery.js"></script>
+		<script type="text/javascript" src="jquery.generateFile.js"></script>
+		<script type="text/javascript" src="sortable_last.js"></script>
+		<script type="text/javascript" src="main.js"></script>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    </head>
+<body>
+<div class="morfemaBlock">
+<p>Duomenų bazę sudaro 72 264 žodžių formos: 11 522 būdvardžiai, 30 134 bendriniai daiktavardžiai, 530 įvardžių, 473 skaitvardžiai, 28 273 veiksmažodžiai (12 162 asmenuojamosios formos, 3 183 bendratys, 10 777 dalyviai, 1 047 pusdalyviai, 1 104 padalyviai), 1 332 prieveiksmiai. Internete prieinamoje morfemikos bazėje kol kas nepateikiami tikriniai daiktavardžiai, dalelytės, jungtukais, prielinksniai, jaustukai, ištiktukai.
+        <br/><a class="daugiauA" href="apie_morfema_2.php">Plačiau</a>
+        </p>
+<div class="morfemaKorteles">
+	<a href="morfema_search.php">Paieška</a>
+	<span>Morfemų sąrašas</span>
+	<a href="apie_morfema.php">Apie projektą</a>
+	<div class="isvalytiApacia"><!--IE--></div>
+</div>
+
+<div class="isvalytiApacia"><!--IE--></div>
+
+<div class="morfemuSarasoAbecele">
+	<a href="morfema_list.php?letter=a">A</a>
+	<a href="morfema_list.php?letter=b">B</a>
+	<a href="morfema_list.php?letter=c">C</a>
+	<a href="morfema_list.php?letter=č">Č</a>
+	<a href="morfema_list.php?letter=d">D</a>
+	<a href="morfema_list.php?letter=e">E</a>
+	<a href="morfema_list.php?letter=ę">Ę</a>
+	<a href="morfema_list.php?letter=ė">Ė</a>
+	<a href="morfema_list.php?letter=f">F</a>
+	<a href="morfema_list.php?letter=g">G</a>
+	<a href="morfema_list.php?letter=h">H</a>
+	<a href="morfema_list.php?letter=i">I</a>
+	<a href="morfema_list.php?letter=į">Į</a>
+	<a href="morfema_list.php?letter=y">Y</a>
+	<a href="morfema_list.php?letter=j">J</a>
+	<a href="morfema_list.php?letter=k">K</a>
+	<a href="morfema_list.php?letter=l">L</a>
+	<a href="morfema_list.php?letter=m">M</a>
+	<a href="morfema_list.php?letter=n">N</a>
+	<a href="morfema_list.php?letter=o">O</a>
+	<a href="morfema_list.php?letter=p">P</a>
+	<a href="morfema_list.php?letter=r">R</a>
+	<a href="morfema_list.php?letter=s">S</a>
+	<a href="morfema_list.php?letter=š">Š</a>
+	<a href="morfema_list.php?letter=t">T</a>
+	<a href="morfema_list.php?letter=u">U</a>
+	<a href="morfema_list.php?letter=ų">Ų</a>
+	<a href="morfema_list.php?letter=ū">Ū</a>
+	<a href="morfema_list.php?letter=v">V</a>
+	<a href="morfema_list.php?letter=z">Z</a>
+	<a href="morfema_list.php?letter=ž">Ž</a>
+</div>	
+
+<div class="isvalytiApacia"><!--IE--></div>
+
+<h2 class="letter">U</h2><div class="isvalytiApacia"><!--IE--></div><hr class="letter"/><div class="morfemuAbecelinisSarasas"><a href="morfema_list.php?letter=u&morfema=u">u</a>, <a href="morfema_list.php?letter=u&morfema=ual">ual</a>, <a href="morfema_list.php?letter=u&morfema=uar">uar</a>, <a href="morfema_list.php?letter=u&morfema=ubag">ubag</a>, <a href="morfema_list.php?letter=u&morfema=udmurt">udmurt</a>, <a href="morfema_list.php?letter=u&morfema=ug">ug</a>, <a href="morfema_list.php?letter=u&morfema=ugn">ugn</a>, <a href="morfema_list.php?letter=u&morfema=ugr">ugr</a>, <a href="morfema_list.php?letter=u&morfema=ui">ui</a>, <a href="morfema_list.php?letter=u&morfema=uist">uist</a>, <a href="morfema_list.php?letter=u&morfema=uj">uj</a>, <a href="morfema_list.php?letter=u&morfema=uje">uje</a>, <a href="morfema_list.php?letter=u&morfema=uk">uk</a>, <a href="morfema_list.php?letter=u&morfema=ukl">ukl</a>, <a href="morfema_list.php?letter=u&morfema=ukmerg">ukmerg</a>, <a href="morfema_list.php?letter=u&morfema=ukrain">ukrain</a>, <a href="morfema_list.php?letter=u&morfema=ul">ul</a>, <a href="morfema_list.php?letter=u&morfema=ulb">ulb</a>, <a href="morfema_list.php?letter=u&morfema=uliav">uliav</a>, <a href="morfema_list.php?letter=u&morfema=uliuo">uliuo</a>, <a href="morfema_list.php?letter=u&morfema=uliuoj">uliuoj</a>, <a href="morfema_list.php?letter=u&morfema=ultimat">ultimat</a>, <a href="morfema_list.php?letter=u&morfema=ultra">ultra</a>, <a href="morfema_list.php?letter=u&morfema=ulyč">ulyč</a>, <a href="morfema_list.php?letter=u&morfema=um">um</a>, <a href="morfema_list.php?letter=u&morfema=ume">ume</a>, <a href="morfema_list.php?letter=u&morfema=umei">umei</a>, <a href="morfema_list.php?letter=u&morfema=umi">umi</a>, <a href="morfema_list.php?letter=u&morfema=umis">umis</a>, <a href="morfema_list.php?letter=u&morfema=ums">ums</a>, <a href="morfema_list.php?letter=u&morfema=umyse">umyse</a>, <a href="morfema_list.php?letter=u&morfema=umėm">umėm</a>, <a href="morfema_list.php?letter=u&morfema=umėmė">umėmė</a>, <a href="morfema_list.php?letter=u&morfema=umėt">umėt</a>, <a href="morfema_list.php?letter=u&morfema=umėte">umėte</a>, <a href="morfema_list.php?letter=u&morfema=umėtė">umėtė</a>, <a href="morfema_list.php?letter=u&morfema=un">un</a>, <a href="morfema_list.php?letter=u&morfema=undevit">undevit</a>, <a href="morfema_list.php?letter=u&morfema=undin">undin</a>, <a href="morfema_list.php?letter=u&morfema=undr">undr</a>, <a href="morfema_list.php?letter=u&morfema=ung">ung</a>, <a href="morfema_list.php?letter=u&morfema=ungur">ungur</a>, <a href="morfema_list.php?letter=u&morfema=unifik">unifik</a>, <a href="morfema_list.php?letter=u&morfema=uniform">uniform</a>, <a href="morfema_list.php?letter=u&morfema=unij">unij</a>, <a href="morfema_list.php?letter=u&morfema=unik">unik</a>, <a href="morfema_list.php?letter=u&morfema=unikal">unikal</a>, <a href="morfema_list.php?letter=u&morfema=univers">univers</a>, <a href="morfema_list.php?letter=u&morfema=universal">universal</a>, <a href="morfema_list.php?letter=u&morfema=universite">universite</a>, <a href="morfema_list.php?letter=u&morfema=universum">universum</a>, <a href="morfema_list.php?letter=u&morfema=unksn">unksn</a>, <a href="morfema_list.php?letter=u&morfema=uo">uo</a>, <a href="morfema_list.php?letter=u&morfema=uod">uod</a>, <a href="morfema_list.php?letter=u&morfema=uodeg">uodeg</a>, <a href="morfema_list.php?letter=u&morfema=uodž">uodž</a>, <a href="morfema_list.php?letter=u&morfema=uog">uog</a>, <a href="morfema_list.php?letter=u&morfema=uoj">uoj</a>, <a href="morfema_list.php?letter=u&morfema=uoju">uoju</a>, <a href="morfema_list.php?letter=u&morfema=uokl">uokl</a>, <a href="morfema_list.php?letter=u&morfema=uol">uol</a>, <a href="morfema_list.php?letter=u&morfema=uom">uom</a>, <a href="morfema_list.php?letter=u&morfema=uomen">uomen</a>, <a href="morfema_list.php?letter=u&morfema=uon">uon</a>, <a href="morfema_list.php?letter=u&morfema=uos">uos</a>, <a href="morfema_list.php?letter=u&morfema=uose">uose</a>, <a href="morfema_list.php?letter=u&morfema=uosiuose">uosiuose</a>, <a href="morfema_list.php?letter=u&morfema=uosius">uosius</a>, <a href="morfema_list.php?letter=u&morfema=uost">uost</a>, <a href="morfema_list.php?letter=u&morfema=uot">uot</a>, <a href="morfema_list.php?letter=u&morfema=uotin">uotin</a>, <a href="morfema_list.php?letter=u&morfema=uoč">uoč</a>, <a href="morfema_list.php?letter=u&morfema=uošv">uošv</a>, <a href="morfema_list.php?letter=u&morfema=up">up</a>, <a href="morfema_list.php?letter=u&morfema=ur">ur</a>, <a href="morfema_list.php?letter=u&morfema=uragan">uragan</a>, <a href="morfema_list.php?letter=u&morfema=uran">uran</a>, <a href="morfema_list.php?letter=u&morfema=urban">urban</a>, <a href="morfema_list.php?letter=u&morfema=urg">urg</a>, <a href="morfema_list.php?letter=u&morfema=uriav">uriav</a>, <a href="morfema_list.php?letter=u&morfema=uriuo">uriuo</a>, <a href="morfema_list.php?letter=u&morfema=uriuoj">uriuoj</a>, <a href="morfema_list.php?letter=u&morfema=urk">urk</a>, <a href="morfema_list.php?letter=u&morfema=urn">urn</a>, <a href="morfema_list.php?letter=u&morfema=uro">uro</a>, <a href="morfema_list.php?letter=u&morfema=urv">urv</a>, <a href="morfema_list.php?letter=u&morfema=urzg">urzg</a>, <a href="morfema_list.php?letter=u&morfema=urėd">urėd</a>, <a href="morfema_list.php?letter=u&morfema=us">us</a>, <a href="morfema_list.php?letter=u&morfema=usis">usis</a>, <a href="morfema_list.php?letter=u&morfema=usn">usn</a>, <a href="morfema_list.php?letter=u&morfema=usūr">usūr</a>, <a href="morfema_list.php?letter=u&morfema=ut">ut</a>, <a href="morfema_list.php?letter=u&morfema=ute">ute</a>, <a href="morfema_list.php?letter=u&morfema=utin">utin</a>, <a href="morfema_list.php?letter=u&morfema=utop">utop</a>, <a href="morfema_list.php?letter=u&morfema=utėl">utėl</a>, <a href="morfema_list.php?letter=u&morfema=uv">uv</a>, <a href="morfema_list.php?letter=u&morfema=uzbon">uzbon</a>, <a href="morfema_list.php?letter=u&morfema=uzurp">uzurp</a>, <a href="morfema_list.php?letter=u&morfema=uč">uč</a>, <a href="morfema_list.php?letter=u&morfema=uš">uš</a>, <a href="morfema_list.php?letter=u&morfema=ušk">ušk</a>, <a href="morfema_list.php?letter=u&morfema=už">už</a>, <a href="morfema_list.php?letter=u&morfema=užuo">užuo</a>, <a href="morfema_list.php?letter=u&morfema=užuot">užuot</a></div>
+</div>
+ </body>
+</html>

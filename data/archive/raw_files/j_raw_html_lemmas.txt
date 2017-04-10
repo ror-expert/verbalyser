@@ -1,0 +1,64 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Morfema - duomenys</title>
+        <link href="style.css?rev=201207111" rel="stylesheet" type="text/css" />
+        <script type="text/javascript" src="jquery.js"></script>
+		<script type="text/javascript" src="jquery.generateFile.js"></script>
+		<script type="text/javascript" src="sortable_last.js"></script>
+		<script type="text/javascript" src="main.js"></script>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    </head>
+<body>
+<div class="morfemaBlock">
+<p>Duomenų bazę sudaro 72 264 žodžių formos: 11 522 būdvardžiai, 30 134 bendriniai daiktavardžiai, 530 įvardžių, 473 skaitvardžiai, 28 273 veiksmažodžiai (12 162 asmenuojamosios formos, 3 183 bendratys, 10 777 dalyviai, 1 047 pusdalyviai, 1 104 padalyviai), 1 332 prieveiksmiai. Internete prieinamoje morfemikos bazėje kol kas nepateikiami tikriniai daiktavardžiai, dalelytės, jungtukais, prielinksniai, jaustukai, ištiktukai.
+        <br/><a class="daugiauA" href="apie_morfema_2.php">Plačiau</a>
+        </p>
+<div class="morfemaKorteles">
+	<a href="morfema_search.php">Paieška</a>
+	<span>Morfemų sąrašas</span>
+	<a href="apie_morfema.php">Apie projektą</a>
+	<div class="isvalytiApacia"><!--IE--></div>
+</div>
+
+<div class="isvalytiApacia"><!--IE--></div>
+
+<div class="morfemuSarasoAbecele">
+	<a href="morfema_list.php?letter=a">A</a>
+	<a href="morfema_list.php?letter=b">B</a>
+	<a href="morfema_list.php?letter=c">C</a>
+	<a href="morfema_list.php?letter=č">Č</a>
+	<a href="morfema_list.php?letter=d">D</a>
+	<a href="morfema_list.php?letter=e">E</a>
+	<a href="morfema_list.php?letter=ę">Ę</a>
+	<a href="morfema_list.php?letter=ė">Ė</a>
+	<a href="morfema_list.php?letter=f">F</a>
+	<a href="morfema_list.php?letter=g">G</a>
+	<a href="morfema_list.php?letter=h">H</a>
+	<a href="morfema_list.php?letter=i">I</a>
+	<a href="morfema_list.php?letter=į">Į</a>
+	<a href="morfema_list.php?letter=y">Y</a>
+	<a href="morfema_list.php?letter=j">J</a>
+	<a href="morfema_list.php?letter=k">K</a>
+	<a href="morfema_list.php?letter=l">L</a>
+	<a href="morfema_list.php?letter=m">M</a>
+	<a href="morfema_list.php?letter=n">N</a>
+	<a href="morfema_list.php?letter=o">O</a>
+	<a href="morfema_list.php?letter=p">P</a>
+	<a href="morfema_list.php?letter=r">R</a>
+	<a href="morfema_list.php?letter=s">S</a>
+	<a href="morfema_list.php?letter=š">Š</a>
+	<a href="morfema_list.php?letter=t">T</a>
+	<a href="morfema_list.php?letter=u">U</a>
+	<a href="morfema_list.php?letter=ų">Ų</a>
+	<a href="morfema_list.php?letter=ū">Ū</a>
+	<a href="morfema_list.php?letter=v">V</a>
+	<a href="morfema_list.php?letter=z">Z</a>
+	<a href="morfema_list.php?letter=ž">Ž</a>
+</div>	
+
+<div class="isvalytiApacia"><!--IE--></div>
+
+<h2 class="letter">J</h2><div class="isvalytiApacia"><!--IE--></div><hr class="letter"/><div class="morfemuAbecelinisSarasas"><a href="morfema_list.php?letter=j&morfema=j">j</a>, <a href="morfema_list.php?letter=j&morfema=jacht">jacht</a>, <a href="morfema_list.php?letter=j&morfema=jam">jam</a>, <a href="morfema_list.php?letter=j&morfema=jank">jank</a>, <a href="morfema_list.php?letter=j&morfema=japon">japon</a>, <a href="morfema_list.php?letter=j&morfema=jaroviz">jaroviz</a>, <a href="morfema_list.php?letter=j&morfema=jasp">jasp</a>, <a href="morfema_list.php?letter=j&morfema=jau">jau</a>, <a href="morfema_list.php?letter=j&morfema=jaud">jaud</a>, <a href="morfema_list.php?letter=j&morfema=jauk">jauk</a>, <a href="morfema_list.php?letter=j&morfema=jaun">jaun</a>, <a href="morfema_list.php?letter=j&morfema=jaus">jaus</a>, <a href="morfema_list.php?letter=j&morfema=jaut">jaut</a>, <a href="morfema_list.php?letter=j&morfema=jautr">jautr</a>, <a href="morfema_list.php?letter=j&morfema=jauč">jauč</a>, <a href="morfema_list.php?letter=j&morfema=jav">jav</a>, <a href="morfema_list.php?letter=j&morfema=jies">jies</a>, <a href="morfema_list.php?letter=j&morfema=jo">jo</a>, <a href="morfema_list.php?letter=j&morfema=jod">jod</a>, <a href="morfema_list.php?letter=j&morfema=jog">jog</a>, <a href="morfema_list.php?letter=j&morfema=jogurt">jogurt</a>, <a href="morfema_list.php?letter=j&morfema=joj">joj</a>, <a href="morfema_list.php?letter=j&morfema=jon">jon</a>, <a href="morfema_list.php?letter=j&morfema=jotving">jotving</a>, <a href="morfema_list.php?letter=j&morfema=jov">jov</a>, <a href="morfema_list.php?letter=j&morfema=ju">ju</a>, <a href="morfema_list.php?letter=j&morfema=jubiliat">jubiliat</a>, <a href="morfema_list.php?letter=j&morfema=jubiliej">jubiliej</a>, <a href="morfema_list.php?letter=j&morfema=jud">jud</a>, <a href="morfema_list.php?letter=j&morfema=juda">juda</a>, <a href="morfema_list.php?letter=j&morfema=judėj">judėj</a>, <a href="morfema_list.php?letter=j&morfema=juk">juk</a>, <a href="morfema_list.php?letter=j&morfema=jun">jun</a>, <a href="morfema_list.php?letter=j&morfema=jung">jung</a>, <a href="morfema_list.php?letter=j&morfema=junk">junk</a>, <a href="morfema_list.php?letter=j&morfema=junt">junt</a>, <a href="morfema_list.php?letter=j&morfema=juo">juo</a>, <a href="morfema_list.php?letter=j&morfema=juod">juod</a>, <a href="morfema_list.php?letter=j&morfema=juodž">juodž</a>, <a href="morfema_list.php?letter=j&morfema=juok">juok</a>, <a href="morfema_list.php?letter=j&morfema=juos">juos</a>, <a href="morfema_list.php?letter=j&morfema=jurbark">jurbark</a>, <a href="morfema_list.php?letter=j&morfema=jurid">jurid</a>, <a href="morfema_list.php?letter=j&morfema=jurisdikc">jurisdikc</a>, <a href="morfema_list.php?letter=j&morfema=jus">jus</a>, <a href="morfema_list.php?letter=j&morfema=jut">jut</a>, <a href="morfema_list.php?letter=j&morfema=juč">juč</a>, <a href="morfema_list.php?letter=j&morfema=jėg">jėg</a>, <a href="morfema_list.php?letter=j&morfema=jėger">jėger</a>, <a href="morfema_list.php?letter=j&morfema=jėzu">jėzu</a>, <a href="morfema_list.php?letter=j&morfema=jūd">jūd</a>, <a href="morfema_list.php?letter=j&morfema=jūdž">jūdž</a>, <a href="morfema_list.php?letter=j&morfema=jūr">jūr</a>, <a href="morfema_list.php?letter=j&morfema=jūt">jūt</a>, <a href="morfema_list.php?letter=j&morfema=jūč">jūč</a></div>
+</div>
+ </body>
+</html>

@@ -1,0 +1,64 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Morfema - duomenys</title>
+        <link href="style.css?rev=201207111" rel="stylesheet" type="text/css" />
+        <script type="text/javascript" src="jquery.js"></script>
+		<script type="text/javascript" src="jquery.generateFile.js"></script>
+		<script type="text/javascript" src="sortable_last.js"></script>
+		<script type="text/javascript" src="main.js"></script>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    </head>
+<body>
+<div class="morfemaBlock">
+<p>Duomenų bazę sudaro 72 264 žodžių formos: 11 522 būdvardžiai, 30 134 bendriniai daiktavardžiai, 530 įvardžių, 473 skaitvardžiai, 28 273 veiksmažodžiai (12 162 asmenuojamosios formos, 3 183 bendratys, 10 777 dalyviai, 1 047 pusdalyviai, 1 104 padalyviai), 1 332 prieveiksmiai. Internete prieinamoje morfemikos bazėje kol kas nepateikiami tikriniai daiktavardžiai, dalelytės, jungtukais, prielinksniai, jaustukai, ištiktukai.
+        <br/><a class="daugiauA" href="apie_morfema_2.php">Plačiau</a>
+        </p>
+<div class="morfemaKorteles">
+	<a href="morfema_search.php">Paieška</a>
+	<span>Morfemų sąrašas</span>
+	<a href="apie_morfema.php">Apie projektą</a>
+	<div class="isvalytiApacia"><!--IE--></div>
+</div>
+
+<div class="isvalytiApacia"><!--IE--></div>
+
+<div class="morfemuSarasoAbecele">
+	<a href="morfema_list.php?letter=a">A</a>
+	<a href="morfema_list.php?letter=b">B</a>
+	<a href="morfema_list.php?letter=c">C</a>
+	<a href="morfema_list.php?letter=č">Č</a>
+	<a href="morfema_list.php?letter=d">D</a>
+	<a href="morfema_list.php?letter=e">E</a>
+	<a href="morfema_list.php?letter=ę">Ę</a>
+	<a href="morfema_list.php?letter=ė">Ė</a>
+	<a href="morfema_list.php?letter=f">F</a>
+	<a href="morfema_list.php?letter=g">G</a>
+	<a href="morfema_list.php?letter=h">H</a>
+	<a href="morfema_list.php?letter=i">I</a>
+	<a href="morfema_list.php?letter=į">Į</a>
+	<a href="morfema_list.php?letter=y">Y</a>
+	<a href="morfema_list.php?letter=j">J</a>
+	<a href="morfema_list.php?letter=k">K</a>
+	<a href="morfema_list.php?letter=l">L</a>
+	<a href="morfema_list.php?letter=m">M</a>
+	<a href="morfema_list.php?letter=n">N</a>
+	<a href="morfema_list.php?letter=o">O</a>
+	<a href="morfema_list.php?letter=p">P</a>
+	<a href="morfema_list.php?letter=r">R</a>
+	<a href="morfema_list.php?letter=s">S</a>
+	<a href="morfema_list.php?letter=š">Š</a>
+	<a href="morfema_list.php?letter=t">T</a>
+	<a href="morfema_list.php?letter=u">U</a>
+	<a href="morfema_list.php?letter=ų">Ų</a>
+	<a href="morfema_list.php?letter=ū">Ū</a>
+	<a href="morfema_list.php?letter=v">V</a>
+	<a href="morfema_list.php?letter=z">Z</a>
+	<a href="morfema_list.php?letter=ž">Ž</a>
+</div>	
+
+<div class="isvalytiApacia"><!--IE--></div>
+
+<h2 class="letter">ž</h2><div class="isvalytiApacia"><!--IE--></div><hr class="letter"/><div class="morfemuAbecelinisSarasas"><a href="morfema_list.php?letter=ž&morfema=žab">žab</a>, <a href="morfema_list.php?letter=ž&morfema=žabang">žabang</a>, <a href="morfema_list.php?letter=ž&morfema=žad">žad</a>, <a href="morfema_list.php?letter=ž&morfema=žag">žag</a>, <a href="morfema_list.php?letter=ž&morfema=žagar">žagar</a>, <a href="morfema_list.php?letter=ž&morfema=žagr">žagr</a>, <a href="morfema_list.php?letter=ž&morfema=žai">žai</a>, <a href="morfema_list.php?letter=ž&morfema=žaib">žaib</a>, <a href="morfema_list.php?letter=ž&morfema=žaid">žaid</a>, <a href="morfema_list.php?letter=ž&morfema=žaidž">žaidž</a>, <a href="morfema_list.php?letter=ž&morfema=žais">žais</a>, <a href="morfema_list.php?letter=ž&morfema=žaiz">žaiz</a>, <a href="morfema_list.php?letter=ž&morfema=žaižar">žaižar</a>, <a href="morfema_list.php?letter=ž&morfema=žal">žal</a>, <a href="morfema_list.php?letter=ž&morfema=žaliuz">žaliuz</a>, <a href="morfema_list.php?letter=ž&morfema=žalt">žalt</a>, <a href="morfema_list.php?letter=ž&morfema=žalč">žalč</a>, <a href="morfema_list.php?letter=ž&morfema=žand">žand</a>, <a href="morfema_list.php?letter=ž&morfema=žandar">žandar</a>, <a href="morfema_list.php?letter=ž&morfema=žang">žang</a>, <a href="morfema_list.php?letter=ž&morfema=žanr">žanr</a>, <a href="morfema_list.php?letter=ž&morfema=žar">žar</a>, <a href="morfema_list.php?letter=ž&morfema=žargon">žargon</a>, <a href="morfema_list.php?letter=ž&morfema=žarn">žarn</a>, <a href="morfema_list.php?letter=ž&morfema=žast">žast</a>, <a href="morfema_list.php?letter=ž&morfema=žav">žav</a>, <a href="morfema_list.php?letter=ž&morfema=žebenkšt">žebenkšt</a>, <a href="morfema_list.php?letter=ž&morfema=žebenkšč">žebenkšč</a>, <a href="morfema_list.php?letter=ž&morfema=žegn">žegn</a>, <a href="morfema_list.php?letter=ž&morfema=žei">žei</a>, <a href="morfema_list.php?letter=ž&morfema=žeid">žeid</a>, <a href="morfema_list.php?letter=ž&morfema=žeidž">žeidž</a>, <a href="morfema_list.php?letter=ž&morfema=žeis">žeis</a>, <a href="morfema_list.php?letter=ž&morfema=žel">žel</a>, <a href="morfema_list.php?letter=ž&morfema=želatin">želatin</a>, <a href="morfema_list.php?letter=ž&morfema=želė">želė</a>, <a href="morfema_list.php?letter=ž&morfema=žem">žem</a>, <a href="morfema_list.php?letter=ž&morfema=žen">žen</a>, <a href="morfema_list.php?letter=ž&morfema=ženg">ženg</a>, <a href="morfema_list.php?letter=ž&morfema=ženk">ženk</a>, <a href="morfema_list.php?letter=ž&morfema=žent">žent</a>, <a href="morfema_list.php?letter=ž&morfema=žer">žer</a>, <a href="morfema_list.php?letter=ž&morfema=žerg">žerg</a>, <a href="morfema_list.php?letter=ž&morfema=žiau">žiau</a>, <a href="morfema_list.php?letter=ž&morfema=žiaub">žiaub</a>, <a href="morfema_list.php?letter=ž&morfema=žiaugč">žiaugč</a>, <a href="morfema_list.php?letter=ž&morfema=žiaum">žiaum</a>, <a href="morfema_list.php?letter=ž&morfema=žiaun">žiaun</a>, <a href="morfema_list.php?letter=ž&morfema=žiaur">žiaur</a>, <a href="morfema_list.php?letter=ž&morfema=žib">žib</a>, <a href="morfema_list.php?letter=ž&morfema=žid">žid</a>, <a href="morfema_list.php?letter=ž&morfema=žieb">žieb</a>, <a href="morfema_list.php?letter=ž&morfema=žied">žied</a>, <a href="morfema_list.php?letter=ž&morfema=žiedž">žiedž</a>, <a href="morfema_list.php?letter=ž&morfema=žiem">žiem</a>, <a href="morfema_list.php?letter=ž&morfema=žies">žies</a>, <a href="morfema_list.php?letter=ž&morfema=žiev">žiev</a>, <a href="morfema_list.php?letter=ž&morfema=žiež">žiež</a>, <a href="morfema_list.php?letter=ž&morfema=žiežirb">žiežirb</a>, <a href="morfema_list.php?letter=ž&morfema=žigul">žigul</a>, <a href="morfema_list.php?letter=ž&morfema=žil">žil</a>, <a href="morfema_list.php?letter=ž&morfema=žilv">žilv</a>, <a href="morfema_list.php?letter=ž&morfema=žilvič">žilvič</a>, <a href="morfema_list.php?letter=ž&morfema=žin">žin</a>, <a href="morfema_list.php?letter=ž&morfema=žind">žind</a>, <a href="morfema_list.php?letter=ž&morfema=žing">žing</a>, <a href="morfema_list.php?letter=ž&morfema=žio">žio</a>, <a href="morfema_list.php?letter=ž&morfema=žiobr">žiobr</a>, <a href="morfema_list.php?letter=ž&morfema=žiog">žiog</a>, <a href="morfema_list.php?letter=ž&morfema=žioj">žioj</a>, <a href="morfema_list.php?letter=ž&morfema=žiop">žiop</a>, <a href="morfema_list.php?letter=ž&morfema=žiopl">žiopl</a>, <a href="morfema_list.php?letter=ž&morfema=žiops">žiops</a>, <a href="morfema_list.php?letter=ž&morfema=žiopč">žiopč</a>, <a href="morfema_list.php?letter=ž&morfema=žior">žior</a>, <a href="morfema_list.php?letter=ž&morfema=žios">žios</a>, <a href="morfema_list.php?letter=ž&morfema=žiov">žiov</a>, <a href="morfema_list.php?letter=ž&morfema=žir">žir</a>, <a href="morfema_list.php?letter=ž&morfema=žiraf">žiraf</a>, <a href="morfema_list.php?letter=ž&morfema=žirg">žirg</a>, <a href="morfema_list.php?letter=ž&morfema=žirk">žirk</a>, <a href="morfema_list.php?letter=ž&morfema=žirn">žirn</a>, <a href="morfema_list.php?letter=ž&morfema=žiup">žiup</a>, <a href="morfema_list.php?letter=ž&morfema=žiuri">žiuri</a>, <a href="morfema_list.php?letter=ž&morfema=žiurk">žiurk</a>, <a href="morfema_list.php?letter=ž&morfema=žiurst">žiurst</a>, <a href="morfema_list.php?letter=ž&morfema=žiūr">žiūr</a>, <a href="morfema_list.php?letter=ž&morfema=žleg">žleg</a>, <a href="morfema_list.php?letter=ž&morfema=žlevern">žlevern</a>, <a href="morfema_list.php?letter=ž&morfema=žliaug">žliaug</a>, <a href="morfema_list.php?letter=ž&morfema=žlib">žlib</a>, <a href="morfema_list.php?letter=ž&morfema=žliumb">žliumb</a>, <a href="morfema_list.php?letter=ž&morfema=žlug">žlug</a>, <a href="morfema_list.php?letter=ž&morfema=žlung">žlung</a>, <a href="morfema_list.php?letter=ž&morfema=žlėg">žlėg</a>, <a href="morfema_list.php?letter=ž&morfema=žmog">žmog</a>, <a href="morfema_list.php?letter=ž&morfema=žmon">žmon</a>, <a href="morfema_list.php?letter=ž&morfema=žnyp">žnyp</a>, <a href="morfema_list.php?letter=ž&morfema=žod">žod</a>, <a href="morfema_list.php?letter=ž&morfema=žodž">žodž</a>, <a href="morfema_list.php?letter=ž&morfema=žol">žol</a>, <a href="morfema_list.php?letter=ž&morfema=žonglir">žonglir</a>, <a href="morfema_list.php?letter=ž&morfema=žu">žu</a>, <a href="morfema_list.php?letter=ž&morfema=žudž">žudž</a>, <a href="morfema_list.php?letter=ž&morfema=žuln">žuln</a>, <a href="morfema_list.php?letter=ž&morfema=žurnal">žurnal</a>, <a href="morfema_list.php?letter=ž&morfema=žuv">žuv</a>, <a href="morfema_list.php?letter=ž&morfema=žvaigžd">žvaigžd</a>, <a href="morfema_list.php?letter=ž&morfema=žvaigždž">žvaigždž</a>, <a href="morfema_list.php?letter=ž&morfema=žvair">žvair</a>, <a href="morfema_list.php?letter=ž&morfema=žvak">žvak</a>, <a href="morfema_list.php?letter=ž&morfema=žval">žval</a>, <a href="morfema_list.php?letter=ž&morfema=žvalg">žvalg</a>, <a href="morfema_list.php?letter=ž&morfema=žvang">žvang</a>, <a href="morfema_list.php?letter=ž&morfema=žvej">žvej</a>, <a href="morfema_list.php?letter=ž&morfema=žvel">žvel</a>, <a href="morfema_list.php?letter=ž&morfema=žvelg">žvelg</a>, <a href="morfema_list.php?letter=ž&morfema=žveng">žveng</a>, <a href="morfema_list.php?letter=ž&morfema=žvieg">žvieg</a>, <a href="morfema_list.php?letter=ž&morfema=žvilg">žvilg</a>, <a href="morfema_list.php?letter=ž&morfema=žvirbl">žvirbl</a>, <a href="morfema_list.php?letter=ž&morfema=žvirgžd">žvirgžd</a>, <a href="morfema_list.php?letter=ž&morfema=žvitr">žvitr</a>, <a href="morfema_list.php?letter=ž&morfema=žvyg">žvyg</a>, <a href="morfema_list.php?letter=ž&morfema=žvyn">žvyn</a>, <a href="morfema_list.php?letter=ž&morfema=žvyr">žvyr</a>, <a href="morfema_list.php?letter=ž&morfema=žvėr">žvėr</a>, <a href="morfema_list.php?letter=ž&morfema=žy">žy</a>, <a href="morfema_list.php?letter=ž&morfema=žyb">žyb</a>, <a href="morfema_list.php?letter=ž&morfema=žybs">žybs</a>, <a href="morfema_list.php?letter=ž&morfema=žybč">žybč</a>, <a href="morfema_list.php?letter=ž&morfema=žyd">žyd</a>, <a href="morfema_list.php?letter=ž&morfema=žydr">žydr</a>, <a href="morfema_list.php?letter=ž&morfema=žyg">žyg</a>, <a href="morfema_list.php?letter=ž&morfema=žyl">žyl</a>, <a href="morfema_list.php?letter=ž&morfema=žym">žym</a>, <a href="morfema_list.php?letter=ž&morfema=žyn">žyn</a>, <a href="morfema_list.php?letter=ž&morfema=žyr">žyr</a>, <a href="morfema_list.php?letter=ž&morfema=žys">žys</a>, <a href="morfema_list.php?letter=ž&morfema=žą">žą</a>, <a href="morfema_list.php?letter=ž&morfema=žąs">žąs</a>, <a href="morfema_list.php?letter=ž&morfema=žėl">žėl</a>, <a href="morfema_list.php?letter=ž&morfema=žėr">žėr</a>, <a href="morfema_list.php?letter=ž&morfema=žį">žį</a>, <a href="morfema_list.php?letter=ž&morfema=žįs">žįs</a>, <a href="morfema_list.php?letter=ž&morfema=žįst">žįst</a>, <a href="morfema_list.php?letter=ž&morfema=žū">žū</a>, <a href="morfema_list.php?letter=ž&morfema=žūl">žūl</a>, <a href="morfema_list.php?letter=ž&morfema=žūt">žūt</a>, <a href="morfema_list.php?letter=ž&morfema=žūv">žūv</a></div>
+</div>
+ </body>
+</html>

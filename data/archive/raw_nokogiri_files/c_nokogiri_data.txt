@@ -1,0 +1,70 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Morfema - duomenys</title>
+        <link href="style.css?rev=201207111" rel="stylesheet" type="text/css">
+        <script type="text/javascript" src="jquery.js"></script>
+		<script type="text/javascript" src="jquery.generateFile.js"></script>
+		<script type="text/javascript" src="sortable_last.js"></script>
+		<script type="text/javascript" src="main.js"></script>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    </head>
+<body>
+<div class="morfemaBlock">
+<p>Duomenų bazę sudaro 72 264 žodžių formos: 11 522 būdvardžiai, 30 134 bendriniai daiktavardžiai, 530 įvardžių, 473 skaitvardžiai, 28 273 veiksmažodžiai (12 162 asmenuojamosios formos, 3 183 bendratys, 10 777 dalyviai, 1 047 pusdalyviai, 1 104 padalyviai), 1 332 prieveiksmiai. Internete prieinamoje morfemikos bazėje kol kas nepateikiami tikriniai daiktavardžiai, dalelytės, jungtukais, prielinksniai, jaustukai, ištiktukai.
+        <br><a class="daugiauA" href="apie_morfema_2.php">Plačiau</a>
+        </p>
+<div class="morfemaKorteles">
+	<a href="morfema_search.php">Paieška</a>
+	<span>Morfemų sąrašas</span>
+	<a href="apie_morfema.php">Apie projektą</a>
+	<div class="isvalytiApacia"><!--IE--></div>
+</div>
+
+<div class="isvalytiApacia"><!--IE--></div>
+
+<div class="morfemuSarasoAbecele">
+	<a href="morfema_list.php?letter=a">A</a>
+	<a href="morfema_list.php?letter=b">B</a>
+	<a href="morfema_list.php?letter=c">C</a>
+	<a href="morfema_list.php?letter=%C4%8D">Č</a>
+	<a href="morfema_list.php?letter=d">D</a>
+	<a href="morfema_list.php?letter=e">E</a>
+	<a href="morfema_list.php?letter=%C4%99">Ę</a>
+	<a href="morfema_list.php?letter=%C4%97">Ė</a>
+	<a href="morfema_list.php?letter=f">F</a>
+	<a href="morfema_list.php?letter=g">G</a>
+	<a href="morfema_list.php?letter=h">H</a>
+	<a href="morfema_list.php?letter=i">I</a>
+	<a href="morfema_list.php?letter=%C4%AF">Į</a>
+	<a href="morfema_list.php?letter=y">Y</a>
+	<a href="morfema_list.php?letter=j">J</a>
+	<a href="morfema_list.php?letter=k">K</a>
+	<a href="morfema_list.php?letter=l">L</a>
+	<a href="morfema_list.php?letter=m">M</a>
+	<a href="morfema_list.php?letter=n">N</a>
+	<a href="morfema_list.php?letter=o">O</a>
+	<a href="morfema_list.php?letter=p">P</a>
+	<a href="morfema_list.php?letter=r">R</a>
+	<a href="morfema_list.php?letter=s">S</a>
+	<a href="morfema_list.php?letter=%C5%A1">Š</a>
+	<a href="morfema_list.php?letter=t">T</a>
+	<a href="morfema_list.php?letter=u">U</a>
+	<a href="morfema_list.php?letter=%C5%B3">Ų</a>
+	<a href="morfema_list.php?letter=%C5%AB">Ū</a>
+	<a href="morfema_list.php?letter=v">V</a>
+	<a href="morfema_list.php?letter=z">Z</a>
+	<a href="morfema_list.php?letter=%C5%BE">Ž</a>
+</div>	
+
+<div class="isvalytiApacia"><!--IE--></div>
+
+<h2 class="letter">C</h2>
+<div class="isvalytiApacia"><!--IE--></div>
+<hr class="letter">
+<div class="morfemuAbecelinisSarasas">
+<a href="morfema_list.php?letter=c&amp;morfema=car">car</a>, <a href="morfema_list.php?letter=c&amp;morfema=cech">cech</a>, <a href="morfema_list.php?letter=c&amp;morfema=cefalo">cefalo</a>, <a href="morfema_list.php?letter=c&amp;morfema=cel">cel</a>, <a href="morfema_list.php?letter=c&amp;morfema=celebrans">celebrans</a>, <a href="morfema_list.php?letter=c&amp;morfema=celibat">celibat</a>, <a href="morfema_list.php?letter=c&amp;morfema=celiulioz">celiulioz</a>, <a href="morfema_list.php?letter=c&amp;morfema=celofan">celofan</a>, <a href="morfema_list.php?letter=c&amp;morfema=celsij">celsij</a>, <a href="morfema_list.php?letter=c&amp;morfema=cement">cement</a>, <a href="morfema_list.php?letter=c&amp;morfema=cen">cen</a>, <a href="morfema_list.php?letter=c&amp;morfema=cent">cent</a>, <a href="morfema_list.php?letter=c&amp;morfema=centi">centi</a>, <a href="morfema_list.php?letter=c&amp;morfema=centner">centner</a>, <a href="morfema_list.php?letter=c&amp;morfema=centr">centr</a>, <a href="morfema_list.php?letter=c&amp;morfema=centrifug">centrifug</a>, <a href="morfema_list.php?letter=c&amp;morfema=cenz%C5%ABr">cenzūr</a>, <a href="morfema_list.php?letter=c&amp;morfema=cepelin">cepelin</a>, <a href="morfema_list.php?letter=c&amp;morfema=cept">cept</a>, <a href="morfema_list.php?letter=c&amp;morfema=cerebr">cerebr</a>, <a href="morfema_list.php?letter=c&amp;morfema=ceremon">ceremon</a>, <a href="morfema_list.php?letter=c&amp;morfema=cerkv">cerkv</a>, <a href="morfema_list.php?letter=c&amp;morfema=cezar">cezar</a>, <a href="morfema_list.php?letter=c&amp;morfema=chalat">chalat</a>, <a href="morfema_list.php?letter=c&amp;morfema=chala%C4%8D">chalač</a>, <a href="morfema_list.php?letter=c&amp;morfema=chameleon">chameleon</a>, <a href="morfema_list.php?letter=c&amp;morfema=chaos">chaos</a>, <a href="morfema_list.php?letter=c&amp;morfema=chaot">chaot</a>, <a href="morfema_list.php?letter=c&amp;morfema=charakter">charakter</a>, <a href="morfema_list.php?letter=c&amp;morfema=charizm">charizm</a>, <a href="morfema_list.php?letter=c&amp;morfema=chart">chart</a>, <a href="morfema_list.php?letter=c&amp;morfema=chat">chat</a>, <a href="morfema_list.php?letter=c&amp;morfema=chem">chem</a>, <a href="morfema_list.php?letter=c&amp;morfema=cherubin">cherubin</a>, <a href="morfema_list.php?letter=c&amp;morfema=chinalon">chinalon</a>, <a href="morfema_list.php?letter=c&amp;morfema=chirurg">chirurg</a>, <a href="morfema_list.php?letter=c&amp;morfema=chlamid">chlamid</a>, <a href="morfema_list.php?letter=c&amp;morfema=chlor">chlor</a>, <a href="morfema_list.php?letter=c&amp;morfema=chlorheksi">chlorheksi</a>, <a href="morfema_list.php?letter=c&amp;morfema=chlorid">chlorid</a>, <a href="morfema_list.php?letter=c&amp;morfema=cholangio">cholangio</a>, <a href="morfema_list.php?letter=c&amp;morfema=chole">chole</a>, <a href="morfema_list.php?letter=c&amp;morfema=chondr">chondr</a>, <a href="morfema_list.php?letter=c&amp;morfema=chor">chor</a>, <a href="morfema_list.php?letter=c&amp;morfema=choreo">choreo</a>, <a href="morfema_list.php?letter=c&amp;morfema=chromo">chromo</a>, <a href="morfema_list.php?letter=c&amp;morfema=chron">chron</a>, <a href="morfema_list.php?letter=c&amp;morfema=chrono">chrono</a>, <a href="morfema_list.php?letter=c&amp;morfema=chuligan">chuligan</a>, <a href="morfema_list.php?letter=c&amp;morfema=cianid">cianid</a>, <a href="morfema_list.php?letter=c&amp;morfema=cid">cid</a>, <a href="morfema_list.php?letter=c&amp;morfema=ciesor">ciesor</a>, <a href="morfema_list.php?letter=c&amp;morfema=cigar">cigar</a>, <a href="morfema_list.php?letter=c&amp;morfema=cij">cij</a>, <a href="morfema_list.php?letter=c&amp;morfema=cikl">cikl</a>, <a href="morfema_list.php?letter=c&amp;morfema=ciklin">ciklin</a>, <a href="morfema_list.php?letter=c&amp;morfema=ciklo">ciklo</a>, <a href="morfema_list.php?letter=c&amp;morfema=ciklon">ciklon</a>, <a href="morfema_list.php?letter=c&amp;morfema=cilindr">cilindr</a>, <a href="morfema_list.php?letter=c&amp;morfema=cimbol">cimbol</a>, <a href="morfema_list.php?letter=c&amp;morfema=cin">cin</a>, <a href="morfema_list.php?letter=c&amp;morfema=cink">cink</a>, <a href="morfema_list.php?letter=c&amp;morfema=cirk">cirk</a>, <a href="morfema_list.php?letter=c&amp;morfema=cirkul">cirkul</a>, <a href="morfema_list.php?letter=c&amp;morfema=ciroz">ciroz</a>, <a href="morfema_list.php?letter=c&amp;morfema=cist">cist</a>, <a href="morfema_list.php?letter=c&amp;morfema=cisters">cisters</a>, <a href="morfema_list.php?letter=c&amp;morfema=cit">cit</a>, <a href="morfema_list.php?letter=c&amp;morfema=citadel">citadel</a>, <a href="morfema_list.php?letter=c&amp;morfema=cito">cito</a>, <a href="morfema_list.php?letter=c&amp;morfema=citr">citr</a>, <a href="morfema_list.php?letter=c&amp;morfema=citrus">citrus</a>, <a href="morfema_list.php?letter=c&amp;morfema=civil">civil</a>, <a href="morfema_list.php?letter=c&amp;morfema=col">col</a>, <a href="morfema_list.php?letter=c&amp;morfema=cukinij">cukinij</a>, <a href="morfema_list.php?letter=c&amp;morfema=cukr">cukr</a>, <a href="morfema_list.php?letter=c&amp;morfema=cvankt">cvankt</a>, <a href="morfema_list.php?letter=c&amp;morfema=cyp">cyp</a>
+</div>
+</div>
+ </body>
+</html>

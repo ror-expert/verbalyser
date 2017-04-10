@@ -1,0 +1,64 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Morfema - duomenys</title>
+        <link href="style.css?rev=201207111" rel="stylesheet" type="text/css" />
+        <script type="text/javascript" src="jquery.js"></script>
+		<script type="text/javascript" src="jquery.generateFile.js"></script>
+		<script type="text/javascript" src="sortable_last.js"></script>
+		<script type="text/javascript" src="main.js"></script>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    </head>
+<body>
+<div class="morfemaBlock">
+<p>Duomenų bazę sudaro 72 264 žodžių formos: 11 522 būdvardžiai, 30 134 bendriniai daiktavardžiai, 530 įvardžių, 473 skaitvardžiai, 28 273 veiksmažodžiai (12 162 asmenuojamosios formos, 3 183 bendratys, 10 777 dalyviai, 1 047 pusdalyviai, 1 104 padalyviai), 1 332 prieveiksmiai. Internete prieinamoje morfemikos bazėje kol kas nepateikiami tikriniai daiktavardžiai, dalelytės, jungtukais, prielinksniai, jaustukai, ištiktukai.
+        <br/><a class="daugiauA" href="apie_morfema_2.php">Plačiau</a>
+        </p>
+<div class="morfemaKorteles">
+	<a href="morfema_search.php">Paieška</a>
+	<span>Morfemų sąrašas</span>
+	<a href="apie_morfema.php">Apie projektą</a>
+	<div class="isvalytiApacia"><!--IE--></div>
+</div>
+
+<div class="isvalytiApacia"><!--IE--></div>
+
+<div class="morfemuSarasoAbecele">
+	<a href="morfema_list.php?letter=a">A</a>
+	<a href="morfema_list.php?letter=b">B</a>
+	<a href="morfema_list.php?letter=c">C</a>
+	<a href="morfema_list.php?letter=č">Č</a>
+	<a href="morfema_list.php?letter=d">D</a>
+	<a href="morfema_list.php?letter=e">E</a>
+	<a href="morfema_list.php?letter=ę">Ę</a>
+	<a href="morfema_list.php?letter=ė">Ė</a>
+	<a href="morfema_list.php?letter=f">F</a>
+	<a href="morfema_list.php?letter=g">G</a>
+	<a href="morfema_list.php?letter=h">H</a>
+	<a href="morfema_list.php?letter=i">I</a>
+	<a href="morfema_list.php?letter=į">Į</a>
+	<a href="morfema_list.php?letter=y">Y</a>
+	<a href="morfema_list.php?letter=j">J</a>
+	<a href="morfema_list.php?letter=k">K</a>
+	<a href="morfema_list.php?letter=l">L</a>
+	<a href="morfema_list.php?letter=m">M</a>
+	<a href="morfema_list.php?letter=n">N</a>
+	<a href="morfema_list.php?letter=o">O</a>
+	<a href="morfema_list.php?letter=p">P</a>
+	<a href="morfema_list.php?letter=r">R</a>
+	<a href="morfema_list.php?letter=s">S</a>
+	<a href="morfema_list.php?letter=š">Š</a>
+	<a href="morfema_list.php?letter=t">T</a>
+	<a href="morfema_list.php?letter=u">U</a>
+	<a href="morfema_list.php?letter=ų">Ų</a>
+	<a href="morfema_list.php?letter=ū">Ū</a>
+	<a href="morfema_list.php?letter=v">V</a>
+	<a href="morfema_list.php?letter=z">Z</a>
+	<a href="morfema_list.php?letter=ž">Ž</a>
+</div>	
+
+<div class="isvalytiApacia"><!--IE--></div>
+
+<h2 class="letter">H</h2><div class="isvalytiApacia"><!--IE--></div><hr class="letter"/><div class="morfemuAbecelinisSarasas"><a href="morfema_list.php?letter=h&morfema=habilit">habilit</a>, <a href="morfema_list.php?letter=h&morfema=hadron">hadron</a>, <a href="morfema_list.php?letter=h&morfema=haliucin">haliucin</a>, <a href="morfema_list.php?letter=h&morfema=hamburger">hamburger</a>, <a href="morfema_list.php?letter=h&morfema=hamlet">hamlet</a>, <a href="morfema_list.php?letter=h&morfema=hant">hant</a>, <a href="morfema_list.php?letter=h&morfema=harmon">harmon</a>, <a href="morfema_list.php?letter=h&morfema=harpij">harpij</a>, <a href="morfema_list.php?letter=h&morfema=hebraj">hebraj</a>, <a href="morfema_list.php?letter=h&morfema=hedon">hedon</a>, <a href="morfema_list.php?letter=h&morfema=hegemon">hegemon</a>, <a href="morfema_list.php?letter=h&morfema=hekt">hekt</a>, <a href="morfema_list.php?letter=h&morfema=hel">hel</a>, <a href="morfema_list.php?letter=h&morfema=helio">helio</a>, <a href="morfema_list.php?letter=h&morfema=hemato">hemato</a>, <a href="morfema_list.php?letter=h&morfema=hematom">hematom</a>, <a href="morfema_list.php?letter=h&morfema=hemo">hemo</a>, <a href="morfema_list.php?letter=h&morfema=hemodializ">hemodializ</a>, <a href="morfema_list.php?letter=h&morfema=hemorag">hemorag</a>, <a href="morfema_list.php?letter=h&morfema=hemoroj">hemoroj</a>, <a href="morfema_list.php?letter=h&morfema=heparin">heparin</a>, <a href="morfema_list.php?letter=h&morfema=hepatit">hepatit</a>, <a href="morfema_list.php?letter=h&morfema=herb">herb</a>, <a href="morfema_list.php?letter=h&morfema=herbar">herbar</a>, <a href="morfema_list.php?letter=h&morfema=herbicid">herbicid</a>, <a href="morfema_list.php?letter=h&morfema=hermeneut">hermeneut</a>, <a href="morfema_list.php?letter=h&morfema=hermet">hermet</a>, <a href="morfema_list.php?letter=h&morfema=hernhut">hernhut</a>, <a href="morfema_list.php?letter=h&morfema=heroj">heroj</a>, <a href="morfema_list.php?letter=h&morfema=hetit">hetit</a>, <a href="morfema_list.php?letter=h&morfema=hibrid">hibrid</a>, <a href="morfema_list.php?letter=h&morfema=hidraul">hidraul</a>, <a href="morfema_list.php?letter=h&morfema=hidrit">hidrit</a>, <a href="morfema_list.php?letter=h&morfema=hidro">hidro</a>, <a href="morfema_list.php?letter=h&morfema=hien">hien</a>, <a href="morfema_list.php?letter=h&morfema=hierarch">hierarch</a>, <a href="morfema_list.php?letter=h&morfema=hieroglif">hieroglif</a>, <a href="morfema_list.php?letter=h&morfema=higien">higien</a>, <a href="morfema_list.php?letter=h&morfema=himn">himn</a>, <a href="morfema_list.php?letter=h&morfema=hind">hind</a>, <a href="morfema_list.php?letter=h&morfema=hindu">hindu</a>, <a href="morfema_list.php?letter=h&morfema=hindus">hindus</a>, <a href="morfema_list.php?letter=h&morfema=hip">hip</a>, <a href="morfema_list.php?letter=h&morfema=hiper">hiper</a>, <a href="morfema_list.php?letter=h&morfema=hiperbar">hiperbar</a>, <a href="morfema_list.php?letter=h&morfema=hiperbol">hiperbol</a>, <a href="morfema_list.php?letter=h&morfema=hiphop">hiphop</a>, <a href="morfema_list.php?letter=h&morfema=hipnot">hipnot</a>, <a href="morfema_list.php?letter=h&morfema=hipnoz">hipnoz</a>, <a href="morfema_list.php?letter=h&morfema=hipo">hipo</a>, <a href="morfema_list.php?letter=h&morfema=hipodrom">hipodrom</a>, <a href="morfema_list.php?letter=h&morfema=hipokriz">hipokriz</a>, <a href="morfema_list.php?letter=h&morfema=hipotet">hipotet</a>, <a href="morfema_list.php?letter=h&morfema=hipotez">hipotez</a>, <a href="morfema_list.php?letter=h&morfema=hipso">hipso</a>, <a href="morfema_list.php?letter=h&morfema=hipsometr">hipsometr</a>, <a href="morfema_list.php?letter=h&morfema=histero">histero</a>, <a href="morfema_list.php?letter=h&morfema=histo">histo</a>, <a href="morfema_list.php?letter=h&morfema=hol">hol</a>, <a href="morfema_list.php?letter=h&morfema=holding">holding</a>, <a href="morfema_list.php?letter=h&morfema=holivud">holivud</a>, <a href="morfema_list.php?letter=h&morfema=holo">holo</a>, <a href="morfema_list.php?letter=h&morfema=homo">homo</a>, <a href="morfema_list.php?letter=h&morfema=homogen">homogen</a>, <a href="morfema_list.php?letter=h&morfema=hop">hop</a>, <a href="morfema_list.php?letter=h&morfema=horizont">horizont</a>, <a href="morfema_list.php?letter=h&morfema=hormon">hormon</a>, <a href="morfema_list.php?letter=h&morfema=human">human</a>, <a href="morfema_list.php?letter=h&morfema=humanitar">humanitar</a>, <a href="morfema_list.php?letter=h&morfema=humor">humor</a>, <a href="morfema_list.php?letter=h&morfema=husar">husar</a></div>
+</div>
+ </body>
+</html>

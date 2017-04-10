@@ -1,0 +1,64 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Morfema - duomenys</title>
+        <link href="style.css?rev=201207111" rel="stylesheet" type="text/css" />
+        <script type="text/javascript" src="jquery.js"></script>
+		<script type="text/javascript" src="jquery.generateFile.js"></script>
+		<script type="text/javascript" src="sortable_last.js"></script>
+		<script type="text/javascript" src="main.js"></script>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    </head>
+<body>
+<div class="morfemaBlock">
+<p>Duomenų bazę sudaro 72 264 žodžių formos: 11 522 būdvardžiai, 30 134 bendriniai daiktavardžiai, 530 įvardžių, 473 skaitvardžiai, 28 273 veiksmažodžiai (12 162 asmenuojamosios formos, 3 183 bendratys, 10 777 dalyviai, 1 047 pusdalyviai, 1 104 padalyviai), 1 332 prieveiksmiai. Internete prieinamoje morfemikos bazėje kol kas nepateikiami tikriniai daiktavardžiai, dalelytės, jungtukais, prielinksniai, jaustukai, ištiktukai.
+        <br/><a class="daugiauA" href="apie_morfema_2.php">Plačiau</a>
+        </p>
+<div class="morfemaKorteles">
+	<a href="morfema_search.php">Paieška</a>
+	<span>Morfemų sąrašas</span>
+	<a href="apie_morfema.php">Apie projektą</a>
+	<div class="isvalytiApacia"><!--IE--></div>
+</div>
+
+<div class="isvalytiApacia"><!--IE--></div>
+
+<div class="morfemuSarasoAbecele">
+	<a href="morfema_list.php?letter=a">A</a>
+	<a href="morfema_list.php?letter=b">B</a>
+	<a href="morfema_list.php?letter=c">C</a>
+	<a href="morfema_list.php?letter=č">Č</a>
+	<a href="morfema_list.php?letter=d">D</a>
+	<a href="morfema_list.php?letter=e">E</a>
+	<a href="morfema_list.php?letter=ę">Ę</a>
+	<a href="morfema_list.php?letter=ė">Ė</a>
+	<a href="morfema_list.php?letter=f">F</a>
+	<a href="morfema_list.php?letter=g">G</a>
+	<a href="morfema_list.php?letter=h">H</a>
+	<a href="morfema_list.php?letter=i">I</a>
+	<a href="morfema_list.php?letter=į">Į</a>
+	<a href="morfema_list.php?letter=y">Y</a>
+	<a href="morfema_list.php?letter=j">J</a>
+	<a href="morfema_list.php?letter=k">K</a>
+	<a href="morfema_list.php?letter=l">L</a>
+	<a href="morfema_list.php?letter=m">M</a>
+	<a href="morfema_list.php?letter=n">N</a>
+	<a href="morfema_list.php?letter=o">O</a>
+	<a href="morfema_list.php?letter=p">P</a>
+	<a href="morfema_list.php?letter=r">R</a>
+	<a href="morfema_list.php?letter=s">S</a>
+	<a href="morfema_list.php?letter=š">Š</a>
+	<a href="morfema_list.php?letter=t">T</a>
+	<a href="morfema_list.php?letter=u">U</a>
+	<a href="morfema_list.php?letter=ų">Ų</a>
+	<a href="morfema_list.php?letter=ū">Ū</a>
+	<a href="morfema_list.php?letter=v">V</a>
+	<a href="morfema_list.php?letter=z">Z</a>
+	<a href="morfema_list.php?letter=ž">Ž</a>
+</div>	
+
+<div class="isvalytiApacia"><!--IE--></div>
+
+<h2 class="letter">N</h2><div class="isvalytiApacia"><!--IE--></div><hr class="letter"/><div class="morfemuAbecelinisSarasas"><a href="morfema_list.php?letter=n&morfema=n">n</a>, <a href="morfema_list.php?letter=n&morfema=nabašnink">nabašnink</a>, <a href="morfema_list.php?letter=n&morfema=nac">nac</a>, <a href="morfema_list.php?letter=n&morfema=nacional">nacional</a>, <a href="morfema_list.php?letter=n&morfema=naft">naft</a>, <a href="morfema_list.php?letter=n&morfema=nag">nag</a>, <a href="morfema_list.php?letter=n&morfema=nagr">nagr</a>, <a href="morfema_list.php?letter=n&morfema=naik">naik</a>, <a href="morfema_list.php?letter=n&morfema=naiv">naiv</a>, <a href="morfema_list.php?letter=n&morfema=nakt">nakt</a>, <a href="morfema_list.php?letter=n&morfema=nakv">nakv</a>, <a href="morfema_list.php?letter=n&morfema=nakč">nakč</a>, <a href="morfema_list.php?letter=n&morfema=nam">nam</a>, <a href="morfema_list.php?letter=n&morfema=nar">nar</a>, <a href="morfema_list.php?letter=n&morfema=narciz">narciz</a>, <a href="morfema_list.php?letter=n&morfema=narko">narko</a>, <a href="morfema_list.php?letter=n&morfema=narkot">narkot</a>, <a href="morfema_list.php?letter=n&morfema=narkoz">narkoz</a>, <a href="morfema_list.php?letter=n&morfema=narp">narp</a>, <a href="morfema_list.php?letter=n&morfema=nars">nars</a>, <a href="morfema_list.php?letter=n&morfema=narv">narv</a>, <a href="morfema_list.php?letter=n&morfema=narš">narš</a>, <a href="morfema_list.php?letter=n&morfema=nasr">nasr</a>, <a href="morfema_list.php?letter=n&morfema=nat">nat</a>, <a href="morfema_list.php?letter=n&morfema=natr">natr</a>, <a href="morfema_list.php?letter=n&morfema=natyv">natyv</a>, <a href="morfema_list.php?letter=n&morfema=natūr">natūr</a>, <a href="morfema_list.php?letter=n&morfema=natūral">natūral</a>, <a href="morfema_list.php?letter=n&morfema=naud">naud</a>, <a href="morfema_list.php?letter=n&morfema=naudž">naudž</a>, <a href="morfema_list.php?letter=n&morfema=nauj">nauj</a>, <a href="morfema_list.php?letter=n&morfema=naut">naut</a>, <a href="morfema_list.php?letter=n&morfema=navah">navah</a>, <a href="morfema_list.php?letter=n&morfema=navig">navig</a>, <a href="morfema_list.php?letter=n&morfema=navik">navik</a>, <a href="morfema_list.php?letter=n&morfema=naš">naš</a>, <a href="morfema_list.php?letter=n&morfema=našl">našl</a>, <a href="morfema_list.php?letter=n&morfema=ne">ne</a>, <a href="morfema_list.php?letter=n&morfema=nefro">nefro</a>, <a href="morfema_list.php?letter=n&morfema=negatyv">negatyv</a>, <a href="morfema_list.php?letter=n&morfema=negr">negr</a>, <a href="morfema_list.php?letter=n&morfema=neig">neig</a>, <a href="morfema_list.php?letter=n&morfema=nekro">nekro</a>, <a href="morfema_list.php?letter=n&morfema=nektar">nektar</a>, <a href="morfema_list.php?letter=n&morfema=nemun">nemun</a>, <a href="morfema_list.php?letter=n&morfema=nendr">nendr</a>, <a href="morfema_list.php?letter=n&morfema=neo">neo</a>, <a href="morfema_list.php?letter=n&morfema=neomicin">neomicin</a>, <a href="morfema_list.php?letter=n&morfema=ner">ner</a>, <a href="morfema_list.php?letter=n&morfema=nerv">nerv</a>, <a href="morfema_list.php?letter=n&morfema=nerš">nerš</a>, <a href="morfema_list.php?letter=n&morfema=neurit">neurit</a>, <a href="morfema_list.php?letter=n&morfema=neuro">neuro</a>, <a href="morfema_list.php?letter=n&morfema=neutral">neutral</a>, <a href="morfema_list.php?letter=n&morfema=neutron">neutron</a>, <a href="morfema_list.php?letter=n&morfema=nevėž">nevėž</a>, <a href="morfema_list.php?letter=n&morfema=neš">neš</a>, <a href="morfema_list.php?letter=n&morfema=niau">niau</a>, <a href="morfema_list.php?letter=n&morfema=niauk">niauk</a>, <a href="morfema_list.php?letter=n&morfema=nie">nie</a>, <a href="morfema_list.php?letter=n&morfema=niek">niek</a>, <a href="morfema_list.php?letter=n&morfema=niekieno">niekieno</a>, <a href="morfema_list.php?letter=n&morfema=niekš">niekš</a>, <a href="morfema_list.php?letter=n&morfema=niež">niež</a>, <a href="morfema_list.php?letter=n&morfema=niežt">niežt</a>, <a href="morfema_list.php?letter=n&morfema=nik">nik</a>, <a href="morfema_list.php?letter=n&morfema=nikel">nikel</a>, <a href="morfema_list.php?letter=n&morfema=nikotin">nikotin</a>, <a href="morfema_list.php?letter=n&morfema=nim">nim</a>, <a href="morfema_list.php?letter=n&morfema=nimfom">nimfom</a>, <a href="morfema_list.php?letter=n&morfema=nink">nink</a>, <a href="morfema_list.php?letter=n&morfema=nio">nio</a>, <a href="morfema_list.php?letter=n&morfema=nioj">nioj</a>, <a href="morfema_list.php?letter=n&morfema=niok">niok</a>, <a href="morfema_list.php?letter=n&morfema=nipel">nipel</a>, <a href="morfema_list.php?letter=n&morfema=nir">nir</a>, <a href="morfema_list.php?letter=n&morfema=nirt">nirt</a>, <a href="morfema_list.php?letter=n&morfema=nirš">nirš</a>, <a href="morfema_list.php?letter=n&morfema=nitrat">nitrat</a>, <a href="morfema_list.php?letter=n&morfema=nitrit">nitrit</a>, <a href="morfema_list.php?letter=n&morfema=nitro">nitro</a>, <a href="morfema_list.php?letter=n&morfema=niuk">niuk</a>, <a href="morfema_list.php?letter=n&morfema=niur">niur</a>, <a href="morfema_list.php?letter=n&morfema=niurk">niurk</a>, <a href="morfema_list.php?letter=n&morfema=niurn">niurn</a>, <a href="morfema_list.php?letter=n&morfema=niurzg">niurzg</a>, <a href="morfema_list.php?letter=n&morfema=nivel">nivel</a>, <a href="morfema_list.php?letter=n&morfema=nič">nič</a>, <a href="morfema_list.php?letter=n&morfema=niš">niš</a>, <a href="morfema_list.php?letter=n&morfema=niūk">niūk</a>, <a href="morfema_list.php?letter=n&morfema=niūn">niūn</a>, <a href="morfema_list.php?letter=n&morfema=niūr">niūr</a>, <a href="morfema_list.php?letter=n&morfema=no">no</a>, <a href="morfema_list.php?letter=n&morfema=noj">noj</a>, <a href="morfema_list.php?letter=n&morfema=nok">nok</a>, <a href="morfema_list.php?letter=n&morfema=nokaut">nokaut</a>, <a href="morfema_list.php?letter=n&morfema=nokst">nokst</a>, <a href="morfema_list.php?letter=n&morfema=nom">nom</a>, <a href="morfema_list.php?letter=n&morfema=nomenklatū">nomenklatū</a>, <a href="morfema_list.php?letter=n&morfema=nominal">nominal</a>, <a href="morfema_list.php?letter=n&morfema=nor">nor</a>, <a href="morfema_list.php?letter=n&morfema=norag">norag</a>, <a href="morfema_list.php?letter=n&morfema=noreik">noreik</a>, <a href="morfema_list.php?letter=n&morfema=norm">norm</a>, <a href="morfema_list.php?letter=n&morfema=norman">norman</a>, <a href="morfema_list.php?letter=n&morfema=norveg">norveg</a>, <a href="morfema_list.php?letter=n&morfema=nos">nos</a>, <a href="morfema_list.php?letter=n&morfema=nostalg">nostalg</a>, <a href="morfema_list.php?letter=n&morfema=novator">novator</a>, <a href="morfema_list.php?letter=n&morfema=novel">novel</a>, <a href="morfema_list.php?letter=n&morfema=nu">nu</a>, <a href="morfema_list.php?letter=n&morfema=nub">nub</a>, <a href="morfema_list.php?letter=n&morfema=nugar">nugar</a>, <a href="morfema_list.php?letter=n&morfema=nuklid">nuklid</a>, <a href="morfema_list.php?letter=n&morfema=nul">nul</a>, <a href="morfema_list.php?letter=n&morfema=numer">numer</a>, <a href="morfema_list.php?letter=n&morfema=nuo">nuo</a>, <a href="morfema_list.php?letter=n&morfema=nuod">nuod</a>, <a href="morfema_list.php?letter=n&morfema=nuog">nuog</a>, <a href="morfema_list.php?letter=n&morfema=nuolat">nuolat</a>, <a href="morfema_list.php?letter=n&morfema=nuom">nuom</a>, <a href="morfema_list.php?letter=n&morfema=nuožm">nuožm</a>, <a href="morfema_list.php?letter=n&morfema=nut">nut</a>, <a href="morfema_list.php?letter=n&morfema=ny">ny</a>, <a href="morfema_list.php?letter=n&morfema=nyk">nyk</a>, <a href="morfema_list.php?letter=n&morfema=nykst">nykst</a>, <a href="morfema_list.php?letter=n&morfema=nykšt">nykšt</a>, <a href="morfema_list.php?letter=n&morfema=nykšč">nykšč</a>, <a href="morfema_list.php?letter=n&morfema=nyr">nyr</a>, <a href="morfema_list.php?letter=n&morfema=nė">nė</a>, <a href="morfema_list.php?letter=n&morfema=nėr">nėr</a>, <a href="morfema_list.php?letter=n&morfema=nėš">nėš</a>, <a href="morfema_list.php?letter=n&morfema=nū">nū</a>, <a href="morfema_list.php?letter=n&morfema=nūn">nūn</a></div>
+</div>
+ </body>
+</html>
