@@ -1,0 +1,644 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Adaptuoti conjugation in Lithuanian in all forms | CoolJugator.com</title>
+<meta name="description" content="Conjugate the Lithuanian verb adaptuoti in all forms and with usage examples. Adaptuoti conjugation has never been easier!">
+<link rel="stylesheet" type="text/css" href="/components/semantic/dist/semantic.css">
+<link rel="stylesheet" type="text/css" href="/stylesheets/main.css">
+<link rel="stylesheet" type="text/css" href="/stylesheets/languagemap.css">
+<script type="text/javascript" src="/components/jquery/dist/jquery.min.js"></script><script type="text/javascript" src="/components/semantic/dist/semantic.min.js"></script>
+</head>
+<body>
+<div class="ui menu large inverted grey">
+<div id="CoolJugatorLogo" class="item"><a href="/"><img src="/images/logo.png" alt="CoolJugator: the smart verb Conjugator"></a></div>
+<div id="siteLanguageSelection" class="item"><div class="ui dropdown topmenuselection inverted grey">
+<div class="text">Lithuanian</div>
+<i class="dropdown icon"></i><div id="topBarSelectionMenu" class="menu">
+<div data-value="" class="item">Home</div>
+<div data-value="da" class="item">Danish</div>
+<div data-value="en" class="item">English</div>
+<div data-value="eo" class="item">Esperanto</div>
+<div data-value="fr" class="item">French</div>
+<div data-value="ee" class="item">Estonian</div>
+<div data-value="hu" class="item">Hungarian</div>
+<div data-value="it" class="item">Italian</div>
+<div data-value="ja" class="item">Japanese</div>
+<div data-value="lt" class="item">Lithuanian</div>
+<div data-value="lv" class="item">Latvian</div>
+<div data-value="gr" class="item">Modern Greek</div>
+<div data-value="pl" class="item">Polish</div>
+<div data-value="pt" class="item">Portuguese</div>
+<div data-value="ro" class="item">Romanian</div>
+<div data-value="ru" class="item">Russian</div>
+<div data-value="es" class="item">Spanish</div>
+<div data-value="tr" class="item">Turkish</div>
+</div>
+</div></div>
+<div id="topBarSearch" class="item"><div class="ui action input"><input type="text" placeholder="Type verb in Lithuanian or in English..." id="search" autofocus></div></div>
+</div>
+<div class="pusher">
+<div class="ui equal width grid stackable container">
+<div style="display: none;" class="row"><div class="column"><div id="results" class="ui segment"><p></p></div></div></div>
+<div class="row"><div class="column"><div class="ui segment">
+<div class="ui breadcrumb">
+<a href="/" class="section"><i class="home icon"></i>Home</a><i class="right chevron icon divider"></i><a href="/lt/" class="section">Lithuanian</a><i class="right chevron icon divider"></i><div id="individualverb" class="active section">adaptuoti</div>
+</div>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- CoolJugator Top CrumbsBar--><ins style="display:block" data-ad-client="ca-pub-0492579730264989" data-ad-slot="2205579251" data-ad-format="auto" class="adsbygoogle"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div></div></div>
+<div class="eleven wide stretched column"><div id="mainContentArea" class="ui segment"><section id="conjugate"><h1 id="mainTitle">Adaptuoti conjugation</h1>
+<div class="ui centered grid"><div class="center aligned column"><div id="navigationMenu" class="ui compact tabular stackable menu">
+<a href="#conjugate" class="item active">Conjugate</a><a href="#usage" class="item">Usage</a><a href="#examples" class="item">Examples [7]</a><a href="#questions" class="item">Questions [0]</a>
+</div></div></div>
+<h2 class="ui header">
+<i class="list layout teal icon"></i>Conjugate adaptuoti - to adapt</h2>
+<div id="mapexplanation" style="text-align: right;"><i data-content="This adaptuoti conjugation map displays how forms of the verb adaptuoti are constructed. Moreover, it also serves as an easy navigation menu: you can click on any part of the map to be taken directly to those forms." class="write info teal icon"></i></div>
+<div id="conjugationmap" style="min-height: 250px" class="ui container"><div class="tree"><ul><li>
+<a href="#">Verb stem adaptuo-</a><ul>
+<li>
+<a href="#conjugate">Infinitive: adaptuoti</a><ul>
+<li><a href="#future">Future</a></li>
+<li><a href="#pastfrequentative">Past frequentative</a></li>
+<li><a href="#conditional">Conditional</a></li>
+<li><a href="#imperative">Imperative</a></li>
+</ul>
+</li>
+<li>
+<a href="#present">Present (s)he: adaptuoja</a><ul><li><a href="#present">Present forms</a></li></ul>
+</li>
+<li>
+<a href="#past">Past (s)he: adaptavo</a><ul><li><a href="#past">Past forms</a></li></ul>
+</li>
+</ul>
+</li></ul></div></div>
+<div style="text-align: right;"><div id="markstress" class="ui button teal">
+<i class="write square icon"></i>Turn on word stress</div></div>
+<div class="ui container">
+<p id="present" class="tensetitle">Present tense</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th data-content="The present forms of the verb adaptuoti in Lithuanian." data-variation="inverted"> Lithuanian Form</th>
+<th data-content="The present forms of the verb adaptuoti translated to English." data-variation="inverted">English Translation</th>
+<th data-content="Click on the icon to see Lithuanian examples of this particular form." data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Aš</div></td>
+<td id="present1" data-stressed="adaptuoju">adaptuoju </td>
+<td>I adapt</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="present2" data-stressed="adaptuoji">adaptuoji </td>
+<td>you adapt</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jis/ji</div></td>
+<td id="present3" data-stressed="adaptúoja">adaptuoja </td>
+<td>he/she does adapt</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Mes</div></td>
+<td id="present4" data-stressed="adaptuojame">adaptuojame </td>
+<td>we adapt</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="present5" data-stressed="adaptuojate">adaptuojate </td>
+<td>you all adapt</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jie/jos</div></td>
+<td id="present6" data-stressed="adaptúoja">adaptuoja </td>
+<td>they adapt</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p id="past" class="tensetitle">Past tense</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th data-content="The past forms of the verb adaptuoti in Lithuanian." data-variation="inverted"> Lithuanian Form</th>
+<th data-content="The past forms of the verb adaptuoti translated to English." data-variation="inverted">English Translation</th>
+<th data-content="Click on the icon to see Lithuanian examples of this particular form." data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Aš</div></td>
+<td id="past1" data-stressed="adaptavau">adaptavau </td>
+<td>I did adapt</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="past2" data-stressed="adaptavai">adaptavai </td>
+<td>you did adapt</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jis/ji</div></td>
+<td id="past3" data-stressed="adaptãvo">adaptavo </td>
+<td>he/she did adapt</td>
+<td><a href="#examplepast3"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Mes</div></td>
+<td id="past4" data-stressed="adaptãvome">adaptavome </td>
+<td>we did adapt</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="past5" data-stressed="adaptãvote">adaptavote </td>
+<td>you all did adapt</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jie/jos</div></td>
+<td id="past6" data-stressed="adaptãvo">adaptavo </td>
+<td>they did adapt</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p id="pastfrequentative" class="tensetitle">Past frequentative tense</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th data-content="The past frequentative forms of the verb adaptuoti in Lithuanian." data-variation="inverted"> Lithuanian Form</th>
+<th data-content="The past frequentative forms of the verb adaptuoti translated to English." data-variation="inverted">English Translation</th>
+<th data-content="Click on the icon to see Lithuanian examples of this particular form." data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Aš</div></td>
+<td id="pastperfect1" data-stressed="adaptuodavau">adaptuodavau </td>
+<td>I used to adapt</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="pastperfect2" data-stressed="adaptuodavai">adaptuodavai </td>
+<td>you used to adapt</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jis/ji</div></td>
+<td id="pastperfect3" data-stressed="adaptuodavo">adaptuodavo </td>
+<td>he/she used to adapt</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Mes</div></td>
+<td id="pastperfect4" data-stressed="adaptuodavome">adaptuodavome </td>
+<td>we used to adapt</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="pastperfect5" data-stressed="adaptuodavote">adaptuodavote </td>
+<td>you all used to adapt</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jie/jos</div></td>
+<td id="pastperfect6" data-stressed="adaptuodavo">adaptuodavo </td>
+<td>they used to adapt</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p id="future" class="tensetitle">Future tense</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th data-content="The future forms of the verb adaptuoti in Lithuanian." data-variation="inverted"> Lithuanian Form</th>
+<th data-content="The future forms of the verb adaptuoti translated to English." data-variation="inverted">English Translation</th>
+<th data-content="Click on the icon to see Lithuanian examples of this particular form." data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Aš</div></td>
+<td id="future1" data-stressed="adaptuosiu">adaptuosiu </td>
+<td>I will adapt</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="future2" data-stressed="adaptuosi">adaptuosi </td>
+<td>you will adapt</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jis/ji</div></td>
+<td id="future3" data-stressed="adaptuõs">adaptuos </td>
+<td>he/she will adapt</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Mes</div></td>
+<td id="future4" data-stressed="adaptuosime">adaptuosime </td>
+<td>we will adapt</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="future5" data-stressed="adaptuosite">adaptuosite </td>
+<td>you all will adapt</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jie/jos</div></td>
+<td id="future6" data-stressed="adaptuõs">adaptuos </td>
+<td>they will adapt</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p id="conditional" class="tensetitle">Conditional mood</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th data-content="The conditional forms of the verb adaptuoti in Lithuanian." data-variation="inverted"> Lithuanian Form</th>
+<th data-content="The conditional forms of the verb adaptuoti translated to English." data-variation="inverted">English Translation</th>
+<th data-content="Click on the icon to see Lithuanian examples of this particular form." data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Aš</div></td>
+<td id="hypothetical1" data-stressed="adaptuočiau">adaptuočiau </td>
+<td>I would adapt</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="hypothetical2" data-stressed="adaptuotum">adaptuotum </td>
+<td>you would adapt</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jis/ji</div></td>
+<td id="hypothetical3" data-stressed="adaptúotų">adaptuotų </td>
+<td>he/she would adapt</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Mes</div></td>
+<td id="hypothetical4" data-stressed="adaptuotumè">adaptuotume </td>
+<td>we would adapt</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="hypothetical5" data-stressed="adaptuotute">adaptuotute </td>
+<td>you all would adapt</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jie/jos</div></td>
+<td id="hypothetical6" data-stressed="adaptúotų">adaptuotų </td>
+<td>they would adapt</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p id="imperative" class="tensetitle">Imperative mood</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th>Lithuanian Form</th>
+<th>English Translation</th>
+<th data-content="Click on the icon to see examples of this particular form" data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="command2" data-stressed="adaptuok">adaptuok </td>
+<td>you adapt!</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="command4" data-stressed="adaptúokite">adaptuokite</td>
+<td>you all adapt!</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 class="ui dividing header">Feedback: Noticed a mistake? Have a suggestion?</h3>
+<div id="feedbackMenu">
+<p>Have you noticed a mistake or a bug here somewhere on this page? Have ideas how we can improve our content? Submit a request for us and we will do our best to take your feedback into account!</p>
+<div class="ui container"><f method="post" class="ui review form"><div class="field">
+<input id="fname" name="fsubmitterName" placeholder="Your name..."><input id="fverb" name="fverb" type="hidden" value="adaptuoti"><input id="flanguage" name="flanguage" type="hidden" value="lt"><input id="feedback" name="feedback" type="text" placeholder="Describe your feedback...">
+</div>
+<div style="text-align: center;" class="clear"><button id="givefeedback" type="submit" class="ui teal labeled icon button"><i class="bug icon"></i>    Submit for review</button></div></f></div>
+<div class="ui divider"></div>
+</div>
+<section id="usage"><p style="font-size: 1.714rem; padding-top: 8vh; padding-bottom: 4vh; color: rgba(0, 0, 0, 0.87);" class="ui header usageheader"><i class="info teal icon"></i>Usage information for adaptuoti</p>
+<p>There is no additional usage information for the verb adaptuoti.</p></section><section id="examples"><h3 style="font-size: 1.714rem; padding-top: 8vh; padding-bottom: 4vh; color: rgba(0, 0, 0, 0.87);" class="ui header">
+<i class="quote left teal icon"></i>Examples of adaptuoti</h3>
+<table id="ExampleSentences" class="ui celled striped table">
+<thead><tr>
+<th data-content="An example sentence in Lithuanian. Our example sentences are picked from multiple sources with real world spoken or written language." data-variation="inverted" class="eight wide">Example in Lithuanian</th>
+<th data-content="The translation of the example in the English language, with the relevant part highlighted if possible." data-variation="inverted" class="eight wide">Translation in English</th>
+<th data-content="A link to the conjugated form - move your mouse over it to find out which form it is, or click on it to go back to the conjugation of that form." data-variation="inverted" class="one wide">Fm.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td id="exampleinfinitive0">Nuo 2004 m. gegužės 1 d. į Europos Sąjungą įstojus Čekijos Respublikai, Estijos Respublikai, Kipro Respublikai, Latvijos Respublikai, Lietuvos Respublikai, Vengrijos Respublikai, Maltos Respublikai, Lenkijos Respublikai, Slovėnijos Respublikai ir Slovakijos Respublikai (toliau – naujosios valstybės narės), reikia <span class="highlightsample">adaptuoti</span>, taikant adaptacijas nuo tos pačios datos, tam tikras 2000 m. kovo 23 d. Jungtinės Tarybos sprendimo Nr. 2/2000 [2] nuostatas dėl prekybos prekėmis, kilmės patvirtinimo ir viešųjų pirkimų.</td>
+<td>Following the accession to the European Union of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic (hereinafter the new Member States) as of 1 May 2004 it is necessary <span class="highlightsample">to adapt</span>, with effect from the same date, certain provisions of Joint Council Decision No 2/2000 of 23 March 2000 [2] concerning trade in goods, certification of origin and government procurement.</td>
+<td><a href="#conjugate"><i data-content="An instance of the main form." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="exampleinfinitive0-1">2004 m. gegužės 19 d. ES–Šveicarijos viršūnių susitikimo metu šalys susitarė <span class="highlightsample">adaptuoti</span> dvišales prekybos nuolaidas taip, kad prekybos srautai, kuriems taikomos dvišaliuose Europos Sąjungos naujųjų valstybių narių ir Šveicarijos susitarimuose numatytos lengvatos, iš esmės vyktų ir toliau po ES plėtros.</td>
+<td>The Parties agreed, at the EU-Switzerland Summit on 19 May 2004, <span class="highlightsample">to adapt</span> the bilateral trade concessions on the principle that the trade flows in accordance with the preferences granted under the bilateral arrangements between the new Member States to the European Union and Switzerland should be mutually maintained in substance with effect from the date of EU enlargement.</td>
+<td><a href="#conjugate"><i data-content="An instance of the main form." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="exampleinfinitive0-2">Todėl šalys susitarė <span class="highlightsample">adaptuoti</span> tarifines nuolaidas, nustatytas 1999 m. birželio 21 d. Europos bendrijos ir Šveicarijos Konfederacijos susitarime dėl prekybos žemės ūkio produktais [1] (toliau – Susitarimas), įsigaliojusiame 2002 m. birželio 1 d. Šių nuolaidų, išvardytų Susitarimo 1 ir 2 prieduose, adaptacija apima esamos muitu neapmokestinamos Bendrijos tarifinės kvotos (produktams, kurių KN kodas yra 07051100, 07051900 ir 07052900, eilės Nr. 09.0925) išplėtimą įtraukiant naują produktą (KN kodas 07052100).</td>
+<td>The Parties therefore agreed <span class="highlightsample">to adapt</span> the tariff concessions laid down in the Agreement between the European Community and the Swiss Confederation of 21 June 1999 on trade in agricultural products [1] (hereinafter referred to as the Agreement), which entered into force on 1 June 2002. The adaptation of these concessions, which are listed in Annexes 1 and 2 to the Agreement, includes the widening of an existing duty-free Community tariff quota (products of CN codes 07051100, 07051900 and 07052900, under the order number 09.0925) to cover a new product (CN code 07052100).</td>
+<td><a href="#conjugate"><i data-content="An instance of the main form." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="exampleinfinitive0-3">Po 2004 m. gegužės 1 d. Europos Sąjungos plėtros Bendrija ir Šveicarija susitarė <span class="highlightsample">adaptuoti</span> tarifines nuolaidas, nustatytas 1999 m. birželio 21 d. Europos bendrijos ir Šveicarijos Konfederacijos susitarimu dėl prekybos žemės ūkio produktais [1] (toliau – Susitarimas), įsigaliojusiu 2002 m. birželio 1 d. Pirmiausia jos susitarė iš dalies pakeisti Susitarimo 1 ir 2 priedus, kuriuose nurodytos nuolaidos, siekdamos išplėsti galiojančią muitu neapmokestinamą Bendrijos tarifinę kvotą įtraukiant naują produktą - salotinę trūkažolę (KN kodas 07052100).</td>
+<td>Following the enlargement of the European Union on 1 May 2004, the Community and Switzerland agreed <span class="highlightsample">to adapt</span> the tariff concessions laid down in the Agreement between the European Community and the Swiss Confederation of 21 June 1999 on trade in agricultural products [1], (hereinafter referred to as the Agreement), which entered into force on 1 June 2002. In particular, they agreed to amend Annexes 1 and 2 to the Agreement, which listed the concessions, in order to widen an existing duty-free Community tariff quota to cover a new product, witloof chicory of CN code 07052100.</td>
+<td><a href="#conjugate"><i data-content="An instance of the main form." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="exampleinfinitive0-4">Per pirmuosius penkerius finansinių gairių įgyvendinimo metus sukaupta patirtis ir finansų rinkos praktikos pokyčiai rodo, kad šias gaires reikia <span class="highlightsample">adaptuoti</span>.</td>
+<td>The experience gained in the first five years of implementation of the financial guidelines and developments in financial market practice show a need <span class="highlightsample">to adapt</span> those guidelines.</td>
+<td><a href="#conjugate"><i data-content="An instance of the main form." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast3">Graviūras, kuriomis grožėjotės, Torkija <span class="highlightsample">adaptavo</span> "iš Delomelanikono."</td>
+<td>The engravings you are now admiring were adapted by Torchia from the Delomelanicon.</td>
+<td><a href="#past3"><i data-content="A 3rd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast3-1">Torkija šį darba <span class="highlightsample">adaptavo</span>, o parašė jį pats Liuciferis.</td>
+<td>This is Torchia's adaptation of that work, which was written by Lucifer himself.</td>
+<td><a href="#past3"><i data-content="A 3rd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+</tbody>
+</table></section><section id="questions"><div class="ui comments"><h4 style="font-size: 1.714rem; padding-top: 8vh; padding-bottom: 4vh; color: rgba(0, 0, 0, 0.87);" class="ui header">
+<i class="help teal icon"></i>Questions and answers about adaptuoti conjugation</h4></div>
+<div id="questionmenu">
+<h3 class="ui dividing header">Still don't understand something? Ask and receive a reply!</h3>
+<p>Ask us a question about this word and get it replied to here. Questions are answered by experienced language speakers.</p>
+<div class="ui center aligned container"><f class="ui reply form"><div class="field">
+<input id="fname" name="submitterName" placeholder="Your name..."><input id="qverb" name="qverb" type="hidden" value="adaptuoti"><input id="qlanguage" name="qlanguage" type="hidden" value="lt">
+</div>
+<div class="field"><textarea id="question" name="question" rows="5"></textarea></div>
+<div id="askquestion" class="ui teal labeled submit icon button">
+<i class="icon edit"></i> Ask question about adaptuoti</div></f></div>
+</div></section><div class="content"></div></section></div></div>
+<div class="five wide column">
+<div class="ui segment"><div style="text-align: center;">
+<b>Work in progress</b><p style="padding-top: 10px;"><span style="color: grey; text-align: justify;"><i class="announcement icon red big"></i>Help us become the best conjugation resource. <a href="http://cooljugator.com/blog/2016/12/16/cooljugators-mission">Find out more</a>. </span></p>
+</div></div>
+<div class="ui segment"><div style="text-align: center;">
+<b>Play Lithuanian conjugation game!</b><p style="padding-top: 10px;"><span style="color: grey; text-align: justify;"><i class="game icon orange big"></i>Practice Lithuanian verb conjugation with real sentences in our free <a href="http://cooljugator.com/game/Index">game</a>. Try now!</span></p>
+</div></div>
+<div class="ui segment"><div style="text-align: center;">
+<b>Tip: CTRL + M for navigation!</b><p style="padding-top: 10px;"><span style="color: grey; text-align: justify;"> <i class="keyboard icon teal"></i>You can access a quick navigation menu with the shortcut 'CTRL + M'.</span></p>
+</div></div>
+<div class="ui segment"><div style="text-align: center;">
+<b>Learn Lithuanian with our subtitled book!</b><p><a href="http://interlinearbooks.com/lithuanian/?r=cjgtr&amp;c=lt" rel="nofollow"><img src="/images/presentation_lt.png" style="width: 98%; padding-top: 10px;"></a></p>
+<p>Check out our new product - a novel subtitled Interlinear book in Lithuanian to get reading practice! Click on the 'Try out' button below.</p>
+<a href="http://interlinearbooks.com/lithuanian/?r=cjgtr&amp;c=lt" rel="nofollow"><div style="vertical-align: middle;" class="ui submit button large red">Try out</div></a>
+</div></div>
+<div class="ui segment center aligned">
+<p><b>Receive most useful verbs, tips and other info free!</b><!-- Begin MailChimp Signup Form--></p>
+<!-- Begin MailChimp Signup Form--><div id="mc_embed_signup"><form id="mc-embedded-subscribe-form" action="//cooljugator.us13.list-manage.com/subscribe/post?u=ceca7eaaa8f7bfdc14e243ae2&amp;id=980c8f3061" method="post" name="mc-embedded-subscribe-form" target="_blank" novalidate="" class="validate ui form error center aligned"><div id="mc_embed_signup_scroll">
+<div class="mc-field-group one field center aligned"><div class="field large">
+<label for="mce-EMAIL">Email Address</label><input id="mce-EMAIL" type="email" value="" name="EMAIL" class="required email">
+</div></div>
+<div class="mc-field-group input-group"></div>
+<div class="ui center aligned grid">
+<div id="newsletterlanguageselection" style="margin-top: 1.3rem; margin-bottom: 2rem;" class="ui button teal">Select the language(s) you're interested in</div>
+<div class="ui fluid popup top left transition hidden"><div class="ui four column divided center aligned grid"><ul>
+<li style="list-style-type: none">
+<input type="checkbox" value="1" name="group[2381][1]" id="mce-group[2381]-2381-0"><label for="mce-group[2381]-2381-0">  English</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="2" name="group[2381][2]" id="mce-group[2381]-2381-1"><label for="mce-group[2381]-2381-1">  Esperanto</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="4" name="group[2381][4]" id="mce-group[2381]-2381-2"><label for="mce-group[2381]-2381-2">  Estonian</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="8192" name="group[2381][8192]" id="mce-group[2381]-2381-13"><label for="mce-group[2381]-2381-13">  Hungarian</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="8" name="group[2381][8]" id="mce-group[2381]-2381-3"><label for="mce-group[2381]-2381-3">  Latvian</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" checked value="16" name="group[2381][16]" id="mce-group[2381]-2381-4"><label for="mce-group[2381]-2381-4">  Lithuanian</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="32" name="group[2381][32]" id="mce-group[2381]-2381-5"><label for="mce-group[2381]-2381-5">  Modern Greek</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="2048" name="group[2381][2048]" id="mce-group[2381]-2381-11"><label for="mce-group[2381]-2381-11">  Polish</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="128" name="group[2381][128]" id="mce-group[2381]-2381-6"><label for="mce-group[2381]-2381-6">  Portuguese</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="64" name="group[2381][64]" id="mce-group[2381]-2381-7"><label for="mce-group[2381]-2381-7">  Russian</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="4096" name="group[2381][4096]" id="mce-group[2381]-2381-12"><label for="mce-group[2381]-2381-12">   Spanish</label>
+</li>
+</ul></div></div>
+</div>
+<div id="mce-responses" class="clear">
+<div id="mce-error-response" style="display:none" class="response"></div>
+<div id="mce-success-response" style="display:none" class="response"></div>
+</div>
+<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--><div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_ceca7eaaa8f7bfdc14e243ae2_980c8f3061" tabindex="-1" value=""></div>
+<div style="text-align: center;" class="clear"><input id="mc-embedded-subscribe" type="submit" value="Subscribe" name="subscribe" style="text-align: center; vertical-align: middle;" class="ui submit button large teal"></div>
+</div></form></div>
+<!-- End mc_embed_signup-->
+</div>
+<div class="ui segment"><p style="text-align: center;"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- New 15 May 2016 CoolJugator flexible ad--><ins style="display:block" data-ad-client="ca-pub-0492579730264989" data-ad-slot="4873833251" data-ad-format="auto" class="adsbygoogle"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></p></div>
+<div class="ui segment">
+<p style="text-align: center;"><b>Similar verbs</b></p>
+<table class="ui celled table">
+<thead><tr>
+<th>Verb</th>
+<th>Translation</th>
+</tr></thead>
+<tbody>
+<tr>
+<td style="font-weight: bold;">Same length:</td>
+<td> </td>
+</tr>
+<tr>
+<td> <a href="/lt/adaptuotis" style="text-align: center;">adaptuotis</a>
+</td>
+<td>adapt</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="ui segment">
+<p style="text-align: center;"><b>Other Lithuanian verbs with the meaning <span style="text-decoration: underline;">adapt</span></b></p>
+<table class="ui celled table">
+<thead><tr><th>Verb</th></tr></thead>
+<tbody>
+<tr><td> <a href="/lt/adaptuotis" style="text-align: center;">adaptuotis</a>
+</td></tr>
+<tr><td> <a href="/lt/prisitaikyti" style="text-align: center;">prisitaikyti</a>
+</td></tr>
+<tr><td> <a href="/lt/pritaikyti" style="text-align: center;">pritaikyti</a>
+</td></tr>
+</tbody>
+</table>
+</div>
+<div class="ui segment">
+<p style="text-align: center;"><b>Verb <span style="text-decoration: underline;">adapt</span> in other languages</b></p>
+<table id="VerbinOtherLanguages" class="ui celled table">
+<thead><tr><th>Verb</th></tr></thead>
+<tbody>
+<tr><td>
+<div class="ui ribon label">EN</div>
+<a href="/en/adapt" style="text-align: center;">adapt</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">PL</div>
+<a href="/pl/adaptowa%C4%87" style="text-align: center;">adaptować</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">PL</div>
+<a href="/pl/dostosowa%C4%87" style="text-align: center;">dostosować</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">PL</div>
+<a href="/pl/przystosowa%C4%87" style="text-align: center;">przystosować</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">PL</div>
+<a href="/pl/zaadaptowa%C4%87" style="text-align: center;">zaadaptować</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">RU</div>
+<a href="/ru/%D0%BF%D1%80%D0%B8%D1%81%D0%BF%D0%BE%D1%81%D0%B0%D0%B1%D0%BB%D0%B8%D0%B2%D0%B0%D1%82%D1%8C%D1%81%D1%8F" style="text-align: center;">приспосабливаться</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">RU</div>
+<a href="/ru/%D0%BF%D1%80%D0%B8%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%B8%D1%82%D1%8C%D1%81%D1%8F" style="text-align: center;">приспособиться</a>
+</td></tr>
+</tbody>
+</table>
+</div>
+<div class="ui segment">
+<p style="text-align: center;"><b>Do you know these verbs?</b></p>
+<table class="ui celled table">
+<thead><tr>
+<th>Verb</th>
+<th>Translation</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><a href="/lt/baigti" style="text-align: center;">baigti</a></td>
+<td>finish</td>
+</tr>
+<tr>
+<td><a href="/lt/%C4%AFkelti" style="text-align: center;">įkelti</a></td>
+<td>load</td>
+</tr>
+<tr>
+<td><a href="/lt/mindyti" style="text-align: center;">mindyti</a></td>
+<td>trample down</td>
+</tr>
+<tr>
+<td><a href="/lt/pa%C4%97sti" style="text-align: center;">paėsti</a></td>
+<td>eat (like an animal)</td>
+</tr>
+<tr>
+<td><a href="/lt/pavakarieniauti" style="text-align: center;">pavakarieniauti</a></td>
+<td>have supper</td>
+</tr>
+<tr>
+<td><a href="/lt/prasibusti" style="text-align: center;">prasibusti</a></td>
+<td>wake up</td>
+</tr>
+<tr>
+<td><a href="/lt/surengti" style="text-align: center;">surengti</a></td>
+<td>organize</td>
+</tr>
+<tr>
+<td><a href="/lt/u%C5%BEsiv%C4%97linti" style="text-align: center;">užsivėlinti</a></td>
+<td>retard</td>
+</tr>
+<tr>
+<td><a href="/lt/va%C5%A1kuoti" style="text-align: center;">vaškuoti</a></td>
+<td>wax</td>
+</tr>
+<tr>
+<td><a href="/lt/versti" style="text-align: center;">versti</a></td>
+<td>translate</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="QuickNavigation" class="ui segment center aligned fluid vertical menu sticky">
+<a href="#conjugate" class="item"><b>Quick Navigation </b></a><p> <i class="keyboard icon teal"></i><span style="color: grey;">'CTRL + M' anytime to show this menu</span></p>
+<div class="item">
+<a href="#conjugate" style="text-decoration: none; color: inherit;"><b>Conjugations</b></a><div class="menu">
+<a href="#present" class="item">Present tense</a><a href="#past" class="item">Past tense</a><a href="#pastfrequentative" class="item">Past frequentative tense</a><a href="#future" class="item">Future tense</a><a href="#conditional" class="item">Conditional mood</a><a href="#imperative" class="item">Imperative mood</a>
+</div>
+</div>
+<div class="item"><a href="#examples" style="text-decoration: none; color: inherit;"><b>Examples</b></a></div>
+<p style="padding-left: 5px; padding-right: 5px;"> <a href="http://interlinearbooks.com/lithuanian/?r=cjgtr&amp;c=lt" rel="nofollow"><i class="book icon red"></i></a><span style="color: grey;">Have you tried our <a href="http://interlinearbooks.com/lithuanian/?r=cjgtr&amp;c=lt" rel="nofollow">Lithuanian Interlinear Book?</a></span></p>
+</div>
+</div>
+</div>
+<footer><div style="margin-top: 10vh; padding-top: 4vh;" class="ui inverted vertical footer segment grey"><div class="ui center aligned container">
+<div class="ui stackable inverted divided grid">
+<div class="three wide column">
+<h4 class="ui inverted header">CoolJugator</h4>
+<div class="ui inverted link list">
+<a href="/" class="item">Home</a><a href="mailto:cooljugator@techie.com" class="item">Contact us</a><a href="/about/#acknowledgments" class="item">Acknowledgments</a><a href="/about/" class="item">About</a><a href="/game/Index" class="item">Conjugation game</a><a href="/blog/" class="item">Blog</a>
+</div>
+</div>
+<div class="three wide column">
+<h4 class="ui inverted header">Languages</h4>
+<div id="OtherLanguages" class="ui inverted link list">
+<a href="/af/" class="item">Afrikaans</a><a href="/sq/" class="item">Albanian</a><a href="/ar/" class="item">Arabic</a><a href="/az/" class="item">Azeri</a><a href="/eu/" class="item">Basque</a><a href="/ca/" class="item">Catalan</a><a href="/da/" class="item">Danish</a><a href="/nl/" class="item">Dutch</a><a href="/en/" class="item">English</a><a href="/eo/" class="item">Esperanto</a><a href="/ee/" class="item">Estonian</a><a href="/fo/" class="item">Faroese</a><a href="/fi/" class="item">Finnish verbs</a><a href="/fia/" class="item">Finnish adjectives</a><a href="/fin/" class="item">Finnish nouns</a><a href="/fr/" class="item">French</a>
+</div>
+</div>
+<div class="three wide column">
+<h4 class="ui inverted header">   </h4>
+<div id="OtherLanguages" class="ui inverted link list">
+<a href="/de/" class="item">German</a><a href="/hw/" class="item">Hawaiian</a><a href="/he/" class="item">Hebrew</a><a href="/hu/" class="item">Hungarian</a><a href="/it/" class="item">Italian</a><a href="/is/" class="item">Icelandic</a><a href="/id/" class="item">Indonesian</a><a href="/ja/" class="item">Japanese</a><a href="/lt/" class="item">Lithuanian</a><a href="/lv/" class="item">Latvian</a><a href="/mk/" class="item">Macedonian</a><a href="/ms/" class="item">Malay</a><a href="/mt/" class="item">Maltese</a><a href="/mi/" class="item">Maori</a><a href="/gr/" class="item">Modern Greek</a><a href="/no/" class="item">Norwegian</a><a href="/fa/" class="item">Persian</a>
+</div>
+</div>
+<div class="three wide column">
+<h4 class="ui inverted header">  </h4>
+<div id="OtherLanguages" class="ui inverted link list">
+<a href="/pl/" class="item">Polish</a><a href="/pt/" class="item">Portuguese</a><a href="/qu/" class="item">Quechua</a><a href="/ro/" class="item">Romanian</a><a href="/ru/" class="item">Russian verbs</a><a href="/rua/" class="item">Russian adjectives</a><a href="/run/" class="item">Russian nouns</a><a href="/es/" class="item">Spanish</a><a href="/sv/" class="item">Swedish</a><a href="/th/" class="item">Thai</a><a href="/tr/" class="item">Turkish</a><a href="/vi/" class="item">Vietnamese</a>
+</div>
+</div>
+<div class="one wide column"></div>
+</div>
+<div class="ui inverted section divider"></div>
+<a href="/"><img src="/images/logo.png" alt="CoolJugator - an intelligent verb conjugator" class="ui centered image"></a><div class="ui horizontal inverted small divided link list">
+<a href="mailto:cooljugator@techie.com" class="item">Contact us</a><a href="http://facebook.com/cooljugator" class="item">Facebook</a><a href="http://twitter.com/cooljugator" class="item">Twitter</a>
+</div>
+</div></div>
+<script type="text/javascript" src="/javascripts/main.js"></script><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create', 'UA-8339065-3', 'auto');ga('send', 'pageview');</script></footer>
+</div>
+<script>(function(){var uv=document.createElement('script');uv.type='text/javascript';uv.async=true;uv.src='//widget.uservoice.com/uhrNzv9ysf9fNIGfDWgPQ.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(uv,s)})()</script>  <!-- A tab to launch the Classic Widget --> <script> UserVoice = window.UserVoice || []; UserVoice.push(['showTab', 'classic_widget', {   mode: 'feedback',   primary_color: '#00b5ac',   link_color: '#0a8cc6',   forum_id: 123075,   tab_label: 'Feedback',   tab_color: '#00b5ac',   tab_position: 'middle-right',   tab_inverted: false }]); </script>
+</body>
+</html>

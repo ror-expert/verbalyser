@@ -1,0 +1,958 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Būti conjugation in Lithuanian in all forms | CoolJugator.com</title>
+<meta name="description" content="Conjugate the Lithuanian verb būti in all forms and with usage examples. Būti conjugation has never been easier!">
+<link rel="stylesheet" type="text/css" href="/components/semantic/dist/semantic.css">
+<link rel="stylesheet" type="text/css" href="/stylesheets/main.css">
+<link rel="stylesheet" type="text/css" href="/stylesheets/languagemap.css">
+<script type="text/javascript" src="/components/jquery/dist/jquery.min.js"></script><script type="text/javascript" src="/components/semantic/dist/semantic.min.js"></script>
+</head>
+<body>
+<div class="ui menu large inverted grey">
+<div id="CoolJugatorLogo" class="item"><a href="/"><img src="/images/logo.png" alt="CoolJugator: the smart verb Conjugator"></a></div>
+<div id="siteLanguageSelection" class="item"><div class="ui dropdown topmenuselection inverted grey">
+<div class="text">Lithuanian</div>
+<i class="dropdown icon"></i><div id="topBarSelectionMenu" class="menu">
+<div data-value="" class="item">Home</div>
+<div data-value="da" class="item">Danish</div>
+<div data-value="en" class="item">English</div>
+<div data-value="eo" class="item">Esperanto</div>
+<div data-value="fr" class="item">French</div>
+<div data-value="ee" class="item">Estonian</div>
+<div data-value="hu" class="item">Hungarian</div>
+<div data-value="it" class="item">Italian</div>
+<div data-value="ja" class="item">Japanese</div>
+<div data-value="lt" class="item">Lithuanian</div>
+<div data-value="lv" class="item">Latvian</div>
+<div data-value="gr" class="item">Modern Greek</div>
+<div data-value="pl" class="item">Polish</div>
+<div data-value="pt" class="item">Portuguese</div>
+<div data-value="ro" class="item">Romanian</div>
+<div data-value="ru" class="item">Russian</div>
+<div data-value="es" class="item">Spanish</div>
+<div data-value="tr" class="item">Turkish</div>
+</div>
+</div></div>
+<div id="topBarSearch" class="item"><div class="ui action input"><input type="text" placeholder="Type verb in Lithuanian or in English..." id="search" autofocus></div></div>
+</div>
+<div class="pusher">
+<div class="ui equal width grid stackable container">
+<div style="display: none;" class="row"><div class="column"><div id="results" class="ui segment"><p></p></div></div></div>
+<div class="row"><div class="column"><div class="ui segment">
+<div class="ui breadcrumb">
+<a href="/" class="section"><i class="home icon"></i>Home</a><i class="right chevron icon divider"></i><a href="/lt/" class="section">Lithuanian</a><i class="right chevron icon divider"></i><div id="individualverb" class="active section">būti</div>
+</div>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- CoolJugator Top CrumbsBar--><ins style="display:block" data-ad-client="ca-pub-0492579730264989" data-ad-slot="2205579251" data-ad-format="auto" class="adsbygoogle"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div></div></div>
+<div class="eleven wide stretched column"><div id="mainContentArea" class="ui segment"><section id="conjugate"><h1 id="mainTitle">Būti conjugation</h1>
+<div class="ui centered grid"><div class="center aligned column"><div id="navigationMenu" class="ui compact tabular stackable menu">
+<a href="#conjugate" class="item active">Conjugate</a><a href="#usage" class="item">Usage</a><a href="#examples" class="item">Examples [57]</a><a href="#questions" class="item">Questions [0]</a>
+</div></div></div>
+<h2 class="ui header">
+<i class="list layout teal icon"></i>Conjugate būti - to be</h2>
+<div id="mapexplanation" style="text-align: right;"><i data-content="This būti conjugation map displays how forms of the verb būti are constructed. Moreover, it also serves as an easy navigation menu: you can click on any part of the map to be taken directly to those forms." class="write info teal icon"></i></div>
+<div id="conjugationmap" style="min-height: 250px" class="ui container"><div class="tree"><ul><li>
+<a href="#">Verb stem bū-</a><ul>
+<li>
+<a href="#conjugate">Infinitive: būti</a><ul>
+<li><a href="#future">Future</a></li>
+<li><a href="#pastfrequentative">Past frequentative</a></li>
+<li><a href="#conditional">Conditional</a></li>
+<li><a href="#imperative">Imperative</a></li>
+</ul>
+</li>
+<li>
+<a href="#present">Present (s)he: yra</a><ul><li><a href="#present">Present forms</a></li></ul>
+</li>
+<li>
+<a href="#past">Past (s)he: buvo</a><ul><li><a href="#past">Past forms</a></li></ul>
+</li>
+</ul>
+</li></ul></div></div>
+<div style="text-align: right;"><div id="markstress" class="ui button teal">
+<i class="write square icon"></i>Turn on word stress</div></div>
+<div class="ui container">
+<p id="present" class="tensetitle">Present tense</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th data-content="The present forms of the verb būti in Lithuanian." data-variation="inverted"> Lithuanian Form</th>
+<th data-content="The present forms of the verb būti translated to English." data-variation="inverted">English Translation</th>
+<th data-content="Click on the icon to see Lithuanian examples of this particular form." data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Aš</div></td>
+<td id="present1" data-stressed="esù">esu </td>
+<td>I am</td>
+<td><a href="#examplepresent1"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="present2" data-stressed="esì">esi </td>
+<td>you are</td>
+<td><a href="#examplepresent2"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jis/ji</div></td>
+<td id="present3" data-stressed="yrà">yra </td>
+<td>he/she is</td>
+<td><a href="#examplepresent3"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Mes</div></td>
+<td id="present4" data-stressed="ẽsame">esame </td>
+<td>we are</td>
+<td><a href="#examplepresent4"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="present5" data-stressed="ẽsate">esate </td>
+<td>you all are</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jie/jos</div></td>
+<td id="present6" data-stressed="yrà">yra </td>
+<td>they are</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p id="past" class="tensetitle">Past tense</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th data-content="The past forms of the verb būti in Lithuanian." data-variation="inverted"> Lithuanian Form</th>
+<th data-content="The past forms of the verb būti translated to English." data-variation="inverted">English Translation</th>
+<th data-content="Click on the icon to see Lithuanian examples of this particular form." data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Aš</div></td>
+<td id="past1" data-stressed="buvaũ">buvau </td>
+<td>I was</td>
+<td><a href="#examplepast1"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="past2" data-stressed="buvaĩ">buvai </td>
+<td>you were</td>
+<td><a href="#examplepast2"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jis/ji</div></td>
+<td id="past3" data-stressed="bùvo">buvo </td>
+<td>he/she was</td>
+<td><a href="#examplepast3"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Mes</div></td>
+<td id="past4" data-stressed="bùvome">buvome </td>
+<td>we were</td>
+<td><a href="#examplepast4"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="past5" data-stressed="bùvote">buvote </td>
+<td>you all were</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jie/jos</div></td>
+<td id="past6" data-stressed="bùvo">buvo </td>
+<td>they were</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p id="pastfrequentative" class="tensetitle">Past frequentative tense</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th data-content="The past frequentative forms of the verb būti in Lithuanian." data-variation="inverted"> Lithuanian Form</th>
+<th data-content="The past frequentative forms of the verb būti translated to English." data-variation="inverted">English Translation</th>
+<th data-content="Click on the icon to see Lithuanian examples of this particular form." data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Aš</div></td>
+<td id="pastperfect1" data-stressed="bū́davau">būdavau </td>
+<td>I used to be</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="pastperfect2" data-stressed="bū́davai">būdavai </td>
+<td>you used to be</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jis/ji</div></td>
+<td id="pastperfect3" data-stressed="bū́davo">būdavo </td>
+<td>he/she used to be</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Mes</div></td>
+<td id="pastperfect4" data-stressed="bū́davome">būdavome </td>
+<td>we used to be</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="pastperfect5" data-stressed="bū́davote">būdavote </td>
+<td>you all used to be</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jie/jos</div></td>
+<td id="pastperfect6" data-stressed="bū́davo">būdavo </td>
+<td>they used to be</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p id="future" class="tensetitle">Future tense</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th data-content="The future forms of the verb būti in Lithuanian." data-variation="inverted"> Lithuanian Form</th>
+<th data-content="The future forms of the verb būti translated to English." data-variation="inverted">English Translation</th>
+<th data-content="Click on the icon to see Lithuanian examples of this particular form." data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Aš</div></td>
+<td id="future1" data-stressed="bū́siu">būsiu </td>
+<td>I will be</td>
+<td><a href="#examplefuture1"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="future2" data-stressed="bū́si">būsi </td>
+<td>you will be</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jis/ji</div></td>
+<td id="future3" data-stressed="bùs">bus </td>
+<td>he/she will be</td>
+<td><a href="#examplefuture3"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Mes</div></td>
+<td id="future4" data-stressed="bū́sime">būsime </td>
+<td>we will be</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="future5" data-stressed="bū́site">būsite </td>
+<td>you all will be</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jie/jos</div></td>
+<td id="future6" data-stressed="bùs">bus </td>
+<td>they will be</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p id="conditional" class="tensetitle">Conditional mood</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th data-content="The conditional forms of the verb būti in Lithuanian." data-variation="inverted"> Lithuanian Form</th>
+<th data-content="The conditional forms of the verb būti translated to English." data-variation="inverted">English Translation</th>
+<th data-content="Click on the icon to see Lithuanian examples of this particular form." data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Aš</div></td>
+<td id="hypothetical1" data-stressed="būčiaũ">būčiau </td>
+<td>I would be</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="hypothetical2" data-stressed="bū́tum">būtum </td>
+<td>you would be</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jis/ji</div></td>
+<td id="hypothetical3" data-stressed="bū́tų">būtų </td>
+<td>he/she would be</td>
+<td><a href="#examplehypothetical3"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Mes</div></td>
+<td id="hypothetical4" data-stressed="būtumè">būtume </td>
+<td>we would be</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="hypothetical5" data-stressed="bū́tute">būtute </td>
+<td>you all would be</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jie/jos</div></td>
+<td id="hypothetical6" data-stressed="bū́tų">būtų </td>
+<td>they would be</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p id="imperative" class="tensetitle">Imperative mood</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th>Lithuanian Form</th>
+<th>English Translation</th>
+<th data-content="Click on the icon to see examples of this particular form" data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="command2" data-stressed="bū́k">būk </td>
+<td>you be!</td>
+<td><a href="#examplecommand2"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="command4" data-stressed="bū́kite">būkite</td>
+<td>you all be!</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 class="ui dividing header">Feedback: Noticed a mistake? Have a suggestion?</h3>
+<div id="feedbackMenu">
+<p>Have you noticed a mistake or a bug here somewhere on this page? Have ideas how we can improve our content? Submit a request for us and we will do our best to take your feedback into account!</p>
+<div class="ui container"><f method="post" class="ui review form"><div class="field">
+<input id="fname" name="fsubmitterName" placeholder="Your name..."><input id="fverb" name="fverb" type="hidden" value="būti"><input id="flanguage" name="flanguage" type="hidden" value="lt"><input id="feedback" name="feedback" type="text" placeholder="Describe your feedback...">
+</div>
+<div style="text-align: center;" class="clear"><button id="givefeedback" type="submit" class="ui teal labeled icon button"><i class="bug icon"></i>    Submit for review</button></div></f></div>
+<div class="ui divider"></div>
+</div>
+<section id="usage"><p style="font-size: 1.714rem; padding-top: 8vh; padding-bottom: 4vh; color: rgba(0, 0, 0, 0.87);" class="ui header usageheader"><i class="info teal icon"></i>Usage information for būti</p>
+<p>You say: kas - who (e.g. jis yra kalvis - he is a blacksmith), when talking about temporary states of being or professions: kuo, e.g. (jis dešimt metų buvo kalviu - he was a blacksmith for ten years).</p></section><section id="examples"><h3 style="font-size: 1.714rem; padding-top: 8vh; padding-bottom: 4vh; color: rgba(0, 0, 0, 0.87);" class="ui header">
+<i class="quote left teal icon"></i>Examples of būti</h3>
+<table id="ExampleSentences" class="ui celled striped table">
+<thead><tr>
+<th data-content="An example sentence in Lithuanian. Our example sentences are picked from multiple sources with real world spoken or written language." data-variation="inverted" class="eight wide">Example in Lithuanian</th>
+<th data-content="The translation of the example in the English language, with the relevant part highlighted if possible." data-variation="inverted" class="eight wide">Translation in English</th>
+<th data-content="A link to the conjugated form - move your mouse over it to find out which form it is, or click on it to go back to the conjugation of that form." data-variation="inverted" class="one wide">Fm.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td id="exampleinfinitive0">Nepažeidžiant būsimų sprendimų dėl politikos, bendri įsipareigojami asignavimai struktūriniams veiksmams, kurie turi <span class="highlightsample">būti</span> skiriami Bulgarijai ir Rumunijai trejų metų 2007–2009 m. laikotarpiu yra tokie:</td>
+<td>Without prejudice to future policy decisions, the overall commitment appropriations for structural actions <span class="highlightsample">to be</span> made available for Bulgaria and Romania over the three-year period 2007‐2009 shall be as follows:</td>
+<td><a href="#conjugate"><i data-content="An instance of the main form." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="exampleinfinitive0-1">Sprendimo 2004/205/EB tekstas norvegų kalba, kuris turi <span class="highlightsample">būti</span> paskelbtas Europos Sąjungos oficialiojo leidinio EEE priede, yra autentiškas.</td>
+<td>The text of Decision 2004/205/EC in the Norwegian language, <span class="highlightsample">to be</span> published in the EEA Supplement to the Official Journal of the European Union, shall be authentic.</td>
+<td><a href="#conjugate"><i data-content="An instance of the main form." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="exampleinfinitive0-2">Direktyvos 2003/15/EB tekstai islandų ir norvegų kalbomis, kurie turi <span class="highlightsample">būti</span> paskelbti Europos Sąjungos oficialiojo leidinio EEE priede, yra autentiški.</td>
+<td>The texts of Directive 2003/15/EC in the Icelandic and Norwegian languages, <span class="highlightsample">to be</span> published in the EEA Supplement to the Official Journal of the European Union, shall be authentic.</td>
+<td><a href="#conjugate"><i data-content="An instance of the main form." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="exampleinfinitive0-3">Reglamento (EB) Nr. 2679/98 ir 1998 m. gruodžio 7 d. Tarybos ir Taryboje posėdžiavusių valstybių narių vyriausybių atstovų rezoliucijos dėl laisvo prekių judėjimo tekstai islandų ir norvegų kalbomis, kurie turi <span class="highlightsample">būti</span> paskelbti Europos Sąjungos oficialiojo leidinio EEE priede, yra autentiški.</td>
+<td>The texts of Regulation (EC) No 2679/98 and the Resolution of the Council and of the representatives of the governments of the Member States, meeting within the Council of 7 December 1998 in the Icelandic and Norwegian languages, <span class="highlightsample">to be</span> published in the EEA Supplement to the Official Journal of the European Union, shall be authentic.</td>
+<td><a href="#conjugate"><i data-content="An instance of the main form." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="exampleinfinitive0-4">Direktyvos 2003/32/EB tekstai islandų ir norvegų kalbomis, kurie turi <span class="highlightsample">būti</span> paskelbti Europos Sąjungos oficialiojo leidinio EEE priede, yra autentiški.</td>
+<td>The texts of Directive 2003/32/EC in the Icelandic and Norwegian languages, <span class="highlightsample">to be</span> published in the EEA Supplement to the Official Journal of the European Union, shall be authentic.</td>
+<td><a href="#conjugate"><i data-content="An instance of the main form." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent1">Mąstau, vadinasi <span class="highlightsample">esu</span>.</td>
+<td>I think, therefore I <span class="highlightsample">am</span>.</td>
+<td><a href="#present1"><i data-content="A 1st person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent1-1">„Aš, toliau pasirašęs asmuo, patvirtinu, kad šioje paraiškoje pateikta informacija yra teisinga ir nurodyta sąžiningai, ir kad aš <span class="highlightsample">esu</span> įsisteigęs Bendrijoje.“</td>
+<td>‘I, the undersigned, certify that the information provided in this application is true and given in good faith, and that I <span class="highlightsample">am</span> established in the Community.’</td>
+<td><a href="#present1"><i data-content="A 1st person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent1-2">toliau pateikiamas patvirtinimas, kuriame pareiškėjas turi įrašyti datą ir jį pasirašyti spausdintinėmis raidėmis įrašydamas savo vardą ir pavardę: „Aš, toliau pasirašęs, patvirtinu, kad šiame prašyme nurodyta informacija yra tiksli bei pateikta sąžiningai ir kad aš <span class="highlightsample">esu</span> įsisteigęs Bendrijoje“.</td>
+<td>the following declaration, dated and signed by the applicant with the transcription of his n<span class="highlightsample">am</span>e in capital letters: ‘I, the undersigned, certify that the information provided in this application is true and given in good faith, and that I <span class="highlightsample">am</span> established in the Community’.</td>
+<td><a href="#present1"><i data-content="A 1st person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent1-3">„Aš, toliau pasirašęs, patvirtinu, kad šioje paraiškoje nurodyta informacija yra teisinga ir pateikta sąžiningai ir kad <span class="highlightsample">esu</span> įsikūręs Bendrijoje.“</td>
+<td>‘I, the undersigned, certify that the information provided in this application is true and given in good faith, and that I <span class="highlightsample">am</span> established in the Community.’</td>
+<td><a href="#present1"><i data-content="A 1st person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent1-4">„Aš, toliau pasirašęs, patvirtinu, kad šioje paraiškoje nurodyta informacija yra teisinga ir pateikta sąžiningai ir kad <span class="highlightsample">esu</span> įsikūręs Bendrijoje“.</td>
+<td>‘I, the undersigned, certify that the information provided in this application is true and given in good faith, and that I <span class="highlightsample">am</span> established in the Community.’</td>
+<td><a href="#present1"><i data-content="A 1st person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent1-5">Patvirtinu, kad <span class="highlightsample">esu</span> teisiškai įgaliotas atstovauti [pavadinimas] (gamintojui), kuris teikia prašymą leisti taikyti Reglamento (EB) Nr. 443/2009 11 straipsnyje numatytą nukrypti leidžiančią nuostatą ir kuris priklauso susijusių gamintojų grupei, kaip apibrėžta to reglamento 3 straipsnio 2 dalyje, bet naudojasi savais gamybos įrenginiais ir projektavimo centru, kaip apibrėžta Komisijos reglamento (EB) Nr. 000 2 straipsnyje. Mano žiniomis [pavadinimas] (gamintojas) atitinka Reglamento (EB) Nr. 443/2009 11 straipsnio [1] dalyje numatytus kriterijus, pagal kuriuos galima teikti prašymą leisti taikyti nukrypti leidžiančią nuostatą, ir prašyme pateikta informacija yra teisinga ir tiksli.</td>
+<td>I hereby declare that I <span class="highlightsample">am</span> legally empowered to represent [n<span class="highlightsample">am</span>e] (the manufacturer) applying for a derogation as foreseen in Article 11 of Regulation (EC) No 443/2009 which is part of a group of connected manufacturers as defined in Article 3(2) thereof but operates its own production facilities and design centre as defined in Article 2 of Commission Regulation (EC) No 000 To the best of my knowledge the [n<span class="highlightsample">am</span>e] (the manufacturer) is eligible to apply for a derogation as foreseen in Article 11[(1)] of Regulation (EC) No 443/2009 and that the information contained in the application is true and accurate.</td>
+<td><a href="#present1"><i data-content="A 1st person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent2">Jeigu <span class="highlightsample">esi</span> nelydimas nepilnametis, gali būti, kad gyvensi vietoje, kurioje nustatytos taisyklės, kad privalai būti viduje naktį arba kai lauke yra tamsu, arba taisyklės, kad turi pranešti tavimi b<span class="highlightsample">esi</span>rūpinantiems žmonėms, kad išeini ir kada ketini sugrįžti.</td>
+<td>If you <span class="highlightsample">are</span> an unaccompanied minor you may be living in accommodation where there <span class="highlightsample">are</span> rules so that you must stay inside at night or when it is dark outside or rules that mean you have to tell the people looking after you if you <span class="highlightsample">are</span> going outside and when you will be coming back.</td>
+<td><a href="#present2"><i data-content="A 2nd person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent2-1">Jeigu šalis, kurioje dabar <span class="highlightsample">esi</span>, yra atsakinga už tavo prašymo nagrinėjimą, turi teisę pasilikti čia bent tol, kol bus priimtas pirmas sprendimas dėl tavo prieglobsčio prašymo.</td>
+<td>If the country where you <span class="highlightsample">are</span> now present is responsible for examining your asylum request, you have the right to remain here at least until a first decision is taken on your asylum application.</td>
+<td><a href="#present2"><i data-content="A 2nd person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent2-2">- Tu <span class="highlightsample">esi</span> dezertyras.</td>
+<td>-You <span class="highlightsample">are</span> a deserter.</td>
+<td><a href="#present2"><i data-content="A 2nd person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent2-3">Taip, tu <span class="highlightsample">esi</span> dezertyras.</td>
+<td>Yes, you <span class="highlightsample">are</span> a deserter.</td>
+<td><a href="#present2"><i data-content="A 2nd person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent2-4">Šie žmonės žino, kas iš tikrųjų <span class="highlightsample">esi</span>. Jie yra tarsi tavo šeima. Būk su jais nuoširdus.</td>
+<td>These people know who you truly <span class="highlightsample">are</span>.</td>
+<td><a href="#present2"><i data-content="A 2nd person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent3">ATSIŽVELGDAMI į tai, kad Taryba, gavusi Komisijos nuomonę ir Europos Parlamento pritarimą, <span class="highlightsample">yra</span> pareiškusi pritarianti šių valstybių priėmimui,</td>
+<td>CONSIDERING that the Council, after having obtained the opinion of the Comm<span class="highlightsample">is</span>sion and the assent of the European Parliament, has declared itself in favour of the adm<span class="highlightsample">is</span>sion of these States,</td>
+<td><a href="#present3"><i data-content="A 3rd person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent3-1">To Protokolo nuostatos <span class="highlightsample">yra</span> neatskiriama šios Sutarties dalis.</td>
+<td>The prov<span class="highlightsample">is</span>ions of that Protocol shall form an integral part of th<span class="highlightsample">is</span> Treaty.</td>
+<td><a href="#present3"><i data-content="A 3rd person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent3-2">To Akto nuostatos <span class="highlightsample">yra</span> neatskiriama šios Sutarties dalis.</td>
+<td>The prov<span class="highlightsample">is</span>ions of that Act shall form an integral part of th<span class="highlightsample">is</span> Treaty.</td>
+<td><a href="#present3"><i data-content="A 3rd person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent3-3">Tačiau jei kuri nors iš 1 straipsnio 1 dalyje nurodytų valstybių nustatytu laikus nebus deponavusi savo ratifikavimo dokumento, ši Sutartis įsigalioja kitai valstybei, kuri savo dokumentą <span class="highlightsample">yra</span> deponavusi.</td>
+<td>If, however, a State referred to in Article 1(1) has not deposited its instrument of ratification in due time, th<span class="highlightsample">is</span> Treaty shall enter into force for the other State which has deposited its instrument.</td>
+<td><a href="#present3"><i data-content="A 3rd person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent3-4">Ši vienu originaliu egzemplioriumi airių, anglų, bulgarų, čekų, danų, estų, graikų, ispanų, italų, latvių, lenkų, lietuvių, maltiečių, olandų, portugalų, prancūzų, rumunų, slovakų, slovėnų, suomių, švedų, vengrų ir vokiečių kalbomis sudaryta Sutartis, kurios tekstai kiekviena iš šių kalbų <span class="highlightsample">yra</span> autentiški, deponuojama Italijos Respublikos Vyriausybės archyvuose, o ši patvirtintą kopiją perduoda kiekvienos kitos ją pasirašiusios valstybės vyriausybei.</td>
+<td>Th<span class="highlightsample">is</span> Treaty, drawn up in a single original in the Bulgarian, Czech, Dan<span class="highlightsample">is</span>h, Dutch, Engl<span class="highlightsample">is</span>h, Estonian, Finn<span class="highlightsample">is</span>h, French, German, Greek, Hungarian, Ir<span class="highlightsample">is</span>h, Italian, Latvian, Lithuanian, Maltese, Pol<span class="highlightsample">is</span>h, Portuguese, Romanian, Slovak, Slovenian, Span<span class="highlightsample">is</span>h and Swed<span class="highlightsample">is</span>h languages, the texts in each of these languages being equally authentic, shall be deposited in the archives of the Government of the Italian Republic, which will remit a certified copy to each of the Governments of the other Signatory States.</td>
+<td><a href="#present3"><i data-content="A 3rd person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent4">Kaip aprašyta pirmiau, patalpos akustinis poveikis mums yra skirtingas, kai <span class="highlightsample">esame</span> arti garso šaltinio arba toli nuo jo.</td>
+<td>As we saw above, the room acoustic eect is dierent when we <span class="highlightsample">are</span> close to or far from the noise source.</td>
+<td><a href="#present4"><i data-content="A 4th person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent4-1">Mes <span class="highlightsample">esame</span> priklausomi nuo natūralių gamtos išteklių, tokių kaip nafta, kurie yra riboti, be to, jų naudojimas teršia atmosferą.</td>
+<td>We depend on natural resources, such as oil, that <span class="highlightsample">are</span> finite in nature and our use of them pollutes the atmosphere.</td>
+<td><a href="#present4"><i data-content="A 4th person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent4-2">Tačiaumums kliudo tai, kad mes <span class="highlightsample">esame</span> Kipre, toli nuo vakarų Europos rinkos, kur turime gabenti prekes lėktuvu, todėlmūsų produktai yra brangesni.“</td>
+<td>The disadvantage is that we <span class="highlightsample">are</span> in Cyprus,far from western European markets, where we have toship our goods by air, which makes our products moreexpensive.’</td>
+<td><a href="#present4"><i data-content="A 4th person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent4-3">„Norsmes <span class="highlightsample">esame</span> daugiau nei 4 000kmnuo Briuselio, Komisijos programosdažnai yra geriausiai matomos tokiosešalyse kaip ši.</td>
+<td>gramme in that country. ‘Although we<span class="highlightsample">are</span> more than 4 000 km from Brussels, it is often in countries like thisthat Commission programmes givethe EU its highest visibility.</td>
+<td><a href="#present4"><i data-content="A 4th person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent4-4">Bendros užsienio ir saugumo politikos bei Europos saugumo ir gynybos politikos esmė yra tai, kad veikdami drauge <span class="highlightsample">esame</span> stipresni.</td>
+<td>The point of the Common Foreign and Security Policy and European Security and Defence Policy is that we <span class="highlightsample">are</span> stronger when we act together.</td>
+<td><a href="#present4"><i data-content="A 4th person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast1">Aš <span class="highlightsample">buvau</span> didingiausias, kokį tik yra matęs Eštonas.</td>
+<td>I <span class="highlightsample">was</span> the biggest thing Ashton had ever seen.</td>
+<td><a href="#past1"><i data-content="A 1st person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast1-1">Aš visa laika <span class="highlightsample">buvau</span> tai, ko iš manes vyras reikalavo.</td>
+<td>I <span class="highlightsample">was</span> everything they wanted me to be.</td>
+<td><a href="#past1"><i data-content="A 1st person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast1-2">Praėjo daug laiko, kol supratau, kad tas vyras <span class="highlightsample">buvau</span> aš.</td>
+<td>Took me a long time to understand that that man <span class="highlightsample">was</span> me.</td>
+<td><a href="#past1"><i data-content="A 1st person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast1-3">Taip, <span class="highlightsample">buvau</span> blogas vyras.</td>
+<td>Ahem. Yes, I <span class="highlightsample">was</span> a bad husband.</td>
+<td><a href="#past1"><i data-content="A 1st person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast2">Kažkada tu <span class="highlightsample">buvai</span> Rohano Vyras.</td>
+<td>You <span class="highlightsample">were</span> once a Man of Rohan.</td>
+<td><a href="#past2"><i data-content="A 2nd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast2-1">Tu <span class="highlightsample">buvai</span> vienintelis vyras, neleidęs man laimėti.</td>
+<td>You <span class="highlightsample">were</span> the only one who would never let me win,</td>
+<td><a href="#past2"><i data-content="A 2nd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast2-2">Yra kad, kas tu galvojai, kai tu <span class="highlightsample">buvai</span> Betos Name?</td>
+<td>Is that what you thought when you <span class="highlightsample">were</span> in the Beta House?</td>
+<td><a href="#past2"><i data-content="A 2nd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast2-3">Mano tėvas visada sakydavo, kad tu, <span class="highlightsample">buvai</span> pats drąsiausias vyras, kurį jis kadanors buvo sutikęs.</td>
+<td>That's what my old man said about you, you <span class="highlightsample">were</span> the most bullheaded man he ever met.</td>
+<td><a href="#past2"><i data-content="A 2nd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast2-4">Na, tuomet pasakai vyrukui, su kuriuo miegojai tik kartą - man, kuris tam nebuvo pasiruošęs, bet tu <span class="highlightsample">buvai</span> pasiruošusi ir tai yra tavo kūnas, taigi...</td>
+<td>Well, then, you told the guy whom you only slept with once, me, and I wasn't into it, but you <span class="highlightsample">were</span> and it's your body, so...</td>
+<td><a href="#past2"><i data-content="A 2nd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast3">Metodas yra registruojamas ir taikomas pagal bendruosius apskaitos metodus, taikomus šalyje, kurioje produktas <span class="highlightsample">buvo</span> pagamintas.</td>
+<td>The method shall be applied and the application shall be recorded on the basis of the general accounting principles applicable in the country where the product <span class="highlightsample">was</span> manufactured.</td>
+<td><a href="#past3"><i data-content="A 3rd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast3-1">2001 m. gegužės 10 d. <span class="highlightsample">buvo</span> priimtas AKR ir EB muitinių bendradarbiavimo komiteto sprendimas Nr. 3/2001, nukrypstantis nuo sąvokos „produktai, kurių kilmės šalis yra“ apibrėžimo, atsižvelgiant į ypatingą Svazilando karalystės padėtį dėl šerdinės sandaros siūlų gamybos srityje [1] (5206.22, 5206.42, 5402.52 ir 5402.62 SS pozicijos).</td>
+<td>On 10 May 2001 Decision No 3/2001 of the ACP-EC Customs Cooperation Committee derogating from the definition of the concept of ‘originating products’ to take account of the special situation of the Kingdom of Swaziland with regard to its manufacturing of core spun yarns [1] (HS headings 5206.22, 5206.42, 5402.52 and 5402.62) <span class="highlightsample">was</span> adopted.</td>
+<td><a href="#past3"><i data-content="A 3rd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast3-2">Atlikta patikra rodo, kad šis sertifikatas (1) <span class="highlightsample">buvo</span> išduotas nurodytos muitinės įstaigos ir jame pateikta informacija yra tiksli</td>
+<td>Verification carried out shows that this certificate (1) <span class="highlightsample">was</span> ussued by the customs office indicated and that the information contained therein is accurate</td>
+<td><a href="#past3"><i data-content="A 3rd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast3-3">2002 m. liepos 15 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1592/2002 dėl bendrųjų taisyklių civilinės aviacijos srityje ir įsteigiančiu Europos aviacijos saugos agentūrą [9], kuris <span class="highlightsample">buvo</span> įtrauktas į Susitarimą 2004 m. gruodžio 9 d. EEE jungtinio komiteto sprendimu Nr. 179/2004 [10], panaikinama Tarybos direktyva 80/51/EEB [11] ir Reglamento (EEB) Nr. 3922/91 [12] II priedas, kurie yra įtraukti į Susitarimą ir todėl pagal Susitarimą turi būti panaikinti,</td>
+<td>Regulation (EC) No 1592/2002 of the European Parliament and of the Council of 15 July 2002 on common rules in the field of civil aviation and establishing a European Aviation Safety Agency [9], which <span class="highlightsample">was</span> incorporated into the Agreement by Decision of the EEA Joint Committee No 179/2004 [10] of 9 December 2004, repealed Directive 80/51/EEC [11] and Annex II to Regulation (EEC) No 3922/91 [12], which are incorporated into the Agreement and which are consequently to be repealed under the Agreement,</td>
+<td><a href="#past3"><i data-content="A 3rd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast3-4">Prekės ženklas, kurio naudojimas atitinka ankstesnėje dalyje nurodytą situaciją ir dėl kurio registracijos <span class="highlightsample">buvo</span> kreiptasi ir jis <span class="highlightsample">buvo</span> įregistruotas, arba kurį šalis (įskaitant Sąjungos valstybes nares) įgijo sąžiningai naudodama iki kitos šalies tradicinio termino apsaugos nustatymo pagal šį priedą dienos, gali būti toliau naudojamas su sąlyga, kad atitinkamos šalies teisės aktuose tokia galimybė yra numatyta.</td>
+<td>A trademark, the use of which corresponds to the situation referred to in the previous paragraph, which <span class="highlightsample">was</span> applied for and registered in good faith in one Party (including the Member States of the Union) before the date of protection of the other Party’s traditional expression under this Annex, may continue to be used if this option is provided for in the relevant legislation of the Party concerned.</td>
+<td><a href="#past3"><i data-content="A 3rd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast4">Mudu <span class="highlightsample">buvome</span> jauni vyrai.</td>
+<td>We <span class="highlightsample">were</span> young men together.</td>
+<td><a href="#past4"><i data-content="A 4th person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplefuture1">Aš <span class="highlightsample">būsiu</span> toks vyras, koks būti pasižadėjau.</td>
+<td>I <span class="highlightsample">will be</span> the man that I promised you I would be.</td>
+<td><a href="#future1"><i data-content="A 1st person form of the Future." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplefuture3">Norvegijai Europos bendrijos ir Norvegijos Karalystės dvišalio Laisvosios prekybos susitarimo Protokolas Nr. 2 <span class="highlightsample">bus</span> pakeistas, įtraukiant neapmuitinamas šių prekių, kurių kilmės vieta yra Norvegija ir kurios importuojamos į Bendriją, kvotas.</td>
+<td>For Norway, Protocol 2 to the bilateral Free Trade Agreement between the European Community and the Kingdom of Norway <span class="highlightsample">will be</span> adapted to include a duty free quota on imports of these goods originating in Norway into the Community.</td>
+<td><a href="#future3"><i data-content="A 3rd person form of the Future." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplefuture3-1">Jei prašymui įvykdyti yra ar <span class="highlightsample">bus</span> reikalingos pakankamai didelės ypatingos išlaidos, Šalys gali konsultuotis, kad būtų nustatytos prašymo vykdymo sąlygos ir išlaidų padengimo būdas.</td>
+<td>If expenses of a substantial and extraordinary nature are, or <span class="highlightsample">will be</span> required to execute the request, the Parties may consult to determine the terms and conditions under which the request <span class="highlightsample">will be</span> executed as well as the manner in which the costs shall be borne.</td>
+<td><a href="#future3"><i data-content="A 3rd person form of the Future." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplefuture3-2">Vadovaujantis EEE plėtros susitarimo 4 straipsnio 3 dalimi, dėl visų Akte dėl Bulgarijos Respublikos ir Rumunijos stojimo sąlygų ir sutarčių, kuriomis yra grindžiama Europos Sąjunga, pritaikomųjų pataisų (2005 m. balandžio 25 d. Stojimo akte, nurodytų arba jais remiantis priimtų nuostatų, kurios nėra paminėtos EEE plėtros susitarime, <span class="highlightsample">bus</span> sprendžiama Susitarime nustatyta tvarka.</td>
+<td>Pursuant to Article 4(3) of the EEA Enlargement Agreement, any of the arrangements of relevance for the Agreement referred to in or adopted on the basis of the Act concerning the conditions of accession of the Republic of Bulgaria and Romania and the adjustments to the Treaties on which the European Union is founded (Act of Accession of 25 April 2005) which is not in the EEA Enlargement Agreement, <span class="highlightsample">will be</span> addressed in accordance with the procedures laid down in the Agreement.</td>
+<td><a href="#future3"><i data-content="A 3rd person form of the Future." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplefuture3-3">1 straipsnyje nurodyta nuolaida <span class="highlightsample">bus</span> taikoma tik toms transporto priemonėms, kurių transporto priemonės registracijos liudijime arba lygiaverčiame nacionalinių institucijų išduotame liudijime patvirtinta, kad transporto priemonė yra EURO VI taršos klasės.</td>
+<td>The rebate mentioned in Article 1 <span class="highlightsample">will be</span> granted only to vehicles with an entry in the vehicle registration certificate or with an equivalent certificate from the national authorities confirming that the vehicle corresponds to emission class EURO VI.</td>
+<td><a href="#future3"><i data-content="A 3rd person form of the Future." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplefuture3-4">ATSIŽVELGDAMOS į tai, kad šis susitarimas yra susijęs su keitimusi asmens duomenimis, kuriam <span class="highlightsample">bus</span> taikomi susitariančiųjų šalių duomenų apsaugos teisės aktai ir 2011 m. sausio 31 d. Komisijos sprendimas dėl Izraelio Valstybės užtikrinamos tinkamos asmens duomenų apsaugos automatizuoto asmens duomenų tvarkymo srityje pagal Europos Parlamento ir Tarybos Direktyvą 95/46/EB (2011/61/ES);</td>
+<td>NOTING that this Agreement implies the exchange of personal data, which <span class="highlightsample">will be</span> subject to the data protection legislation of the Contracting Parties and of the Commission Decision of 31 January 2011 pursuant to Directive 95/46/EC of the European Parliament and of the Council on the adequate protection of personal data by the State of Israel with regard to automated processing of personal data (2011/61/EU);</td>
+<td><a href="#future3"><i data-content="A 3rd person form of the Future." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplehypothetical3">orlaiviams, kurių atskiri skrydžiai yra tokio išimtinio pobūdžio, kad <span class="highlightsample">būtų</span> neprotinga atsisakyti duoti laikiną atleidimą;</td>
+<td>aircraft whose individual operations are of such an exceptional nature that it <span class="highlightsample">would be</span> unreasonable to withhold a temporary exemption;</td>
+<td><a href="#hypothetical3"><i data-content="A 3rd person form of the Conditional." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplehypothetical3-1">Civilinių ikigarsinių reaktyvinių lėktuvų naudojimo pagal Konvencijos 16 priedo 1 tomo II dalies 3 skyriaus standartus išimtys gali būti daromos: a) istorinės reikšmės lėktuvams; b) jei lėktuvų skrydžiai yra tokie svarbūs, kad drausti laikinai daryti išimtį <span class="highlightsample">būtų</span> nepateisinama; ir c) jei lėktuvai laikinai naudojami nekomerciniams skrydžiams, susijusiems su jų modifikavimu, remontu ar technine priežiūra.</td>
+<td>Exemptions from the requirement to operate Civil subsonic jet aeroplanes according to the standards specified in Part II, Chapter 3, Volume 1 of Annex 16 to the Convention can be given in cases of: (a) aeroplanes with historical interest; (b) temporary use of aeroplanes whose operations are of such an exceptional nature that it <span class="highlightsample">would be</span> unreasonable to withhold a temporary exemption; and (c) temporary use of aeroplanes on non-revenue flights for the purposes of alterations, repair or maintenance.</td>
+<td><a href="#hypothetical3"><i data-content="A 3rd person form of the Conditional." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplehypothetical3-2">Siena tarp dviejų valstybių yra tunelio viduje, tačiau įrengti postą rinkliavų surinkimui tunelio viduje <span class="highlightsample">būtų</span> nepraktiška.</td>
+<td>The border between the two States is inside the tunnel but it <span class="highlightsample">would be</span> impractical to arrange collection of tolls inside.</td>
+<td><a href="#hypothetical3"><i data-content="A 3rd person form of the Conditional." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplehypothetical3-3">Atsižvelgiant į turimus duomenis apie Indijos eksportuotojų kainodaros trečiųjų šalių rinkose praktiką, taip pat į normaliosios vertės sumažėjimą ir tai, jog kai kurių aptariamo produkto tipų normalioji vertė viršija kainas ES rinkoje, yra didelė tikimybė, jog atnaujintas eksportas <span class="highlightsample">būtų</span> vykdomas dempingo kainomis.</td>
+<td>Taking into account the facts available on the pricing behaviour of the Indian exporters on third country markets, on the decrease of normal value and the fact that the normal value of certain types of the product concerned is higher than prices on the EU market, it is highly probable that a resumption of exports <span class="highlightsample">would be</span> at dumped prices.</td>
+<td><a href="#hypothetical3"><i data-content="A 3rd person form of the Conditional." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplehypothetical3-4">Vienas išvestinės priemonės esminių bruožų yra tas, kad jos pirminė grynoji investicija mažesnė už tokią, kuri <span class="highlightsample">būtų</span> reikalinga kitoms sutarčių rūšims, kurias panašiai veikia rinkos veiksnių pasikeitimai.</td>
+<td>One of the defining characteristics of a derivative is that it has an initial net investment that is smaller than <span class="highlightsample">would be</span> required for other types of contracts that <span class="highlightsample">would be</span> expected to have a similar response to changes in market factors.</td>
+<td><a href="#hypothetical3"><i data-content="A 3rd person form of the Conditional." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplecommand2">Bet <span class="highlightsample">būk</span> švelnus, ši moteris yra... brangiausias žmonijos turtas.</td>
+<td>But gently, <span class="highlightsample">be</span>cause this woman is... mankind's most precious possession.</td>
+<td><a href="#command2"><i data-content="A 2nd person form of the  verb." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplecommand2-1">Žinau kad kažką virei, taigi... kad ir kas tai yra, <span class="highlightsample">būk</span> atsargus, gerai?</td>
+<td>I know you got something cooking, so... whatever it is, just <span class="highlightsample">be</span> careful, okay?</td>
+<td><a href="#command2"><i data-content="A 2nd person form of the  verb." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplecommand2-2">Ir ten yra daug remėjų, todėl, žinoma, <span class="highlightsample">būk</span> savimi.</td>
+<td>And there are a lot of sponsors in the audience, so of course, just <span class="highlightsample">be</span> your usual self.</td>
+<td><a href="#command2"><i data-content="A 2nd person form of the  verb." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="example">
+<span class="highlightsample"></span>D<span class="highlightsample"></span>i<span class="highlightsample"></span>p<span class="highlightsample"></span>l<span class="highlightsample"></span>o<span class="highlightsample"></span>m<span class="highlightsample"></span>a<span class="highlightsample"></span>t<span class="highlightsample"></span>i<span class="highlightsample"></span>n<span class="highlightsample"></span>ė<span class="highlightsample"></span>s<span class="highlightsample"></span>e<span class="highlightsample"></span> <span class="highlightsample"></span>a<span class="highlightsample"></span>t<span class="highlightsample"></span>s<span class="highlightsample"></span>t<span class="highlightsample"></span>o<span class="highlightsample"></span>v<span class="highlightsample"></span>y<span class="highlightsample"></span>b<span class="highlightsample"></span>ė<span class="highlightsample"></span>s<span class="highlightsample"></span>e<span class="highlightsample"></span> <span class="highlightsample"></span>a<span class="highlightsample"></span>r<span class="highlightsample"></span>b<span class="highlightsample"></span>a<span class="highlightsample"></span> <span class="highlightsample"></span>k<span class="highlightsample"></span>o<span class="highlightsample"></span>n<span class="highlightsample"></span>s<span class="highlightsample"></span>u<span class="highlightsample"></span>l<span class="highlightsample"></span>i<span class="highlightsample"></span>n<span class="highlightsample"></span>ė<span class="highlightsample"></span>s<span class="highlightsample"></span>e<span class="highlightsample"></span> <span class="highlightsample"></span>į<span class="highlightsample"></span>s<span class="highlightsample"></span>t<span class="highlightsample"></span>a<span class="highlightsample"></span>i<span class="highlightsample"></span>g<span class="highlightsample"></span>o<span class="highlightsample"></span>s<span class="highlightsample"></span>e<span class="highlightsample"></span> <span class="highlightsample"></span>p<span class="highlightsample"></span>a<span class="highlightsample"></span>g<span class="highlightsample"></span>a<span class="highlightsample"></span>l<span class="highlightsample"></span> <span class="highlightsample"></span>d<span class="highlightsample"></span>a<span class="highlightsample"></span>r<span class="highlightsample"></span>b<span class="highlightsample"></span>o<span class="highlightsample"></span>s<span class="highlightsample"></span>u<span class="highlightsample"></span>t<span class="highlightsample"></span>a<span class="highlightsample"></span>r<span class="highlightsample"></span>t<span class="highlightsample"></span>į<span class="highlightsample"></span> <span class="highlightsample"></span>d<span class="highlightsample"></span>i<span class="highlightsample"></span>r<span class="highlightsample"></span>b<span class="highlightsample"></span>a<span class="highlightsample"></span>n<span class="highlightsample"></span>t<span class="highlightsample"></span>y<span class="highlightsample"></span>s<span class="highlightsample"></span> <span class="highlightsample"></span>d<span class="highlightsample"></span>a<span class="highlightsample"></span>r<span class="highlightsample"></span>b<span class="highlightsample"></span>u<span class="highlightsample"></span>o<span class="highlightsample"></span>t<span class="highlightsample"></span>o<span class="highlightsample"></span>j<span class="highlightsample"></span>a<span class="highlightsample"></span>i<span class="highlightsample"></span>:<span class="highlightsample"></span>p<span class="highlightsample"></span>a<span class="highlightsample"></span>p<span class="highlightsample"></span>r<span class="highlightsample"></span>a<span class="highlightsample"></span>s<span class="highlightsample"></span>t<span class="highlightsample"></span>a<span class="highlightsample"></span>i<span class="highlightsample"></span> <span class="highlightsample"></span>j<span class="highlightsample"></span>ū<span class="highlightsample"></span>s<span class="highlightsample"></span> <span class="highlightsample"></span>b<span class="highlightsample"></span>ū<span class="highlightsample"></span>s<span class="highlightsample"></span>i<span class="highlightsample"></span>t<span class="highlightsample"></span>e<span class="highlightsample"></span> <span class="highlightsample"></span>a<span class="highlightsample"></span>p<span class="highlightsample"></span>d<span class="highlightsample"></span>r<span class="highlightsample"></span>a<span class="highlightsample"></span>u<span class="highlightsample"></span>d<span class="highlightsample"></span>ž<span class="highlightsample"></span>i<span class="highlightsample"></span>a<span class="highlightsample"></span>m<span class="highlightsample"></span>i<span class="highlightsample"></span>v<span class="highlightsample"></span>a<span class="highlightsample"></span>l<span class="highlightsample"></span>s<span class="highlightsample"></span>t<span class="highlightsample"></span>y<span class="highlightsample"></span>b<span class="highlightsample"></span>ė<span class="highlightsample"></span>j<span class="highlightsample"></span>e<span class="highlightsample"></span>,<span class="highlightsample"></span> <span class="highlightsample"></span>k<span class="highlightsample"></span>u<span class="highlightsample"></span>r<span class="highlightsample"></span>i<span class="highlightsample"></span>o<span class="highlightsample"></span>j<span class="highlightsample"></span>e<span class="highlightsample"></span> <span class="highlightsample"></span>d<span class="highlightsample"></span>i<span class="highlightsample"></span>r<span class="highlightsample"></span>b<span class="highlightsample"></span>a<span class="highlightsample"></span>t<span class="highlightsample"></span>e<span class="highlightsample"></span> <span class="highlightsample"></span>(<span class="highlightsample"></span>t<span class="highlightsample"></span>.<span class="highlightsample"></span>y<span class="highlightsample"></span>.<span class="highlightsample"></span>t<span class="highlightsample"></span>o<span class="highlightsample"></span>j<span class="highlightsample"></span>e<span class="highlightsample"></span> <span class="highlightsample"></span>v<span class="highlightsample"></span>a<span class="highlightsample"></span>l<span class="highlightsample"></span>s<span class="highlightsample"></span>t<span class="highlightsample"></span>y<span class="highlightsample"></span>b<span class="highlightsample"></span>ė<span class="highlightsample"></span>j<span class="highlightsample"></span>e<span class="highlightsample"></span>,<span class="highlightsample"></span> <span class="highlightsample"></span>k<span class="highlightsample"></span>u<span class="highlightsample"></span>r<span class="highlightsample"></span>i<span class="highlightsample"></span>o<span class="highlightsample"></span>j<span class="highlightsample"></span>e<span class="highlightsample"></span> <span class="highlightsample"></span>y<span class="highlightsample"></span>r<span class="highlightsample"></span>a<span class="highlightsample"></span> <span class="highlightsample"></span>d<span class="highlightsample"></span>i<span class="highlightsample"></span>p<span class="highlightsample"></span>l<span class="highlightsample"></span>o<span class="highlightsample"></span>m<span class="highlightsample"></span>a<span class="highlightsample"></span>t<span class="highlightsample"></span>i<span class="highlightsample"></span>n<span class="highlightsample"></span>ė<span class="highlightsample"></span>a<span class="highlightsample"></span>t<span class="highlightsample"></span>s<span class="highlightsample"></span>t<span class="highlightsample"></span>o<span class="highlightsample"></span>v<span class="highlightsample"></span>y<span class="highlightsample"></span>b<span class="highlightsample"></span>ė<span class="highlightsample"></span> <span class="highlightsample"></span>a<span class="highlightsample"></span>r<span class="highlightsample"></span> <span class="highlightsample"></span>k<span class="highlightsample"></span>o<span class="highlightsample"></span>n<span class="highlightsample"></span>s<span class="highlightsample"></span>u<span class="highlightsample"></span>l<span class="highlightsample"></span>i<span class="highlightsample"></span>n<span class="highlightsample"></span>ė<span class="highlightsample"></span> <span class="highlightsample"></span>į<span class="highlightsample"></span>s<span class="highlightsample"></span>t<span class="highlightsample"></span>a<span class="highlightsample"></span>i<span class="highlightsample"></span>g<span class="highlightsample"></span>a<span class="highlightsample"></span>)<span class="highlightsample"></span>,<span class="highlightsample"></span> <span class="highlightsample"></span>b<span class="highlightsample"></span>e<span class="highlightsample"></span>t<span class="highlightsample"></span> <span class="highlightsample"></span>j<span class="highlightsample"></span>e<span class="highlightsample"></span>i<span class="highlightsample"></span> <span class="highlightsample"></span>e<span class="highlightsample"></span>s<span class="highlightsample"></span>a<span class="highlightsample"></span>t<span class="highlightsample"></span>e<span class="highlightsample"></span> <span class="highlightsample"></span>t<span class="highlightsample"></span>o<span class="highlightsample"></span>s<span class="highlightsample"></span> <span class="highlightsample"></span>v<span class="highlightsample"></span>a<span class="highlightsample"></span>l<span class="highlightsample"></span>s<span class="highlightsample"></span>t<span class="highlightsample"></span>y<span class="highlightsample"></span>b<span class="highlightsample"></span>ė<span class="highlightsample"></span>s<span class="highlightsample"></span>,<span class="highlightsample"></span> <span class="highlightsample"></span>k<span class="highlightsample"></span>u<span class="highlightsample"></span>r<span class="highlightsample"></span>i<span class="highlightsample"></span> <span class="highlightsample"></span>j<span class="highlightsample"></span>u<span class="highlightsample"></span>s<span class="highlightsample"></span>a<span class="highlightsample"></span>k<span class="highlightsample"></span>r<span class="highlightsample"></span>e<span class="highlightsample"></span>d<span class="highlightsample"></span>i<span class="highlightsample"></span>t<span class="highlightsample"></span>a<span class="highlightsample"></span>v<span class="highlightsample"></span>o<span class="highlightsample"></span> <span class="highlightsample"></span>a<span class="highlightsample"></span>r<span class="highlightsample"></span> <span class="highlightsample"></span>a<span class="highlightsample"></span>t<span class="highlightsample"></span>s<span class="highlightsample"></span>i<span class="highlightsample"></span>u<span class="highlightsample"></span>n<span class="highlightsample"></span>t<span class="highlightsample"></span>ė<span class="highlightsample"></span>,<span class="highlightsample"></span> <span class="highlightsample"></span>p<span class="highlightsample"></span>i<span class="highlightsample"></span>l<span class="highlightsample"></span>i<span class="highlightsample"></span>e<span class="highlightsample"></span>t<span class="highlightsample"></span>i<span class="highlightsample"></span>s<span class="highlightsample"></span>,<span class="highlightsample"></span> <span class="highlightsample"></span>g<span class="highlightsample"></span>a<span class="highlightsample"></span>l<span class="highlightsample"></span>i<span class="highlightsample"></span>t<span class="highlightsample"></span>e<span class="highlightsample"></span> <span class="highlightsample"></span>p<span class="highlightsample"></span>a<span class="highlightsample"></span>s<span class="highlightsample"></span>i<span class="highlightsample"></span>r<span class="highlightsample"></span>i<span class="highlightsample"></span>n<span class="highlightsample"></span>k<span class="highlightsample"></span>t<span class="highlightsample"></span>i<span class="highlightsample"></span>,<span class="highlightsample"></span> <span class="highlightsample"></span>k<span class="highlightsample"></span>a<span class="highlightsample"></span>d<span class="highlightsample"></span> <span class="highlightsample"></span>b<span class="highlightsample"></span>ū<span class="highlightsample"></span>t<span class="highlightsample"></span>u<span class="highlightsample"></span>m<span class="highlightsample"></span>ė<span class="highlightsample"></span>t<span class="highlightsample"></span>e<span class="highlightsample"></span> <span class="highlightsample"></span>a<span class="highlightsample"></span>p<span class="highlightsample"></span>d<span class="highlightsample"></span>r<span class="highlightsample"></span>a<span class="highlightsample"></span>u<span class="highlightsample"></span>s<span class="highlightsample"></span>t<span class="highlightsample"></span>i<span class="highlightsample"></span> <span class="highlightsample"></span>š<span class="highlightsample"></span>i<span class="highlightsample"></span>o<span class="highlightsample"></span>j<span class="highlightsample"></span>e<span class="highlightsample"></span>v<span class="highlightsample"></span>a<span class="highlightsample"></span>l<span class="highlightsample"></span>s<span class="highlightsample"></span>t<span class="highlightsample"></span>y<span class="highlightsample"></span>b<span class="highlightsample"></span>ė<span class="highlightsample"></span>j<span class="highlightsample"></span>e<span class="highlightsample"></span>.<span class="highlightsample"></span>
+</td>
+<td>
+<span class="highlightsample"></span>P<span class="highlightsample"></span>e<span class="highlightsample"></span>r<span class="highlightsample"></span>s<span class="highlightsample"></span>o<span class="highlightsample"></span>n<span class="highlightsample"></span>s<span class="highlightsample"></span> <span class="highlightsample"></span>e<span class="highlightsample"></span>m<span class="highlightsample"></span>p<span class="highlightsample"></span>l<span class="highlightsample"></span>o<span class="highlightsample"></span>y<span class="highlightsample"></span>e<span class="highlightsample"></span>d<span class="highlightsample"></span> <span class="highlightsample"></span>b<span class="highlightsample"></span>y<span class="highlightsample"></span> <span class="highlightsample"></span>d<span class="highlightsample"></span>i<span class="highlightsample"></span>p<span class="highlightsample"></span>l<span class="highlightsample"></span>o<span class="highlightsample"></span>m<span class="highlightsample"></span>a<span class="highlightsample"></span>t<span class="highlightsample"></span>i<span class="highlightsample"></span>c<span class="highlightsample"></span> <span class="highlightsample"></span>m<span class="highlightsample"></span>i<span class="highlightsample"></span>s<span class="highlightsample"></span>s<span class="highlightsample"></span>i<span class="highlightsample"></span>o<span class="highlightsample"></span>n<span class="highlightsample"></span>s<span class="highlightsample"></span> <span class="highlightsample"></span>o<span class="highlightsample"></span>r<span class="highlightsample"></span> <span class="highlightsample"></span>c<span class="highlightsample"></span>o<span class="highlightsample"></span>n<span class="highlightsample"></span>s<span class="highlightsample"></span>u<span class="highlightsample"></span>l<span class="highlightsample"></span>a<span class="highlightsample"></span>r<span class="highlightsample"></span> <span class="highlightsample"></span>p<span class="highlightsample"></span>o<span class="highlightsample"></span>s<span class="highlightsample"></span>t<span class="highlightsample"></span>s<span class="highlightsample"></span>:<span class="highlightsample"></span> <span class="highlightsample"></span>A<span class="highlightsample"></span>s<span class="highlightsample"></span> <span class="highlightsample"></span>a<span class="highlightsample"></span> <span class="highlightsample"></span>r<span class="highlightsample"></span>u<span class="highlightsample"></span>l<span class="highlightsample"></span>e<span class="highlightsample"></span>,<span class="highlightsample"></span>y<span class="highlightsample"></span>o<span class="highlightsample"></span>u<span class="highlightsample"></span> <span class="highlightsample"></span>w<span class="highlightsample"></span>i<span class="highlightsample"></span>l<span class="highlightsample"></span>l<span class="highlightsample"></span> <span class="highlightsample"></span>b<span class="highlightsample"></span>e<span class="highlightsample"></span> <span class="highlightsample"></span>i<span class="highlightsample"></span>n<span class="highlightsample"></span>s<span class="highlightsample"></span>u<span class="highlightsample"></span>r<span class="highlightsample"></span>e<span class="highlightsample"></span>d<span class="highlightsample"></span> <span class="highlightsample"></span>i<span class="highlightsample"></span>n<span class="highlightsample"></span> <span class="highlightsample"></span>t<span class="highlightsample"></span>h<span class="highlightsample"></span>e<span class="highlightsample"></span> <span class="highlightsample"></span>S<span class="highlightsample"></span>t<span class="highlightsample"></span>a<span class="highlightsample"></span>t<span class="highlightsample"></span>e<span class="highlightsample"></span> <span class="highlightsample"></span>o<span class="highlightsample"></span>f<span class="highlightsample"></span> <span class="highlightsample"></span>e<span class="highlightsample"></span>m<span class="highlightsample"></span>p<span class="highlightsample"></span>l<span class="highlightsample"></span>o<span class="highlightsample"></span>y<span class="highlightsample"></span>m<span class="highlightsample"></span>e<span class="highlightsample"></span>n<span class="highlightsample"></span>t<span class="highlightsample"></span> <span class="highlightsample"></span>(<span class="highlightsample"></span>i<span class="highlightsample"></span>.<span class="highlightsample"></span>e<span class="highlightsample"></span>.<span class="highlightsample"></span> <span class="highlightsample"></span>t<span class="highlightsample"></span>h<span class="highlightsample"></span>e<span class="highlightsample"></span> <span class="highlightsample"></span>S<span class="highlightsample"></span>t<span class="highlightsample"></span>a<span class="highlightsample"></span>t<span class="highlightsample"></span>e<span class="highlightsample"></span> <span class="highlightsample"></span>w<span class="highlightsample"></span>h<span class="highlightsample"></span>e<span class="highlightsample"></span>r<span class="highlightsample"></span>e<span class="highlightsample"></span> <span class="highlightsample"></span>t<span class="highlightsample"></span>h<span class="highlightsample"></span>e<span class="highlightsample"></span>d<span class="highlightsample"></span>i<span class="highlightsample"></span>p<span class="highlightsample"></span>l<span class="highlightsample"></span>o<span class="highlightsample"></span>m<span class="highlightsample"></span>a<span class="highlightsample"></span>t<span class="highlightsample"></span>i<span class="highlightsample"></span>c<span class="highlightsample"></span> <span class="highlightsample"></span>m<span class="highlightsample"></span>i<span class="highlightsample"></span>s<span class="highlightsample"></span>s<span class="highlightsample"></span>i<span class="highlightsample"></span>o<span class="highlightsample"></span>n<span class="highlightsample"></span> <span class="highlightsample"></span>o<span class="highlightsample"></span>r<span class="highlightsample"></span> <span class="highlightsample"></span>c<span class="highlightsample"></span>o<span class="highlightsample"></span>n<span class="highlightsample"></span>s<span class="highlightsample"></span>u<span class="highlightsample"></span>l<span class="highlightsample"></span>a<span class="highlightsample"></span>r<span class="highlightsample"></span> <span class="highlightsample"></span>p<span class="highlightsample"></span>o<span class="highlightsample"></span>s<span class="highlightsample"></span>t<span class="highlightsample"></span> <span class="highlightsample"></span>i<span class="highlightsample"></span>s<span class="highlightsample"></span> <span class="highlightsample"></span>s<span class="highlightsample"></span>i<span class="highlightsample"></span>t<span class="highlightsample"></span>u<span class="highlightsample"></span>a<span class="highlightsample"></span>t<span class="highlightsample"></span>e<span class="highlightsample"></span>d<span class="highlightsample"></span>)<span class="highlightsample"></span>;<span class="highlightsample"></span> <span class="highlightsample"></span>h<span class="highlightsample"></span>o<span class="highlightsample"></span>w<span class="highlightsample"></span>e<span class="highlightsample"></span>v<span class="highlightsample"></span>e<span class="highlightsample"></span>r<span class="highlightsample"></span>,<span class="highlightsample"></span> <span class="highlightsample"></span>i<span class="highlightsample"></span>f<span class="highlightsample"></span> <span class="highlightsample"></span>y<span class="highlightsample"></span>o<span class="highlightsample"></span>u<span class="highlightsample"></span> <span class="highlightsample"></span>a<span class="highlightsample"></span>r<span class="highlightsample"></span>e<span class="highlightsample"></span> <span class="highlightsample"></span>a<span class="highlightsample"></span>n<span class="highlightsample"></span>a<span class="highlightsample"></span>t<span class="highlightsample"></span>i<span class="highlightsample"></span>o<span class="highlightsample"></span>n<span class="highlightsample"></span>a<span class="highlightsample"></span>l<span class="highlightsample"></span> <span class="highlightsample"></span>o<span class="highlightsample"></span>f<span class="highlightsample"></span> <span class="highlightsample"></span>t<span class="highlightsample"></span>h<span class="highlightsample"></span>e<span class="highlightsample"></span> <span class="highlightsample"></span>a<span class="highlightsample"></span>c<span class="highlightsample"></span>c<span class="highlightsample"></span>r<span class="highlightsample"></span>e<span class="highlightsample"></span>d<span class="highlightsample"></span>i<span class="highlightsample"></span>t<span class="highlightsample"></span>i<span class="highlightsample"></span>n<span class="highlightsample"></span>g<span class="highlightsample"></span> <span class="highlightsample"></span>o<span class="highlightsample"></span>r<span class="highlightsample"></span> <span class="highlightsample"></span>s<span class="highlightsample"></span>e<span class="highlightsample"></span>n<span class="highlightsample"></span>d<span class="highlightsample"></span>i<span class="highlightsample"></span>n<span class="highlightsample"></span>g<span class="highlightsample"></span> <span class="highlightsample"></span>S<span class="highlightsample"></span>t<span class="highlightsample"></span>a<span class="highlightsample"></span>t<span class="highlightsample"></span>e<span class="highlightsample"></span>,<span class="highlightsample"></span> <span class="highlightsample"></span>y<span class="highlightsample"></span>o<span class="highlightsample"></span>u<span class="highlightsample"></span> <span class="highlightsample"></span>m<span class="highlightsample"></span>a<span class="highlightsample"></span>y<span class="highlightsample"></span> <span class="highlightsample"></span>o<span class="highlightsample"></span>p<span class="highlightsample"></span>t<span class="highlightsample"></span> <span class="highlightsample"></span>t<span class="highlightsample"></span>o<span class="highlightsample"></span> <span class="highlightsample"></span>b<span class="highlightsample"></span>e<span class="highlightsample"></span> <span class="highlightsample"></span>i<span class="highlightsample"></span>n<span class="highlightsample"></span>s<span class="highlightsample"></span>u<span class="highlightsample"></span>r<span class="highlightsample"></span>e<span class="highlightsample"></span>d<span class="highlightsample"></span>i<span class="highlightsample"></span>n<span class="highlightsample"></span> <span class="highlightsample"></span>t<span class="highlightsample"></span>h<span class="highlightsample"></span>i<span class="highlightsample"></span>s<span class="highlightsample"></span> <span class="highlightsample"></span>S<span class="highlightsample"></span>t<span class="highlightsample"></span>a<span class="highlightsample"></span>t<span class="highlightsample"></span>e<span class="highlightsample"></span> <span class="highlightsample"></span>i<span class="highlightsample"></span>n<span class="highlightsample"></span>s<span class="highlightsample"></span>t<span class="highlightsample"></span>e<span class="highlightsample"></span>a<span class="highlightsample"></span>d<span class="highlightsample"></span>.<span class="highlightsample"></span>
+</td>
+<td></td>
+</tr>
+<tr>
+<td id="example-1">
+<span class="highlightsample"></span>T<span class="highlightsample"></span>a<span class="highlightsample"></span>s<span class="highlightsample"></span> <span class="highlightsample"></span>v<span class="highlightsample"></span>y<span class="highlightsample"></span>r<span class="highlightsample"></span>a<span class="highlightsample"></span>s<span class="highlightsample"></span> <span class="highlightsample"></span>p<span class="highlightsample"></span>a<span class="highlightsample"></span>r<span class="highlightsample"></span>d<span class="highlightsample"></span>u<span class="highlightsample"></span>o<span class="highlightsample"></span>t<span class="highlightsample"></span>ų<span class="highlightsample"></span> <span class="highlightsample"></span>s<span class="highlightsample"></span>i<span class="highlightsample"></span>e<span class="highlightsample"></span>l<span class="highlightsample"></span>ą<span class="highlightsample"></span>,<span class="highlightsample"></span> <span class="highlightsample"></span>k<span class="highlightsample"></span>a<span class="highlightsample"></span>d<span class="highlightsample"></span> <span class="highlightsample"></span>j<span class="highlightsample"></span>ū<span class="highlightsample"></span>s<span class="highlightsample"></span> <span class="highlightsample"></span>b<span class="highlightsample"></span>ū<span class="highlightsample"></span>t<span class="highlightsample"></span>u<span class="highlightsample"></span>m<span class="highlightsample"></span>ė<span class="highlightsample"></span>t<span class="highlightsample"></span>e<span class="highlightsample"></span> <span class="highlightsample"></span>l<span class="highlightsample"></span>a<span class="highlightsample"></span>i<span class="highlightsample"></span>m<span class="highlightsample"></span>i<span class="highlightsample"></span>n<span class="highlightsample"></span>g<span class="highlightsample"></span>a<span class="highlightsample"></span>.<span class="highlightsample"></span>
+</td>
+<td>
+<span class="highlightsample"></span>T<span class="highlightsample"></span>h<span class="highlightsample"></span>a<span class="highlightsample"></span>t<span class="highlightsample"></span> <span class="highlightsample"></span>m<span class="highlightsample"></span>a<span class="highlightsample"></span>n<span class="highlightsample"></span> <span class="highlightsample"></span>w<span class="highlightsample"></span>o<span class="highlightsample"></span>u<span class="highlightsample"></span>l<span class="highlightsample"></span>d<span class="highlightsample"></span>'<span class="highlightsample"></span>v<span class="highlightsample"></span>e<span class="highlightsample"></span> <span class="highlightsample"></span>s<span class="highlightsample"></span>o<span class="highlightsample"></span>l<span class="highlightsample"></span>d<span class="highlightsample"></span> <span class="highlightsample"></span>h<span class="highlightsample"></span>i<span class="highlightsample"></span>s<span class="highlightsample"></span> <span class="highlightsample"></span>s<span class="highlightsample"></span>o<span class="highlightsample"></span>u<span class="highlightsample"></span>l<span class="highlightsample"></span> <span class="highlightsample"></span>t<span class="highlightsample"></span>o<span class="highlightsample"></span> <span class="highlightsample"></span>m<span class="highlightsample"></span>a<span class="highlightsample"></span>k<span class="highlightsample"></span>e<span class="highlightsample"></span> <span class="highlightsample"></span>y<span class="highlightsample"></span>o<span class="highlightsample"></span>u<span class="highlightsample"></span> <span class="highlightsample"></span>h<span class="highlightsample"></span>a<span class="highlightsample"></span>p<span class="highlightsample"></span>p<span class="highlightsample"></span>y<span class="highlightsample"></span>.<span class="highlightsample"></span>
+</td>
+<td><a href="#"><i data-content="An instance of the  verb." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+</tbody>
+</table></section><section id="questions"><div class="ui comments"><h4 style="font-size: 1.714rem; padding-top: 8vh; padding-bottom: 4vh; color: rgba(0, 0, 0, 0.87);" class="ui header">
+<i class="help teal icon"></i>Questions and answers about būti conjugation</h4></div>
+<div id="questionmenu">
+<h3 class="ui dividing header">Still don't understand something? Ask and receive a reply!</h3>
+<p>Ask us a question about this word and get it replied to here. Questions are answered by experienced language speakers.</p>
+<div class="ui center aligned container"><f class="ui reply form"><div class="field">
+<input id="fname" name="submitterName" placeholder="Your name..."><input id="qverb" name="qverb" type="hidden" value="būti"><input id="qlanguage" name="qlanguage" type="hidden" value="lt">
+</div>
+<div class="field"><textarea id="question" name="question" rows="5"></textarea></div>
+<div id="askquestion" class="ui teal labeled submit icon button">
+<i class="icon edit"></i> Ask question about būti</div></f></div>
+</div></section><div class="content"></div></section></div></div>
+<div class="five wide column">
+<div class="ui segment"><div style="text-align: center;">
+<b>Work in progress</b><p style="padding-top: 10px;"><span style="color: grey; text-align: justify;"><i class="announcement icon red big"></i>Help us become the best conjugation resource. <a href="http://cooljugator.com/blog/2016/12/16/cooljugators-mission">Find out more</a>. </span></p>
+</div></div>
+<div class="ui segment"><div style="text-align: center;">
+<b>Play Lithuanian conjugation game!</b><p style="padding-top: 10px;"><span style="color: grey; text-align: justify;"><i class="game icon orange big"></i>Practice Lithuanian verb conjugation with real sentences in our free <a href="http://cooljugator.com/game/Index">game</a>. Try now!</span></p>
+</div></div>
+<div class="ui segment"><div style="text-align: center;">
+<b>Tip: CTRL + M for navigation!</b><p style="padding-top: 10px;"><span style="color: grey; text-align: justify;"> <i class="keyboard icon teal"></i>You can access a quick navigation menu with the shortcut 'CTRL + M'.</span></p>
+</div></div>
+<div class="ui segment"><div style="text-align: center;">
+<b>Learn Lithuanian with our subtitled book!</b><p><a href="http://interlinearbooks.com/lithuanian/?r=cjgtr&amp;c=lt" rel="nofollow"><img src="/images/presentation_lt.png" style="width: 98%; padding-top: 10px;"></a></p>
+<p>Check out our new product - a novel subtitled Interlinear book in Lithuanian to get reading practice! Click on the 'Try out' button below.</p>
+<a href="http://interlinearbooks.com/lithuanian/?r=cjgtr&amp;c=lt" rel="nofollow"><div style="vertical-align: middle;" class="ui submit button large red">Try out</div></a>
+</div></div>
+<div class="ui segment center aligned">
+<p><b>Receive most useful verbs, tips and other info free!</b><!-- Begin MailChimp Signup Form--></p>
+<!-- Begin MailChimp Signup Form--><div id="mc_embed_signup"><form id="mc-embedded-subscribe-form" action="//cooljugator.us13.list-manage.com/subscribe/post?u=ceca7eaaa8f7bfdc14e243ae2&amp;id=980c8f3061" method="post" name="mc-embedded-subscribe-form" target="_blank" novalidate="" class="validate ui form error center aligned"><div id="mc_embed_signup_scroll">
+<div class="mc-field-group one field center aligned"><div class="field large">
+<label for="mce-EMAIL">Email Address</label><input id="mce-EMAIL" type="email" value="" name="EMAIL" class="required email">
+</div></div>
+<div class="mc-field-group input-group"></div>
+<div class="ui center aligned grid">
+<div id="newsletterlanguageselection" style="margin-top: 1.3rem; margin-bottom: 2rem;" class="ui button teal">Select the language(s) you're interested in</div>
+<div class="ui fluid popup top left transition hidden"><div class="ui four column divided center aligned grid"><ul>
+<li style="list-style-type: none">
+<input type="checkbox" value="1" name="group[2381][1]" id="mce-group[2381]-2381-0"><label for="mce-group[2381]-2381-0">  English</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="2" name="group[2381][2]" id="mce-group[2381]-2381-1"><label for="mce-group[2381]-2381-1">  Esperanto</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="4" name="group[2381][4]" id="mce-group[2381]-2381-2"><label for="mce-group[2381]-2381-2">  Estonian</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="8192" name="group[2381][8192]" id="mce-group[2381]-2381-13"><label for="mce-group[2381]-2381-13">  Hungarian</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="8" name="group[2381][8]" id="mce-group[2381]-2381-3"><label for="mce-group[2381]-2381-3">  Latvian</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" checked value="16" name="group[2381][16]" id="mce-group[2381]-2381-4"><label for="mce-group[2381]-2381-4">  Lithuanian</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="32" name="group[2381][32]" id="mce-group[2381]-2381-5"><label for="mce-group[2381]-2381-5">  Modern Greek</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="2048" name="group[2381][2048]" id="mce-group[2381]-2381-11"><label for="mce-group[2381]-2381-11">  Polish</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="128" name="group[2381][128]" id="mce-group[2381]-2381-6"><label for="mce-group[2381]-2381-6">  Portuguese</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="64" name="group[2381][64]" id="mce-group[2381]-2381-7"><label for="mce-group[2381]-2381-7">  Russian</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="4096" name="group[2381][4096]" id="mce-group[2381]-2381-12"><label for="mce-group[2381]-2381-12">   Spanish</label>
+</li>
+</ul></div></div>
+</div>
+<div id="mce-responses" class="clear">
+<div id="mce-error-response" style="display:none" class="response"></div>
+<div id="mce-success-response" style="display:none" class="response"></div>
+</div>
+<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--><div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_ceca7eaaa8f7bfdc14e243ae2_980c8f3061" tabindex="-1" value=""></div>
+<div style="text-align: center;" class="clear"><input id="mc-embedded-subscribe" type="submit" value="Subscribe" name="subscribe" style="text-align: center; vertical-align: middle;" class="ui submit button large teal"></div>
+</div></form></div>
+<!-- End mc_embed_signup-->
+</div>
+<div class="ui segment"><p style="text-align: center;"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- New 15 May 2016 CoolJugator flexible ad--><ins style="display:block" data-ad-client="ca-pub-0492579730264989" data-ad-slot="4873833251" data-ad-format="auto" class="adsbygoogle"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></p></div>
+<div class="ui segment">
+<p style="text-align: center;"><b>Related verbs</b></p>
+<table class="ui celled table">
+<thead><tr>
+<th>Verb</th>
+<th>Translation</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><a href="/lt/pab%C5%ABti" style="text-align: center;">pabūti</a></td>
+<td>stay (for some time)</td>
+</tr>
+<tr>
+<td><a href="/lt/tebeb%C5%ABti" style="text-align: center;">tebebūti</a></td>
+<td>be (still)</td>
+</tr>
+<tr>
+<td><a href="/lt/u%C5%BEsib%C5%ABti" style="text-align: center;">užsibūti</a></td>
+<td>linger</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="ui segment">
+<p style="text-align: center;"><b>Similar verbs</b></p>
+<table class="ui celled table">
+<thead><tr>
+<th>Verb</th>
+<th>Translation</th>
+</tr></thead>
+<tbody>
+<tr>
+<td style="font-weight: bold;">Same length:</td>
+<td> </td>
+</tr>
+<tr>
+<td> <a href="/lt/p%C5%ABti" style="text-align: center;">pūti</a>
+</td>
+<td>mold</td>
+</tr>
+<tr>
+<td> <a href="/lt/%C5%BE%C5%ABti" style="text-align: center;">žūti</a>
+</td>
+<td>die</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">Different length:</td>
+<td> </td>
+</tr>
+<tr>
+<td> <a href="/lt/pab%C5%ABti" style="text-align: center;">pabūti</a>
+</td>
+<td>stay (for some time)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="ui segment">
+<p style="text-align: center;"><b>Other Lithuanian verbs with the meaning <span style="text-decoration: underline;">be</span></b></p>
+<table class="ui celled table">
+<thead><tr><th>Verb</th></tr></thead>
+<tbody>
+<tr><td> <a href="/lt/buvoti" style="text-align: center;">buvoti</a>
+</td></tr>
+<tr><td> <a href="/lt/tebeb%C5%ABti" style="text-align: center;">tebebūti</a>
+</td></tr>
+</tbody>
+</table>
+</div>
+<div class="ui segment">
+<p style="text-align: center;"><b>Verb <span style="text-decoration: underline;">be</span> in other languages</b></p>
+<table id="VerbinOtherLanguages" class="ui celled table">
+<thead><tr><th>Verb</th></tr></thead>
+<tbody>
+<tr><td>
+<div class="ui ribon label">EE</div>
+<a href="/ee/olema" style="text-align: center;">olema</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">EN</div>
+<a href="/en/be" style="text-align: center;">be</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">EO</div>
+<a href="/eo/esti" style="text-align: center;">esti</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">GR</div>
+<a href="/gr/%CE%B5%CE%AF%CE%BC%CE%B1%CE%B9" style="text-align: center;">είμαι</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">LV</div>
+<a href="/lv/b%C5%ABt" style="text-align: center;">būt</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">PL</div>
+<a href="/pl/by%C4%87" style="text-align: center;">być</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">PL</div>
+<a href="/pl/sta%C4%87" style="text-align: center;">stać</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">PL</div>
+<a href="/pl/wynosi%C4%87" style="text-align: center;">wynosić</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">RU</div>
+<a href="/ru/%D0%B1%D1%8B%D0%B2%D0%B0%D1%82%D1%8C" style="text-align: center;">бывать</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">RU</div>
+<a href="/ru/%D0%B1%D1%8B%D1%82%D1%8C" style="text-align: center;">быть</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">RU</div>
+<a href="/ru/%D0%BF%D0%BE%D0%B1%D1%8B%D0%B2%D0%B0%D1%82%D1%8C" style="text-align: center;">побывать</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">RU</div>
+<a href="/ru/%D0%BF%D0%BE%D0%B1%D1%8B%D1%82%D1%8C" style="text-align: center;">побыть</a>
+</td></tr>
+</tbody>
+</table>
+</div>
+<div class="ui segment">
+<p style="text-align: center;"><b>Do you know these verbs?</b></p>
+<table class="ui celled table">
+<thead><tr>
+<th>Verb</th>
+<th>Translation</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><a href="/lt/dejuoti" style="text-align: center;">dejuoti</a></td>
+<td>moan</td>
+</tr>
+<tr>
+<td><a href="/lt/gydyti" style="text-align: center;">gydyti</a></td>
+<td>heal (something)</td>
+</tr>
+<tr>
+<td><a href="/lt/%C4%AFsivelti" style="text-align: center;">įsivelti</a></td>
+<td>get involved</td>
+</tr>
+<tr>
+<td><a href="/lt/paruo%C5%A1ti" style="text-align: center;">paruošti</a></td>
+<td>prepare</td>
+</tr>
+<tr>
+<td><a href="/lt/pasibaigti" style="text-align: center;">pasibaigti</a></td>
+<td>finish</td>
+</tr>
+<tr>
+<td><a href="/lt/perstatyti" style="text-align: center;">perstatyti</a></td>
+<td>reconstruct</td>
+</tr>
+<tr>
+<td><a href="/lt/%C5%A1liau%C5%BEti" style="text-align: center;">šliaužti</a></td>
+<td>crawl</td>
+</tr>
+<tr>
+<td><a href="/lt/u%C5%BEgerti" style="text-align: center;">užgerti</a></td>
+<td>drink (to facilitate swallowing)</td>
+</tr>
+<tr>
+<td><a href="/lt/u%C5%BEsilikti" style="text-align: center;">užsilikti</a></td>
+<td>wait behind</td>
+</tr>
+<tr>
+<td><a href="/lt/vadintis" style="text-align: center;">vadintis</a></td>
+<td>be called</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="QuickNavigation" class="ui segment center aligned fluid vertical menu sticky">
+<a href="#conjugate" class="item"><b>Quick Navigation </b></a><p> <i class="keyboard icon teal"></i><span style="color: grey;">'CTRL + M' anytime to show this menu</span></p>
+<div class="item">
+<a href="#conjugate" style="text-decoration: none; color: inherit;"><b>Conjugations</b></a><div class="menu">
+<a href="#present" class="item">Present tense</a><a href="#past" class="item">Past tense</a><a href="#pastfrequentative" class="item">Past frequentative tense</a><a href="#future" class="item">Future tense</a><a href="#conditional" class="item">Conditional mood</a><a href="#imperative" class="item">Imperative mood</a>
+</div>
+</div>
+<div class="item"><a href="#usage" style="text-decoration: none; color: inherit;"><b>Usage</b></a></div>
+<div class="item"><a href="#examples" style="text-decoration: none; color: inherit;"><b>Examples</b></a></div>
+<p style="padding-left: 5px; padding-right: 5px;"> <a href="http://interlinearbooks.com/lithuanian/?r=cjgtr&amp;c=lt" rel="nofollow"><i class="book icon red"></i></a><span style="color: grey;">Have you tried our <a href="http://interlinearbooks.com/lithuanian/?r=cjgtr&amp;c=lt" rel="nofollow">Lithuanian Interlinear Book?</a></span></p>
+</div>
+</div>
+</div>
+<footer><div style="margin-top: 10vh; padding-top: 4vh;" class="ui inverted vertical footer segment grey"><div class="ui center aligned container">
+<div class="ui stackable inverted divided grid">
+<div class="three wide column">
+<h4 class="ui inverted header">CoolJugator</h4>
+<div class="ui inverted link list">
+<a href="/" class="item">Home</a><a href="mailto:cooljugator@techie.com" class="item">Contact us</a><a href="/about/#acknowledgments" class="item">Acknowledgments</a><a href="/about/" class="item">About</a><a href="/game/Index" class="item">Conjugation game</a><a href="/blog/" class="item">Blog</a>
+</div>
+</div>
+<div class="three wide column">
+<h4 class="ui inverted header">Languages</h4>
+<div id="OtherLanguages" class="ui inverted link list">
+<a href="/af/" class="item">Afrikaans</a><a href="/sq/" class="item">Albanian</a><a href="/ar/" class="item">Arabic</a><a href="/az/" class="item">Azeri</a><a href="/eu/" class="item">Basque</a><a href="/ca/" class="item">Catalan</a><a href="/da/" class="item">Danish</a><a href="/nl/" class="item">Dutch</a><a href="/en/" class="item">English</a><a href="/eo/" class="item">Esperanto</a><a href="/ee/" class="item">Estonian</a><a href="/fo/" class="item">Faroese</a><a href="/fi/" class="item">Finnish verbs</a><a href="/fia/" class="item">Finnish adjectives</a><a href="/fin/" class="item">Finnish nouns</a><a href="/fr/" class="item">French</a>
+</div>
+</div>
+<div class="three wide column">
+<h4 class="ui inverted header">   </h4>
+<div id="OtherLanguages" class="ui inverted link list">
+<a href="/de/" class="item">German</a><a href="/hw/" class="item">Hawaiian</a><a href="/he/" class="item">Hebrew</a><a href="/hu/" class="item">Hungarian</a><a href="/it/" class="item">Italian</a><a href="/is/" class="item">Icelandic</a><a href="/id/" class="item">Indonesian</a><a href="/ja/" class="item">Japanese</a><a href="/lt/" class="item">Lithuanian</a><a href="/lv/" class="item">Latvian</a><a href="/mk/" class="item">Macedonian</a><a href="/ms/" class="item">Malay</a><a href="/mt/" class="item">Maltese</a><a href="/mi/" class="item">Maori</a><a href="/gr/" class="item">Modern Greek</a><a href="/no/" class="item">Norwegian</a><a href="/fa/" class="item">Persian</a>
+</div>
+</div>
+<div class="three wide column">
+<h4 class="ui inverted header">  </h4>
+<div id="OtherLanguages" class="ui inverted link list">
+<a href="/pl/" class="item">Polish</a><a href="/pt/" class="item">Portuguese</a><a href="/qu/" class="item">Quechua</a><a href="/ro/" class="item">Romanian</a><a href="/ru/" class="item">Russian verbs</a><a href="/rua/" class="item">Russian adjectives</a><a href="/run/" class="item">Russian nouns</a><a href="/es/" class="item">Spanish</a><a href="/sv/" class="item">Swedish</a><a href="/th/" class="item">Thai</a><a href="/tr/" class="item">Turkish</a><a href="/vi/" class="item">Vietnamese</a>
+</div>
+</div>
+<div class="one wide column"></div>
+</div>
+<div class="ui inverted section divider"></div>
+<a href="/"><img src="/images/logo.png" alt="CoolJugator - an intelligent verb conjugator" class="ui centered image"></a><div class="ui horizontal inverted small divided link list">
+<a href="mailto:cooljugator@techie.com" class="item">Contact us</a><a href="http://facebook.com/cooljugator" class="item">Facebook</a><a href="http://twitter.com/cooljugator" class="item">Twitter</a>
+</div>
+</div></div>
+<script type="text/javascript" src="/javascripts/main.js"></script><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create', 'UA-8339065-3', 'auto');ga('send', 'pageview');</script></footer>
+</div>
+<script>(function(){var uv=document.createElement('script');uv.type='text/javascript';uv.async=true;uv.src='//widget.uservoice.com/uhrNzv9ysf9fNIGfDWgPQ.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(uv,s)})()</script>  <!-- A tab to launch the Classic Widget --> <script> UserVoice = window.UserVoice || []; UserVoice.push(['showTab', 'classic_widget', {   mode: 'feedback',   primary_color: '#00b5ac',   link_color: '#0a8cc6',   forum_id: 123075,   tab_label: 'Feedback',   tab_color: '#00b5ac',   tab_position: 'middle-right',   tab_inverted: false }]); </script>
+</body>
+</html>

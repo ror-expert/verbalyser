@@ -1,0 +1,1260 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tekti conjugation in Lithuanian in all forms | CoolJugator.com</title>
+<meta name="description" content="Conjugate the Lithuanian verb tekti in all forms and with usage examples. Tekti conjugation has never been easier!">
+<link rel="stylesheet" type="text/css" href="/components/semantic/dist/semantic.css">
+<link rel="stylesheet" type="text/css" href="/stylesheets/main.css">
+<link rel="stylesheet" type="text/css" href="/stylesheets/languagemap.css">
+<script type="text/javascript" src="/components/jquery/dist/jquery.min.js"></script><script type="text/javascript" src="/components/semantic/dist/semantic.min.js"></script>
+</head>
+<body>
+<div class="ui menu large inverted grey">
+<div id="CoolJugatorLogo" class="item"><a href="/"><img src="/images/logo.png" alt="CoolJugator: the smart verb Conjugator"></a></div>
+<div id="siteLanguageSelection" class="item"><div class="ui dropdown topmenuselection inverted grey">
+<div class="text">Lithuanian</div>
+<i class="dropdown icon"></i><div id="topBarSelectionMenu" class="menu">
+<div data-value="" class="item">Home</div>
+<div data-value="da" class="item">Danish</div>
+<div data-value="en" class="item">English</div>
+<div data-value="eo" class="item">Esperanto</div>
+<div data-value="fr" class="item">French</div>
+<div data-value="ee" class="item">Estonian</div>
+<div data-value="hu" class="item">Hungarian</div>
+<div data-value="it" class="item">Italian</div>
+<div data-value="ja" class="item">Japanese</div>
+<div data-value="lt" class="item">Lithuanian</div>
+<div data-value="lv" class="item">Latvian</div>
+<div data-value="gr" class="item">Modern Greek</div>
+<div data-value="pl" class="item">Polish</div>
+<div data-value="pt" class="item">Portuguese</div>
+<div data-value="ro" class="item">Romanian</div>
+<div data-value="ru" class="item">Russian</div>
+<div data-value="es" class="item">Spanish</div>
+<div data-value="tr" class="item">Turkish</div>
+</div>
+</div></div>
+<div id="topBarSearch" class="item"><div class="ui action input"><input type="text" placeholder="Type verb in Lithuanian or in English..." id="search" autofocus></div></div>
+</div>
+<div class="pusher">
+<div class="ui equal width grid stackable container">
+<div style="display: none;" class="row"><div class="column"><div id="results" class="ui segment"><p></p></div></div></div>
+<div class="row"><div class="column"><div class="ui segment">
+<div class="ui breadcrumb">
+<a href="/" class="section"><i class="home icon"></i>Home</a><i class="right chevron icon divider"></i><a href="/lt/" class="section">Lithuanian</a><i class="right chevron icon divider"></i><div id="individualverb" class="active section">tekti</div>
+</div>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- CoolJugator Top CrumbsBar--><ins style="display:block" data-ad-client="ca-pub-0492579730264989" data-ad-slot="2205579251" data-ad-format="auto" class="adsbygoogle"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div></div></div>
+<div class="eleven wide stretched column"><div id="mainContentArea" class="ui segment"><section id="conjugate"><h1 id="mainTitle">Tekti conjugation</h1>
+<div class="ui centered grid"><div class="center aligned column"><div id="navigationMenu" class="ui compact tabular stackable menu">
+<a href="#conjugate" class="item active">Conjugate</a><a href="#usage" class="item">Usage</a><a href="#examples" class="item">Examples [137]</a><a href="#questions" class="item">Questions [0]</a>
+</div></div></div>
+<h2 class="ui header">
+<i class="list layout teal icon"></i>Conjugate tekti - to fell to (somebody)</h2>
+<div id="mapexplanation" style="text-align: right;"><i data-content="This tekti conjugation map displays how forms of the verb tekti are constructed. Moreover, it also serves as an easy navigation menu: you can click on any part of the map to be taken directly to those forms." class="write info teal icon"></i></div>
+<div id="conjugationmap" style="min-height: 250px" class="ui container"><div class="tree"><ul><li>
+<a href="#">Verb stem tek-</a><ul>
+<li>
+<a href="#conjugate">Infinitive: tekti</a><ul>
+<li><a href="#future">Future</a></li>
+<li><a href="#pastfrequentative">Past frequentative</a></li>
+<li><a href="#conditional">Conditional</a></li>
+<li><a href="#imperative">Imperative</a></li>
+</ul>
+</li>
+<li>
+<a href="#present">Present (s)he: tenka</a><ul><li><a href="#present">Present forms</a></li></ul>
+</li>
+<li>
+<a href="#past">Past (s)he: teko</a><ul><li><a href="#past">Past forms</a></li></ul>
+</li>
+</ul>
+</li></ul></div></div>
+<div style="text-align: right;"><div id="markstress" class="ui button teal">
+<i class="write square icon"></i>Turn on word stress</div></div>
+<div class="ui container">
+<p id="present" class="tensetitle">Present tense</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th data-content="The present forms of the verb tekti in Lithuanian." data-variation="inverted"> Lithuanian Form</th>
+<th data-content="The present forms of the verb tekti translated to English." data-variation="inverted">English Translation</th>
+<th data-content="Click on the icon to see Lithuanian examples of this particular form." data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Aš</div></td>
+<td id="present1" data-stressed="tenkù">tenku </td>
+<td>I fell to (somebody)</td>
+<td><a href="#examplepresent1"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="present2" data-stressed="tenki">tenki </td>
+<td>you fell to (somebody)</td>
+<td><a href="#examplepresent2"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jis/ji</div></td>
+<td id="present3" data-stressed="teñka">tenka </td>
+<td>he/she does fell to (somebody)</td>
+<td><a href="#examplepresent3"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Mes</div></td>
+<td id="present4" data-stressed="tenkame">tenkame </td>
+<td>we fell to (somebody)</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="present5" data-stressed="tenkate">tenkate </td>
+<td>you all fell to (somebody)</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jie/jos</div></td>
+<td id="present6" data-stressed="teñka">tenka </td>
+<td>they fell to (somebody)</td>
+<td><a href="#examplepresent6"><i class="external teal icon"></i></a></td>
+</tr>
+</tbody>
+</table>
+<p id="past" class="tensetitle">Past tense</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th data-content="The past forms of the verb tekti in Lithuanian." data-variation="inverted"> Lithuanian Form</th>
+<th data-content="The past forms of the verb tekti translated to English." data-variation="inverted">English Translation</th>
+<th data-content="Click on the icon to see Lithuanian examples of this particular form." data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Aš</div></td>
+<td id="past1" data-stressed="tekau">tekau </td>
+<td>I did fell to (somebody)</td>
+<td><a href="#examplepast1"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="past2" data-stressed="tekai">tekai </td>
+<td>you did fell to (somebody)</td>
+<td><a href="#examplepast2"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jis/ji</div></td>
+<td id="past3" data-stressed="tẽko">teko </td>
+<td>he/she did fell to (somebody)</td>
+<td><a href="#examplepast3"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Mes</div></td>
+<td id="past4" data-stressed="tekome">tekome </td>
+<td>we did fell to (somebody)</td>
+<td><a href="#examplepast4"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="past5" data-stressed="tekote">tekote </td>
+<td>you all did fell to (somebody)</td>
+<td><a href="#examplepast5"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jie/jos</div></td>
+<td id="past6" data-stressed="tẽko">teko </td>
+<td>they did fell to (somebody)</td>
+<td><a href="#examplepast6"><i class="external teal icon"></i></a></td>
+</tr>
+</tbody>
+</table>
+<p id="pastfrequentative" class="tensetitle">Past frequentative tense</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th data-content="The past frequentative forms of the verb tekti in Lithuanian." data-variation="inverted"> Lithuanian Form</th>
+<th data-content="The past frequentative forms of the verb tekti translated to English." data-variation="inverted">English Translation</th>
+<th data-content="Click on the icon to see Lithuanian examples of this particular form." data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Aš</div></td>
+<td id="pastperfect1" data-stressed="tekdavau">tekdavau </td>
+<td>I used to fell to (somebody)</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="pastperfect2" data-stressed="tekdavai">tekdavai </td>
+<td>you used to fell to (somebody)</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jis/ji</div></td>
+<td id="pastperfect3" data-stressed="tèkdavo">tekdavo </td>
+<td>he/she used to fell to (somebody)</td>
+<td><a href="#examplepastperfect3"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Mes</div></td>
+<td id="pastperfect4" data-stressed="tekdavome">tekdavome </td>
+<td>we used to fell to (somebody)</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="pastperfect5" data-stressed="tekdavote">tekdavote </td>
+<td>you all used to fell to (somebody)</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jie/jos</div></td>
+<td id="pastperfect6" data-stressed="tèkdavo">tekdavo </td>
+<td>they used to fell to (somebody)</td>
+<td><a href="#examplepastperfect6"><i class="external teal icon"></i></a></td>
+</tr>
+</tbody>
+</table>
+<p id="future" class="tensetitle">Future tense</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th data-content="The future forms of the verb tekti in Lithuanian." data-variation="inverted"> Lithuanian Form</th>
+<th data-content="The future forms of the verb tekti translated to English." data-variation="inverted">English Translation</th>
+<th data-content="Click on the icon to see Lithuanian examples of this particular form." data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Aš</div></td>
+<td id="future1" data-stressed="teksiu">teksiu </td>
+<td>I will fell to (somebody)</td>
+<td><a href="#examplefuture1"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="future2" data-stressed="teksi">teksi </td>
+<td>you will fell to (somebody)</td>
+<td><a href="#examplefuture2"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jis/ji</div></td>
+<td id="future3" data-stressed="tèks">teks </td>
+<td>he/she will fell to (somebody)</td>
+<td><a href="#examplefuture3"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Mes</div></td>
+<td id="future4" data-stressed="teksime">teksime </td>
+<td>we will fell to (somebody)</td>
+<td><a href="#examplefuture4"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="future5" data-stressed="teksite">teksite </td>
+<td>you all will fell to (somebody)</td>
+<td><a href="#examplefuture5"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jie/jos</div></td>
+<td id="future6" data-stressed="tèks">teks </td>
+<td>they will fell to (somebody)</td>
+<td><a href="#examplefuture6"><i class="external teal icon"></i></a></td>
+</tr>
+</tbody>
+</table>
+<p id="conditional" class="tensetitle">Conditional mood</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th data-content="The conditional forms of the verb tekti in Lithuanian." data-variation="inverted"> Lithuanian Form</th>
+<th data-content="The conditional forms of the verb tekti translated to English." data-variation="inverted">English Translation</th>
+<th data-content="Click on the icon to see Lithuanian examples of this particular form." data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Aš</div></td>
+<td id="hypothetical1" data-stressed="tekčiau">tekčiau </td>
+<td>I would fell to (somebody)</td>
+<td><a href="#examplehypothetical1"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="hypothetical2" data-stressed="tektum">tektum </td>
+<td>you would fell to (somebody)</td>
+<td><a href="#examplehypothetical2"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jis/ji</div></td>
+<td id="hypothetical3" data-stressed="tèktų">tektų </td>
+<td>he/she would fell to (somebody)</td>
+<td><a href="#examplehypothetical3"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Mes</div></td>
+<td id="hypothetical4" data-stressed="tektume">tektume </td>
+<td>we would fell to (somebody)</td>
+<td><a href="#examplehypothetical4"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="hypothetical5" data-stressed="tektute">tektute </td>
+<td>you all would fell to (somebody)</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jie/jos</div></td>
+<td id="hypothetical6" data-stressed="tèktų">tektų </td>
+<td>they would fell to (somebody)</td>
+<td><a href="#examplehypothetical6"><i class="external teal icon"></i></a></td>
+</tr>
+</tbody>
+</table>
+<p id="imperative" class="tensetitle">Imperative mood</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th>Lithuanian Form</th>
+<th>English Translation</th>
+<th data-content="Click on the icon to see examples of this particular form" data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="command2" data-stressed="tèk">tek </td>
+<td>you fell to (somebody)!</td>
+<td><a href="#examplecommand2"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="command4" data-stressed="tekite">tekite</td>
+<td>you all fell to (somebody)!</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 class="ui dividing header">Feedback: Noticed a mistake? Have a suggestion?</h3>
+<div id="feedbackMenu">
+<p>Have you noticed a mistake or a bug here somewhere on this page? Have ideas how we can improve our content? Submit a request for us and we will do our best to take your feedback into account!</p>
+<div class="ui container"><f method="post" class="ui review form"><div class="field">
+<input id="fname" name="fsubmitterName" placeholder="Your name..."><input id="fverb" name="fverb" type="hidden" value="tekti"><input id="flanguage" name="flanguage" type="hidden" value="lt"><input id="feedback" name="feedback" type="text" placeholder="Describe your feedback...">
+</div>
+<div style="text-align: center;" class="clear"><button id="givefeedback" type="submit" class="ui teal labeled icon button"><i class="bug icon"></i>    Submit for review</button></div></f></div>
+<div class="ui divider"></div>
+</div>
+<section id="usage"><p style="font-size: 1.714rem; padding-top: 8vh; padding-bottom: 4vh; color: rgba(0, 0, 0, 0.87);" class="ui header usageheader"><i class="info teal icon"></i>Usage information for tekti</p>
+<p>There is no additional usage information for the verb tekti.</p></section><section id="examples"><h3 style="font-size: 1.714rem; padding-top: 8vh; padding-bottom: 4vh; color: rgba(0, 0, 0, 0.87);" class="ui header">
+<i class="quote left teal icon"></i>Examples of tekti</h3>
+<table id="ExampleSentences" class="ui celled striped table">
+<thead><tr>
+<th data-content="An example sentence in Lithuanian. Our example sentences are picked from multiple sources with real world spoken or written language." data-variation="inverted" class="eight wide">Example in Lithuanian</th>
+<th data-content="The translation of the example in the English language, with the relevant part highlighted if possible." data-variation="inverted" class="eight wide">Translation in English</th>
+<th data-content="A link to the conjugated form - move your mouse over it to find out which form it is, or click on it to go back to the conjugation of that form." data-variation="inverted" class="one wide">Fm.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td id="exampleinfinitive0">Daug nekviestų nuolat mėgina pa<span class="highlightsample">tekti</span>.</td>
+<td>There's a lot of characters come around here, they're not expected.</td>
+<td><a href="#conjugate"><i data-content="An instance of the main form." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="exampleinfinitive0-1">Vieną dieną tau gali <span class="highlightsample">tekti</span> gaminti valgį dvidešimčiai vyrų.</td>
+<td>You might have to cook for 20 guys some day.</td>
+<td><a href="#conjugate"><i data-content="An instance of the main form." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="exampleinfinitive0-2">Man mirtinai reikia pa<span class="highlightsample">tekti</span>, pas šitą moterį. O, dieve.</td>
+<td>Mr. Helpmann, I'm keen to get into Information Retrieval.</td>
+<td><a href="#conjugate"><i data-content="An instance of the main form." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="exampleinfinitive0-3">Jie greičiausiai ieško kito kelio čia pa<span class="highlightsample">tekti</span>.</td>
+<td>They're probably looking for other ways to get in.</td>
+<td><a href="#conjugate"><i data-content="An instance of the main form." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent1">Aš jos ne<span class="highlightsample">tenku</span>, Džekai.</td>
+<td>I'm losing her, Jack.</td>
+<td><a href="#present1"><i data-content="A 1st person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent1-1">Maniau, kad tavęs ne<span class="highlightsample">tenku</span>.</td>
+<td>I thought I was losing you.</td>
+<td><a href="#present1"><i data-content="A 1st person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent2">Pažiūrėk, kiek daug ne<span class="highlightsample">tenki</span>.</td>
+<td>Look at all you're missing.</td>
+<td><a href="#present2"><i data-content="A 2nd person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent2-1">Dabar supranti, ko ne<span class="highlightsample">tenki</span>.</td>
+<td>See what you've been missing? - Yes.</td>
+<td><a href="#present2"><i data-content="A 2nd person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent2-2">Naršyklės istorija tiesos neparodo. Maža klaidelė rašant "kanalas" ir jau ne ten pa<span class="highlightsample">tenki</span>.</td>
+<td>I mean, a small typo on the word "canal,"</td>
+<td><a href="#present2"><i data-content="A 2nd person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent2-3">Kai ten pa<span class="highlightsample">tenki</span>, negali ištrūkt.</td>
+<td>which means "father"? I'm sorry.</td>
+<td><a href="#present2"><i data-content="A 2nd person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent3">Ar neuž<span class="highlightsample">tenka</span>?</td>
+<td>Haven't you had enough yet?</td>
+<td><a href="#present3"><i data-content="A 3rd person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent3-1">Aš suprantu, ponia. Bet mano verslas - rizikingas, ir <span class="highlightsample">tenka</span> daug ką palikti sėkmei.</td>
+<td>I understand, dear Madame, but my business is risky and I take many risks...</td>
+<td><a href="#present3"><i data-content="A 3rd person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent3-2">Už<span class="highlightsample">tenka</span>.</td>
+<td>That will be enough for you.</td>
+<td><a href="#present3"><i data-content="A 3rd person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent3-3">Kaip bebūtų, man <span class="highlightsample">tenka</span> sutikti su tokiom sąlygom dėl visiško saugumo.</td>
+<td>However, I accept the need for absolute secrecy in this.</td>
+<td><a href="#present3"><i data-content="A 3rd person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast1">Dabar, kai jo ne<span class="highlightsample">tekau</span>, jaučiuosi, tarsi būčiau niekas.</td>
+<td>Now that I have lost him, it is as though I am nothing.</td>
+<td><a href="#past1"><i data-content="A 1st person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast1-1">Į 6 klasę nepa<span class="highlightsample">tekau</span>.</td>
+<td>I never made it to the 6th grade and it doesn't look like you're gonna either.</td>
+<td><a href="#past1"><i data-content="A 1st person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast1-2">Tada aš gedėsiu sūnaus, kurio ne<span class="highlightsample">tekau</span>.</td>
+<td>Then I will mourn the son I lost.</td>
+<td><a href="#past1"><i data-content="A 1st person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast1-3">Kaip aš čia pa<span class="highlightsample">tekau</span>?</td>
+<td>How did l get here?</td>
+<td><a href="#past1"><i data-content="A 1st person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast2">- Kaip čia pa<span class="highlightsample">tekai</span>?</td>
+<td>-How did you get in?</td>
+<td><a href="#past2"><i data-content="A 2nd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast2-1">O kaip čia pa<span class="highlightsample">tekai</span>?</td>
+<td>And how did you get here?</td>
+<td><a href="#past2"><i data-content="A 2nd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast2-2">Proto ne<span class="highlightsample">tekai</span>?</td>
+<td>An overhead cable?</td>
+<td><a href="#past2"><i data-content="A 2nd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast2-3">O argi tu ne į rojų pa<span class="highlightsample">tekai</span>?</td>
+<td>Haven't you got in Paradise?</td>
+<td><a href="#past2"><i data-content="A 2nd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast3">
+<span class="highlightsample">Teko</span> dėl jo pakovoti, todėl jis perplėštas.</td>
+<td>They was fightin' for them so it just got tore in half.</td>
+<td><a href="#past3"><i data-content="A 3rd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast3-1">Jam <span class="highlightsample">teko</span> tiek išgyventi, kad tau nė nesisapnavo.</td>
+<td>He's been through more than you can imagine.</td>
+<td><a href="#past3"><i data-content="A 3rd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast3-2">Mane pradėjo traukti prie rūko sienos ir <span class="highlightsample">teko</span> grumtis su tuo judėjimu? .</td>
+<td>l was being drawn to the fog bank, so l had to struggle against this force for some time.</td>
+<td><a href="#past3"><i data-content="A 3rd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast3-3">Tarp visų Šaolino vyrų, kuriuos man <span class="highlightsample">teko</span> mokyti yra vienas, kuris nukreipė savo žinias ir jėgą savo paties poreikiams patenkinti.</td>
+<td>Among all the Shaolin men I have taught there is one who has turned the ways of knowledge and strength to his own base ends.</td>
+<td><a href="#past3"><i data-content="A 3rd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast4">Bet mes pa<span class="highlightsample">tekome</span>, jūsų pagalbos ir palaikymo dėka.</td>
+<td>But we did... because of your help and support.</td>
+<td><a href="#past4"><i data-content="A 4th person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast4-1">Aš neprisimenu, kaip čia pa<span class="highlightsample">tekome</span>...</td>
+<td>In fact, I cannot remember how we got here.</td>
+<td><a href="#past4"><i data-content="A 4th person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast4-2">Šie narvai buvo suręsti po to, kai mes čia pa<span class="highlightsample">tekome</span>.</td>
+<td>These cages we're in weren't built till after we got here.</td>
+<td><a href="#past4"><i data-content="A 4th person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast4-3">- Jau ne<span class="highlightsample">tekome</span>.</td>
+<td>We already lost it.</td>
+<td><a href="#past4"><i data-content="A 4th person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast5">Ne ten pa<span class="highlightsample">tekote</span>.</td>
+<td>Wrong room.</td>
+<td><a href="#past5"><i data-content="A 5th person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast5-1">Aš mačiau akmenis, kokio jūs ne<span class="highlightsample">tekote</span>.</td>
+<td>Yes. I've seen stones like the one you lost.</td>
+<td><a href="#past5"><i data-content="A 5th person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast5-2">Kaip čia pa<span class="highlightsample">tekote</span>?</td>
+<td>You shouldn't be here.</td>
+<td><a href="#past5"><i data-content="A 5th person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast5-3">Kiek metų buvo mamai kai jos ne<span class="highlightsample">tekote</span>?</td>
+<td>How old was your mom when she passed away?</td>
+<td><a href="#past5"><i data-content="A 5th person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepastperfect3">Anksčiau sniegu <span class="highlightsample">tekdavo</span> eiti ir toliau.</td>
+<td>I've walked that far before in the snow.</td>
+<td><a href="#pastperfect3"><i data-content="A 3rd person form of the Past frequentative." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepastperfect3-1">Monako "Grand Prix" 1993-ieji Nors dažniausiai jam <span class="highlightsample">tekdavo</span> važiuoti paskui "Williams" bolidą, kuris buvo žymiai greitesnis už jo.</td>
+<td>Even though he spent most of his time looking at the back of a Williams car, which was much faster than his.</td>
+<td><a href="#pastperfect3"><i data-content="A 3rd person form of the Past frequentative." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepastperfect3-2">Anksčiau knygų <span class="highlightsample">tekdavo</span> ieškot kelias dienas, dabar kelias min.</td>
+<td>What used to take days to locate now only takes a matter of minutes.</td>
+<td><a href="#pastperfect3"><i data-content="A 3rd person form of the Past frequentative." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepastperfect3-3">Aš visada jį įlaipindavau į šūdą ir jam <span class="highlightsample">tekdavo</span> sumokėti.</td>
+<td>I always get him into shit. He always pays for it.</td>
+<td><a href="#pastperfect3"><i data-content="A 3rd person form of the Past frequentative." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplefuture1">Aš neparduosiu padangų ir visko ne<span class="highlightsample">teksiu</span>!</td>
+<td>I won't sell any... tires. I will lose everything!</td>
+<td><a href="#future1"><i data-content="A 1st person form of the Future." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplefuture1-1">Kas bus, jei tavęs ne<span class="highlightsample">teksiu</span>, Džordžai?</td>
+<td>You'd be gone, George, all right?</td>
+<td><a href="#future1"><i data-content="A 1st person form of the Future." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplefuture1-2">Jei dar iš viso pa<span class="highlightsample">teksiu</span>.</td>
+<td>Assuming I can even get in.</td>
+<td><a href="#future1"><i data-content="A 1st person form of the Future." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplefuture1-3">Raulis šiandien neis, o be jo į klubą nepa<span class="highlightsample">teksiu</span>.</td>
+<td>Rowley isn't going and I can't get in without him.</td>
+<td><a href="#future1"><i data-content="A 1st person form of the Future." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplefuture2">Tos tabletės tave užmuš kol tu ten pa<span class="highlightsample">teksi</span>.</td>
+<td>Those pills will kill you before you ever get on.</td>
+<td><a href="#future2"><i data-content="A 2nd person form of the Future." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplefuture2-1">Patekti tai ten pa<span class="highlightsample">teksi</span>,</td>
+<td>It might help, but she's one dangerous witch. Please? Haku helped me before.</td>
+<td><a href="#future2"><i data-content="A 2nd person form of the Future." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplefuture2-2">Kai ten pa<span class="highlightsample">teksi</span>, plauk į kameros apačią o aš su tavimi kalbėsiu pro stovą.</td>
+<td>Once you get in, swim to the bottom of the chamber... Once you get in, swim to the bottom of the chamber... and I'll talk you through the rest.</td>
+<td><a href="#future2"><i data-content="A 2nd person form of the Future." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplefuture2-3">Bet jei aš papasakosiu, tu vis tiek jo ne<span class="highlightsample">teksi</span>.</td>
+<td>What he thinking! He look like guy from Who's the Boss?</td>
+<td><a href="#future2"><i data-content="A 2nd person form of the Future." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplefuture3">- Atsiprašymo neuž<span class="highlightsample">teks</span>.</td>
+<td>Apologies aren't enough, sir!</td>
+<td><a href="#future3"><i data-content="A 3rd person form of the Future." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplefuture3-1">Kodėl sakei, kad neuž<span class="highlightsample">teks</span>?</td>
+<td>Why did you say there wasn't enough, Uncle Peter?</td>
+<td><a href="#future3"><i data-content="A 3rd person form of the Future." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplefuture3-2">Už<span class="highlightsample">teks</span>.</td>
+<td>There's plenty.</td>
+<td><a href="#future3"><i data-content="A 3rd person form of the Future." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplefuture3-3">Keite Skarlet, už<span class="highlightsample">teks</span>.</td>
+<td>Here, Katie Scarlett, that's enough!</td>
+<td><a href="#future3"><i data-content="A 3rd person form of the Future." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplefuture4">- Nepa<span class="highlightsample">teksime</span>.</td>
+<td>The campus is huge.</td>
+<td><a href="#future4"><i data-content="A 4th person form of the Future." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplefuture4-1">Tai kaip mes ten pa<span class="highlightsample">teksime</span>?</td>
+<td>So how are we supposed to get there?</td>
+<td><a href="#future4"><i data-content="A 4th person form of the Future." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplefuture4-2">Taigi, ar ilgam laikui mes jūsų ne<span class="highlightsample">teksime</span>, mano berniuk?</td>
+<td>So, how long are we losing you for, my boy?</td>
+<td><a href="#future4"><i data-content="A 4th person form of the Future." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplefuture4-3">Į jo kabinetą nepa<span class="highlightsample">teksime</span>.</td>
+<td>We can't break into his office.</td>
+<td><a href="#future4"><i data-content="A 4th person form of the Future." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplefuture5">Norėjau jums parodyti, ko ne<span class="highlightsample">teksite</span>, jei išvyksite.</td>
+<td>I wanted you to see all the little things you're gonna miss if you leave.</td>
+<td><a href="#future5"><i data-content="A 5th person form of the Future." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplefuture5-1">Jūs šio berniuko ne<span class="highlightsample">teksite</span>.</td>
+<td>You are going to lose the boy.</td>
+<td><a href="#future5"><i data-content="A 5th person form of the Future." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplefuture5-3">Jei ten pa<span class="highlightsample">teksite</span>, galite nebegrįžti.</td>
+<td>You get in there, you might never come out.</td>
+<td><a href="#future5"><i data-content="A 5th person form of the Future." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplehypothetical1">Jei ten pa<span class="highlightsample">tekčiau</span>, pasiimčiau tave kartu į renginius ir susitikimus, pamatytum daugybę žmonių, kurių šiaip nesutiksi.</td>
+<td>If I get in, I will be taking you to the events and the gatherings, and you'll be meeting a lot of people you wouldn't normally get to meet.</td>
+<td><a href="#hypothetical1"><i data-content="A 1st person form of the Conditional." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplehypothetical1-1">Ar žinai, ką padariau, jog čia pa<span class="highlightsample">tekčiau</span>?</td>
+<td>Do you know what I do to get here?</td>
+<td><a href="#hypothetical1"><i data-content="A 1st person form of the Conditional." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplehypothetical1-2">Ar pažįsti vyrus, kuriuos paaukojau, kad čia pa<span class="highlightsample">tekčiau</span>?</td>
+<td>Do you know the men who I've had to sacrifice to get here?</td>
+<td><a href="#hypothetical1"><i data-content="A 1st person form of the Conditional." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplehypothetical1-3">Ponia, ir aš labai sunkiai dirbau, kad čia pa<span class="highlightsample">tekčiau</span>, taigi nepažeidžiu taisyklių.</td>
+<td>I've worked very, very hard to get here, too, madam, and I'm well within the rules.</td>
+<td><a href="#hypothetical1"><i data-content="A 1st person form of the Conditional." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplehypothetical2">Argi tu ne per senas, kad į ją pa<span class="highlightsample">tektum</span>?</td>
+<td>Aren't you too old to go to space camp?</td>
+<td><a href="#hypothetical2"><i data-content="A 2nd person form of the Conditional." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplehypothetical2-1">Kad pa<span class="highlightsample">tektum</span>, tau reikia, kaip, puikus SĖDĖJO daugybė.</td>
+<td>DWIGHT: To get in, you need, like, perfect SAT scores.</td>
+<td><a href="#hypothetical2"><i data-content="A 2nd person form of the Conditional." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplehypothetical2-2">Įdomu, kas būtų, jei jos ne<span class="highlightsample">tektum</span>.</td>
+<td>I wonder what would happen if you lost her.</td>
+<td><a href="#hypothetical2"><i data-content="A 2nd person form of the Conditional." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplehypothetical2-3">Džekai, o tu nekirtai sienos, kad čia pa<span class="highlightsample">tektum</span>?</td>
+<td>Didn't you cross the border to get here, Jack?</td>
+<td><a href="#hypothetical2"><i data-content="A 2nd person form of the Conditional." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplehypothetical3">Tikriausiai neuž<span class="highlightsample">tektų</span>.</td>
+<td>Certainly not good enough.</td>
+<td><a href="#hypothetical3"><i data-content="A 3rd person form of the Conditional." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplehypothetical3-1">Tik meldžia Dievą, kad jėgų už<span class="highlightsample">tektų</span>...</td>
+<td>And only praying to God to give him enough strength to endure.</td>
+<td><a href="#hypothetical3"><i data-content="A 3rd person form of the Conditional." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplehypothetical3-2">- Nupirktume. Tačiau nusprendė, kad už<span class="highlightsample">tektų</span>, jei nupirktume broliuką Stenliui.</td>
+<td>But she decided it would be enough if we were to buy one for Stanley.</td>
+<td><a href="#hypothetical3"><i data-content="A 3rd person form of the Conditional." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplehypothetical3-3">Jai <span class="highlightsample">tektų</span> išgirsti Delakro, Persius, apygardos prokurorą.</td>
+<td>- She'll hear the Delacroixs, the--</td>
+<td><a href="#hypothetical3"><i data-content="A 3rd person form of the Conditional." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplehypothetical4">Tai vienintėlis dalykas kurio mums reikia kad pa<span class="highlightsample">tektume</span>, taigi mes turime juos pavogti.</td>
+<td>It's the one thing we need that we can't get at a store, buddy, so yes, we got to steal them.</td>
+<td><a href="#hypothetical4"><i data-content="A 4th person form of the Conditional." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplehypothetical4-1">Jei apakinsite šalį 24 valandoms, sunku patikėti kiek gyvybių ne<span class="highlightsample">tektume</span>.</td>
+<td>If you blind a country for 24 hours, the loss of life is unthinkable.</td>
+<td><a href="#hypothetical4"><i data-content="A 4th person form of the Conditional." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplehypothetical4-2">Jei nors vieno ne<span class="highlightsample">tektume</span>, reiktų kilti viršun.</td>
+<td>If we lost someone, we'd have to go up.</td>
+<td><a href="#hypothetical4"><i data-content="A 4th person form of the Conditional." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplecommand2">Jei mes viską iš jos atimsime, jai vis <span class="highlightsample">tek</span> liks audinės kailiniai.</td>
+<td>If we take her for everything, she still ends up with a very nice mink.</td>
+<td><a href="#command2"><i data-content="A 2nd person form of the  verb." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplecommand2-1">Praleidęs <span class="highlightsample">tek</span> metų Tibete, jūs vis dar nesuprantat jo papročių.</td>
+<td>After all these years, you still do not understand Tibetan ways.</td>
+<td><a href="#command2"><i data-content="A 2nd person form of the  verb." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplecommand2-2">Ir paken<span class="highlightsample">tek</span>.</td>
+<td>Just wait.</td>
+<td><a href="#command2"><i data-content="A 2nd person form of the  verb." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplecommand2-3">Ir tuomet Satleriui <span class="highlightsample">tek</span> griebtis išbandytos taktikos.</td>
+<td>And then Sutler will be forced to do the only thing he knows how to do.</td>
+<td><a href="#command2"><i data-content="A 2nd person form of the  verb." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+</tbody>
+</table></section><section id="questions"><div class="ui comments"><h4 style="font-size: 1.714rem; padding-top: 8vh; padding-bottom: 4vh; color: rgba(0, 0, 0, 0.87);" class="ui header">
+<i class="help teal icon"></i>Questions and answers about tekti conjugation</h4></div>
+<div id="questionmenu">
+<h3 class="ui dividing header">Still don't understand something? Ask and receive a reply!</h3>
+<p>Ask us a question about this word and get it replied to here. Questions are answered by experienced language speakers.</p>
+<div class="ui center aligned container"><f class="ui reply form"><div class="field">
+<input id="fname" name="submitterName" placeholder="Your name..."><input id="qverb" name="qverb" type="hidden" value="tekti"><input id="qlanguage" name="qlanguage" type="hidden" value="lt">
+</div>
+<div class="field"><textarea id="question" name="question" rows="5"></textarea></div>
+<div id="askquestion" class="ui teal labeled submit icon button">
+<i class="icon edit"></i> Ask question about tekti</div></f></div>
+</div></section><div class="content"></div></section></div></div>
+<div class="five wide column">
+<div class="ui segment"><div style="text-align: center;">
+<b>Work in progress</b><p style="padding-top: 10px;"><span style="color: grey; text-align: justify;"><i class="announcement icon red big"></i>Help us become the best conjugation resource. <a href="http://cooljugator.com/blog/2016/12/16/cooljugators-mission">Find out more</a>. </span></p>
+</div></div>
+<div class="ui segment"><div style="text-align: center;">
+<b>Play Lithuanian conjugation game!</b><p style="padding-top: 10px;"><span style="color: grey; text-align: justify;"><i class="game icon orange big"></i>Practice Lithuanian verb conjugation with real sentences in our free <a href="http://cooljugator.com/game/Index">game</a>. Try now!</span></p>
+</div></div>
+<div class="ui segment"><div style="text-align: center;">
+<b>Tip: CTRL + M for navigation!</b><p style="padding-top: 10px;"><span style="color: grey; text-align: justify;"> <i class="keyboard icon teal"></i>You can access a quick navigation menu with the shortcut 'CTRL + M'.</span></p>
+</div></div>
+<div class="ui segment"><div style="text-align: center;">
+<b>Learn Lithuanian with our subtitled book!</b><p><a href="http://interlinearbooks.com/lithuanian/?r=cjgtr&amp;c=lt" rel="nofollow"><img src="/images/presentation_lt.png" style="width: 98%; padding-top: 10px;"></a></p>
+<p>Check out our new product - a novel subtitled Interlinear book in Lithuanian to get reading practice! Click on the 'Try out' button below.</p>
+<a href="http://interlinearbooks.com/lithuanian/?r=cjgtr&amp;c=lt" rel="nofollow"><div style="vertical-align: middle;" class="ui submit button large red">Try out</div></a>
+</div></div>
+<div class="ui segment center aligned">
+<p><b>Receive most useful verbs, tips and other info free!</b><!-- Begin MailChimp Signup Form--></p>
+<!-- Begin MailChimp Signup Form--><div id="mc_embed_signup"><form id="mc-embedded-subscribe-form" action="//cooljugator.us13.list-manage.com/subscribe/post?u=ceca7eaaa8f7bfdc14e243ae2&amp;id=980c8f3061" method="post" name="mc-embedded-subscribe-form" target="_blank" novalidate="" class="validate ui form error center aligned"><div id="mc_embed_signup_scroll">
+<div class="mc-field-group one field center aligned"><div class="field large">
+<label for="mce-EMAIL">Email Address</label><input id="mce-EMAIL" type="email" value="" name="EMAIL" class="required email">
+</div></div>
+<div class="mc-field-group input-group"></div>
+<div class="ui center aligned grid">
+<div id="newsletterlanguageselection" style="margin-top: 1.3rem; margin-bottom: 2rem;" class="ui button teal">Select the language(s) you're interested in</div>
+<div class="ui fluid popup top left transition hidden"><div class="ui four column divided center aligned grid"><ul>
+<li style="list-style-type: none">
+<input type="checkbox" value="1" name="group[2381][1]" id="mce-group[2381]-2381-0"><label for="mce-group[2381]-2381-0">  English</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="2" name="group[2381][2]" id="mce-group[2381]-2381-1"><label for="mce-group[2381]-2381-1">  Esperanto</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="4" name="group[2381][4]" id="mce-group[2381]-2381-2"><label for="mce-group[2381]-2381-2">  Estonian</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="8192" name="group[2381][8192]" id="mce-group[2381]-2381-13"><label for="mce-group[2381]-2381-13">  Hungarian</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="8" name="group[2381][8]" id="mce-group[2381]-2381-3"><label for="mce-group[2381]-2381-3">  Latvian</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" checked value="16" name="group[2381][16]" id="mce-group[2381]-2381-4"><label for="mce-group[2381]-2381-4">  Lithuanian</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="32" name="group[2381][32]" id="mce-group[2381]-2381-5"><label for="mce-group[2381]-2381-5">  Modern Greek</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="2048" name="group[2381][2048]" id="mce-group[2381]-2381-11"><label for="mce-group[2381]-2381-11">  Polish</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="128" name="group[2381][128]" id="mce-group[2381]-2381-6"><label for="mce-group[2381]-2381-6">  Portuguese</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="64" name="group[2381][64]" id="mce-group[2381]-2381-7"><label for="mce-group[2381]-2381-7">  Russian</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="4096" name="group[2381][4096]" id="mce-group[2381]-2381-12"><label for="mce-group[2381]-2381-12">   Spanish</label>
+</li>
+</ul></div></div>
+</div>
+<div id="mce-responses" class="clear">
+<div id="mce-error-response" style="display:none" class="response"></div>
+<div id="mce-success-response" style="display:none" class="response"></div>
+</div>
+<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--><div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_ceca7eaaa8f7bfdc14e243ae2_980c8f3061" tabindex="-1" value=""></div>
+<div style="text-align: center;" class="clear"><input id="mc-embedded-subscribe" type="submit" value="Subscribe" name="subscribe" style="text-align: center; vertical-align: middle;" class="ui submit button large teal"></div>
+</div></form></div>
+<!-- End mc_embed_signup-->
+</div>
+<div class="ui segment"><p style="text-align: center;"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- New 15 May 2016 CoolJugator flexible ad--><ins style="display:block" data-ad-client="ca-pub-0492579730264989" data-ad-slot="4873833251" data-ad-format="auto" class="adsbygoogle"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></p></div>
+<div class="ui segment">
+<p style="text-align: center;"><b>Related verbs</b></p>
+<table class="ui celled table">
+<thead><tr>
+<th>Verb</th>
+<th>Translation</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><a href="/lt/atitekti" style="text-align: center;">atitekti</a></td>
+<td>fall to</td>
+</tr>
+<tr>
+<td><a href="/lt/netekti" style="text-align: center;">netekti</a></td>
+<td>lose</td>
+</tr>
+<tr>
+<td><a href="/lt/patekti" style="text-align: center;">patekti</a></td>
+<td>get into</td>
+</tr>
+<tr>
+<td><a href="/lt/sukti" style="text-align: center;">sukti</a></td>
+<td>turn</td>
+</tr>
+<tr>
+<td><a href="/lt/u%C5%BEtekti" style="text-align: center;">užtekti</a></td>
+<td>be enough</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="ui segment">
+<p style="text-align: center;"><b>Similar verbs</b></p>
+<table class="ui celled table">
+<thead><tr>
+<th>Verb</th>
+<th>Translation</th>
+</tr></thead>
+<tbody>
+<tr>
+<td style="font-weight: bold;">Same length:</td>
+<td> </td>
+</tr>
+<tr>
+<td> <a href="/lt/alkti" style="text-align: center;">alkti</a>
+</td>
+<td>hunger</td>
+</tr>
+<tr>
+<td> <a href="/lt/d%C5%ABkti" style="text-align: center;">dūkti</a>
+</td>
+<td>disport</td>
+</tr>
+<tr>
+<td> <a href="/lt/l%C4%97kti" style="text-align: center;">lėkti</a>
+</td>
+<td>rush</td>
+</tr>
+<tr>
+<td> <a href="/lt/likti" style="text-align: center;">likti</a>
+</td>
+<td>remain</td>
+</tr>
+<tr>
+<td> <a href="/lt/mykti" style="text-align: center;">mykti</a>
+</td>
+<td>mumble</td>
+</tr>
+<tr>
+<td> <a href="/lt/m%C5%ABkti" style="text-align: center;">mūkti</a>
+</td>
+<td>moo</td>
+</tr>
+<tr>
+<td> <a href="/lt/nykti" style="text-align: center;">nykti</a>
+</td>
+<td>disappear</td>
+</tr>
+<tr>
+<td> <a href="/lt/nokti" style="text-align: center;">nokti</a>
+</td>
+<td>ripen</td>
+</tr>
+<tr>
+<td> <a href="/lt/pykti" style="text-align: center;">pykti</a>
+</td>
+<td>be angry</td>
+</tr>
+<tr>
+<td> <a href="/lt/pyktis" style="text-align: center;">pyktis</a>
+</td>
+<td>quarrel</td>
+</tr>
+<tr>
+<td> <a href="/lt/r%C4%97kti" style="text-align: center;">rėkti</a>
+</td>
+<td>scream</td>
+</tr>
+<tr>
+<td> <a href="/lt/r%C5%ABkti" style="text-align: center;">rūkti</a>
+</td>
+<td>smoke</td>
+</tr>
+<tr>
+<td> <a href="/lt/sekti" style="text-align: center;">sekti</a>
+</td>
+<td>run low</td>
+</tr>
+<tr>
+<td> <a href="/lt/sektis" style="text-align: center;">sektis</a>
+</td>
+<td>go well</td>
+</tr>
+<tr>
+<td> <a href="/lt/sukti" style="text-align: center;">sukti</a>
+</td>
+<td>turn</td>
+</tr>
+<tr>
+<td> <a href="/lt/suktis" style="text-align: center;">suktis</a>
+</td>
+<td>turn</td>
+</tr>
+<tr>
+<td> <a href="/lt/%C5%A1okti" style="text-align: center;">šokti</a>
+</td>
+<td>dance</td>
+</tr>
+<tr>
+<td> <a href="/lt/tapti" style="text-align: center;">tapti</a>
+</td>
+<td>become</td>
+</tr>
+<tr>
+<td> <a href="/lt/tarti" style="text-align: center;">tarti</a>
+</td>
+<td>pronounce</td>
+</tr>
+<tr>
+<td> <a href="/lt/tartis" style="text-align: center;">tartis</a>
+</td>
+<td>negotiate</td>
+</tr>
+<tr>
+<td> <a href="/lt/teigti" style="text-align: center;">teigti</a>
+</td>
+<td>assert</td>
+</tr>
+<tr>
+<td> <a href="/lt/teikti" style="text-align: center;">teikti</a>
+</td>
+<td>render</td>
+</tr>
+<tr>
+<td> <a href="/lt/teiktis" style="text-align: center;">teiktis</a>
+</td>
+<td>deign</td>
+</tr>
+<tr>
+<td> <a href="/lt/teisti" style="text-align: center;">teisti</a>
+</td>
+<td>judge</td>
+</tr>
+<tr>
+<td> <a href="/lt/tek%C4%97ti" style="text-align: center;">tekėti</a>
+</td>
+<td>flow</td>
+</tr>
+<tr>
+<td> <a href="/lt/telkti" style="text-align: center;">telkti</a>
+</td>
+<td>collect</td>
+</tr>
+<tr>
+<td> <a href="/lt/telktis" style="text-align: center;">telktis</a>
+</td>
+<td>rally</td>
+</tr>
+<tr>
+<td> <a href="/lt/tempti" style="text-align: center;">tempti</a>
+</td>
+<td>drag</td>
+</tr>
+<tr>
+<td> <a href="/lt/temti" style="text-align: center;">temti</a>
+</td>
+<td>become dark</td>
+</tr>
+<tr>
+<td> <a href="/lt/tepti" style="text-align: center;">tepti</a>
+</td>
+<td>paint</td>
+</tr>
+<tr>
+<td> <a href="/lt/teptis" style="text-align: center;">teptis</a>
+</td>
+<td>lubricate</td>
+</tr>
+<tr>
+<td> <a href="/lt/ter%C5%A1ti" style="text-align: center;">teršti</a>
+</td>
+<td>pollute</td>
+</tr>
+<tr>
+<td> <a href="/lt/t%C4%97%C5%A1ti" style="text-align: center;">tėšti</a>
+</td>
+<td>fatten</td>
+</tr>
+<tr>
+<td> <a href="/lt/te%C5%BEti" style="text-align: center;">težti</a>
+</td>
+<td>become soggy</td>
+</tr>
+<tr>
+<td> <a href="/lt/tikti" style="text-align: center;">tikti</a>
+</td>
+<td>fit</td>
+</tr>
+<tr>
+<td> <a href="/lt/tiktis" style="text-align: center;">tiktis</a>
+</td>
+<td>meet</td>
+</tr>
+<tr>
+<td> <a href="/lt/tilti" style="text-align: center;">tilti</a>
+</td>
+<td>turn quiet</td>
+</tr>
+<tr>
+<td> <a href="/lt/tinti" style="text-align: center;">tinti</a>
+</td>
+<td>swell</td>
+</tr>
+<tr>
+<td> <a href="/lt/tirti" style="text-align: center;">tirti</a>
+</td>
+<td>investigate</td>
+</tr>
+<tr>
+<td> <a href="/lt/t%C4%AFsti" style="text-align: center;">tįsti</a>
+</td>
+<td>strech</td>
+</tr>
+<tr>
+<td> <a href="/lt/ti%C5%BEti" style="text-align: center;">tižti</a>
+</td>
+<td>become liquid</td>
+</tr>
+<tr>
+<td> <a href="/lt/tolti" style="text-align: center;">tolti</a>
+</td>
+<td>move away</td>
+</tr>
+<tr>
+<td> <a href="/lt/tukti" style="text-align: center;">tukti</a>
+</td>
+<td>fatten</td>
+</tr>
+<tr>
+<td> <a href="/lt/t%C5%ABpti" style="text-align: center;">tūpti</a>
+</td>
+<td>crouch</td>
+</tr>
+<tr>
+<td> <a href="/lt/t%C5%ABptis" style="text-align: center;">tūptis</a>
+</td>
+<td>duck</td>
+</tr>
+<tr>
+<td> <a href="/lt/tu%C5%A1ti" style="text-align: center;">tušti</a>
+</td>
+<td>swelter</td>
+</tr>
+<tr>
+<td> <a href="/lt/t%C5%AB%C5%BEti" style="text-align: center;">tūžti</a>
+</td>
+<td>be enraged</td>
+</tr>
+<tr>
+<td> <a href="/lt/vykti" style="text-align: center;">vykti</a>
+</td>
+<td>go</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">Different length:</td>
+<td> </td>
+</tr>
+<tr>
+<td> <a href="/lt/netekti" style="text-align: center;">netekti</a>
+</td>
+<td>lose</td>
+</tr>
+<tr>
+<td> <a href="/lt/patekti" style="text-align: center;">patekti</a>
+</td>
+<td>get into</td>
+</tr>
+<tr>
+<td> <a href="/lt/teikti" style="text-align: center;">teikti</a>
+</td>
+<td>render</td>
+</tr>
+<tr>
+<td> <a href="/lt/teiktis" style="text-align: center;">teiktis</a>
+</td>
+<td>deign</td>
+</tr>
+<tr>
+<td> <a href="/lt/tek%C4%97ti" style="text-align: center;">tekėti</a>
+</td>
+<td>flow</td>
+</tr>
+<tr>
+<td> <a href="/lt/tekinti" style="text-align: center;">tekinti</a>
+</td>
+<td>grind</td>
+</tr>
+<tr>
+<td> <a href="/lt/telkti" style="text-align: center;">telkti</a>
+</td>
+<td>collect</td>
+</tr>
+<tr>
+<td> <a href="/lt/telktis" style="text-align: center;">telktis</a>
+</td>
+<td>rally</td>
+</tr>
+<tr>
+<td> <a href="/lt/tiekti" style="text-align: center;">tiekti</a>
+</td>
+<td>supply</td>
+</tr>
+<tr>
+<td> <a href="/lt/u%C5%BEtekti" style="text-align: center;">užtekti</a>
+</td>
+<td>be enough</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="ui segment">
+<p style="text-align: center;"><b>Do you know these verbs?</b></p>
+<table class="ui celled table">
+<thead><tr>
+<th>Verb</th>
+<th>Translation</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><a href="/lt/%C4%8De%C5%BEti" style="text-align: center;">čežti</a></td>
+<td>wilt</td>
+</tr>
+<tr>
+<td><a href="/lt/kombinuoti" style="text-align: center;">kombinuoti</a></td>
+<td>combine</td>
+</tr>
+<tr>
+<td><a href="/lt/krieti" style="text-align: center;">krieti</a></td>
+<td>straighten</td>
+</tr>
+<tr>
+<td><a href="/lt/pamokslauti" style="text-align: center;">pamokslauti</a></td>
+<td>preach</td>
+</tr>
+<tr>
+<td><a href="/lt/pasigydyti" style="text-align: center;">pasigydyti</a></td>
+<td>be treated</td>
+</tr>
+<tr>
+<td><a href="/lt/patikinti" style="text-align: center;">patikinti</a></td>
+<td>assure</td>
+</tr>
+<tr>
+<td><a href="/lt/pave%C5%BE%C4%97ti" style="text-align: center;">pavežėti</a></td>
+<td>give a lift</td>
+</tr>
+<tr>
+<td><a href="/lt/prajuokinti" style="text-align: center;">prajuokinti</a></td>
+<td>make (somebody) laugh</td>
+</tr>
+<tr>
+<td><a href="/lt/s%C4%97sti" style="text-align: center;">sėsti</a></td>
+<td>sit down</td>
+</tr>
+<tr>
+<td><a href="/lt/susi%C5%BEieduoti" style="text-align: center;">susižieduoti</a></td>
+<td>engage</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="QuickNavigation" class="ui segment center aligned fluid vertical menu sticky">
+<a href="#conjugate" class="item"><b>Quick Navigation </b></a><p> <i class="keyboard icon teal"></i><span style="color: grey;">'CTRL + M' anytime to show this menu</span></p>
+<div class="item">
+<a href="#conjugate" style="text-decoration: none; color: inherit;"><b>Conjugations</b></a><div class="menu">
+<a href="#present" class="item">Present tense</a><a href="#past" class="item">Past tense</a><a href="#pastfrequentative" class="item">Past frequentative tense</a><a href="#future" class="item">Future tense</a><a href="#conditional" class="item">Conditional mood</a><a href="#imperative" class="item">Imperative mood</a>
+</div>
+</div>
+<div class="item"><a href="#examples" style="text-decoration: none; color: inherit;"><b>Examples</b></a></div>
+<p style="padding-left: 5px; padding-right: 5px;"> <a href="http://interlinearbooks.com/lithuanian/?r=cjgtr&amp;c=lt" rel="nofollow"><i class="book icon red"></i></a><span style="color: grey;">Have you tried our <a href="http://interlinearbooks.com/lithuanian/?r=cjgtr&amp;c=lt" rel="nofollow">Lithuanian Interlinear Book?</a></span></p>
+</div>
+</div>
+</div>
+<footer><div style="margin-top: 10vh; padding-top: 4vh;" class="ui inverted vertical footer segment grey"><div class="ui center aligned container">
+<div class="ui stackable inverted divided grid">
+<div class="three wide column">
+<h4 class="ui inverted header">CoolJugator</h4>
+<div class="ui inverted link list">
+<a href="/" class="item">Home</a><a href="mailto:cooljugator@techie.com" class="item">Contact us</a><a href="/about/#acknowledgments" class="item">Acknowledgments</a><a href="/about/" class="item">About</a><a href="/game/Index" class="item">Conjugation game</a><a href="/blog/" class="item">Blog</a>
+</div>
+</div>
+<div class="three wide column">
+<h4 class="ui inverted header">Languages</h4>
+<div id="OtherLanguages" class="ui inverted link list">
+<a href="/af/" class="item">Afrikaans</a><a href="/sq/" class="item">Albanian</a><a href="/ar/" class="item">Arabic</a><a href="/az/" class="item">Azeri</a><a href="/eu/" class="item">Basque</a><a href="/ca/" class="item">Catalan</a><a href="/da/" class="item">Danish</a><a href="/nl/" class="item">Dutch</a><a href="/en/" class="item">English</a><a href="/eo/" class="item">Esperanto</a><a href="/ee/" class="item">Estonian</a><a href="/fo/" class="item">Faroese</a><a href="/fi/" class="item">Finnish verbs</a><a href="/fia/" class="item">Finnish adjectives</a><a href="/fin/" class="item">Finnish nouns</a><a href="/fr/" class="item">French</a>
+</div>
+</div>
+<div class="three wide column">
+<h4 class="ui inverted header">   </h4>
+<div id="OtherLanguages" class="ui inverted link list">
+<a href="/de/" class="item">German</a><a href="/hw/" class="item">Hawaiian</a><a href="/he/" class="item">Hebrew</a><a href="/hu/" class="item">Hungarian</a><a href="/it/" class="item">Italian</a><a href="/is/" class="item">Icelandic</a><a href="/id/" class="item">Indonesian</a><a href="/ja/" class="item">Japanese</a><a href="/lt/" class="item">Lithuanian</a><a href="/lv/" class="item">Latvian</a><a href="/mk/" class="item">Macedonian</a><a href="/ms/" class="item">Malay</a><a href="/mt/" class="item">Maltese</a><a href="/mi/" class="item">Maori</a><a href="/gr/" class="item">Modern Greek</a><a href="/no/" class="item">Norwegian</a><a href="/fa/" class="item">Persian</a>
+</div>
+</div>
+<div class="three wide column">
+<h4 class="ui inverted header">  </h4>
+<div id="OtherLanguages" class="ui inverted link list">
+<a href="/pl/" class="item">Polish</a><a href="/pt/" class="item">Portuguese</a><a href="/qu/" class="item">Quechua</a><a href="/ro/" class="item">Romanian</a><a href="/ru/" class="item">Russian verbs</a><a href="/rua/" class="item">Russian adjectives</a><a href="/run/" class="item">Russian nouns</a><a href="/es/" class="item">Spanish</a><a href="/sv/" class="item">Swedish</a><a href="/th/" class="item">Thai</a><a href="/tr/" class="item">Turkish</a><a href="/vi/" class="item">Vietnamese</a>
+</div>
+</div>
+<div class="one wide column"></div>
+</div>
+<div class="ui inverted section divider"></div>
+<a href="/"><img src="/images/logo.png" alt="CoolJugator - an intelligent verb conjugator" class="ui centered image"></a><div class="ui horizontal inverted small divided link list">
+<a href="mailto:cooljugator@techie.com" class="item">Contact us</a><a href="http://facebook.com/cooljugator" class="item">Facebook</a><a href="http://twitter.com/cooljugator" class="item">Twitter</a>
+</div>
+</div></div>
+<script type="text/javascript" src="/javascripts/main.js"></script><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create', 'UA-8339065-3', 'auto');ga('send', 'pageview');</script></footer>
+</div>
+<script>(function(){var uv=document.createElement('script');uv.type='text/javascript';uv.async=true;uv.src='//widget.uservoice.com/uhrNzv9ysf9fNIGfDWgPQ.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(uv,s)})()</script>  <!-- A tab to launch the Classic Widget --> <script> UserVoice = window.UserVoice || []; UserVoice.push(['showTab', 'classic_widget', {   mode: 'feedback',   primary_color: '#00b5ac',   link_color: '#0a8cc6',   forum_id: 123075,   tab_label: 'Feedback',   tab_color: '#00b5ac',   tab_position: 'middle-right',   tab_inverted: false }]); </script>
+</body>
+</html>

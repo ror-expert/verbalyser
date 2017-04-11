@@ -1,0 +1,1159 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vykti conjugation in Lithuanian in all forms | CoolJugator.com</title>
+<meta name="description" content="Conjugate the Lithuanian verb vykti in all forms and with usage examples. Vykti conjugation has never been easier!">
+<link rel="stylesheet" type="text/css" href="/components/semantic/dist/semantic.css">
+<link rel="stylesheet" type="text/css" href="/stylesheets/main.css">
+<link rel="stylesheet" type="text/css" href="/stylesheets/languagemap.css">
+<script type="text/javascript" src="/components/jquery/dist/jquery.min.js"></script><script type="text/javascript" src="/components/semantic/dist/semantic.min.js"></script>
+</head>
+<body>
+<div class="ui menu large inverted grey">
+<div id="CoolJugatorLogo" class="item"><a href="/"><img src="/images/logo.png" alt="CoolJugator: the smart verb Conjugator"></a></div>
+<div id="siteLanguageSelection" class="item"><div class="ui dropdown topmenuselection inverted grey">
+<div class="text">Lithuanian</div>
+<i class="dropdown icon"></i><div id="topBarSelectionMenu" class="menu">
+<div data-value="" class="item">Home</div>
+<div data-value="da" class="item">Danish</div>
+<div data-value="en" class="item">English</div>
+<div data-value="eo" class="item">Esperanto</div>
+<div data-value="fr" class="item">French</div>
+<div data-value="ee" class="item">Estonian</div>
+<div data-value="hu" class="item">Hungarian</div>
+<div data-value="it" class="item">Italian</div>
+<div data-value="ja" class="item">Japanese</div>
+<div data-value="lt" class="item">Lithuanian</div>
+<div data-value="lv" class="item">Latvian</div>
+<div data-value="gr" class="item">Modern Greek</div>
+<div data-value="pl" class="item">Polish</div>
+<div data-value="pt" class="item">Portuguese</div>
+<div data-value="ro" class="item">Romanian</div>
+<div data-value="ru" class="item">Russian</div>
+<div data-value="es" class="item">Spanish</div>
+<div data-value="tr" class="item">Turkish</div>
+</div>
+</div></div>
+<div id="topBarSearch" class="item"><div class="ui action input"><input type="text" placeholder="Type verb in Lithuanian or in English..." id="search" autofocus></div></div>
+</div>
+<div class="pusher">
+<div class="ui equal width grid stackable container">
+<div style="display: none;" class="row"><div class="column"><div id="results" class="ui segment"><p></p></div></div></div>
+<div class="row"><div class="column"><div class="ui segment">
+<div class="ui breadcrumb">
+<a href="/" class="section"><i class="home icon"></i>Home</a><i class="right chevron icon divider"></i><a href="/lt/" class="section">Lithuanian</a><i class="right chevron icon divider"></i><div id="individualverb" class="active section">vykti</div>
+</div>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- CoolJugator Top CrumbsBar--><ins style="display:block" data-ad-client="ca-pub-0492579730264989" data-ad-slot="2205579251" data-ad-format="auto" class="adsbygoogle"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div></div></div>
+<div class="eleven wide stretched column"><div id="mainContentArea" class="ui segment"><section id="conjugate"><h1 id="mainTitle">Vykti conjugation</h1>
+<div class="ui centered grid"><div class="center aligned column"><div id="navigationMenu" class="ui compact tabular stackable menu">
+<a href="#conjugate" class="item active">Conjugate</a><a href="#usage" class="item">Usage</a><a href="#examples" class="item">Examples [47]</a><a href="#questions" class="item">Questions [0]</a>
+</div></div></div>
+<h2 class="ui header">
+<i class="list layout teal icon"></i>Conjugate vykti - to go</h2>
+<div id="mapexplanation" style="text-align: right;"><i data-content="This vykti conjugation map displays how forms of the verb vykti are constructed. Moreover, it also serves as an easy navigation menu: you can click on any part of the map to be taken directly to those forms." class="write info teal icon"></i></div>
+<div id="conjugationmap" style="min-height: 250px" class="ui container"><div class="tree"><ul><li>
+<a href="#">Verb stem vyk-</a><ul>
+<li>
+<a href="#conjugate">Infinitive: vykti</a><ul>
+<li><a href="#future">Future</a></li>
+<li><a href="#pastfrequentative">Past frequentative</a></li>
+<li><a href="#conditional">Conditional</a></li>
+<li><a href="#imperative">Imperative</a></li>
+</ul>
+</li>
+<li>
+<a href="#present">Present (s)he: vyksta</a><ul><li><a href="#present">Present forms</a></li></ul>
+</li>
+<li>
+<a href="#past">Past (s)he: vyko</a><ul><li><a href="#past">Past forms</a></li></ul>
+</li>
+</ul>
+</li></ul></div></div>
+<div style="text-align: right;"><div id="markstress" class="ui button teal">
+<i class="write square icon"></i>Turn on word stress</div></div>
+<div class="ui container">
+<p id="present" class="tensetitle">Present tense</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th data-content="The present forms of the verb vykti in Lithuanian." data-variation="inverted"> Lithuanian Form</th>
+<th data-content="The present forms of the verb vykti translated to English." data-variation="inverted">English Translation</th>
+<th data-content="Click on the icon to see Lithuanian examples of this particular form." data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Aš</div></td>
+<td id="present1" data-stressed="vykstù">vykstu </td>
+<td>I go</td>
+<td><a href="#examplepresent1"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="present2" data-stressed="vykstì">vyksti </td>
+<td>you go</td>
+<td><a href="#examplepresent2"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jis/ji</div></td>
+<td id="present3" data-stressed="vỹksta">vyksta </td>
+<td>he/she does go</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Mes</div></td>
+<td id="present4" data-stressed="vỹkstame">vykstame </td>
+<td>we go</td>
+<td><a href="#examplepresent4"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="present5" data-stressed="vỹkstate">vykstate </td>
+<td>you all go</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jie/jos</div></td>
+<td id="present6" data-stressed="vỹksta">vyksta </td>
+<td>they go</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p id="past" class="tensetitle">Past tense</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th data-content="The past forms of the verb vykti in Lithuanian." data-variation="inverted"> Lithuanian Form</th>
+<th data-content="The past forms of the verb vykti translated to English." data-variation="inverted">English Translation</th>
+<th data-content="Click on the icon to see Lithuanian examples of this particular form." data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Aš</div></td>
+<td id="past1" data-stressed="vykaũ">vykau </td>
+<td>I did go</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="past2" data-stressed="vykaĩ">vykai </td>
+<td>you did go</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jis/ji</div></td>
+<td id="past3" data-stressed="vỹko">vyko </td>
+<td>he/she did go</td>
+<td><a href="#examplepast3"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Mes</div></td>
+<td id="past4" data-stressed="vỹkome">vykome </td>
+<td>we did go</td>
+<td><a href="#examplepast4"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="past5" data-stressed="vỹkote">vykote </td>
+<td>you all did go</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jie/jos</div></td>
+<td id="past6" data-stressed="vỹko">vyko </td>
+<td>they did go</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p id="pastfrequentative" class="tensetitle">Past frequentative tense</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th data-content="The past frequentative forms of the verb vykti in Lithuanian." data-variation="inverted"> Lithuanian Form</th>
+<th data-content="The past frequentative forms of the verb vykti translated to English." data-variation="inverted">English Translation</th>
+<th data-content="Click on the icon to see Lithuanian examples of this particular form." data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Aš</div></td>
+<td id="pastperfect1" data-stressed="vỹkdavau">vykdavau </td>
+<td>I used to go</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="pastperfect2" data-stressed="vykdavai">vykdavai </td>
+<td>you used to go</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jis/ji</div></td>
+<td id="pastperfect3" data-stressed="vỹkdavo">vykdavo </td>
+<td>he/she used to go</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Mes</div></td>
+<td id="pastperfect4" data-stressed="vỹkdavome">vykdavome </td>
+<td>we used to go</td>
+<td><a href="#examplepastperfect4"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="pastperfect5" data-stressed="vỹkdavote">vykdavote </td>
+<td>you all used to go</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jie/jos</div></td>
+<td id="pastperfect6" data-stressed="vỹkdavo">vykdavo </td>
+<td>they used to go</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p id="future" class="tensetitle">Future tense</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th data-content="The future forms of the verb vykti in Lithuanian." data-variation="inverted"> Lithuanian Form</th>
+<th data-content="The future forms of the verb vykti translated to English." data-variation="inverted">English Translation</th>
+<th data-content="Click on the icon to see Lithuanian examples of this particular form." data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Aš</div></td>
+<td id="future1" data-stressed="vỹksiu">vyksiu </td>
+<td>I will go</td>
+<td><a href="#examplefuture1"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="future2" data-stressed="vỹksi">vyksi </td>
+<td>you will go</td>
+<td><a href="#examplefuture2"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jis/ji</div></td>
+<td id="future3" data-stressed="vỹks">vyks </td>
+<td>he/she will go</td>
+<td><a href="#examplefuture3"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Mes</div></td>
+<td id="future4" data-stressed="vỹksime">vyksime </td>
+<td>we will go</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="future5" data-stressed="vỹksite">vyksite </td>
+<td>you all will go</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jie/jos</div></td>
+<td id="future6" data-stressed="vỹks">vyks </td>
+<td>they will go</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p id="conditional" class="tensetitle">Conditional mood</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th data-content="The conditional forms of the verb vykti in Lithuanian." data-variation="inverted"> Lithuanian Form</th>
+<th data-content="The conditional forms of the verb vykti translated to English." data-variation="inverted">English Translation</th>
+<th data-content="Click on the icon to see Lithuanian examples of this particular form." data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Aš</div></td>
+<td id="hypothetical1" data-stressed="vỹkčiau">vykčiau </td>
+<td>I would go</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="hypothetical2" data-stressed="vỹktum">vyktum </td>
+<td>you would go</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jis/ji</div></td>
+<td id="hypothetical3" data-stressed="vỹktų">vyktų </td>
+<td>he/she would go</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Mes</div></td>
+<td id="hypothetical4" data-stressed="vỹktume">vyktume </td>
+<td>we would go</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="hypothetical5" data-stressed="vyktute">vyktute </td>
+<td>you all would go</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jie/jos</div></td>
+<td id="hypothetical6" data-stressed="vỹktų">vyktų </td>
+<td>they would go</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p id="imperative" class="tensetitle">Imperative mood</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th>Lithuanian Form</th>
+<th>English Translation</th>
+<th data-content="Click on the icon to see examples of this particular form" data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="command2" data-stressed="výk">vyk </td>
+<td>you go!</td>
+<td><a href="#examplecommand2"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="command4" data-stressed="výkite">vykite</td>
+<td>you all go!</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 class="ui dividing header">Feedback: Noticed a mistake? Have a suggestion?</h3>
+<div id="feedbackMenu">
+<p>Have you noticed a mistake or a bug here somewhere on this page? Have ideas how we can improve our content? Submit a request for us and we will do our best to take your feedback into account!</p>
+<div class="ui container"><f method="post" class="ui review form"><div class="field">
+<input id="fname" name="fsubmitterName" placeholder="Your name..."><input id="fverb" name="fverb" type="hidden" value="vykti"><input id="flanguage" name="flanguage" type="hidden" value="lt"><input id="feedback" name="feedback" type="text" placeholder="Describe your feedback...">
+</div>
+<div style="text-align: center;" class="clear"><button id="givefeedback" type="submit" class="ui teal labeled icon button"><i class="bug icon"></i>    Submit for review</button></div></f></div>
+<div class="ui divider"></div>
+</div>
+<section id="usage"><p style="font-size: 1.714rem; padding-top: 8vh; padding-bottom: 4vh; color: rgba(0, 0, 0, 0.87);" class="ui header usageheader"><i class="info teal icon"></i>Usage information for vykti</p>
+<p>This word can either mean "to go from one place to another" or "to happen".</p></section><section id="examples"><h3 style="font-size: 1.714rem; padding-top: 8vh; padding-bottom: 4vh; color: rgba(0, 0, 0, 0.87);" class="ui header">
+<i class="quote left teal icon"></i>Examples of vykti</h3>
+<table id="ExampleSentences" class="ui celled striped table">
+<thead><tr>
+<th data-content="An example sentence in Lithuanian. Our example sentences are picked from multiple sources with real world spoken or written language." data-variation="inverted" class="eight wide">Example in Lithuanian</th>
+<th data-content="The translation of the example in the English language, with the relevant part highlighted if possible." data-variation="inverted" class="eight wide">Translation in English</th>
+<th data-content="A link to the conjugated form - move your mouse over it to find out which form it is, or click on it to go back to the conjugation of that form." data-variation="inverted" class="one wide">Fm.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td id="exampleinfinitive0">DARBUOTOJŲ MIGRANTŲ SOCIALINĖS APSAUGOS ADMINISTRACINĖ KOMISIJA Informacija, skirta bedarbiams, ketinantiems <span class="highlightsample">vykti</span> į kitą valstybę narę ieškoti darbo</td>
+<td>Information for unemployed persons who intend <span class="highlightsample">to go</span> to another Member State to seek employment</td>
+<td><a href="#conjugate"><i data-content="An instance of the main form." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="exampleinfinitive0-1">taisykles, kuriose reikalaujama, kad tarp prieglobsčio siekiančio asmens ir atitinkamos trečiosios šalies būtų sąsaja, kuria remiantis tas asmuo turėtų svarių priežasčių <span class="highlightsample">vykti</span> į tą šalį;</td>
+<td>rules requiring a connection between the person seeking asylum and the third country concerned on the basis of which it would be reasonable for that person <span class="highlightsample">to go</span> to that country;</td>
+<td><a href="#conjugate"><i data-content="An instance of the main form." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="exampleinfinitive0-2">Tai buvo priemonė, kuri leido <span class="highlightsample">vykti</span> Postabank privatizavimui.</td>
+<td>It was the measure that enabled the privatisation of Postabank <span class="highlightsample">to go</span> ahead.</td>
+<td><a href="#conjugate"><i data-content="An instance of the main form." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="exampleinfinitive0-3">Daug su bendrąja rinka susijusios informacijos ir patarimų užsienio piliečiams ir įmonėms bei šalies gyventojams, norintiems <span class="highlightsample">vykti</span> į užsienį, pateikiama horizontaliuose e. Vyriausybės portaluose, nacionalinėse svetainėse Bendrijos temomis, ir specialiose svetainėse, skirtose įmonėms arba piliečiams.</td>
+<td>A considerable amount of single market related information and advice for foreign citizens and businesses, and for nationals who want <span class="highlightsample">to go</span> abroad, is made available on horizontal e-government portals, national websites focused on Community issues, or on specific websites aimed at businesses or citizens;</td>
+<td><a href="#conjugate"><i data-content="An instance of the main form." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="exampleinfinitive0-4">Pagal 2008 m. gruodžio 16 d. Europos Parlamento ir Tarybos direktyvą 2008/115/EB dėl bendrų nelegaliai esančių trečiųjų šalių piliečių grąžinimo standartų ir tvarkos valstybėse narėse [10] valstybės narės teritorijoje nelegaliai esantys trečiųjų šalių piliečiai, turintys kitos valstybės narės išduotą galiojantį leidimą gyventi arba kitokį leidimą, suteikiantį teisę pasilikti, pvz., ilgalaikę vizą, turėtų būti įpareigoti nedelsiant <span class="highlightsample">vykti</span> į tos kitos valstybės narės teritoriją.</td>
+<td>In accordance with Directive 2008/115/EC of the European Parliament and of the Council of 16 December 2008 on common standards and procedures in Member States for returning illegally staying third-country nationals [10], third-country nationals staying illegally on the territory of a Member State and holding a valid residence permit, or other authorisation offering a right to stay issued by another Member State such as a long-stay visa, should be required <span class="highlightsample">to go</span> to the territory of that other Member State immediately.</td>
+<td><a href="#conjugate"><i data-content="An instance of the main form." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent1">Kiekvienais metais atostogų <span class="highlightsample">vykstu</span> į vieną Viduržemio jūros salą.Paprastai plaukiu „Ulysses” kompanijos keltu, nes jos kainos yrapatraukliausios iš visų trijų bendrovių, besiverčiančių šiuo verslutame uoste.</td>
+<td>Every year I <span class="highlightsample">go</span> on holiday to a Mediterranean island. I usuallytake a ferry run by the Ulysses line, which offers the mostattractive prices of the three companies operating at the port in question.</td>
+<td><a href="#present1"><i data-content="A 1st person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent1-1">Šiąnakt <span class="highlightsample">vykstu</span> toliau, į Borgo perėją.</td>
+<td>I'm <span class="highlightsample">go</span>ing on to Bor<span class="highlightsample">go</span> Pass tonight.</td>
+<td><a href="#present1"><i data-content="A 1st person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent1-2">Taip, aš ten <span class="highlightsample">vykstu</span>. - Į pilį?</td>
+<td>Yes, that's where I'm <span class="highlightsample">go</span>ing.</td>
+<td><a href="#present1"><i data-content="A 1st person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent1-3">- Kada aš <span class="highlightsample">vykstu</span> į Kaliforniją?</td>
+<td>- When am I <span class="highlightsample">go</span>ing to california? - Tonight.</td>
+<td><a href="#present1"><i data-content="A 1st person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent1-4">Ten, kur <span class="highlightsample">vykstu</span>, negalite manęs lydėti.</td>
+<td>Where I am <span class="highlightsample">go</span>ing, you cannot follow.</td>
+<td><a href="#present1"><i data-content="A 1st person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent2">-Kur <span class="highlightsample">vyksti</span>?</td>
+<td>Yeah. - So where are you <span class="highlightsample">go</span>ing anyway?</td>
+<td><a href="#present2"><i data-content="A 2nd person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent2-1">Girdejau <span class="highlightsample">vyksti</span> į Budapest'a.</td>
+<td>Hear you're <span class="highlightsample">go</span>ing to Budapest.</td>
+<td><a href="#present2"><i data-content="A 2nd person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent2-2">Kur <span class="highlightsample">vyksti</span>?</td>
+<td>Where you <span class="highlightsample">go</span>ing?</td>
+<td><a href="#present2"><i data-content="A 2nd person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent2-3">Pasakiau tavo mamai, kad <span class="highlightsample">vyksti</span> į kelionę. Mes turime visą savaitgalį.</td>
+<td>I told your mom you're <span class="highlightsample">go</span>ing on that ski trip,... and that'll at least buy us the weekend.</td>
+<td><a href="#present2"><i data-content="A 2nd person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent4">Mes ne<span class="highlightsample">vykstame</span> į Delį, mes <span class="highlightsample">vykstame</span> į Pankoto pilį.</td>
+<td>We're not <span class="highlightsample">go</span>ing to Delhi, doll. We're <span class="highlightsample">go</span>ing to Pankot Palace.</td>
+<td><a href="#present4"><i data-content="A 4th person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent4-1">- Labas, Metju. Kur mes <span class="highlightsample">vykstame</span>?</td>
+<td>- Where are we <span class="highlightsample">go</span>ing?</td>
+<td><a href="#present4"><i data-content="A 4th person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent4-2">Mes pagaliau <span class="highlightsample">vykstame</span>!</td>
+<td>We're finally <span class="highlightsample">go</span>ing.</td>
+<td><a href="#present4"><i data-content="A 4th person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent4-3">Ar žinai kur mes <span class="highlightsample">vykstame</span>?</td>
+<td>You know where we're <span class="highlightsample">go</span>ing?</td>
+<td><a href="#present4"><i data-content="A 4th person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent4-4">Na gi žmogau. Mes <span class="highlightsample">vykstame</span> ten kur pasakyta, kaip ir jūs.</td>
+<td>We <span class="highlightsample">go</span> where we're told to, like you.</td>
+<td><a href="#present4"><i data-content="A 4th person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast3">Sėkmingai įvykdžius ankstesnį TVF rezervinį susitarimą 2004 m. vasario mėn. <span class="highlightsample">vyko</span> derybos dėl naujos TVF remiamos programos.</td>
+<td>Following the successful completion of the previous IMF Standby Arrangement in February 2004 negotiations were under way on a new IMF-supported programme.</td>
+<td><a href="#past3"><i data-content="A 3rd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast3-1">Prekės buvo pradėtos importuoti iš Indonezijos 2002 m. sausio mėn., tuo metu, kai dar <span class="highlightsample">vyko</span> ankstesnysis tyrimas.</td>
+<td>These imports from Indonesia commenced in January 2002, at a time when the previous investigation was ongoing.</td>
+<td><a href="#past3"><i data-content="A 3rd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast3-2">Šis importavimas iš Šri Lankos prasidėjo 2002 m. liepos mėn., tuo metu, kai <span class="highlightsample">vyko</span> ankstesnis tyrimas.</td>
+<td>These imports from Sri Lanka commenced in July 2002, at a time when the previous investigation was ongoing.</td>
+<td><a href="#past3"><i data-content="A 3rd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast3-3">Pirmas klausimas, kurį Komisija turi apsvarstyti, yra, ar derybos dėl naujų susitarimų tarp BNFL ir BE <span class="highlightsample">vyko</span> nešališkai.</td>
+<td>The first question the Commission has to consider is whether the new arrangements between BNFL and BE were negotiated at arm’s length.</td>
+<td><a href="#past3"><i data-content="A 3rd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast3-4">Tinkamas orientyras šiam palyginimui yra elektros kainų raida dabar ir ateityje, kurią numatė BNFL tuo metu, kai <span class="highlightsample">vyko</span> derybos dėl naujų susitarimų tarp BNFL ir BE.</td>
+<td>The proper benchmark for this comparison is the development of electricity prices now and in the future as expected by BNFL when the new arrangements between BNFL and BE were negotiated.</td>
+<td><a href="#past3"><i data-content="A 3rd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast4">Maniau <span class="highlightsample">vykome</span> gaminti maistą.</td>
+<td>I thought we were going to cook.</td>
+<td><a href="#past4"><i data-content="A 4th person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepastperfect4">Kartais <span class="highlightsample">vykdavome</span> visi kartu atostogauti.</td>
+<td>We <span class="highlightsample">used to go</span> on holiday together sometimes.</td>
+<td><a href="#pastperfect4"><i data-content="A 4th person form of the Past frequentative." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepastperfect4-1">Mes ten <span class="highlightsample">vykdavome</span> kasmet, ieškojome senovės astronautų pėdsakų.</td>
+<td>We <span class="highlightsample">used to go</span> every year looking for evidence of ancient astronauts.</td>
+<td><a href="#pastperfect4"><i data-content="A 4th person form of the Past frequentative." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplefuture1">Aš pats <span class="highlightsample">vyksiu</span> pas Adači.</td>
+<td>I <span class="highlightsample">will go</span> to Adachi myself.</td>
+<td><a href="#future1"><i data-content="A 1st person form of the Future." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplefuture1-1">As <span class="highlightsample">vyksiu</span>.</td>
+<td>I <span class="highlightsample">will go</span>.</td>
+<td><a href="#future1"><i data-content="A 1st person form of the Future." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplefuture2">Tu <span class="highlightsample">vyksi</span> į Karaliaus gūžtą.</td>
+<td>And you <span class="highlightsample">will go</span> to King's Landing.</td>
+<td><a href="#future2"><i data-content="A 2nd person form of the Future." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplefuture3">Siekiant užtikrinti sklandų naujų narių priėmimą, būsima plėtra <span class="highlightsample">vyks</span> tokiu tempu, kokį padiktuos kiekvienos šalies rezultatai, pasiekti laikantis griežtų standartų.</td>
+<td>Future enlargements <span class="highlightsample">will go</span> at the pace dictated by each country’s performance in meeting the rigorous standards, to ensure the smooth absorption of new members.</td>
+<td><a href="#future3"><i data-content="A 3rd person form of the Future." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplefuture3-1">Laimėtojas <span class="highlightsample">vyks</span> su manimi dviems dienoms į Flostono Rojų.</td>
+<td>The winner <span class="highlightsample">will go</span> with me for two days to Fhloston Paradise.</td>
+<td><a href="#future3"><i data-content="A 3rd person form of the Future." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplefuture3-2">Darbas <span class="highlightsample">vyks</span> toliau.</td>
+<td>Our society will continue as normal. Work <span class="highlightsample">will go</span> on.</td>
+<td><a href="#future3"><i data-content="A 3rd person form of the Future." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplefuture3-3">Konklava <span class="highlightsample">vyks</span> ir be mūsų.</td>
+<td>Conclave <span class="highlightsample">will go</span> on without us.</td>
+<td><a href="#future3"><i data-content="A 3rd person form of the Future." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplefuture3-4">Prezidentas <span class="highlightsample">vyks</span> į Niujorką dalyvauti specialiame Jungtinių Tautų susirinkime.</td>
+<td>The President <span class="highlightsample">will go</span> to New York from here to.. ..participate in the United Nations' special summit.</td>
+<td><a href="#future3"><i data-content="A 3rd person form of the Future." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="example">
+<span class="highlightsample"></span>M<span class="highlightsample"></span>e<span class="highlightsample"></span>s<span class="highlightsample"></span> <span class="highlightsample"></span>n<span class="highlightsample"></span>o<span class="highlightsample"></span>r<span class="highlightsample"></span>i<span class="highlightsample"></span>m<span class="highlightsample"></span>e<span class="highlightsample"></span>,<span class="highlightsample"></span> <span class="highlightsample"></span>k<span class="highlightsample"></span>a<span class="highlightsample"></span>d<span class="highlightsample"></span> <span class="highlightsample"></span>v<span class="highlightsample"></span>y<span class="highlightsample"></span>k<span class="highlightsample"></span>t<span class="highlightsample"></span>u<span class="highlightsample"></span>m<span class="highlightsample"></span>ė<span class="highlightsample"></span>t<span class="highlightsample"></span>e<span class="highlightsample"></span> <span class="highlightsample"></span>t<span class="highlightsample"></span>e<span class="highlightsample"></span>n<span class="highlightsample"></span> <span class="highlightsample"></span>k<span class="highlightsample"></span>a<span class="highlightsample"></span>i<span class="highlightsample"></span>p<span class="highlightsample"></span> <span class="highlightsample"></span>m<span class="highlightsample"></span>ū<span class="highlightsample"></span>s<span class="highlightsample"></span>ų<span class="highlightsample"></span> <span class="highlightsample"></span>a<span class="highlightsample"></span>g<span class="highlightsample"></span>e<span class="highlightsample"></span>n<span class="highlightsample"></span>t<span class="highlightsample"></span>a<span class="highlightsample"></span>s<span class="highlightsample"></span>.<span class="highlightsample"></span>
+</td>
+<td>
+<span class="highlightsample"></span>W<span class="highlightsample"></span>e<span class="highlightsample"></span> <span class="highlightsample"></span>w<span class="highlightsample"></span>a<span class="highlightsample"></span>n<span class="highlightsample"></span>t<span class="highlightsample"></span> <span class="highlightsample"></span>y<span class="highlightsample"></span>o<span class="highlightsample"></span>u<span class="highlightsample"></span> <span class="highlightsample"></span>t<span class="highlightsample"></span>o<span class="highlightsample"></span> <span class="highlightsample"></span>g<span class="highlightsample"></span>o<span class="highlightsample"></span> <span class="highlightsample"></span>i<span class="highlightsample"></span>n<span class="highlightsample"></span> <span class="highlightsample"></span>t<span class="highlightsample"></span>h<span class="highlightsample"></span>e<span class="highlightsample"></span>r<span class="highlightsample"></span>e<span class="highlightsample"></span> <span class="highlightsample"></span>a<span class="highlightsample"></span>s<span class="highlightsample"></span> <span class="highlightsample"></span>o<span class="highlightsample"></span>u<span class="highlightsample"></span>r<span class="highlightsample"></span> <span class="highlightsample"></span>a<span class="highlightsample"></span>g<span class="highlightsample"></span>e<span class="highlightsample"></span>n<span class="highlightsample"></span>t<span class="highlightsample"></span>.<span class="highlightsample"></span>
+</td>
+<td></td>
+</tr>
+<tr>
+<td id="example-1">
+<span class="highlightsample"></span>N<span class="highlightsample"></span>o<span class="highlightsample"></span>r<span class="highlightsample"></span>i<span class="highlightsample"></span>u<span class="highlightsample"></span>,<span class="highlightsample"></span> <span class="highlightsample"></span>k<span class="highlightsample"></span>a<span class="highlightsample"></span>d<span class="highlightsample"></span> <span class="highlightsample"></span>v<span class="highlightsample"></span>y<span class="highlightsample"></span>k<span class="highlightsample"></span>t<span class="highlightsample"></span>u<span class="highlightsample"></span>m<span class="highlightsample"></span>ė<span class="highlightsample"></span>t<span class="highlightsample"></span>e<span class="highlightsample"></span> <span class="highlightsample"></span>į<span class="highlightsample"></span> <span class="highlightsample"></span>E<span class="highlightsample"></span>u<span class="highlightsample"></span>r<span class="highlightsample"></span>o<span class="highlightsample"></span>p<span class="highlightsample"></span>ą<span class="highlightsample"></span> <span class="highlightsample"></span>p<span class="highlightsample"></span>a<span class="highlightsample"></span>t<span class="highlightsample"></span>y<span class="highlightsample"></span>r<span class="highlightsample"></span>i<span class="highlightsample"></span>n<span class="highlightsample"></span>ė<span class="highlightsample"></span>t<span class="highlightsample"></span>i<span class="highlightsample"></span>.<span class="highlightsample"></span>
+</td>
+<td>
+<span class="highlightsample"></span>I<span class="highlightsample"></span> <span class="highlightsample"></span>w<span class="highlightsample"></span>a<span class="highlightsample"></span>n<span class="highlightsample"></span>t<span class="highlightsample"></span> <span class="highlightsample"></span>y<span class="highlightsample"></span>o<span class="highlightsample"></span>u<span class="highlightsample"></span> <span class="highlightsample"></span>t<span class="highlightsample"></span>o<span class="highlightsample"></span> <span class="highlightsample"></span>g<span class="highlightsample"></span>o<span class="highlightsample"></span> <span class="highlightsample"></span>t<span class="highlightsample"></span>o<span class="highlightsample"></span> <span class="highlightsample"></span>E<span class="highlightsample"></span>u<span class="highlightsample"></span>r<span class="highlightsample"></span>o<span class="highlightsample"></span>p<span class="highlightsample"></span>e<span class="highlightsample"></span> <span class="highlightsample"></span>a<span class="highlightsample"></span>n<span class="highlightsample"></span>d<span class="highlightsample"></span> <span class="highlightsample"></span>i<span class="highlightsample"></span>n<span class="highlightsample"></span>v<span class="highlightsample"></span>e<span class="highlightsample"></span>s<span class="highlightsample"></span>t<span class="highlightsample"></span>i<span class="highlightsample"></span>g<span class="highlightsample"></span>a<span class="highlightsample"></span>t<span class="highlightsample"></span>e<span class="highlightsample"></span>.<span class="highlightsample"></span>
+</td>
+<td><a href="#"><i data-content="An instance of the  verb." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="example-2">
+<span class="highlightsample"></span>T<span class="highlightsample"></span>a<span class="highlightsample"></span>i<span class="highlightsample"></span> <span class="highlightsample"></span>j<span class="highlightsample"></span>ų<span class="highlightsample"></span> <span class="highlightsample"></span>t<span class="highlightsample"></span>e<span class="highlightsample"></span>i<span class="highlightsample"></span>s<span class="highlightsample"></span>ė<span class="highlightsample"></span>t<span class="highlightsample"></span>v<span class="highlightsample"></span>a<span class="highlightsample"></span>r<span class="highlightsample"></span>k<span class="highlightsample"></span>o<span class="highlightsample"></span>s<span class="highlightsample"></span> <span class="highlightsample"></span>k<span class="highlightsample"></span>l<span class="highlightsample"></span>a<span class="highlightsample"></span>u<span class="highlightsample"></span>s<span class="highlightsample"></span>i<span class="highlightsample"></span>m<span class="highlightsample"></span>a<span class="highlightsample"></span>s<span class="highlightsample"></span>,<span class="highlightsample"></span> <span class="highlightsample"></span>o<span class="highlightsample"></span> <span class="highlightsample"></span>n<span class="highlightsample"></span>e<span class="highlightsample"></span> <span class="highlightsample"></span>j<span class="highlightsample"></span>ü<span class="highlightsample"></span>s<span class="highlightsample"></span>ų<span class="highlightsample"></span> <span class="highlightsample"></span>s<span class="highlightsample"></span>u<span class="highlightsample"></span>b<span class="highlightsample"></span>j<span class="highlightsample"></span>e<span class="highlightsample"></span>k<span class="highlightsample"></span>t<span class="highlightsample"></span>y<span class="highlightsample"></span>v<span class="highlightsample"></span>i<span class="highlightsample"></span> <span class="highlightsample"></span>n<span class="highlightsample"></span>u<span class="highlightsample"></span>o<span class="highlightsample"></span>m<span class="highlightsample"></span>o<span class="highlightsample"></span>n<span class="highlightsample"></span>ė<span class="highlightsample"></span>.<span class="highlightsample"></span> <span class="highlightsample"></span>V<span class="highlightsample"></span>a<span class="highlightsample"></span>l<span class="highlightsample"></span>s<span class="highlightsample"></span>t<span class="highlightsample"></span>y<span class="highlightsample"></span>b<span class="highlightsample"></span>i<span class="highlightsample"></span>n<span class="highlightsample"></span>i<span class="highlightsample"></span>s<span class="highlightsample"></span> <span class="highlightsample"></span>d<span class="highlightsample"></span>e<span class="highlightsample"></span>p<span class="highlightsample"></span>a<span class="highlightsample"></span>r<span class="highlightsample"></span>t<span class="highlightsample"></span>a<span class="highlightsample"></span>m<span class="highlightsample"></span>e<span class="highlightsample"></span>n<span class="highlightsample"></span>t<span class="highlightsample"></span>a<span class="highlightsample"></span>s<span class="highlightsample"></span> <span class="highlightsample"></span>j<span class="highlightsample"></span>u<span class="highlightsample"></span>m<span class="highlightsample"></span>s<span class="highlightsample"></span> <span class="highlightsample"></span>n<span class="highlightsample"></span>e<span class="highlightsample"></span>i<span class="highlightsample"></span>š<span class="highlightsample"></span>d<span class="highlightsample"></span>u<span class="highlightsample"></span>o<span class="highlightsample"></span>d<span class="highlightsample"></span>a<span class="highlightsample"></span> <span class="highlightsample"></span>p<span class="highlightsample"></span>a<span class="highlightsample"></span>s<span class="highlightsample"></span>o<span class="highlightsample"></span>,<span class="highlightsample"></span> <span class="highlightsample"></span>r<span class="highlightsample"></span>e<span class="highlightsample"></span>i<span class="highlightsample"></span>k<span class="highlightsample"></span>a<span class="highlightsample"></span>l<span class="highlightsample"></span>i<span class="highlightsample"></span>n<span class="highlightsample"></span>g<span class="highlightsample"></span>o<span class="highlightsample"></span> <span class="highlightsample"></span>t<span class="highlightsample"></span>a<span class="highlightsample"></span>m<span class="highlightsample"></span>,<span class="highlightsample"></span> <span class="highlightsample"></span>k<span class="highlightsample"></span>a<span class="highlightsample"></span>d<span class="highlightsample"></span> <span class="highlightsample"></span>j<span class="highlightsample"></span>ü<span class="highlightsample"></span>s<span class="highlightsample"></span> <span class="highlightsample"></span>v<span class="highlightsample"></span>y<span class="highlightsample"></span>k<span class="highlightsample"></span>t<span class="highlightsample"></span>u<span class="highlightsample"></span>m<span class="highlightsample"></span>ė<span class="highlightsample"></span>t<span class="highlightsample"></span>e<span class="highlightsample"></span> <span class="highlightsample"></span>į<span class="highlightsample"></span> <span class="highlightsample"></span>E<span class="highlightsample"></span>u<span class="highlightsample"></span>r<span class="highlightsample"></span>o<span class="highlightsample"></span>p<span class="highlightsample"></span>ą<span class="highlightsample"></span>.<span class="highlightsample"></span>
+</td>
+<td>
+<span class="highlightsample"></span>T<span class="highlightsample"></span>h<span class="highlightsample"></span>i<span class="highlightsample"></span>s<span class="highlightsample"></span> <span class="highlightsample"></span>i<span class="highlightsample"></span>s<span class="highlightsample"></span> <span class="highlightsample"></span>d<span class="highlightsample"></span>e<span class="highlightsample"></span>t<span class="highlightsample"></span>e<span class="highlightsample"></span>r<span class="highlightsample"></span>m<span class="highlightsample"></span>i<span class="highlightsample"></span>n<span class="highlightsample"></span>e<span class="highlightsample"></span>d<span class="highlightsample"></span> <span class="highlightsample"></span>b<span class="highlightsample"></span>y<span class="highlightsample"></span> <span class="highlightsample"></span>t<span class="highlightsample"></span>h<span class="highlightsample"></span>e<span class="highlightsample"></span>i<span class="highlightsample"></span>r<span class="highlightsample"></span> <span class="highlightsample"></span>l<span class="highlightsample"></span>a<span class="highlightsample"></span>w<span class="highlightsample"></span>s<span class="highlightsample"></span>,<span class="highlightsample"></span> <span class="highlightsample"></span>n<span class="highlightsample"></span>o<span class="highlightsample"></span>t<span class="highlightsample"></span> <span class="highlightsample"></span>b<span class="highlightsample"></span>e<span class="highlightsample"></span> <span class="highlightsample"></span>c<span class="highlightsample"></span>o<span class="highlightsample"></span>m<span class="highlightsample"></span>p<span class="highlightsample"></span>l<span class="highlightsample"></span>a<span class="highlightsample"></span>c<span class="highlightsample"></span>e<span class="highlightsample"></span>n<span class="highlightsample"></span>t<span class="highlightsample"></span> <span class="highlightsample"></span>w<span class="highlightsample"></span>i<span class="highlightsample"></span>t<span class="highlightsample"></span>h<span class="highlightsample"></span> <span class="highlightsample"></span>y<span class="highlightsample"></span>o<span class="highlightsample"></span>u<span class="highlightsample"></span>r<span class="highlightsample"></span> <span class="highlightsample"></span>o<span class="highlightsample"></span>p<span class="highlightsample"></span>i<span class="highlightsample"></span>n<span class="highlightsample"></span>i<span class="highlightsample"></span>o<span class="highlightsample"></span>n<span class="highlightsample"></span>.<span class="highlightsample"></span>
+</td>
+<td><a href="#"><i data-content="An instance of the  verb." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="example-3">
+<span class="highlightsample"></span>N<span class="highlightsample"></span>o<span class="highlightsample"></span>r<span class="highlightsample"></span>i<span class="highlightsample"></span>u<span class="highlightsample"></span> <span class="highlightsample"></span>k<span class="highlightsample"></span>a<span class="highlightsample"></span>d<span class="highlightsample"></span> <span class="highlightsample"></span>j<span class="highlightsample"></span>ū<span class="highlightsample"></span>s<span class="highlightsample"></span> <span class="highlightsample"></span>a<span class="highlightsample"></span>b<span class="highlightsample"></span>u<span class="highlightsample"></span> <span class="highlightsample"></span>v<span class="highlightsample"></span>y<span class="highlightsample"></span>k<span class="highlightsample"></span>t<span class="highlightsample"></span>u<span class="highlightsample"></span>m<span class="highlightsample"></span>ė<span class="highlightsample"></span>t<span class="highlightsample"></span>e<span class="highlightsample"></span> <span class="highlightsample"></span>į<span class="highlightsample"></span> <span class="highlightsample"></span>T<span class="highlightsample"></span>u<span class="highlightsample"></span>k<span class="highlightsample"></span>s<span class="highlightsample"></span>h<span class="highlightsample"></span>o<span class="highlightsample"></span>r<span class="highlightsample"></span>n<span class="highlightsample"></span>o<span class="highlightsample"></span> <span class="highlightsample"></span>d<span class="highlightsample"></span>a<span class="highlightsample"></span>r<span class="highlightsample"></span>b<span class="highlightsample"></span>o<span class="highlightsample"></span>v<span class="highlightsample"></span>i<span class="highlightsample"></span>e<span class="highlightsample"></span>t<span class="highlightsample"></span>ę<span class="highlightsample"></span>.<span class="highlightsample"></span>
+</td>
+<td>
+<span class="highlightsample"></span>I<span class="highlightsample"></span> <span class="highlightsample"></span>w<span class="highlightsample"></span>a<span class="highlightsample"></span>n<span class="highlightsample"></span>t<span class="highlightsample"></span> <span class="highlightsample"></span>y<span class="highlightsample"></span>o<span class="highlightsample"></span>u<span class="highlightsample"></span> <span class="highlightsample"></span>t<span class="highlightsample"></span>w<span class="highlightsample"></span>o<span class="highlightsample"></span> <span class="highlightsample"></span>t<span class="highlightsample"></span>o<span class="highlightsample"></span> <span class="highlightsample"></span>g<span class="highlightsample"></span>o<span class="highlightsample"></span> <span class="highlightsample"></span>t<span class="highlightsample"></span>o<span class="highlightsample"></span> <span class="highlightsample"></span>T<span class="highlightsample"></span>u<span class="highlightsample"></span>x<span class="highlightsample"></span>h<span class="highlightsample"></span>o<span class="highlightsample"></span>r<span class="highlightsample"></span>n<span class="highlightsample"></span>'<span class="highlightsample"></span>s<span class="highlightsample"></span> <span class="highlightsample"></span>w<span class="highlightsample"></span>o<span class="highlightsample"></span>r<span class="highlightsample"></span>k<span class="highlightsample"></span>p<span class="highlightsample"></span>l<span class="highlightsample"></span>a<span class="highlightsample"></span>c<span class="highlightsample"></span>e<span class="highlightsample"></span>.<span class="highlightsample"></span>
+</td>
+<td><a href="#"><i data-content="An instance of the  verb." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="example-4">
+<span class="highlightsample"></span>N<span class="highlightsample"></span>o<span class="highlightsample"></span>r<span class="highlightsample"></span>ė<span class="highlightsample"></span>j<span class="highlightsample"></span>a<span class="highlightsample"></span>u<span class="highlightsample"></span>,<span class="highlightsample"></span> <span class="highlightsample"></span>k<span class="highlightsample"></span>a<span class="highlightsample"></span>d<span class="highlightsample"></span> <span class="highlightsample"></span>v<span class="highlightsample"></span>y<span class="highlightsample"></span>k<span class="highlightsample"></span>t<span class="highlightsample"></span>u<span class="highlightsample"></span>m<span class="highlightsample"></span>ė<span class="highlightsample"></span>t<span class="highlightsample"></span>e<span class="highlightsample"></span> <span class="highlightsample"></span>s<span class="highlightsample"></span>u<span class="highlightsample"></span> <span class="highlightsample"></span>m<span class="highlightsample"></span>a<span class="highlightsample"></span>n<span class="highlightsample"></span>i<span class="highlightsample"></span>m<span class="highlightsample"></span>i<span class="highlightsample"></span>.<span class="highlightsample"></span>
+</td>
+<td>
+<span class="highlightsample"></span>I<span class="highlightsample"></span> <span class="highlightsample"></span>w<span class="highlightsample"></span>a<span class="highlightsample"></span>n<span class="highlightsample"></span>t<span class="highlightsample"></span>e<span class="highlightsample"></span>d<span class="highlightsample"></span> <span class="highlightsample"></span>y<span class="highlightsample"></span>o<span class="highlightsample"></span>u<span class="highlightsample"></span> <span class="highlightsample"></span>t<span class="highlightsample"></span>o<span class="highlightsample"></span> <span class="highlightsample"></span>c<span class="highlightsample"></span>o<span class="highlightsample"></span>m<span class="highlightsample"></span>e<span class="highlightsample"></span> <span class="highlightsample"></span>w<span class="highlightsample"></span>i<span class="highlightsample"></span>t<span class="highlightsample"></span>h<span class="highlightsample"></span> <span class="highlightsample"></span>m<span class="highlightsample"></span>e<span class="highlightsample"></span>.<span class="highlightsample"></span>
+</td>
+<td><a href="#"><i data-content="An instance of the  verb." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="example-5">
+<span class="highlightsample"></span>N<span class="highlightsample"></span>o<span class="highlightsample"></span>r<span class="highlightsample"></span>i<span class="highlightsample"></span>u<span class="highlightsample"></span>,<span class="highlightsample"></span> <span class="highlightsample"></span>k<span class="highlightsample"></span>a<span class="highlightsample"></span>d<span class="highlightsample"></span> <span class="highlightsample"></span>v<span class="highlightsample"></span>y<span class="highlightsample"></span>k<span class="highlightsample"></span>t<span class="highlightsample"></span>u<span class="highlightsample"></span>m<span class="highlightsample"></span>ė<span class="highlightsample"></span>t<span class="highlightsample"></span>e<span class="highlightsample"></span> <span class="highlightsample"></span>į<span class="highlightsample"></span> <span class="highlightsample"></span>V<span class="highlightsample"></span>i<span class="highlightsample"></span>n<span class="highlightsample"></span>t<span class="highlightsample"></span>e<span class="highlightsample"></span>r<span class="highlightsample"></span>f<span class="highlightsample"></span>e<span class="highlightsample"></span>l<span class="highlightsample"></span>ą<span class="highlightsample"></span> <span class="highlightsample"></span>d<span class="highlightsample"></span>ė<span class="highlightsample"></span>l<span class="highlightsample"></span> <span class="highlightsample"></span>s<span class="highlightsample"></span>a<span class="highlightsample"></span>v<span class="highlightsample"></span>o<span class="highlightsample"></span> <span class="highlightsample"></span>p<span class="highlightsample"></span>a<span class="highlightsample"></span>č<span class="highlightsample"></span>i<span class="highlightsample"></span>ų<span class="highlightsample"></span> <span class="highlightsample"></span>s<span class="highlightsample"></span>a<span class="highlightsample"></span>u<span class="highlightsample"></span>g<span class="highlightsample"></span>u<span class="highlightsample"></span>m<span class="highlightsample"></span>o<span class="highlightsample"></span>.<span class="highlightsample"></span>
+</td>
+<td>
+<span class="highlightsample"></span>I<span class="highlightsample"></span> <span class="highlightsample"></span>w<span class="highlightsample"></span>a<span class="highlightsample"></span>n<span class="highlightsample"></span>t<span class="highlightsample"></span> <span class="highlightsample"></span>y<span class="highlightsample"></span>o<span class="highlightsample"></span>u<span class="highlightsample"></span> <span class="highlightsample"></span>b<span class="highlightsample"></span>a<span class="highlightsample"></span>c<span class="highlightsample"></span>k<span class="highlightsample"></span> <span class="highlightsample"></span>i<span class="highlightsample"></span>n<span class="highlightsample"></span> <span class="highlightsample"></span>W<span class="highlightsample"></span>i<span class="highlightsample"></span>n<span class="highlightsample"></span>t<span class="highlightsample"></span>e<span class="highlightsample"></span>r<span class="highlightsample"></span>f<span class="highlightsample"></span>e<span class="highlightsample"></span>l<span class="highlightsample"></span>l<span class="highlightsample"></span> <span class="highlightsample"></span>f<span class="highlightsample"></span>o<span class="highlightsample"></span>r<span class="highlightsample"></span> <span class="highlightsample"></span>y<span class="highlightsample"></span>o<span class="highlightsample"></span>u<span class="highlightsample"></span>r<span class="highlightsample"></span> <span class="highlightsample"></span>o<span class="highlightsample"></span>w<span class="highlightsample"></span>n<span class="highlightsample"></span> <span class="highlightsample"></span>s<span class="highlightsample"></span>a<span class="highlightsample"></span>f<span class="highlightsample"></span>e<span class="highlightsample"></span>t<span class="highlightsample"></span>y<span class="highlightsample"></span>.<span class="highlightsample"></span>
+</td>
+<td><a href="#"><i data-content="An instance of the  verb." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplecommand2">NVO turi iþsakyti savo po™iヰrﾆ dｹl teikiamヱ ﾆstatymヱ projektヱ, priimamヱ teisｹs aktヱ bei reikalauti, jog vald™ia ir vyriausybinｹs institucijos tinkamai <span class="highlightsample">vyk</span>-dytヱ savo pareigｯ tarnauti ™monｹms.</td>
+<td>N<span class="highlightsample">GO</span> should make its views known on draft bills and laws and should demand that authorities and <span class="highlightsample">go</span>vernment agencies do their job in helping people properly.</td>
+<td><a href="#command2"><i data-content="A 2nd person form of the  verb." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplecommand2-1">¶Passport to Exportƒ Â tai MVd plｹtros programa, kuriｯ <span class="highlightsample">vyk</span>do UK Trade &amp; Investment (UKTI), vyriausybinｹ organizacija, remianti Jungtinｹs Karalystｹs bendroves, u™sii-manｲias verslu tarptautiniu mastu, ir u™sienio ﾆmones, siekianｲias ﾆsisteigti arba plｹs-ti savo veiklｯ JK. Programa skirta sukurti sｹkmingai eksportuojanｲias bendroves. Pa-tarｹjas tarptautinｹs prekybos klausimais nemokamai atlieka tyrimｯ, kurﾆ naudoja nustatyti ﾆmonｹs veiklos trヰkumams, sprｼstiniems, jei bendrovｹ nori sｹkmingai <span class="highlightsample">vyk</span>-dyti eksporto veiklｯ. Tuomet remiantis þiuo tyrimu parengiamas veiksmヱ planas, ku-riame pasinaudojama UK Trade &amp; Investment teikiamomis paslaugomis. Þiam planui ﾆgyvendinti paprastai reikia 12Â18 mｹnesiヱ, ir patarｹjas tarptautinｹs prekybos klau-simais teikia paramｯ visｯ þﾆ laikｯ. Veiksmヱ planｯ pirmiausia «nansuoja UKTI, nors re-gionai pasinaudos papildomais «nansavimo þaltiniais, kad padengtヱ kai kurias, pa-vyzd™iui, ﾆgyvendinimo, iþlaidas. T i k s l a i</td>
+<td>`Passport to export' is an SME development programme run by UK Trade &amp; Invest-ment (UKTI), the <span class="highlightsample">go</span>vernment organisation that supports companies in the United Kingdom doing business internationally and overseas enterprises seeking to set up or expand in the UK. The programme is aimed at producing e.ective exporters. A diagnostic is carried out, free of charge, by an international trade adviser, who uses it to identify weaknesses in a business's performance which need to be addressed if it is to develop into a successful exporter. An action plan is then drawn up based on this diagnostic, which utilises the services available from UK Trade &amp; Investment. This plan typically takes 12›18 months to complete, with the international trade adviser providing support throughout. The action plan is funded primarily by UKTI, although the regions will draw on additional funding streams to cover some of the costs, such as delivery, for example. O b j e c t iv e s</td>
+<td><a href="#command2"><i data-content="A 2nd person form of the  verb." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplecommand2-2">Tokiu pat būdu dabartiniai praktiką atliekantys pedagogikos studentai Europoje, <span class="highlightsample">vyk</span> -dami į užsienį, turi įgyti svarbių švietimo ir tarptautinių kompetencijų.</td>
+<td>In the same way, today’s European student teachers will have to learn important education and international competencies by <span class="highlightsample">go</span>ing abroad.</td>
+<td><a href="#command2"><i data-content="A 2nd person form of the  verb." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplecommand2-3">Tu <span class="highlightsample">vyk</span> į Rusiją, aš su jais susitvarkysiu.</td>
+<td>You <span class="highlightsample">go</span> on to Russia, I'll handle him.</td>
+<td><a href="#command2"><i data-content="A 2nd person form of the  verb." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplecommand2-4">Nebula, <span class="highlightsample">vyk</span> į Ksandarią ir gauk man Orbą.</td>
+<td>Nebula, <span class="highlightsample">go</span> to Xandar and get me the Orb.</td>
+<td><a href="#command2"><i data-content="A 2nd person form of the  verb." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+</tbody>
+</table></section><section id="questions"><div class="ui comments"><h4 style="font-size: 1.714rem; padding-top: 8vh; padding-bottom: 4vh; color: rgba(0, 0, 0, 0.87);" class="ui header">
+<i class="help teal icon"></i>Questions and answers about vykti conjugation</h4></div>
+<div id="questionmenu">
+<h3 class="ui dividing header">Still don't understand something? Ask and receive a reply!</h3>
+<p>Ask us a question about this word and get it replied to here. Questions are answered by experienced language speakers.</p>
+<div class="ui center aligned container"><f class="ui reply form"><div class="field">
+<input id="fname" name="submitterName" placeholder="Your name..."><input id="qverb" name="qverb" type="hidden" value="vykti"><input id="qlanguage" name="qlanguage" type="hidden" value="lt">
+</div>
+<div class="field"><textarea id="question" name="question" rows="5"></textarea></div>
+<div id="askquestion" class="ui teal labeled submit icon button">
+<i class="icon edit"></i> Ask question about vykti</div></f></div>
+</div></section><div class="content"></div></section></div></div>
+<div class="five wide column">
+<div class="ui segment"><div style="text-align: center;">
+<b>Work in progress</b><p style="padding-top: 10px;"><span style="color: grey; text-align: justify;"><i class="announcement icon red big"></i>Help us become the best conjugation resource. <a href="http://cooljugator.com/blog/2016/12/16/cooljugators-mission">Find out more</a>. </span></p>
+</div></div>
+<div class="ui segment"><div style="text-align: center;">
+<b>Play Lithuanian conjugation game!</b><p style="padding-top: 10px;"><span style="color: grey; text-align: justify;"><i class="game icon orange big"></i>Practice Lithuanian verb conjugation with real sentences in our free <a href="http://cooljugator.com/game/Index">game</a>. Try now!</span></p>
+</div></div>
+<div class="ui segment"><div style="text-align: center;">
+<b>Tip: CTRL + M for navigation!</b><p style="padding-top: 10px;"><span style="color: grey; text-align: justify;"> <i class="keyboard icon teal"></i>You can access a quick navigation menu with the shortcut 'CTRL + M'.</span></p>
+</div></div>
+<div class="ui segment"><div style="text-align: center;">
+<b>Learn Lithuanian with our subtitled book!</b><p><a href="http://interlinearbooks.com/lithuanian/?r=cjgtr&amp;c=lt" rel="nofollow"><img src="/images/presentation_lt.png" style="width: 98%; padding-top: 10px;"></a></p>
+<p>Check out our new product - a novel subtitled Interlinear book in Lithuanian to get reading practice! Click on the 'Try out' button below.</p>
+<a href="http://interlinearbooks.com/lithuanian/?r=cjgtr&amp;c=lt" rel="nofollow"><div style="vertical-align: middle;" class="ui submit button large red">Try out</div></a>
+</div></div>
+<div class="ui segment center aligned">
+<p><b>Receive most useful verbs, tips and other info free!</b><!-- Begin MailChimp Signup Form--></p>
+<!-- Begin MailChimp Signup Form--><div id="mc_embed_signup"><form id="mc-embedded-subscribe-form" action="//cooljugator.us13.list-manage.com/subscribe/post?u=ceca7eaaa8f7bfdc14e243ae2&amp;id=980c8f3061" method="post" name="mc-embedded-subscribe-form" target="_blank" novalidate="" class="validate ui form error center aligned"><div id="mc_embed_signup_scroll">
+<div class="mc-field-group one field center aligned"><div class="field large">
+<label for="mce-EMAIL">Email Address</label><input id="mce-EMAIL" type="email" value="" name="EMAIL" class="required email">
+</div></div>
+<div class="mc-field-group input-group"></div>
+<div class="ui center aligned grid">
+<div id="newsletterlanguageselection" style="margin-top: 1.3rem; margin-bottom: 2rem;" class="ui button teal">Select the language(s) you're interested in</div>
+<div class="ui fluid popup top left transition hidden"><div class="ui four column divided center aligned grid"><ul>
+<li style="list-style-type: none">
+<input type="checkbox" value="1" name="group[2381][1]" id="mce-group[2381]-2381-0"><label for="mce-group[2381]-2381-0">  English</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="2" name="group[2381][2]" id="mce-group[2381]-2381-1"><label for="mce-group[2381]-2381-1">  Esperanto</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="4" name="group[2381][4]" id="mce-group[2381]-2381-2"><label for="mce-group[2381]-2381-2">  Estonian</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="8192" name="group[2381][8192]" id="mce-group[2381]-2381-13"><label for="mce-group[2381]-2381-13">  Hungarian</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="8" name="group[2381][8]" id="mce-group[2381]-2381-3"><label for="mce-group[2381]-2381-3">  Latvian</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" checked value="16" name="group[2381][16]" id="mce-group[2381]-2381-4"><label for="mce-group[2381]-2381-4">  Lithuanian</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="32" name="group[2381][32]" id="mce-group[2381]-2381-5"><label for="mce-group[2381]-2381-5">  Modern Greek</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="2048" name="group[2381][2048]" id="mce-group[2381]-2381-11"><label for="mce-group[2381]-2381-11">  Polish</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="128" name="group[2381][128]" id="mce-group[2381]-2381-6"><label for="mce-group[2381]-2381-6">  Portuguese</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="64" name="group[2381][64]" id="mce-group[2381]-2381-7"><label for="mce-group[2381]-2381-7">  Russian</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="4096" name="group[2381][4096]" id="mce-group[2381]-2381-12"><label for="mce-group[2381]-2381-12">   Spanish</label>
+</li>
+</ul></div></div>
+</div>
+<div id="mce-responses" class="clear">
+<div id="mce-error-response" style="display:none" class="response"></div>
+<div id="mce-success-response" style="display:none" class="response"></div>
+</div>
+<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--><div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_ceca7eaaa8f7bfdc14e243ae2_980c8f3061" tabindex="-1" value=""></div>
+<div style="text-align: center;" class="clear"><input id="mc-embedded-subscribe" type="submit" value="Subscribe" name="subscribe" style="text-align: center; vertical-align: middle;" class="ui submit button large teal"></div>
+</div></form></div>
+<!-- End mc_embed_signup-->
+</div>
+<div class="ui segment"><p style="text-align: center;"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- New 15 May 2016 CoolJugator flexible ad--><ins style="display:block" data-ad-client="ca-pub-0492579730264989" data-ad-slot="4873833251" data-ad-format="auto" class="adsbygoogle"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></p></div>
+<div class="ui segment">
+<p style="text-align: center;"><b>Related verbs</b></p>
+<table class="ui celled table">
+<thead><tr>
+<th>Verb</th>
+<th>Translation</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><a href="/lt/atvykti" style="text-align: center;">atvykti</a></td>
+<td>arrive</td>
+</tr>
+<tr>
+<td><a href="/lt/i%C5%A1vykti" style="text-align: center;">išvykti</a></td>
+<td>depart</td>
+</tr>
+<tr>
+<td><a href="/lt/%C4%AFvykti" style="text-align: center;">įvykti</a></td>
+<td>happen</td>
+</tr>
+<tr>
+<td><a href="/lt/nuvykti" style="text-align: center;">nuvykti</a></td>
+<td>travel</td>
+</tr>
+<tr>
+<td><a href="/lt/parvykti" style="text-align: center;">parvykti</a></td>
+<td>come back</td>
+</tr>
+<tr>
+<td><a href="/lt/pavykti" style="text-align: center;">pavykti</a></td>
+<td>be successful</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="ui segment">
+<p style="text-align: center;"><b>Similar verbs</b></p>
+<table class="ui celled table">
+<thead><tr>
+<th>Verb</th>
+<th>Translation</th>
+</tr></thead>
+<tbody>
+<tr>
+<td style="font-weight: bold;">Same length:</td>
+<td> </td>
+</tr>
+<tr>
+<td> <a href="/lt/alkti" style="text-align: center;">alkti</a>
+</td>
+<td>hunger</td>
+</tr>
+<tr>
+<td> <a href="/lt/d%C5%ABkti" style="text-align: center;">dūkti</a>
+</td>
+<td>disport</td>
+</tr>
+<tr>
+<td> <a href="/lt/l%C4%97kti" style="text-align: center;">lėkti</a>
+</td>
+<td>rush</td>
+</tr>
+<tr>
+<td> <a href="/lt/likti" style="text-align: center;">likti</a>
+</td>
+<td>remain</td>
+</tr>
+<tr>
+<td> <a href="/lt/mykti" style="text-align: center;">mykti</a>
+</td>
+<td>mumble</td>
+</tr>
+<tr>
+<td> <a href="/lt/m%C5%ABkti" style="text-align: center;">mūkti</a>
+</td>
+<td>moo</td>
+</tr>
+<tr>
+<td> <a href="/lt/nykti" style="text-align: center;">nykti</a>
+</td>
+<td>disappear</td>
+</tr>
+<tr>
+<td> <a href="/lt/nokti" style="text-align: center;">nokti</a>
+</td>
+<td>ripen</td>
+</tr>
+<tr>
+<td> <a href="/lt/pykti" style="text-align: center;">pykti</a>
+</td>
+<td>be angry</td>
+</tr>
+<tr>
+<td> <a href="/lt/pyktis" style="text-align: center;">pyktis</a>
+</td>
+<td>quarrel</td>
+</tr>
+<tr>
+<td> <a href="/lt/r%C4%97kti" style="text-align: center;">rėkti</a>
+</td>
+<td>scream</td>
+</tr>
+<tr>
+<td> <a href="/lt/r%C5%ABkti" style="text-align: center;">rūkti</a>
+</td>
+<td>smoke</td>
+</tr>
+<tr>
+<td> <a href="/lt/sekti" style="text-align: center;">sekti</a>
+</td>
+<td>run low</td>
+</tr>
+<tr>
+<td> <a href="/lt/sektis" style="text-align: center;">sektis</a>
+</td>
+<td>go well</td>
+</tr>
+<tr>
+<td> <a href="/lt/sukti" style="text-align: center;">sukti</a>
+</td>
+<td>turn</td>
+</tr>
+<tr>
+<td> <a href="/lt/suktis" style="text-align: center;">suktis</a>
+</td>
+<td>turn</td>
+</tr>
+<tr>
+<td> <a href="/lt/%C5%A1okti" style="text-align: center;">šokti</a>
+</td>
+<td>dance</td>
+</tr>
+<tr>
+<td> <a href="/lt/tekti" style="text-align: center;">tekti</a>
+</td>
+<td>fell to (somebody)</td>
+</tr>
+<tr>
+<td> <a href="/lt/tikti" style="text-align: center;">tikti</a>
+</td>
+<td>fit</td>
+</tr>
+<tr>
+<td> <a href="/lt/tiktis" style="text-align: center;">tiktis</a>
+</td>
+<td>meet</td>
+</tr>
+<tr>
+<td> <a href="/lt/tukti" style="text-align: center;">tukti</a>
+</td>
+<td>fatten</td>
+</tr>
+<tr>
+<td> <a href="/lt/velti" style="text-align: center;">velti</a>
+</td>
+<td>tangle</td>
+</tr>
+<tr>
+<td> <a href="/lt/vemti" style="text-align: center;">vemti</a>
+</td>
+<td>vomit</td>
+</tr>
+<tr>
+<td> <a href="/lt/verti" style="text-align: center;">verti</a>
+</td>
+<td>pierce</td>
+</tr>
+<tr>
+<td> <a href="/lt/vertis" style="text-align: center;">vertis</a>
+</td>
+<td>pierce</td>
+</tr>
+<tr>
+<td> <a href="/lt/vesti" style="text-align: center;">vesti</a>
+</td>
+<td>lead</td>
+</tr>
+<tr>
+<td> <a href="/lt/vestis" style="text-align: center;">vestis</a>
+</td>
+<td>bring</td>
+</tr>
+<tr>
+<td> <a href="/lt/ve%C5%BEti" style="text-align: center;">vežti</a>
+</td>
+<td>transport (by vehicle)</td>
+</tr>
+<tr>
+<td> <a href="/lt/ve%C5%BEtis" style="text-align: center;">vežtis</a>
+</td>
+<td>carry (by vehicle)</td>
+</tr>
+<tr>
+<td> <a href="/lt/vilti" style="text-align: center;">vilti</a>
+</td>
+<td>disillusion</td>
+</tr>
+<tr>
+<td> <a href="/lt/viltis" style="text-align: center;">viltis</a>
+</td>
+<td>hope</td>
+</tr>
+<tr>
+<td> <a href="/lt/virti" style="text-align: center;">virti</a>
+</td>
+<td>boil</td>
+</tr>
+<tr>
+<td> <a href="/lt/virtis" style="text-align: center;">virtis</a>
+</td>
+<td>cook</td>
+</tr>
+<tr>
+<td> <a href="/lt/visti" style="text-align: center;">visti</a>
+</td>
+<td>reproduce</td>
+</tr>
+<tr>
+<td> <a href="/lt/vysti" style="text-align: center;">vysti</a>
+</td>
+<td>wilt</td>
+</tr>
+<tr>
+<td> <a href="/lt/vogti" style="text-align: center;">vogti</a>
+</td>
+<td>steal</td>
+</tr>
+<tr>
+<td> <a href="/lt/vo%C5%BEti" style="text-align: center;">vožti</a>
+</td>
+<td>smash</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">Different length:</td>
+<td> </td>
+</tr>
+<tr>
+<td> <a href="/lt/atvykti" style="text-align: center;">atvykti</a>
+</td>
+<td>arrive</td>
+</tr>
+<tr>
+<td> <a href="/lt/i%C5%A1vykti" style="text-align: center;">išvykti</a>
+</td>
+<td>depart</td>
+</tr>
+<tr>
+<td> <a href="/lt/%C4%AFvykti" style="text-align: center;">įvykti</a>
+</td>
+<td>happen</td>
+</tr>
+<tr>
+<td> <a href="/lt/nuvykti" style="text-align: center;">nuvykti</a>
+</td>
+<td>travel</td>
+</tr>
+<tr>
+<td> <a href="/lt/pavykti" style="text-align: center;">pavykti</a>
+</td>
+<td>be successful</td>
+</tr>
+<tr>
+<td> <a href="/lt/vykdyti" style="text-align: center;">vykdyti</a>
+</td>
+<td>perform</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="ui segment">
+<p style="text-align: center;"><b>Other Lithuanian verbs with the meaning <span style="text-decoration: underline;">go</span></b></p>
+<table class="ui celled table">
+<thead><tr><th>Verb</th></tr></thead>
+<tbody>
+<tr><td> <a href="/lt/dirbtis" style="text-align: center;">dirbtis</a>
+</td></tr>
+<tr><td> <a href="/lt/eiti" style="text-align: center;">eiti</a>
+</td></tr>
+<tr><td> <a href="/lt/varyti" style="text-align: center;">varyti</a>
+</td></tr>
+<tr><td> <a href="/lt/va%C5%BEiuoti" style="text-align: center;">važiuoti</a>
+</td></tr>
+</tbody>
+</table>
+</div>
+<div class="ui segment">
+<p style="text-align: center;"><b>Verb <span style="text-decoration: underline;">go</span> in other languages</b></p>
+<table id="VerbinOtherLanguages" class="ui celled table">
+<thead><tr><th>Verb</th></tr></thead>
+<tbody>
+<tr><td>
+<div class="ui ribon label">EE</div>
+<a href="/ee/minema" style="text-align: center;">minema</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">EN</div>
+<a href="/en/go" style="text-align: center;">go</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">GR</div>
+<a href="/gr/%CE%BF%CE%B4%CE%B5%CF%8D%CF%89" style="text-align: center;">οδεύω</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">GR</div>
+<a href="/gr/%CF%80%CE%AC%CF%89" style="text-align: center;">πάω</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">GR</div>
+<a href="/gr/%CF%80%CE%B7%CE%B3%CE%B1%CE%AF%CE%BD%CF%89" style="text-align: center;">πηγαίνω</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">LV</div>
+<a href="/lv/doties" style="text-align: center;">doties</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">LV</div>
+<a href="/lv/iet" style="text-align: center;">iet</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">LV</div>
+<a href="/lv/kl%C4%81ties" style="text-align: center;">klāties</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">PL</div>
+<a href="/pl/chodzi%C4%87" style="text-align: center;">chodzić</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">PL</div>
+<a href="/pl/i%C5%9B%C4%87" style="text-align: center;">iść</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">PL</div>
+<a href="/pl/pojecha%C4%87" style="text-align: center;">pojechać</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">PL</div>
+<a href="/pl/p%C3%B3j%C5%9B%C4%87" style="text-align: center;">pójść</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">PL</div>
+<a href="/pl/si%C4%99ga%C4%87" style="text-align: center;">sięgać</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">RU</div>
+<a href="/ru/%D0%B8%D0%B4%D1%82%D0%B8" style="text-align: center;">идти</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">RU</div>
+<a href="/ru/%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%8F%D1%82%D1%8C%D1%81%D1%8F" style="text-align: center;">направляться</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">RU</div>
+<a href="/ru/%D0%BF%D0%BE%D0%B9%D1%82%D0%B8" style="text-align: center;">пойти</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">RU</div>
+<a href="/ru/%D1%81%D1%8A%D0%B5%D0%B7%D0%B4%D0%B8%D1%82%D1%8C" style="text-align: center;">съездить</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">RU</div>
+<a href="/ru/%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%8C" style="text-align: center;">ходить</a>
+</td></tr>
+</tbody>
+</table>
+</div>
+<div class="ui segment">
+<p style="text-align: center;"><b>Do you know these verbs?</b></p>
+<table class="ui celled table">
+<thead><tr>
+<th>Verb</th>
+<th>Translation</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><a href="/lt/barti" style="text-align: center;">barti</a></td>
+<td>scold</td>
+</tr>
+<tr>
+<td><a href="/lt/konsultuotis" style="text-align: center;">konsultuotis</a></td>
+<td>consult (with somebody)</td>
+</tr>
+<tr>
+<td><a href="/lt/kontroliuoti" style="text-align: center;">kontroliuoti</a></td>
+<td>control</td>
+</tr>
+<tr>
+<td><a href="/lt/niokti" style="text-align: center;">niokti</a></td>
+<td>clutter</td>
+</tr>
+<tr>
+<td><a href="/lt/nuspr%C4%99sti" style="text-align: center;">nuspręsti</a></td>
+<td>decide</td>
+</tr>
+<tr>
+<td><a href="/lt/praplatinti" style="text-align: center;">praplatinti</a></td>
+<td>widen</td>
+</tr>
+<tr>
+<td><a href="/lt/sumesti" style="text-align: center;">sumesti</a></td>
+<td>throw in a heap</td>
+</tr>
+<tr>
+<td><a href="/lt/trikti" style="text-align: center;">trikti</a></td>
+<td>become disturbed</td>
+</tr>
+<tr>
+<td><a href="/lt/vai%C5%A1intis" style="text-align: center;">vaišintis</a></td>
+<td>feast</td>
+</tr>
+<tr>
+<td><a href="/lt/virbti" style="text-align: center;">virbti</a></td>
+<td>shoot up</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="QuickNavigation" class="ui segment center aligned fluid vertical menu sticky">
+<a href="#conjugate" class="item"><b>Quick Navigation </b></a><p> <i class="keyboard icon teal"></i><span style="color: grey;">'CTRL + M' anytime to show this menu</span></p>
+<div class="item">
+<a href="#conjugate" style="text-decoration: none; color: inherit;"><b>Conjugations</b></a><div class="menu">
+<a href="#present" class="item">Present tense</a><a href="#past" class="item">Past tense</a><a href="#pastfrequentative" class="item">Past frequentative tense</a><a href="#future" class="item">Future tense</a><a href="#conditional" class="item">Conditional mood</a><a href="#imperative" class="item">Imperative mood</a>
+</div>
+</div>
+<div class="item"><a href="#usage" style="text-decoration: none; color: inherit;"><b>Usage</b></a></div>
+<div class="item"><a href="#examples" style="text-decoration: none; color: inherit;"><b>Examples</b></a></div>
+<p style="padding-left: 5px; padding-right: 5px;"> <a href="http://interlinearbooks.com/lithuanian/?r=cjgtr&amp;c=lt" rel="nofollow"><i class="book icon red"></i></a><span style="color: grey;">Have you tried our <a href="http://interlinearbooks.com/lithuanian/?r=cjgtr&amp;c=lt" rel="nofollow">Lithuanian Interlinear Book?</a></span></p>
+</div>
+</div>
+</div>
+<footer><div style="margin-top: 10vh; padding-top: 4vh;" class="ui inverted vertical footer segment grey"><div class="ui center aligned container">
+<div class="ui stackable inverted divided grid">
+<div class="three wide column">
+<h4 class="ui inverted header">CoolJugator</h4>
+<div class="ui inverted link list">
+<a href="/" class="item">Home</a><a href="mailto:cooljugator@techie.com" class="item">Contact us</a><a href="/about/#acknowledgments" class="item">Acknowledgments</a><a href="/about/" class="item">About</a><a href="/game/Index" class="item">Conjugation game</a><a href="/blog/" class="item">Blog</a>
+</div>
+</div>
+<div class="three wide column">
+<h4 class="ui inverted header">Languages</h4>
+<div id="OtherLanguages" class="ui inverted link list">
+<a href="/af/" class="item">Afrikaans</a><a href="/sq/" class="item">Albanian</a><a href="/ar/" class="item">Arabic</a><a href="/az/" class="item">Azeri</a><a href="/eu/" class="item">Basque</a><a href="/ca/" class="item">Catalan</a><a href="/da/" class="item">Danish</a><a href="/nl/" class="item">Dutch</a><a href="/en/" class="item">English</a><a href="/eo/" class="item">Esperanto</a><a href="/ee/" class="item">Estonian</a><a href="/fo/" class="item">Faroese</a><a href="/fi/" class="item">Finnish verbs</a><a href="/fia/" class="item">Finnish adjectives</a><a href="/fin/" class="item">Finnish nouns</a><a href="/fr/" class="item">French</a>
+</div>
+</div>
+<div class="three wide column">
+<h4 class="ui inverted header">   </h4>
+<div id="OtherLanguages" class="ui inverted link list">
+<a href="/de/" class="item">German</a><a href="/hw/" class="item">Hawaiian</a><a href="/he/" class="item">Hebrew</a><a href="/hu/" class="item">Hungarian</a><a href="/it/" class="item">Italian</a><a href="/is/" class="item">Icelandic</a><a href="/id/" class="item">Indonesian</a><a href="/ja/" class="item">Japanese</a><a href="/lt/" class="item">Lithuanian</a><a href="/lv/" class="item">Latvian</a><a href="/mk/" class="item">Macedonian</a><a href="/ms/" class="item">Malay</a><a href="/mt/" class="item">Maltese</a><a href="/mi/" class="item">Maori</a><a href="/gr/" class="item">Modern Greek</a><a href="/no/" class="item">Norwegian</a><a href="/fa/" class="item">Persian</a>
+</div>
+</div>
+<div class="three wide column">
+<h4 class="ui inverted header">  </h4>
+<div id="OtherLanguages" class="ui inverted link list">
+<a href="/pl/" class="item">Polish</a><a href="/pt/" class="item">Portuguese</a><a href="/qu/" class="item">Quechua</a><a href="/ro/" class="item">Romanian</a><a href="/ru/" class="item">Russian verbs</a><a href="/rua/" class="item">Russian adjectives</a><a href="/run/" class="item">Russian nouns</a><a href="/es/" class="item">Spanish</a><a href="/sv/" class="item">Swedish</a><a href="/th/" class="item">Thai</a><a href="/tr/" class="item">Turkish</a><a href="/vi/" class="item">Vietnamese</a>
+</div>
+</div>
+<div class="one wide column"></div>
+</div>
+<div class="ui inverted section divider"></div>
+<a href="/"><img src="/images/logo.png" alt="CoolJugator - an intelligent verb conjugator" class="ui centered image"></a><div class="ui horizontal inverted small divided link list">
+<a href="mailto:cooljugator@techie.com" class="item">Contact us</a><a href="http://facebook.com/cooljugator" class="item">Facebook</a><a href="http://twitter.com/cooljugator" class="item">Twitter</a>
+</div>
+</div></div>
+<script type="text/javascript" src="/javascripts/main.js"></script><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create', 'UA-8339065-3', 'auto');ga('send', 'pageview');</script></footer>
+</div>
+<script>(function(){var uv=document.createElement('script');uv.type='text/javascript';uv.async=true;uv.src='//widget.uservoice.com/uhrNzv9ysf9fNIGfDWgPQ.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(uv,s)})()</script>  <!-- A tab to launch the Classic Widget --> <script> UserVoice = window.UserVoice || []; UserVoice.push(['showTab', 'classic_widget', {   mode: 'feedback',   primary_color: '#00b5ac',   link_color: '#0a8cc6',   forum_id: 123075,   tab_label: 'Feedback',   tab_color: '#00b5ac',   tab_position: 'middle-right',   tab_inverted: false }]); </script>
+</body>
+</html>

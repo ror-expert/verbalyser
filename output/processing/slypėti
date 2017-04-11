@@ -1,0 +1,698 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Slypėti conjugation in Lithuanian in all forms | CoolJugator.com</title>
+<meta name="description" content="Conjugate the Lithuanian verb slypėti in all forms and with usage examples. Slypėti conjugation has never been easier!">
+<link rel="stylesheet" type="text/css" href="/components/semantic/dist/semantic.css">
+<link rel="stylesheet" type="text/css" href="/stylesheets/main.css">
+<link rel="stylesheet" type="text/css" href="/stylesheets/languagemap.css">
+<script type="text/javascript" src="/components/jquery/dist/jquery.min.js"></script><script type="text/javascript" src="/components/semantic/dist/semantic.min.js"></script>
+</head>
+<body>
+<div class="ui menu large inverted grey">
+<div id="CoolJugatorLogo" class="item"><a href="/"><img src="/images/logo.png" alt="CoolJugator: the smart verb Conjugator"></a></div>
+<div id="siteLanguageSelection" class="item"><div class="ui dropdown topmenuselection inverted grey">
+<div class="text">Lithuanian</div>
+<i class="dropdown icon"></i><div id="topBarSelectionMenu" class="menu">
+<div data-value="" class="item">Home</div>
+<div data-value="da" class="item">Danish</div>
+<div data-value="en" class="item">English</div>
+<div data-value="eo" class="item">Esperanto</div>
+<div data-value="fr" class="item">French</div>
+<div data-value="ee" class="item">Estonian</div>
+<div data-value="hu" class="item">Hungarian</div>
+<div data-value="it" class="item">Italian</div>
+<div data-value="ja" class="item">Japanese</div>
+<div data-value="lt" class="item">Lithuanian</div>
+<div data-value="lv" class="item">Latvian</div>
+<div data-value="gr" class="item">Modern Greek</div>
+<div data-value="pl" class="item">Polish</div>
+<div data-value="pt" class="item">Portuguese</div>
+<div data-value="ro" class="item">Romanian</div>
+<div data-value="ru" class="item">Russian</div>
+<div data-value="es" class="item">Spanish</div>
+<div data-value="tr" class="item">Turkish</div>
+</div>
+</div></div>
+<div id="topBarSearch" class="item"><div class="ui action input"><input type="text" placeholder="Type verb in Lithuanian or in English..." id="search" autofocus></div></div>
+</div>
+<div class="pusher">
+<div class="ui equal width grid stackable container">
+<div style="display: none;" class="row"><div class="column"><div id="results" class="ui segment"><p></p></div></div></div>
+<div class="row"><div class="column"><div class="ui segment">
+<div class="ui breadcrumb">
+<a href="/" class="section"><i class="home icon"></i>Home</a><i class="right chevron icon divider"></i><a href="/lt/" class="section">Lithuanian</a><i class="right chevron icon divider"></i><div id="individualverb" class="active section">slypėti</div>
+</div>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- CoolJugator Top CrumbsBar--><ins style="display:block" data-ad-client="ca-pub-0492579730264989" data-ad-slot="2205579251" data-ad-format="auto" class="adsbygoogle"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div></div></div>
+<div class="eleven wide stretched column"><div id="mainContentArea" class="ui segment"><section id="conjugate"><h1 id="mainTitle">Slypėti conjugation</h1>
+<div class="ui centered grid"><div class="center aligned column"><div id="navigationMenu" class="ui compact tabular stackable menu">
+<a href="#conjugate" class="item active">Conjugate</a><a href="#usage" class="item">Usage</a><a href="#examples" class="item">Examples [5]</a><a href="#questions" class="item">Questions [0]</a>
+</div></div></div>
+<h2 class="ui header">
+<i class="list layout teal icon"></i>Conjugate slypėti - to lie</h2>
+<div id="mapexplanation" style="text-align: right;"><i data-content="This slypėti conjugation map displays how forms of the verb slypėti are constructed. Moreover, it also serves as an easy navigation menu: you can click on any part of the map to be taken directly to those forms." class="write info teal icon"></i></div>
+<div id="conjugationmap" style="min-height: 250px" class="ui container"><div class="tree"><ul><li>
+<a href="#">Verb stem slypė-</a><ul>
+<li>
+<a href="#conjugate">Infinitive: slypėti</a><ul>
+<li><a href="#future">Future</a></li>
+<li><a href="#pastfrequentative">Past frequentative</a></li>
+<li><a href="#conditional">Conditional</a></li>
+<li><a href="#imperative">Imperative</a></li>
+</ul>
+</li>
+<li>
+<a href="#present">Present (s)he: slypi</a><ul><li><a href="#present">Present forms</a></li></ul>
+</li>
+<li>
+<a href="#past">Past (s)he: slypėjo</a><ul><li><a href="#past">Past forms</a></li></ul>
+</li>
+</ul>
+</li></ul></div></div>
+<div style="text-align: right;"><div id="markstress" class="ui button teal">
+<i class="write square icon"></i>Turn on word stress</div></div>
+<div class="ui container">
+<p id="present" class="tensetitle">Present tense</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th data-content="The present forms of the verb slypėti in Lithuanian." data-variation="inverted"> Lithuanian Form</th>
+<th data-content="The present forms of the verb slypėti translated to English." data-variation="inverted">English Translation</th>
+<th data-content="Click on the icon to see Lithuanian examples of this particular form." data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Aš</div></td>
+<td id="present1" data-stressed="slypiu">slypiu </td>
+<td>I lie</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="present2" data-stressed="slỹpi">slypi </td>
+<td>you lie</td>
+<td><a href="#examplepresent2"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jis/ji</div></td>
+<td id="present3" data-stressed="slỹpi">slypi </td>
+<td>he/she does lie</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Mes</div></td>
+<td id="present4" data-stressed="slypime">slypime </td>
+<td>we lie</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="present5" data-stressed="slypite">slypite </td>
+<td>you all lie</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jie/jos</div></td>
+<td id="present6" data-stressed="slỹpi">slypi </td>
+<td>they lie</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p id="past" class="tensetitle">Past tense</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th data-content="The past forms of the verb slypėti in Lithuanian." data-variation="inverted"> Lithuanian Form</th>
+<th data-content="The past forms of the verb slypėti translated to English." data-variation="inverted">English Translation</th>
+<th data-content="Click on the icon to see Lithuanian examples of this particular form." data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Aš</div></td>
+<td id="past1" data-stressed="slypėjau">slypėjau </td>
+<td>I did lie</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="past2" data-stressed="slypė́jai">slypėjai </td>
+<td>you did lie</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jis/ji</div></td>
+<td id="past3" data-stressed="slypė́jo">slypėjo </td>
+<td>he/she did lie</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Mes</div></td>
+<td id="past4" data-stressed="slypėjome">slypėjome </td>
+<td>we did lie</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="past5" data-stressed="slypėjote">slypėjote </td>
+<td>you all did lie</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jie/jos</div></td>
+<td id="past6" data-stressed="slypė́jo">slypėjo </td>
+<td>they did lie</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p id="pastfrequentative" class="tensetitle">Past frequentative tense</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th data-content="The past frequentative forms of the verb slypėti in Lithuanian." data-variation="inverted"> Lithuanian Form</th>
+<th data-content="The past frequentative forms of the verb slypėti translated to English." data-variation="inverted">English Translation</th>
+<th data-content="Click on the icon to see Lithuanian examples of this particular form." data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Aš</div></td>
+<td id="pastperfect1" data-stressed="slypėdavau">slypėdavau </td>
+<td>I used to lie</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="pastperfect2" data-stressed="slypėdavai">slypėdavai </td>
+<td>you used to lie</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jis/ji</div></td>
+<td id="pastperfect3" data-stressed="slypė́davo">slypėdavo </td>
+<td>he/she used to lie</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Mes</div></td>
+<td id="pastperfect4" data-stressed="slypėdavome">slypėdavome </td>
+<td>we used to lie</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="pastperfect5" data-stressed="slypėdavote">slypėdavote </td>
+<td>you all used to lie</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jie/jos</div></td>
+<td id="pastperfect6" data-stressed="slypė́davo">slypėdavo </td>
+<td>they used to lie</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p id="future" class="tensetitle">Future tense</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th data-content="The future forms of the verb slypėti in Lithuanian." data-variation="inverted"> Lithuanian Form</th>
+<th data-content="The future forms of the verb slypėti translated to English." data-variation="inverted">English Translation</th>
+<th data-content="Click on the icon to see Lithuanian examples of this particular form." data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Aš</div></td>
+<td id="future1" data-stressed="slypėsiu">slypėsiu </td>
+<td>I will lie</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="future2" data-stressed="slypėsi">slypėsi </td>
+<td>you will lie</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jis/ji</div></td>
+<td id="future3" data-stressed="slypė̃s">slypės </td>
+<td>he/she will lie</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Mes</div></td>
+<td id="future4" data-stressed="slypėsime">slypėsime </td>
+<td>we will lie</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="future5" data-stressed="slypėsite">slypėsite </td>
+<td>you all will lie</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jie/jos</div></td>
+<td id="future6" data-stressed="slypė̃s">slypės </td>
+<td>they will lie</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p id="conditional" class="tensetitle">Conditional mood</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th data-content="The conditional forms of the verb slypėti in Lithuanian." data-variation="inverted"> Lithuanian Form</th>
+<th data-content="The conditional forms of the verb slypėti translated to English." data-variation="inverted">English Translation</th>
+<th data-content="Click on the icon to see Lithuanian examples of this particular form." data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Aš</div></td>
+<td id="hypothetical1" data-stressed="slypėčiau">slypėčiau </td>
+<td>I would lie</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="hypothetical2" data-stressed="slypėtum">slypėtum </td>
+<td>you would lie</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jis/ji</div></td>
+<td id="hypothetical3" data-stressed="slypė́tų">slypėtų </td>
+<td>he/she would lie</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Mes</div></td>
+<td id="hypothetical4" data-stressed="slypėtume">slypėtume </td>
+<td>we would lie</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="hypothetical5" data-stressed="slypėtute">slypėtute </td>
+<td>you all would lie</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jie/jos</div></td>
+<td id="hypothetical6" data-stressed="slypė́tų">slypėtų </td>
+<td>they would lie</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p id="imperative" class="tensetitle">Imperative mood</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th>Lithuanian Form</th>
+<th>English Translation</th>
+<th data-content="Click on the icon to see examples of this particular form" data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="command2" data-stressed="slypė́k">slypėk </td>
+<td>you lie!</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="command4" data-stressed="slypėkite">slypėkite</td>
+<td>you all lie!</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 class="ui dividing header">Feedback: Noticed a mistake? Have a suggestion?</h3>
+<div id="feedbackMenu">
+<p>Have you noticed a mistake or a bug here somewhere on this page? Have ideas how we can improve our content? Submit a request for us and we will do our best to take your feedback into account!</p>
+<div class="ui container"><f method="post" class="ui review form"><div class="field">
+<input id="fname" name="fsubmitterName" placeholder="Your name..."><input id="fverb" name="fverb" type="hidden" value="slypėti"><input id="flanguage" name="flanguage" type="hidden" value="lt"><input id="feedback" name="feedback" type="text" placeholder="Describe your feedback...">
+</div>
+<div style="text-align: center;" class="clear"><button id="givefeedback" type="submit" class="ui teal labeled icon button"><i class="bug icon"></i>    Submit for review</button></div></f></div>
+<div class="ui divider"></div>
+</div>
+<section id="usage"><p style="font-size: 1.714rem; padding-top: 8vh; padding-bottom: 4vh; color: rgba(0, 0, 0, 0.87);" class="ui header usageheader"><i class="info teal icon"></i>Usage information for slypėti</p>
+<p>There is no additional usage information for the verb slypėti.</p></section><section id="examples"><h3 style="font-size: 1.714rem; padding-top: 8vh; padding-bottom: 4vh; color: rgba(0, 0, 0, 0.87);" class="ui header">
+<i class="quote left teal icon"></i>Examples of slypėti</h3>
+<table id="ExampleSentences" class="ui celled striped table">
+<thead><tr>
+<th data-content="An example sentence in Lithuanian. Our example sentences are picked from multiple sources with real world spoken or written language." data-variation="inverted" class="eight wide">Example in Lithuanian</th>
+<th data-content="The translation of the example in the English language, with the relevant part highlighted if possible." data-variation="inverted" class="eight wide">Translation in English</th>
+<th data-content="A link to the conjugated form - move your mouse over it to find out which form it is, or click on it to go back to the conjugation of that form." data-variation="inverted" class="one wide">Fm.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td id="examplepresent2">Čia <span class="highlightsample">slypi</span> pavojus, kad įprasta priemonė, pvz., ad valorem muitas, gali būti kompensuojama nustatant didesnes kainas kitiems importuojamiems maisto produktams.</td>
+<td>This imp<span class="highlightsample">lie</span>s the risk that the effect of a classical measure such as an ad valorem duty might be compensated via higher prices charged for other imported food products.</td>
+<td><a href="#present2"><i data-content="A 2nd person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent2-1">Šio projekto unikalumas <span class="highlightsample">slypi</span> jo trijų pagrindimų aspektų apimtyse: jo plačiame rodiklių pasirinkime, plačioje geogranėje zonoje ir tuo, kad duomenys buvo surinkti per dešimtmetį.</td>
+<td>The uniqueness of the project <span class="highlightsample">lie</span>s in the extent of its three main dimensions: its wide choice of indicators, its large geographical coverage and the fact that data has been collected over a decade.</td>
+<td><a href="#present2"><i data-content="A 2nd person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent2-2">Ilgų atostogų išeinančių tėvelių skaičius per trejus metus išaugo dvigubai“, – sako Kerstina Jonsson, Jonsson &amp; Paulsson administracijos vadovė. Ši 136 darbuotojus turinti technikos įmonė yra kelių stambių automobilių gamintojų subrangovė. Prieš pradėdama dalyvauti projekte „Įgūdžiai“, Kerstina pati buvo sukūrusi ir „padėjusi į lentyną“ lygybės chartiją. „Mūsų lygybės planas,“ – tęsia ji, – „pateikiamas darbo nuostatų, kuriuos pirmąją darbo dieną gauna kiekvienas naujas darbuotojas, priede. Po kelių savaičių mes visada organizuojame naujų darbuotojų susirinkimą, kuriame aš pabrėžiu vaiko priežiūros atostogų svarbą: tai proga pagerinti savo socialinę kompetenciją, prisiimti naują atsakomybę… Pripažįstu – mes galime sau tai leisti. Mažai įmonei, kuri negali taip laisvai valdyti savo žmogiškųjų išteklių, taip elgtis sunkiau.“ Ir, tarytum norėdama išsklaidyti žurnalisto, svarstančio, kas <span class="highlightsample">slypi</span> už tokio humaniškumo, abejones, Kerstina patikslina: „Skatindami darbo rotaciją, siūlydami ilgas vaiko priežiūros atostogas ar lankstų darbo grafiką mokyklinio amžiaus vaikus turintiems darbuotojams, mes paisome įmonės interesų: laimingi darbuotojai dirba našiau. Gera sveikata – mažiau praleistų darbo dienų. Be to, per vaiko priežiūros atostogas išmokstama daug dalykų, kurie praverčia darbe. Mes taip pat norime būti vertinami kaip šiuolaikiškas, kvalifikuotiems darbuotojams, jaunimui ir moterims patrauklus darbdavys, ir siekiame, kad tokių darbuotojų turėtume kuo daugiau.“ o 22 _BAR_ _BAR_ p. 16 _BAR_ inforegio _BAR_ panorama _BAR_ N</td>
+<td>“Shared parental leave is now part of our enterprise culture. e number of fathers who take extended leave has doubled in three years”, notes Kerstin Jonsson, administrative manager at Jonsson &amp; Paulsson, an engineering company with 136 workers which subcontracts for several major automobile constructors. Kerstin, who had herself drawn up an equality charter but “put it away in the drawer” before participating in the Know How project, continues: “Our equality plan is attached to the copy of the work regulations which every new employee receives on the day of his or her arrival. en, a few weeks later, we have a meeting with the newcomers at which I place great emphasis on the importance of parental leave as an opportunity to improve social skills and learn to take on new responsibilities. I realize that we have the means to do this. It is more difficult for a small business which has much less margin for manoeuvre when managing human resources.” And as if to stop in his tracks the journalist who may perhaps be wondering what can <span class="highlightsample">lie</span> behind such virtuous action, Kerstin explained: “By favouring job rotation, extended parental leave or flexible working hours more attuned to children’s schooling, we are also serving the interests of the company: Happy employees are more productive employees. Good health means less absenteeism. Parenting also teaches people much that can be useful at work. We also want to be known as a modern employer, one that is attractive to a skilled personnel, young people and women, indeed we want to see more of them at our company.” o 22 _BAR_ _BAR_ p.</td>
+<td><a href="#present2"><i data-content="A 2nd person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent2-3">Kadangi didžiausias naujų darbo vietų kūrimo ir plėtros potencialas <span class="highlightsample">slypi</span> Europos MVĮ, iš šio požiūrio visų pirma naudos turės mažesnės įmonės.</td>
+<td>Because the greatest potential for new jobs and growth <span class="highlightsample">lie</span>s in Europe’s SMEs, smaller firms will be the first to benefit from this approach.</td>
+<td><a href="#present2"><i data-content="A 2nd person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent2-4">Teismas sprendime Marks &amp; Spencer pripažino, kad dėl galimybės perkelti dukterinės bendrovės ne rezidentės nuostolius bendrovei rezidentei atsiranda rizika, jog nuostolių perkėlimas bendrovių grupės viduje bus organizuojamas taip, kad visi nuostoliai būtų perkeliami bendrovėms, kurios įsteigtos valstybėse narėse, kurios taiko didžiausią mokesčio tarifą ir kuriose nuostolių vertė mokestiniu požiūriu yra didžiausia. Skirtingai nuo situacijos dukterinių bendrovių atveju, kai įmanoma nuostolių perkėlimą bendrovių grupėje organizuoti sistemiškai ir nukreipti tik į tas bendrovės grupes, kurios yra įsisteigusios valstybėse narėse, taikančiose didžiausią mokesčio tarifą 15, nuolatinių padalinių atveju, kai bendrovei vienoje valstybėje narėje leidžiama išskaityti nuolatinio padalinio nuostolius kitoje valstybėje narėje, galimybių tokioms parankios jurisdikcijos paieškoms („jurisdiction schoping“) akivaizdžiai nėra. Kaip teigia Komisija, taip yra todėl, kad, skirtingai nei dukterinių bendrovių atveju, priemonės, leidžiančios „perkelti“ nuolatinio padalinio nuostolius, nėra nei būtinos, nei teoriškai įmanomos: nuolatinio padalinio nuostoliai yra mokesčių mokėtojo – patronuojančios bendrovės – nuostoliai. Taigi valstybės viduje esančio nuolatinio padalinio nuostoliai gali būti tiesiogiai ir nedelsiant išskaityti. Vienintelis skirtumas tarp šios vidaus situacijos ir nagrinėjamos bylos <span class="highlightsample">slypi</span> apmokestinimo galios pasidalijime: jeigu nuolatinis padalinys yra kitoje valstybėje narėje, su kuria sudaryta dvigubo apmokestinimo išvengimo sutartis, kaip yra nagrinėjamoje byloje, minėta kita valstybė turės išimtinę teisę apmokestinti atitinkamo nuolatinio padalinio pajamas. Tačiau tai nekeičia to fakto, kad nuostoliai tenka bendrovei mokesčio mokėtojai ir tiesiogiai sumažina jos apmokestinamąsias pajamas 13 — Kadangi nuostoliai buvo patirti 1999 m., tačiau galėjo būti panaudoti Liuksemburge tik 2003 m., Lidl padėtis vis tiek buvo nepalanki, nes nebuvo galima išskaityti nuostolių iš pelno Vokietijoje ankstesniame etape.</td>
+<td>Court stated in Marks &amp; Spencer that the possibility of transferring the losses incurred by a nonresident company to a resident company entails the risk that within a group of companies losses will be transferred to companies established in the Member States which apply the highest rates of taxation and in which the tax value of the losses is therefore the highest. In contrast to the situation concerning subsidiaries, where it is conceivable that the transfer of losses will be systematically organised within groups of companies and losses directed solely to companies of the group established in Member States with higher rates of taxation, 15in the case of permanent establishments there is clearly no scope for such ‘jurisdiction shopping’ if a company in one Member State is allowed to deduct losses made by a permanent establishment in another Member State. That is because, as the Commission submits, measures enabling the ‘transfer’ of losses from a permanent establishment, as opposed to a subsidiary, are neither necessary nor theoretically conceivable: losses made by a permanent establishment are losses of the taxpayer ‘parent’ company. Losses made by national permanent establishments can accordingly be directly and immediately deducted. The only difference between that domestic situation and the present case <span class="highlightsample">lie</span>s in the allocation of the power to impose taxes: if the permanent establishment is resident in another Member State with which there is a double taxation convention such as that at issue in the present case, that State will have the exclusive right to tax the income of the permanent establishment in question. That does not affect the fact that a loss accrues to the taxpayer company, directly reducing its taxable income in its State of residence. The other State’s right to tax simply creates a second connecting factor for the same 13 — Since the loss was made in 1999 but could not be used in Luxembourg until 2003, Lidl was still disadvantaged by its inability to set the loss off against its profits in Germany at an ear<span class="highlightsample">lie</span>r stage.</td>
+<td><a href="#present2"><i data-content="A 2nd person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+</tbody>
+</table></section><section id="questions"><div class="ui comments"><h4 style="font-size: 1.714rem; padding-top: 8vh; padding-bottom: 4vh; color: rgba(0, 0, 0, 0.87);" class="ui header">
+<i class="help teal icon"></i>Questions and answers about slypėti conjugation</h4></div>
+<div id="questionmenu">
+<h3 class="ui dividing header">Still don't understand something? Ask and receive a reply!</h3>
+<p>Ask us a question about this word and get it replied to here. Questions are answered by experienced language speakers.</p>
+<div class="ui center aligned container"><f class="ui reply form"><div class="field">
+<input id="fname" name="submitterName" placeholder="Your name..."><input id="qverb" name="qverb" type="hidden" value="slypėti"><input id="qlanguage" name="qlanguage" type="hidden" value="lt">
+</div>
+<div class="field"><textarea id="question" name="question" rows="5"></textarea></div>
+<div id="askquestion" class="ui teal labeled submit icon button">
+<i class="icon edit"></i> Ask question about slypėti</div></f></div>
+</div></section><div class="content"></div></section></div></div>
+<div class="five wide column">
+<div class="ui segment"><div style="text-align: center;">
+<b>Work in progress</b><p style="padding-top: 10px;"><span style="color: grey; text-align: justify;"><i class="announcement icon red big"></i>Help us become the best conjugation resource. <a href="http://cooljugator.com/blog/2016/12/16/cooljugators-mission">Find out more</a>. </span></p>
+</div></div>
+<div class="ui segment"><div style="text-align: center;">
+<b>Play Lithuanian conjugation game!</b><p style="padding-top: 10px;"><span style="color: grey; text-align: justify;"><i class="game icon orange big"></i>Practice Lithuanian verb conjugation with real sentences in our free <a href="http://cooljugator.com/game/Index">game</a>. Try now!</span></p>
+</div></div>
+<div class="ui segment"><div style="text-align: center;">
+<b>Tip: CTRL + M for navigation!</b><p style="padding-top: 10px;"><span style="color: grey; text-align: justify;"> <i class="keyboard icon teal"></i>You can access a quick navigation menu with the shortcut 'CTRL + M'.</span></p>
+</div></div>
+<div class="ui segment"><div style="text-align: center;">
+<b>Learn Lithuanian with our subtitled book!</b><p><a href="http://interlinearbooks.com/lithuanian/?r=cjgtr&amp;c=lt" rel="nofollow"><img src="/images/presentation_lt.png" style="width: 98%; padding-top: 10px;"></a></p>
+<p>Check out our new product - a novel subtitled Interlinear book in Lithuanian to get reading practice! Click on the 'Try out' button below.</p>
+<a href="http://interlinearbooks.com/lithuanian/?r=cjgtr&amp;c=lt" rel="nofollow"><div style="vertical-align: middle;" class="ui submit button large red">Try out</div></a>
+</div></div>
+<div class="ui segment center aligned">
+<p><b>Receive most useful verbs, tips and other info free!</b><!-- Begin MailChimp Signup Form--></p>
+<!-- Begin MailChimp Signup Form--><div id="mc_embed_signup"><form id="mc-embedded-subscribe-form" action="//cooljugator.us13.list-manage.com/subscribe/post?u=ceca7eaaa8f7bfdc14e243ae2&amp;id=980c8f3061" method="post" name="mc-embedded-subscribe-form" target="_blank" novalidate="" class="validate ui form error center aligned"><div id="mc_embed_signup_scroll">
+<div class="mc-field-group one field center aligned"><div class="field large">
+<label for="mce-EMAIL">Email Address</label><input id="mce-EMAIL" type="email" value="" name="EMAIL" class="required email">
+</div></div>
+<div class="mc-field-group input-group"></div>
+<div class="ui center aligned grid">
+<div id="newsletterlanguageselection" style="margin-top: 1.3rem; margin-bottom: 2rem;" class="ui button teal">Select the language(s) you're interested in</div>
+<div class="ui fluid popup top left transition hidden"><div class="ui four column divided center aligned grid"><ul>
+<li style="list-style-type: none">
+<input type="checkbox" value="1" name="group[2381][1]" id="mce-group[2381]-2381-0"><label for="mce-group[2381]-2381-0">  English</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="2" name="group[2381][2]" id="mce-group[2381]-2381-1"><label for="mce-group[2381]-2381-1">  Esperanto</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="4" name="group[2381][4]" id="mce-group[2381]-2381-2"><label for="mce-group[2381]-2381-2">  Estonian</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="8192" name="group[2381][8192]" id="mce-group[2381]-2381-13"><label for="mce-group[2381]-2381-13">  Hungarian</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="8" name="group[2381][8]" id="mce-group[2381]-2381-3"><label for="mce-group[2381]-2381-3">  Latvian</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" checked value="16" name="group[2381][16]" id="mce-group[2381]-2381-4"><label for="mce-group[2381]-2381-4">  Lithuanian</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="32" name="group[2381][32]" id="mce-group[2381]-2381-5"><label for="mce-group[2381]-2381-5">  Modern Greek</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="2048" name="group[2381][2048]" id="mce-group[2381]-2381-11"><label for="mce-group[2381]-2381-11">  Polish</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="128" name="group[2381][128]" id="mce-group[2381]-2381-6"><label for="mce-group[2381]-2381-6">  Portuguese</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="64" name="group[2381][64]" id="mce-group[2381]-2381-7"><label for="mce-group[2381]-2381-7">  Russian</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="4096" name="group[2381][4096]" id="mce-group[2381]-2381-12"><label for="mce-group[2381]-2381-12">   Spanish</label>
+</li>
+</ul></div></div>
+</div>
+<div id="mce-responses" class="clear">
+<div id="mce-error-response" style="display:none" class="response"></div>
+<div id="mce-success-response" style="display:none" class="response"></div>
+</div>
+<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--><div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_ceca7eaaa8f7bfdc14e243ae2_980c8f3061" tabindex="-1" value=""></div>
+<div style="text-align: center;" class="clear"><input id="mc-embedded-subscribe" type="submit" value="Subscribe" name="subscribe" style="text-align: center; vertical-align: middle;" class="ui submit button large teal"></div>
+</div></form></div>
+<!-- End mc_embed_signup-->
+</div>
+<div class="ui segment"><p style="text-align: center;"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- New 15 May 2016 CoolJugator flexible ad--><ins style="display:block" data-ad-client="ca-pub-0492579730264989" data-ad-slot="4873833251" data-ad-format="auto" class="adsbygoogle"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></p></div>
+<div class="ui segment">
+<p style="text-align: center;"><b>Similar verbs</b></p>
+<table class="ui celled table">
+<thead><tr>
+<th>Verb</th>
+<th>Translation</th>
+</tr></thead>
+<tbody>
+<tr>
+<td style="font-weight: bold;">Same length:</td>
+<td> </td>
+</tr>
+<tr>
+<td> <a href="/lt/susp%C4%97ti" style="text-align: center;">suspėti</a>
+</td>
+<td>make it in time</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="ui segment">
+<p style="text-align: center;"><b>Other Lithuanian verbs with the meaning <span style="text-decoration: underline;">lie</span></b></p>
+<table class="ui celled table">
+<thead><tr><th>Verb</th></tr></thead>
+<tbody>
+<tr><td> <a href="/lt/gl%C5%ABd%C4%97ti" style="text-align: center;">glūdėti</a>
+</td></tr>
+<tr><td> <a href="/lt/gul%C4%97ti" style="text-align: center;">gulėti</a>
+</td></tr>
+<tr><td> <a href="/lt/i%C5%A1gul%C4%97ti" style="text-align: center;">išgulėti</a>
+</td></tr>
+<tr><td> <a href="/lt/meluoti" style="text-align: center;">meluoti</a>
+</td></tr>
+<tr><td> <a href="/lt/pagul%C4%97ti" style="text-align: center;">pagulėti</a>
+</td></tr>
+<tr><td> <a href="/lt/pameluoti" style="text-align: center;">pameluoti</a>
+</td></tr>
+<tr><td> <a href="/lt/t%C5%ABnoti" style="text-align: center;">tūnoti</a>
+</td></tr>
+</tbody>
+</table>
+</div>
+<div class="ui segment">
+<p style="text-align: center;"><b>Verb <span style="text-decoration: underline;">lie</span> in other languages</b></p>
+<table id="VerbinOtherLanguages" class="ui celled table">
+<thead><tr><th>Verb</th></tr></thead>
+<tbody>
+<tr><td>
+<div class="ui ribon label">EE</div>
+<a href="/ee/lamama" style="text-align: center;">lamama</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">EE</div>
+<a href="/ee/lasuma" style="text-align: center;">lasuma</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">EE</div>
+<a href="/ee/valetama" style="text-align: center;">valetama</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">EN</div>
+<a href="/en/lie" style="text-align: center;">lie</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">EN</div>
+<a href="/en/lie" style="text-align: center;">lie</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">GR</div>
+<a href="/gr/%CF%88%CE%B5%CF%8D%CE%B4%CE%BF%CE%BC%CE%B1%CE%B9" style="text-align: center;">ψεύδομαι</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">LV</div>
+<a href="/lv/melot" style="text-align: center;">melot</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">PL</div>
+<a href="/pl/k%C5%82ama%C4%87" style="text-align: center;">kłamać</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">PL</div>
+<a href="/pl/le%C5%BCe%C4%87" style="text-align: center;">leżeć</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">PL</div>
+<a href="/pl/%C5%82ga%C4%87" style="text-align: center;">łgać</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">PL</div>
+<a href="/pl/nak%C5%82ama%C4%87" style="text-align: center;">nakłamać</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">PL</div>
+<a href="/pl/ok%C5%82amywa%C4%87" style="text-align: center;">okłamywać</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">PL</div>
+<a href="/pl/pole%C5%BCe%C4%87" style="text-align: center;">poleżeć</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">PL</div>
+<a href="/pl/sk%C5%82ama%C4%87" style="text-align: center;">skłamać</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">PL</div>
+<a href="/pl/ze%C5%82ga%C4%87" style="text-align: center;">zełgać</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">RU</div>
+<a href="/ru/%D0%B2%D1%80%D0%B0%D1%82%D1%8C" style="text-align: center;">врать</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">RU</div>
+<a href="/ru/%D0%BB%D0%B3%D0%B0%D1%82%D1%8C" style="text-align: center;">лгать</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">RU</div>
+<a href="/ru/%D0%BB%D0%BE%D0%B6%D0%B8%D1%82%D1%8C%D1%81%D1%8F" style="text-align: center;">ложиться</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">RU</div>
+<a href="/ru/%D0%BE%D0%B1%D0%BE%D0%BB%D0%B3%D0%B0%D1%82%D1%8C" style="text-align: center;">оболгать</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">RU</div>
+<a href="/ru/%D1%81%D0%BE%D0%B2%D1%80%D0%B0%D1%82%D1%8C" style="text-align: center;">соврать</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">RU</div>
+<a href="/ru/%D1%81%D0%BE%D0%BB%D0%B3%D0%B0%D1%82%D1%8C" style="text-align: center;">солгать</a>
+</td></tr>
+</tbody>
+</table>
+</div>
+<div class="ui segment">
+<p style="text-align: center;"><b>Do you know these verbs?</b></p>
+<table class="ui celled table">
+<thead><tr>
+<th>Verb</th>
+<th>Translation</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><a href="/lt/dirginti" style="text-align: center;">dirginti</a></td>
+<td>irritate</td>
+</tr>
+<tr>
+<td><a href="/lt/d%C5%BEi%C5%ABgauti" style="text-align: center;">džiūgauti</a></td>
+<td>cheer</td>
+</tr>
+<tr>
+<td><a href="/lt/geb%C4%97ti" style="text-align: center;">gebėti</a></td>
+<td>be able</td>
+</tr>
+<tr>
+<td><a href="/lt/gin%C4%8Dyti" style="text-align: center;">ginčyti</a></td>
+<td>contest (something)</td>
+</tr>
+<tr>
+<td><a href="/lt/mokytojauti" style="text-align: center;">mokytojauti</a></td>
+<td>teach</td>
+</tr>
+<tr>
+<td><a href="/lt/perki%C5%A1ti" style="text-align: center;">perkišti</a></td>
+<td>reinsert</td>
+</tr>
+<tr>
+<td><a href="/lt/pragerti" style="text-align: center;">pragerti</a></td>
+<td>lose (something) because of drinking</td>
+</tr>
+<tr>
+<td><a href="/lt/susidraugauti" style="text-align: center;">susidraugauti</a></td>
+<td>befriend</td>
+</tr>
+<tr>
+<td><a href="/lt/vilk%C4%97ti" style="text-align: center;">vilkėti</a></td>
+<td>wear</td>
+</tr>
+<tr>
+<td><a href="/lt/%C5%BEvygauti" style="text-align: center;">žvygauti</a></td>
+<td>squeal repeatedly</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="QuickNavigation" class="ui segment center aligned fluid vertical menu sticky">
+<a href="#conjugate" class="item"><b>Quick Navigation </b></a><p> <i class="keyboard icon teal"></i><span style="color: grey;">'CTRL + M' anytime to show this menu</span></p>
+<div class="item">
+<a href="#conjugate" style="text-decoration: none; color: inherit;"><b>Conjugations</b></a><div class="menu">
+<a href="#present" class="item">Present tense</a><a href="#past" class="item">Past tense</a><a href="#pastfrequentative" class="item">Past frequentative tense</a><a href="#future" class="item">Future tense</a><a href="#conditional" class="item">Conditional mood</a><a href="#imperative" class="item">Imperative mood</a>
+</div>
+</div>
+<div class="item"><a href="#examples" style="text-decoration: none; color: inherit;"><b>Examples</b></a></div>
+<p style="padding-left: 5px; padding-right: 5px;"> <a href="http://interlinearbooks.com/lithuanian/?r=cjgtr&amp;c=lt" rel="nofollow"><i class="book icon red"></i></a><span style="color: grey;">Have you tried our <a href="http://interlinearbooks.com/lithuanian/?r=cjgtr&amp;c=lt" rel="nofollow">Lithuanian Interlinear Book?</a></span></p>
+</div>
+</div>
+</div>
+<footer><div style="margin-top: 10vh; padding-top: 4vh;" class="ui inverted vertical footer segment grey"><div class="ui center aligned container">
+<div class="ui stackable inverted divided grid">
+<div class="three wide column">
+<h4 class="ui inverted header">CoolJugator</h4>
+<div class="ui inverted link list">
+<a href="/" class="item">Home</a><a href="mailto:cooljugator@techie.com" class="item">Contact us</a><a href="/about/#acknowledgments" class="item">Acknowledgments</a><a href="/about/" class="item">About</a><a href="/game/Index" class="item">Conjugation game</a><a href="/blog/" class="item">Blog</a>
+</div>
+</div>
+<div class="three wide column">
+<h4 class="ui inverted header">Languages</h4>
+<div id="OtherLanguages" class="ui inverted link list">
+<a href="/af/" class="item">Afrikaans</a><a href="/sq/" class="item">Albanian</a><a href="/ar/" class="item">Arabic</a><a href="/az/" class="item">Azeri</a><a href="/eu/" class="item">Basque</a><a href="/ca/" class="item">Catalan</a><a href="/da/" class="item">Danish</a><a href="/nl/" class="item">Dutch</a><a href="/en/" class="item">English</a><a href="/eo/" class="item">Esperanto</a><a href="/ee/" class="item">Estonian</a><a href="/fo/" class="item">Faroese</a><a href="/fi/" class="item">Finnish verbs</a><a href="/fia/" class="item">Finnish adjectives</a><a href="/fin/" class="item">Finnish nouns</a><a href="/fr/" class="item">French</a>
+</div>
+</div>
+<div class="three wide column">
+<h4 class="ui inverted header">   </h4>
+<div id="OtherLanguages" class="ui inverted link list">
+<a href="/de/" class="item">German</a><a href="/hw/" class="item">Hawaiian</a><a href="/he/" class="item">Hebrew</a><a href="/hu/" class="item">Hungarian</a><a href="/it/" class="item">Italian</a><a href="/is/" class="item">Icelandic</a><a href="/id/" class="item">Indonesian</a><a href="/ja/" class="item">Japanese</a><a href="/lt/" class="item">Lithuanian</a><a href="/lv/" class="item">Latvian</a><a href="/mk/" class="item">Macedonian</a><a href="/ms/" class="item">Malay</a><a href="/mt/" class="item">Maltese</a><a href="/mi/" class="item">Maori</a><a href="/gr/" class="item">Modern Greek</a><a href="/no/" class="item">Norwegian</a><a href="/fa/" class="item">Persian</a>
+</div>
+</div>
+<div class="three wide column">
+<h4 class="ui inverted header">  </h4>
+<div id="OtherLanguages" class="ui inverted link list">
+<a href="/pl/" class="item">Polish</a><a href="/pt/" class="item">Portuguese</a><a href="/qu/" class="item">Quechua</a><a href="/ro/" class="item">Romanian</a><a href="/ru/" class="item">Russian verbs</a><a href="/rua/" class="item">Russian adjectives</a><a href="/run/" class="item">Russian nouns</a><a href="/es/" class="item">Spanish</a><a href="/sv/" class="item">Swedish</a><a href="/th/" class="item">Thai</a><a href="/tr/" class="item">Turkish</a><a href="/vi/" class="item">Vietnamese</a>
+</div>
+</div>
+<div class="one wide column"></div>
+</div>
+<div class="ui inverted section divider"></div>
+<a href="/"><img src="/images/logo.png" alt="CoolJugator - an intelligent verb conjugator" class="ui centered image"></a><div class="ui horizontal inverted small divided link list">
+<a href="mailto:cooljugator@techie.com" class="item">Contact us</a><a href="http://facebook.com/cooljugator" class="item">Facebook</a><a href="http://twitter.com/cooljugator" class="item">Twitter</a>
+</div>
+</div></div>
+<script type="text/javascript" src="/javascripts/main.js"></script><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create', 'UA-8339065-3', 'auto');ga('send', 'pageview');</script></footer>
+</div>
+<script>(function(){var uv=document.createElement('script');uv.type='text/javascript';uv.async=true;uv.src='//widget.uservoice.com/uhrNzv9ysf9fNIGfDWgPQ.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(uv,s)})()</script>  <!-- A tab to launch the Classic Widget --> <script> UserVoice = window.UserVoice || []; UserVoice.push(['showTab', 'classic_widget', {   mode: 'feedback',   primary_color: '#00b5ac',   link_color: '#0a8cc6',   forum_id: 123075,   tab_label: 'Feedback',   tab_color: '#00b5ac',   tab_position: 'middle-right',   tab_inverted: false }]); </script>
+</body>
+</html>

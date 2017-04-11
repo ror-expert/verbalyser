@@ -1,0 +1,893 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Gimti conjugation in Lithuanian in all forms | CoolJugator.com</title>
+<meta name="description" content="Conjugate the Lithuanian verb gimti in all forms and with usage examples. Gimti conjugation has never been easier!">
+<link rel="stylesheet" type="text/css" href="/components/semantic/dist/semantic.css">
+<link rel="stylesheet" type="text/css" href="/stylesheets/main.css">
+<link rel="stylesheet" type="text/css" href="/stylesheets/languagemap.css">
+<script type="text/javascript" src="/components/jquery/dist/jquery.min.js"></script><script type="text/javascript" src="/components/semantic/dist/semantic.min.js"></script>
+</head>
+<body>
+<div class="ui menu large inverted grey">
+<div id="CoolJugatorLogo" class="item"><a href="/"><img src="/images/logo.png" alt="CoolJugator: the smart verb Conjugator"></a></div>
+<div id="siteLanguageSelection" class="item"><div class="ui dropdown topmenuselection inverted grey">
+<div class="text">Lithuanian</div>
+<i class="dropdown icon"></i><div id="topBarSelectionMenu" class="menu">
+<div data-value="" class="item">Home</div>
+<div data-value="da" class="item">Danish</div>
+<div data-value="en" class="item">English</div>
+<div data-value="eo" class="item">Esperanto</div>
+<div data-value="fr" class="item">French</div>
+<div data-value="ee" class="item">Estonian</div>
+<div data-value="hu" class="item">Hungarian</div>
+<div data-value="it" class="item">Italian</div>
+<div data-value="ja" class="item">Japanese</div>
+<div data-value="lt" class="item">Lithuanian</div>
+<div data-value="lv" class="item">Latvian</div>
+<div data-value="gr" class="item">Modern Greek</div>
+<div data-value="pl" class="item">Polish</div>
+<div data-value="pt" class="item">Portuguese</div>
+<div data-value="ro" class="item">Romanian</div>
+<div data-value="ru" class="item">Russian</div>
+<div data-value="es" class="item">Spanish</div>
+<div data-value="tr" class="item">Turkish</div>
+</div>
+</div></div>
+<div id="topBarSearch" class="item"><div class="ui action input"><input type="text" placeholder="Type verb in Lithuanian or in English..." id="search" autofocus></div></div>
+</div>
+<div class="pusher">
+<div class="ui equal width grid stackable container">
+<div style="display: none;" class="row"><div class="column"><div id="results" class="ui segment"><p></p></div></div></div>
+<div class="row"><div class="column"><div class="ui segment">
+<div class="ui breadcrumb">
+<a href="/" class="section"><i class="home icon"></i>Home</a><i class="right chevron icon divider"></i><a href="/lt/" class="section">Lithuanian</a><i class="right chevron icon divider"></i><div id="individualverb" class="active section">gimti</div>
+</div>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- CoolJugator Top CrumbsBar--><ins style="display:block" data-ad-client="ca-pub-0492579730264989" data-ad-slot="2205579251" data-ad-format="auto" class="adsbygoogle"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div></div></div>
+<div class="eleven wide stretched column"><div id="mainContentArea" class="ui segment"><section id="conjugate"><h1 id="mainTitle">Gimti conjugation</h1>
+<div class="ui centered grid"><div class="center aligned column"><div id="navigationMenu" class="ui compact tabular stackable menu">
+<a href="#conjugate" class="item active">Conjugate</a><a href="#usage" class="item">Usage</a><a href="#examples" class="item">Examples [30]</a><a href="#questions" class="item">Questions [0]</a>
+</div></div></div>
+<h2 class="ui header">
+<i class="list layout teal icon"></i>Conjugate gimti - to be born</h2>
+<div id="mapexplanation" style="text-align: right;"><i data-content="This gimti conjugation map displays how forms of the verb gimti are constructed. Moreover, it also serves as an easy navigation menu: you can click on any part of the map to be taken directly to those forms." class="write info teal icon"></i></div>
+<div id="conjugationmap" style="min-height: 250px" class="ui container"><div class="tree"><ul><li>
+<a href="#">Verb stem gim-</a><ul>
+<li>
+<a href="#conjugate">Infinitive: gimti</a><ul>
+<li><a href="#future">Future</a></li>
+<li><a href="#pastfrequentative">Past frequentative</a></li>
+<li><a href="#conditional">Conditional</a></li>
+<li><a href="#imperative">Imperative</a></li>
+</ul>
+</li>
+<li>
+<a href="#present">Present (s)he: gimsta</a><ul><li><a href="#present">Present forms</a></li></ul>
+</li>
+<li>
+<a href="#past">Past (s)he: gimė</a><ul><li><a href="#past">Past forms</a></li></ul>
+</li>
+</ul>
+</li></ul></div></div>
+<div style="text-align: right;"><div id="markstress" class="ui button teal">
+<i class="write square icon"></i>Turn on word stress</div></div>
+<div class="ui container">
+<p id="present" class="tensetitle">Present tense</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th data-content="The present forms of the verb gimti in Lithuanian." data-variation="inverted"> Lithuanian Form</th>
+<th data-content="The present forms of the verb gimti translated to English." data-variation="inverted">English Translation</th>
+<th data-content="Click on the icon to see Lithuanian examples of this particular form." data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Aš</div></td>
+<td id="present1" data-stressed="gìmstu">gimstu </td>
+<td>I am born</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="present2" data-stressed="gìmsti">gimsti </td>
+<td>you are born</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jis/ji</div></td>
+<td id="present3" data-stressed="gìmsta">gimsta </td>
+<td>he/she is born</td>
+<td><a href="#examplepresent3"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Mes</div></td>
+<td id="present4" data-stressed="gìmstame">gimstame </td>
+<td>we are born</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="present5" data-stressed="gimstate">gimstate </td>
+<td>you all are born</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jie/jos</div></td>
+<td id="present6" data-stressed="gìmsta">gimsta </td>
+<td>they are born</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p id="past" class="tensetitle">Past tense</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th data-content="The past forms of the verb gimti in Lithuanian." data-variation="inverted"> Lithuanian Form</th>
+<th data-content="The past forms of the verb gimti translated to English." data-variation="inverted">English Translation</th>
+<th data-content="Click on the icon to see Lithuanian examples of this particular form." data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Aš</div></td>
+<td id="past1" data-stressed="gimiaũ">gimiau </td>
+<td>I was born</td>
+<td><a href="#examplepast1"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="past2" data-stressed="gimeĩ">gimei </td>
+<td>you were born</td>
+<td><a href="#examplepast2"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jis/ji</div></td>
+<td id="past3" data-stressed="gìmė">gimė </td>
+<td>he/she was born</td>
+<td><a href="#examplepast3"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Mes</div></td>
+<td id="past4" data-stressed="gìmėme">gimėme </td>
+<td>we were born</td>
+<td><a href="#examplepast4"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="past5" data-stressed="gìmėte">gimėte </td>
+<td>you all were born</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jie/jos</div></td>
+<td id="past6" data-stressed="gìmė">gimė </td>
+<td>they were born</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p id="pastfrequentative" class="tensetitle">Past frequentative tense</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th data-content="The past frequentative forms of the verb gimti in Lithuanian." data-variation="inverted"> Lithuanian Form</th>
+<th data-content="The past frequentative forms of the verb gimti translated to English." data-variation="inverted">English Translation</th>
+<th data-content="Click on the icon to see Lithuanian examples of this particular form." data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Aš</div></td>
+<td id="pastperfect1" data-stressed="gìmdavau">gimdavau </td>
+<td>I used to be born</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="pastperfect2" data-stressed="gimdavai">gimdavai </td>
+<td>you used to be born</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jis/ji</div></td>
+<td id="pastperfect3" data-stressed="gìmdavo">gimdavo </td>
+<td>he/she used to be born</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Mes</div></td>
+<td id="pastperfect4" data-stressed="gimdavome">gimdavome </td>
+<td>we  used to be born</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="pastperfect5" data-stressed="gimdavote">gimdavote </td>
+<td>you all used to be born</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jie/jos</div></td>
+<td id="pastperfect6" data-stressed="gìmdavo">gimdavo </td>
+<td>they used to be born</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p id="future" class="tensetitle">Future tense</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th data-content="The future forms of the verb gimti in Lithuanian." data-variation="inverted"> Lithuanian Form</th>
+<th data-content="The future forms of the verb gimti translated to English." data-variation="inverted">English Translation</th>
+<th data-content="Click on the icon to see Lithuanian examples of this particular form." data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Aš</div></td>
+<td id="future1" data-stressed="gìmsiu">gimsiu </td>
+<td>I will be born</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="future2" data-stressed="gìmsi">gimsi </td>
+<td>you will be born</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jis/ji</div></td>
+<td id="future3" data-stressed="gim̃s">gims </td>
+<td>he/she will be born</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Mes</div></td>
+<td id="future4" data-stressed="gìmsime">gimsime </td>
+<td>we will be born</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="future5" data-stressed="gimsite">gimsite </td>
+<td>you all will be born</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jie/jos</div></td>
+<td id="future6" data-stressed="gim̃s">gims </td>
+<td>they will be born</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p id="conditional" class="tensetitle">Conditional mood</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th data-content="The conditional forms of the verb gimti in Lithuanian." data-variation="inverted"> Lithuanian Form</th>
+<th data-content="The conditional forms of the verb gimti translated to English." data-variation="inverted">English Translation</th>
+<th data-content="Click on the icon to see Lithuanian examples of this particular form." data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Aš</div></td>
+<td id="hypothetical1" data-stressed="gimčiaũ">gimčiau </td>
+<td>I would be born</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="hypothetical2" data-stressed="gìmtum">gimtum </td>
+<td>you would be born</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jis/ji</div></td>
+<td id="hypothetical3" data-stressed="gimtų̃">gimtų </td>
+<td>he/she would be born</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Mes</div></td>
+<td id="hypothetical4" data-stressed="gimtumè">gimtume </td>
+<td>we would be born</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="hypothetical5" data-stressed="gimtute">gimtute </td>
+<td>you all would be born</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jie/jos</div></td>
+<td id="hypothetical6" data-stressed="gimtų̃">gimtų </td>
+<td>they would be born</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p id="imperative" class="tensetitle">Imperative mood</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th>Lithuanian Form</th>
+<th>English Translation</th>
+<th data-content="Click on the icon to see examples of this particular form" data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="command2" data-stressed="gìmk">gimk </td>
+<td>you be born!</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="command4" data-stressed="gimkite">gimkite</td>
+<td>you all be born!</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 class="ui dividing header">Feedback: Noticed a mistake? Have a suggestion?</h3>
+<div id="feedbackMenu">
+<p>Have you noticed a mistake or a bug here somewhere on this page? Have ideas how we can improve our content? Submit a request for us and we will do our best to take your feedback into account!</p>
+<div class="ui container"><f method="post" class="ui review form"><div class="field">
+<input id="fname" name="fsubmitterName" placeholder="Your name..."><input id="fverb" name="fverb" type="hidden" value="gimti"><input id="flanguage" name="flanguage" type="hidden" value="lt"><input id="feedback" name="feedback" type="text" placeholder="Describe your feedback...">
+</div>
+<div style="text-align: center;" class="clear"><button id="givefeedback" type="submit" class="ui teal labeled icon button"><i class="bug icon"></i>    Submit for review</button></div></f></div>
+<div class="ui divider"></div>
+</div>
+<section id="usage"><p style="font-size: 1.714rem; padding-top: 8vh; padding-bottom: 4vh; color: rgba(0, 0, 0, 0.87);" class="ui header usageheader"><i class="info teal icon"></i>Usage information for gimti</p>
+<p>There is no additional usage information for the verb gimti.</p></section><section id="examples"><h3 style="font-size: 1.714rem; padding-top: 8vh; padding-bottom: 4vh; color: rgba(0, 0, 0, 0.87);" class="ui header">
+<i class="quote left teal icon"></i>Examples of gimti</h3>
+<table id="ExampleSentences" class="ui celled striped table">
+<thead><tr>
+<th data-content="An example sentence in Lithuanian. Our example sentences are picked from multiple sources with real world spoken or written language." data-variation="inverted" class="eight wide">Example in Lithuanian</th>
+<th data-content="The translation of the example in the English language, with the relevant part highlighted if possible." data-variation="inverted" class="eight wide">Translation in English</th>
+<th data-content="A link to the conjugated form - move your mouse over it to find out which form it is, or click on it to go back to the conjugation of that form." data-variation="inverted" class="one wide">Fm.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td id="exampleinfinitive0">Baigėsi Pirmasis pasaulinis karas ir man pasakė, kad tokią naktį <span class="highlightsample">gimti</span> reiškė labai gerą dalyką.</td>
+<td>The First World War had ended, and I've been told it was an especially good night <span class="highlightsample">to be born</span>.</td>
+<td><a href="#conjugate"><i data-content="An instance of the main form." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="exampleinfinitive0-1">Jumbis jau nori <span class="highlightsample">gimti</span>.</td>
+<td>Jumby now wants <span class="highlightsample">to be born</span>.</td>
+<td><a href="#conjugate"><i data-content="An instance of the main form." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="exampleinfinitive0-2">- ...ir negaliu pasirinkti <span class="highlightsample">gimti</span> dar kartą.</td>
+<td>- I did not choose <span class="highlightsample">to be born</span>... - This is very very serious.</td>
+<td><a href="#conjugate"><i data-content="An instance of the main form." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="exampleinfinitive0-3">Mes turime <span class="highlightsample">gimti</span> pirma laiko.</td>
+<td>We have <span class="highlightsample">to be born</span> prematurely.</td>
+<td><a href="#conjugate"><i data-content="An instance of the main form." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="exampleinfinitive0-4">Kaip manote, mes pasirenkame <span class="highlightsample">gimti</span>?</td>
+<td>You think we choose <span class="highlightsample">to be born</span>?</td>
+<td><a href="#conjugate"><i data-content="An instance of the main form." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent3">Ir dabar, kai <span class="highlightsample">gimsta</span> vaikas, jo pirmas juokas tampa fėja.</td>
+<td>And now when every new baby <span class="highlightsample">is born</span>, its first laugh becomes a fairy.</td>
+<td><a href="#present3"><i data-content="A 3rd person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent3-1">Naiviai sako, kad žmogus <span class="highlightsample">gimsta</span> du kartus.</td>
+<td>The Na 'vi say that every person <span class="highlightsample">is born</span> twice</td>
+<td><a href="#present3"><i data-content="A 3rd person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent3-2">Štai kas nutinka, kai <span class="highlightsample">gimsta</span> žvaigždė, ir už visa tai atsakinga masė ir pati žinomiausia fizikos lygtis.</td>
+<td>This is what happens when a star <span class="highlightsample">is born</span>, and it's all down to mass and the most famous equation in physics.</td>
+<td><a href="#present3"><i data-content="A 3rd person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent3-3">Bet kai <span class="highlightsample">gimsta</span> žvaigždė ir ima kurti savo gyvenimo istoriją, mokslininkai pastebėjo, kad prasideda ir dar kai kas labai svarbaus.</td>
+<td>But when a star <span class="highlightsample">is born</span> and starts its life story, scientists have discovered that something else very important can begin.</td>
+<td><a href="#present3"><i data-content="A 3rd person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent3-4">Kai tik <span class="highlightsample">gimsta</span> nauja žvaigždė, aplink besisukantys ją suformavusio debesies likučiai ima telktis į disko formą, per milijonus metų šiame darinyje dulkių dalelės sulimpa.</td>
+<td>As the new star <span class="highlightsample">is born</span>, the orbiting remnants of the cloud from which it formed start creating a disc, and over millions of years in this disc, the dust grains start to stick together.</td>
+<td><a href="#present3"><i data-content="A 3rd person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast1">Nors pats <span class="highlightsample">gimiau</span> mieste, daug laiko praleisdavau kaime, kai tėvai ten pradėjo statytis namą.</td>
+<td>Although I <span class="highlightsample">was born</span> in a city, I used to spend a lot of time in the countryside when my parents started to build their house there.</td>
+<td><a href="#past1"><i data-content="A 1st person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast1-1">Aš pati tai patyriau – <span class="highlightsample">gimiau</span> žvejų kaimelyje.</td>
+<td>It’s a life with many difficulties, with which I’m well acquainted since I <span class="highlightsample">was born</span> in a fishers’ village.</td>
+<td><a href="#past1"><i data-content="A 1st person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast1-2">Kai aš <span class="highlightsample">gimiau</span>, pasaulyje buvo 3 milijardai žmonių.</td>
+<td>There were 3 billion people on earth when I <span class="highlightsample">was born</span>.</td>
+<td><a href="#past1"><i data-content="A 1st person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast1-3">Mano tėvas buvo graikas, bet <span class="highlightsample">gimiau</span> Anglijoje.</td>
+<td>My father was Greek, but l <span class="highlightsample">was born</span> in England.</td>
+<td><a href="#past1"><i data-content="A 1st person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast1-4">Aš ten <span class="highlightsample">gimiau</span>.</td>
+<td>I <span class="highlightsample">was born</span> there.</td>
+<td><a href="#past1"><i data-content="A 1st person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast2">Tu <span class="highlightsample">gimei</span> niekšu!</td>
+<td>You <span class="highlightsample">were born</span> base!</td>
+<td><a href="#past2"><i data-content="A 2nd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast2-1">Pamenu dieną, kai <span class="highlightsample">gimei</span>. Tikrai?</td>
+<td>l remember the day you <span class="highlightsample">were born</span>.</td>
+<td><a href="#past2"><i data-content="A 2nd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast2-2">A tau nepasakojau, ka sake mones, kai tu <span class="highlightsample">gimei</span>, Bo?</td>
+<td>Did I ever tell you what everyone said when you <span class="highlightsample">were born</span>, Bo?</td>
+<td><a href="#past2"><i data-content="A 2nd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast2-3">O tu inai, kas atsitiko, kai tu <span class="highlightsample">gimei</span>, Morganai?</td>
+<td>Do you know what happened when you <span class="highlightsample">were born</span>, Morgan?</td>
+<td><a href="#past2"><i data-content="A 2nd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast2-4">Ar tavo tėvas pasakojo apie tą dieną, kai tu <span class="highlightsample">gimei</span>?</td>
+<td>Your father ever tell you about the day you <span class="highlightsample">were born</span>?</td>
+<td><a href="#past2"><i data-content="A 2nd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast3">Jame taip pat numatyta, kad abiejuose ausų įsaguose nurodomas tas pats individualus identifikavimo kodas (toliau – tas pats identifikavimo kodas), leidžiantis nustatyti kiekvieno galvijo tapatybę ir ūkį, kuriame jis <span class="highlightsample">gimė</span>.</td>
+<td>It also provides for that both ear tags shall bear the same unique identification code (‘unique identification code’), which makes it possible to identify each animal individually together with the holding on which it <span class="highlightsample">was born</span>.</td>
+<td><a href="#past3"><i data-content="A 3rd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast3-1">šalyje ar regione buvo vienas ar daugiau vietinių GSE atvejų, bet kiekvienas vietinis GSE sergantis galvijas <span class="highlightsample">gimė</span> daugiau kaip prieš 11 metų;</td>
+<td>there has been one or more BSE indigenous cases in the country or region but every BSE indigenous case <span class="highlightsample">was born</span> more than 11 years ago;</td>
+<td><a href="#past3"><i data-content="A 3rd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast3-2">Iškart po šio straipsnio 1 dalyje nurodytos informacijos įregistravimo dokumentus išduodanti įstaiga persiunčia tos dalies a–f ir n punktuose nurodytus duomenis į valstybės narės, kurioje <span class="highlightsample">gimė</span> arklinių šeimos gyvūnas, centrinę duomenų bazę, jeigu pagal 23 straipsnį tokia duomenų bazė buvo parengta.</td>
+<td>Immediately after recording the information referred to in paragraph 1 of this Article, the issuing body shall communicate the information referred to in points (a) to (f) and (n) of that paragraph to the central database in the Member State where the equine animal <span class="highlightsample">was born</span>, if such central database has been made available in accordance with Article 23.</td>
+<td><a href="#past3"><i data-content="A 3rd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast3-3">kilmės šalis šalis ar šalys, kur gyvūnas <span class="highlightsample">gimė</span>, buvo auginamas ir (arba) paskerstas;</td>
+<td>‘source country’ means the country or countries in which the animal <span class="highlightsample">was born</span>, has been reared and/or has been slaughtered;</td>
+<td><a href="#past3"><i data-content="A 3rd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast3-4">Gyvūninių produktų kilmės šalis – šalis, kurioje gaunamas visas produktas, o mėsos atveju – šalis, kurioje gyvūnas <span class="highlightsample">gimė</span>, buvo užaugintas ir paskerstas.</td>
+<td>For animal products that concept refers to the country in which the product is wholly obtained which applied to meat means the country in which the animal <span class="highlightsample">was born</span>, reared and slaughtered.</td>
+<td><a href="#past3"><i data-content="A 3rd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast4">-Mes <span class="highlightsample">gimėme</span> toje pačioje ligoninėje.</td>
+<td>- We <span class="highlightsample">were born</span> in the same hospital,...</td>
+<td><a href="#past4"><i data-content="A 4th person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast4-1">Mes darome tai ką buvome mokomi daryti tai ką buvome auginti daryti tai ką <span class="highlightsample">gimėme</span> daryti.</td>
+<td>We do what we were trained to do what we were bred to do what we <span class="highlightsample">were born</span> to do.</td>
+<td><a href="#past4"><i data-content="A 4th person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast4-2">Mes su Bilu <span class="highlightsample">gimėme</span> tais pačiais metais.</td>
+<td>Thank you, Loulou. Billie and I <span class="highlightsample">were born</span> the same year.</td>
+<td><a href="#past4"><i data-content="A 4th person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast4-3">Grįžtu ten, kur abu <span class="highlightsample">gimėme</span>.</td>
+<td>I'm going back to the place where we both <span class="highlightsample">were born</span>.</td>
+<td><a href="#past4"><i data-content="A 4th person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast4-4">Abu jūs ir aš jau <span class="highlightsample">gimėme</span> samurajais.</td>
+<td>Both you and I <span class="highlightsample">were born</span> samurai.</td>
+<td><a href="#past4"><i data-content="A 4th person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+</tbody>
+</table></section><section id="questions"><div class="ui comments"><h4 style="font-size: 1.714rem; padding-top: 8vh; padding-bottom: 4vh; color: rgba(0, 0, 0, 0.87);" class="ui header">
+<i class="help teal icon"></i>Questions and answers about gimti conjugation</h4></div>
+<div id="questionmenu">
+<h3 class="ui dividing header">Still don't understand something? Ask and receive a reply!</h3>
+<p>Ask us a question about this word and get it replied to here. Questions are answered by experienced language speakers.</p>
+<div class="ui center aligned container"><f class="ui reply form"><div class="field">
+<input id="fname" name="submitterName" placeholder="Your name..."><input id="qverb" name="qverb" type="hidden" value="gimti"><input id="qlanguage" name="qlanguage" type="hidden" value="lt">
+</div>
+<div class="field"><textarea id="question" name="question" rows="5"></textarea></div>
+<div id="askquestion" class="ui teal labeled submit icon button">
+<i class="icon edit"></i> Ask question about gimti</div></f></div>
+</div></section><div class="content"></div></section></div></div>
+<div class="five wide column">
+<div class="ui segment"><div style="text-align: center;">
+<b>Work in progress</b><p style="padding-top: 10px;"><span style="color: grey; text-align: justify;"><i class="announcement icon red big"></i>Help us become the best conjugation resource. <a href="http://cooljugator.com/blog/2016/12/16/cooljugators-mission">Find out more</a>. </span></p>
+</div></div>
+<div class="ui segment"><div style="text-align: center;">
+<b>Play Lithuanian conjugation game!</b><p style="padding-top: 10px;"><span style="color: grey; text-align: justify;"><i class="game icon orange big"></i>Practice Lithuanian verb conjugation with real sentences in our free <a href="http://cooljugator.com/game/Index">game</a>. Try now!</span></p>
+</div></div>
+<div class="ui segment"><div style="text-align: center;">
+<b>Tip: CTRL + M for navigation!</b><p style="padding-top: 10px;"><span style="color: grey; text-align: justify;"> <i class="keyboard icon teal"></i>You can access a quick navigation menu with the shortcut 'CTRL + M'.</span></p>
+</div></div>
+<div class="ui segment"><div style="text-align: center;">
+<b>Learn Lithuanian with our subtitled book!</b><p><a href="http://interlinearbooks.com/lithuanian/?r=cjgtr&amp;c=lt" rel="nofollow"><img src="/images/presentation_lt.png" style="width: 98%; padding-top: 10px;"></a></p>
+<p>Check out our new product - a novel subtitled Interlinear book in Lithuanian to get reading practice! Click on the 'Try out' button below.</p>
+<a href="http://interlinearbooks.com/lithuanian/?r=cjgtr&amp;c=lt" rel="nofollow"><div style="vertical-align: middle;" class="ui submit button large red">Try out</div></a>
+</div></div>
+<div class="ui segment center aligned">
+<p><b>Receive most useful verbs, tips and other info free!</b><!-- Begin MailChimp Signup Form--></p>
+<!-- Begin MailChimp Signup Form--><div id="mc_embed_signup"><form id="mc-embedded-subscribe-form" action="//cooljugator.us13.list-manage.com/subscribe/post?u=ceca7eaaa8f7bfdc14e243ae2&amp;id=980c8f3061" method="post" name="mc-embedded-subscribe-form" target="_blank" novalidate="" class="validate ui form error center aligned"><div id="mc_embed_signup_scroll">
+<div class="mc-field-group one field center aligned"><div class="field large">
+<label for="mce-EMAIL">Email Address</label><input id="mce-EMAIL" type="email" value="" name="EMAIL" class="required email">
+</div></div>
+<div class="mc-field-group input-group"></div>
+<div class="ui center aligned grid">
+<div id="newsletterlanguageselection" style="margin-top: 1.3rem; margin-bottom: 2rem;" class="ui button teal">Select the language(s) you're interested in</div>
+<div class="ui fluid popup top left transition hidden"><div class="ui four column divided center aligned grid"><ul>
+<li style="list-style-type: none">
+<input type="checkbox" value="1" name="group[2381][1]" id="mce-group[2381]-2381-0"><label for="mce-group[2381]-2381-0">  English</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="2" name="group[2381][2]" id="mce-group[2381]-2381-1"><label for="mce-group[2381]-2381-1">  Esperanto</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="4" name="group[2381][4]" id="mce-group[2381]-2381-2"><label for="mce-group[2381]-2381-2">  Estonian</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="8192" name="group[2381][8192]" id="mce-group[2381]-2381-13"><label for="mce-group[2381]-2381-13">  Hungarian</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="8" name="group[2381][8]" id="mce-group[2381]-2381-3"><label for="mce-group[2381]-2381-3">  Latvian</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" checked value="16" name="group[2381][16]" id="mce-group[2381]-2381-4"><label for="mce-group[2381]-2381-4">  Lithuanian</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="32" name="group[2381][32]" id="mce-group[2381]-2381-5"><label for="mce-group[2381]-2381-5">  Modern Greek</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="2048" name="group[2381][2048]" id="mce-group[2381]-2381-11"><label for="mce-group[2381]-2381-11">  Polish</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="128" name="group[2381][128]" id="mce-group[2381]-2381-6"><label for="mce-group[2381]-2381-6">  Portuguese</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="64" name="group[2381][64]" id="mce-group[2381]-2381-7"><label for="mce-group[2381]-2381-7">  Russian</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="4096" name="group[2381][4096]" id="mce-group[2381]-2381-12"><label for="mce-group[2381]-2381-12">   Spanish</label>
+</li>
+</ul></div></div>
+</div>
+<div id="mce-responses" class="clear">
+<div id="mce-error-response" style="display:none" class="response"></div>
+<div id="mce-success-response" style="display:none" class="response"></div>
+</div>
+<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--><div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_ceca7eaaa8f7bfdc14e243ae2_980c8f3061" tabindex="-1" value=""></div>
+<div style="text-align: center;" class="clear"><input id="mc-embedded-subscribe" type="submit" value="Subscribe" name="subscribe" style="text-align: center; vertical-align: middle;" class="ui submit button large teal"></div>
+</div></form></div>
+<!-- End mc_embed_signup-->
+</div>
+<div class="ui segment"><p style="text-align: center;"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- New 15 May 2016 CoolJugator flexible ad--><ins style="display:block" data-ad-client="ca-pub-0492579730264989" data-ad-slot="4873833251" data-ad-format="auto" class="adsbygoogle"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></p></div>
+<div class="ui segment">
+<p style="text-align: center;"><b>Related verbs</b></p>
+<table class="ui celled table">
+<thead><tr>
+<th>Verb</th>
+<th>Translation</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><a href="/lt/apsigimti" style="text-align: center;">apsigimti</a></td>
+<td>be born deformed</td>
+</tr>
+<tr>
+<td><a href="/lt/atgimti" style="text-align: center;">atgimti</a></td>
+<td>be reborn</td>
+</tr>
+<tr>
+<td><a href="/lt/i%C5%A1sigimti" style="text-align: center;">išsigimti</a></td>
+<td>be born defected</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="ui segment">
+<p style="text-align: center;"><b>Similar verbs</b></p>
+<table class="ui celled table">
+<thead><tr>
+<th>Verb</th>
+<th>Translation</th>
+</tr></thead>
+<tbody>
+<tr>
+<td style="font-weight: bold;">Same length:</td>
+<td> </td>
+</tr>
+<tr>
+<td> <a href="/lt/dumti" style="text-align: center;">dumti</a>
+</td>
+<td>trick</td>
+</tr>
+<tr>
+<td> <a href="/lt/gauti" style="text-align: center;">gauti</a>
+</td>
+<td>get</td>
+</tr>
+<tr>
+<td> <a href="/lt/gelti" style="text-align: center;">gelti</a>
+</td>
+<td>sting</td>
+</tr>
+<tr>
+<td> <a href="/lt/gerti" style="text-align: center;">gerti</a>
+</td>
+<td>drink</td>
+</tr>
+<tr>
+<td> <a href="/lt/gesti" style="text-align: center;">gesti</a>
+</td>
+<td>deteriorate</td>
+</tr>
+<tr>
+<td> <a href="/lt/gil%C4%97ti" style="text-align: center;">gilėti</a>
+</td>
+<td>become deeper</td>
+</tr>
+<tr>
+<td> <a href="/lt/gilti" style="text-align: center;">gilti</a>
+</td>
+<td>sting</td>
+</tr>
+<tr>
+<td> <a href="/lt/ginti" style="text-align: center;">ginti</a>
+</td>
+<td>protect</td>
+</tr>
+<tr>
+<td> <a href="/lt/girti" style="text-align: center;">girti</a>
+</td>
+<td>praise</td>
+</tr>
+<tr>
+<td> <a href="/lt/girtis" style="text-align: center;">girtis</a>
+</td>
+<td>boast</td>
+</tr>
+<tr>
+<td> <a href="/lt/gi%C5%BEti" style="text-align: center;">gižti</a>
+</td>
+<td>turn sourish</td>
+</tr>
+<tr>
+<td> <a href="/lt/groti" style="text-align: center;">groti</a>
+</td>
+<td>play an instrument</td>
+</tr>
+<tr>
+<td> <a href="/lt/gugti" style="text-align: center;">gugti</a>
+</td>
+<td>bend</td>
+</tr>
+<tr>
+<td> <a href="/lt/gulti" style="text-align: center;">gulti</a>
+</td>
+<td>lie down</td>
+</tr>
+<tr>
+<td> <a href="/lt/gultis" style="text-align: center;">gultis</a>
+</td>
+<td>lie down</td>
+</tr>
+<tr>
+<td> <a href="/lt/g%C5%AB%C5%BEtis" style="text-align: center;">gūžtis</a>
+</td>
+<td>squirm</td>
+</tr>
+<tr>
+<td> <a href="/lt/lemti" style="text-align: center;">lemti</a>
+</td>
+<td>predetermine</td>
+</tr>
+<tr>
+<td> <a href="/lt/remti" style="text-align: center;">remti</a>
+</td>
+<td>support</td>
+</tr>
+<tr>
+<td> <a href="/lt/remtis" style="text-align: center;">remtis</a>
+</td>
+<td>rest upon</td>
+</tr>
+<tr>
+<td> <a href="/lt/semti" style="text-align: center;">semti</a>
+</td>
+<td>scoop</td>
+</tr>
+<tr>
+<td> <a href="/lt/semtis" style="text-align: center;">semtis</a>
+</td>
+<td>draw (something out of somewhere)</td>
+</tr>
+<tr>
+<td> <a href="/lt/temti" style="text-align: center;">temti</a>
+</td>
+<td>become dark</td>
+</tr>
+<tr>
+<td> <a href="/lt/vemti" style="text-align: center;">vemti</a>
+</td>
+<td>vomit</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">Different length:</td>
+<td> </td>
+</tr>
+<tr>
+<td> <a href="/lt/atgimti" style="text-align: center;">atgimti</a>
+</td>
+<td>be reborn</td>
+</tr>
+<tr>
+<td> <a href="/lt/gimdyti" style="text-align: center;">gimdyti</a>
+</td>
+<td>give birth</td>
+</tr>
+<tr>
+<td> <a href="/lt/grimti" style="text-align: center;">grimti</a>
+</td>
+<td>sink</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="ui segment">
+<p style="text-align: center;"><b>Verb <span style="text-decoration: underline;">be born</span> in other languages</b></p>
+<table id="VerbinOtherLanguages" class="ui celled table">
+<thead><tr><th>Verb</th></tr></thead>
+<tbody>
+<tr><td>
+<div class="ui ribon label">EE</div>
+<a href="/ee/s%C3%BCndima" style="text-align: center;">sündima</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">GR</div>
+<a href="/gr/%CE%B3%CE%B5%CE%BD%CE%BD%CE%B9%CE%AD%CE%BC%CE%B1%CE%B9" style="text-align: center;">γεννιέμαι</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">LV</div>
+<a href="/lv/dzimt" style="text-align: center;">dzimt</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">LV</div>
+<a href="/lv/piedzimt" style="text-align: center;">piedzimt</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">RU</div>
+<a href="/ru/%D1%80%D0%BE%D0%B4%D0%B8%D1%82%D1%8C%D1%81%D1%8F" style="text-align: center;">родиться</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">RU</div>
+<a href="/ru/%D1%80%D0%BE%D0%B6%D0%B4%D0%B0%D1%82%D1%8C%D1%81%D1%8F" style="text-align: center;">рождаться</a>
+</td></tr>
+</tbody>
+</table>
+</div>
+<div class="ui segment">
+<p style="text-align: center;"><b>Do you know these verbs?</b></p>
+<table class="ui celled table">
+<thead><tr>
+<th>Verb</th>
+<th>Translation</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><a href="/lt/atsiimti" style="text-align: center;">atsiimti</a></td>
+<td>withdraw</td>
+</tr>
+<tr>
+<td><a href="/lt/atsilikti" style="text-align: center;">atsilikti</a></td>
+<td>lag</td>
+</tr>
+<tr>
+<td><a href="/lt/atskristi" style="text-align: center;">atskristi</a></td>
+<td>fly in</td>
+</tr>
+<tr>
+<td><a href="/lt/%C4%AFduoti" style="text-align: center;">įduoti</a></td>
+<td>inform on</td>
+</tr>
+<tr>
+<td><a href="/lt/%C4%AFs%C5%ABnyti" style="text-align: center;">įsūnyti</a></td>
+<td>adopt (a son)</td>
+</tr>
+<tr>
+<td><a href="/lt/kapituliuoti" style="text-align: center;">kapituliuoti</a></td>
+<td>capitulate</td>
+</tr>
+<tr>
+<td><a href="/lt/pasistiebti" style="text-align: center;">pasistiebti</a></td>
+<td>stand on tiptoe</td>
+</tr>
+<tr>
+<td><a href="/lt/pasivyti" style="text-align: center;">pasivyti</a></td>
+<td>catch up</td>
+</tr>
+<tr>
+<td><a href="/lt/pisti" style="text-align: center;">pisti</a></td>
+<td>fuck</td>
+</tr>
+<tr>
+<td><a href="/lt/%C5%BEinoti" style="text-align: center;">žinoti</a></td>
+<td>know</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="QuickNavigation" class="ui segment center aligned fluid vertical menu sticky">
+<a href="#conjugate" class="item"><b>Quick Navigation </b></a><p> <i class="keyboard icon teal"></i><span style="color: grey;">'CTRL + M' anytime to show this menu</span></p>
+<div class="item">
+<a href="#conjugate" style="text-decoration: none; color: inherit;"><b>Conjugations</b></a><div class="menu">
+<a href="#present" class="item">Present tense</a><a href="#past" class="item">Past tense</a><a href="#pastfrequentative" class="item">Past frequentative tense</a><a href="#future" class="item">Future tense</a><a href="#conditional" class="item">Conditional mood</a><a href="#imperative" class="item">Imperative mood</a>
+</div>
+</div>
+<div class="item"><a href="#examples" style="text-decoration: none; color: inherit;"><b>Examples</b></a></div>
+<p style="padding-left: 5px; padding-right: 5px;"> <a href="http://interlinearbooks.com/lithuanian/?r=cjgtr&amp;c=lt" rel="nofollow"><i class="book icon red"></i></a><span style="color: grey;">Have you tried our <a href="http://interlinearbooks.com/lithuanian/?r=cjgtr&amp;c=lt" rel="nofollow">Lithuanian Interlinear Book?</a></span></p>
+</div>
+</div>
+</div>
+<footer><div style="margin-top: 10vh; padding-top: 4vh;" class="ui inverted vertical footer segment grey"><div class="ui center aligned container">
+<div class="ui stackable inverted divided grid">
+<div class="three wide column">
+<h4 class="ui inverted header">CoolJugator</h4>
+<div class="ui inverted link list">
+<a href="/" class="item">Home</a><a href="mailto:cooljugator@techie.com" class="item">Contact us</a><a href="/about/#acknowledgments" class="item">Acknowledgments</a><a href="/about/" class="item">About</a><a href="/game/Index" class="item">Conjugation game</a><a href="/blog/" class="item">Blog</a>
+</div>
+</div>
+<div class="three wide column">
+<h4 class="ui inverted header">Languages</h4>
+<div id="OtherLanguages" class="ui inverted link list">
+<a href="/af/" class="item">Afrikaans</a><a href="/sq/" class="item">Albanian</a><a href="/ar/" class="item">Arabic</a><a href="/az/" class="item">Azeri</a><a href="/eu/" class="item">Basque</a><a href="/ca/" class="item">Catalan</a><a href="/da/" class="item">Danish</a><a href="/nl/" class="item">Dutch</a><a href="/en/" class="item">English</a><a href="/eo/" class="item">Esperanto</a><a href="/ee/" class="item">Estonian</a><a href="/fo/" class="item">Faroese</a><a href="/fi/" class="item">Finnish verbs</a><a href="/fia/" class="item">Finnish adjectives</a><a href="/fin/" class="item">Finnish nouns</a><a href="/fr/" class="item">French</a>
+</div>
+</div>
+<div class="three wide column">
+<h4 class="ui inverted header">   </h4>
+<div id="OtherLanguages" class="ui inverted link list">
+<a href="/de/" class="item">German</a><a href="/hw/" class="item">Hawaiian</a><a href="/he/" class="item">Hebrew</a><a href="/hu/" class="item">Hungarian</a><a href="/it/" class="item">Italian</a><a href="/is/" class="item">Icelandic</a><a href="/id/" class="item">Indonesian</a><a href="/ja/" class="item">Japanese</a><a href="/lt/" class="item">Lithuanian</a><a href="/lv/" class="item">Latvian</a><a href="/mk/" class="item">Macedonian</a><a href="/ms/" class="item">Malay</a><a href="/mt/" class="item">Maltese</a><a href="/mi/" class="item">Maori</a><a href="/gr/" class="item">Modern Greek</a><a href="/no/" class="item">Norwegian</a><a href="/fa/" class="item">Persian</a>
+</div>
+</div>
+<div class="three wide column">
+<h4 class="ui inverted header">  </h4>
+<div id="OtherLanguages" class="ui inverted link list">
+<a href="/pl/" class="item">Polish</a><a href="/pt/" class="item">Portuguese</a><a href="/qu/" class="item">Quechua</a><a href="/ro/" class="item">Romanian</a><a href="/ru/" class="item">Russian verbs</a><a href="/rua/" class="item">Russian adjectives</a><a href="/run/" class="item">Russian nouns</a><a href="/es/" class="item">Spanish</a><a href="/sv/" class="item">Swedish</a><a href="/th/" class="item">Thai</a><a href="/tr/" class="item">Turkish</a><a href="/vi/" class="item">Vietnamese</a>
+</div>
+</div>
+<div class="one wide column"></div>
+</div>
+<div class="ui inverted section divider"></div>
+<a href="/"><img src="/images/logo.png" alt="CoolJugator - an intelligent verb conjugator" class="ui centered image"></a><div class="ui horizontal inverted small divided link list">
+<a href="mailto:cooljugator@techie.com" class="item">Contact us</a><a href="http://facebook.com/cooljugator" class="item">Facebook</a><a href="http://twitter.com/cooljugator" class="item">Twitter</a>
+</div>
+</div></div>
+<script type="text/javascript" src="/javascripts/main.js"></script><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create', 'UA-8339065-3', 'auto');ga('send', 'pageview');</script></footer>
+</div>
+<script>(function(){var uv=document.createElement('script');uv.type='text/javascript';uv.async=true;uv.src='//widget.uservoice.com/uhrNzv9ysf9fNIGfDWgPQ.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(uv,s)})()</script>  <!-- A tab to launch the Classic Widget --> <script> UserVoice = window.UserVoice || []; UserVoice.push(['showTab', 'classic_widget', {   mode: 'feedback',   primary_color: '#00b5ac',   link_color: '#0a8cc6',   forum_id: 123075,   tab_label: 'Feedback',   tab_color: '#00b5ac',   tab_position: 'middle-right',   tab_inverted: false }]); </script>
+</body>
+</html>

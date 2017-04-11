@@ -6,13 +6,15 @@ describe Verbalyser::VerbShortlister do
 
   subject {Verbalyser::VerbShortlister.new}
 
-  context "has the full list of 4,400 verbs," do
-
-    it "puts non-prefixed verbs into the core shortlist" do
-      expect(subject.shortlist_non_prefixed_verbs).to eq(demo_shortlist_core)
-    end
-
-  end
-
+  # context "has the full list of 4,400 verbs," do
+  #
+  #   it "identifies prefixed verbs" do
+  #     expect(subject.identify_prefixed_verbs).to eq("hello world")
+  #   end
+  #
+  #   it "puts non-prefixed verbs into the core shortlist" do
+  #     expect(subject.shortlist_non_prefixed_verbs).to eq(demo_shortlist_core)
+  #   end
+  # end
 
 end

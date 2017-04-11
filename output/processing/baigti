@@ -1,0 +1,967 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Baigti conjugation in Lithuanian in all forms | CoolJugator.com</title>
+<meta name="description" content="Conjugate the Lithuanian verb baigti in all forms and with usage examples. Baigti conjugation has never been easier!">
+<link rel="stylesheet" type="text/css" href="/components/semantic/dist/semantic.css">
+<link rel="stylesheet" type="text/css" href="/stylesheets/main.css">
+<link rel="stylesheet" type="text/css" href="/stylesheets/languagemap.css">
+<script type="text/javascript" src="/components/jquery/dist/jquery.min.js"></script><script type="text/javascript" src="/components/semantic/dist/semantic.min.js"></script>
+</head>
+<body>
+<div class="ui menu large inverted grey">
+<div id="CoolJugatorLogo" class="item"><a href="/"><img src="/images/logo.png" alt="CoolJugator: the smart verb Conjugator"></a></div>
+<div id="siteLanguageSelection" class="item"><div class="ui dropdown topmenuselection inverted grey">
+<div class="text">Lithuanian</div>
+<i class="dropdown icon"></i><div id="topBarSelectionMenu" class="menu">
+<div data-value="" class="item">Home</div>
+<div data-value="da" class="item">Danish</div>
+<div data-value="en" class="item">English</div>
+<div data-value="eo" class="item">Esperanto</div>
+<div data-value="fr" class="item">French</div>
+<div data-value="ee" class="item">Estonian</div>
+<div data-value="hu" class="item">Hungarian</div>
+<div data-value="it" class="item">Italian</div>
+<div data-value="ja" class="item">Japanese</div>
+<div data-value="lt" class="item">Lithuanian</div>
+<div data-value="lv" class="item">Latvian</div>
+<div data-value="gr" class="item">Modern Greek</div>
+<div data-value="pl" class="item">Polish</div>
+<div data-value="pt" class="item">Portuguese</div>
+<div data-value="ro" class="item">Romanian</div>
+<div data-value="ru" class="item">Russian</div>
+<div data-value="es" class="item">Spanish</div>
+<div data-value="tr" class="item">Turkish</div>
+</div>
+</div></div>
+<div id="topBarSearch" class="item"><div class="ui action input"><input type="text" placeholder="Type verb in Lithuanian or in English..." id="search" autofocus></div></div>
+</div>
+<div class="pusher">
+<div class="ui equal width grid stackable container">
+<div style="display: none;" class="row"><div class="column"><div id="results" class="ui segment"><p></p></div></div></div>
+<div class="row"><div class="column"><div class="ui segment">
+<div class="ui breadcrumb">
+<a href="/" class="section"><i class="home icon"></i>Home</a><i class="right chevron icon divider"></i><a href="/lt/" class="section">Lithuanian</a><i class="right chevron icon divider"></i><div id="individualverb" class="active section">baigti</div>
+</div>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- CoolJugator Top CrumbsBar--><ins style="display:block" data-ad-client="ca-pub-0492579730264989" data-ad-slot="2205579251" data-ad-format="auto" class="adsbygoogle"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div></div></div>
+<div class="eleven wide stretched column"><div id="mainContentArea" class="ui segment"><section id="conjugate"><h1 id="mainTitle">Baigti conjugation</h1>
+<div class="ui centered grid"><div class="center aligned column"><div id="navigationMenu" class="ui compact tabular stackable menu">
+<a href="#conjugate" class="item active">Conjugate</a><a href="#usage" class="item">Usage</a><a href="#examples" class="item">Examples [44]</a><a href="#questions" class="item">Questions [0]</a>
+</div></div></div>
+<h2 class="ui header">
+<i class="list layout teal icon"></i>Conjugate baigti - to finish</h2>
+<div id="mapexplanation" style="text-align: right;"><i data-content="This baigti conjugation map displays how forms of the verb baigti are constructed. Moreover, it also serves as an easy navigation menu: you can click on any part of the map to be taken directly to those forms." class="write info teal icon"></i></div>
+<div id="conjugationmap" style="min-height: 250px" class="ui container"><div class="tree"><ul><li>
+<a href="#">Verb stem baig-</a><ul>
+<li>
+<a href="#conjugate">Infinitive: baigti</a><ul>
+<li><a href="#future">Future</a></li>
+<li><a href="#pastfrequentative">Past frequentative</a></li>
+<li><a href="#conditional">Conditional</a></li>
+<li><a href="#imperative">Imperative</a></li>
+</ul>
+</li>
+<li>
+<a href="#present">Present (s)he: baigia</a><ul><li><a href="#present">Present forms</a></li></ul>
+</li>
+<li>
+<a href="#past">Past (s)he: baigė</a><ul><li><a href="#past">Past forms</a></li></ul>
+</li>
+</ul>
+</li></ul></div></div>
+<div style="text-align: right;"><div id="markstress" class="ui button teal">
+<i class="write square icon"></i>Turn on word stress</div></div>
+<div class="ui container">
+<p id="present" class="tensetitle">Present tense</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th data-content="The present forms of the verb baigti in Lithuanian." data-variation="inverted"> Lithuanian Form</th>
+<th data-content="The present forms of the verb baigti translated to English." data-variation="inverted">English Translation</th>
+<th data-content="Click on the icon to see Lithuanian examples of this particular form." data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Aš</div></td>
+<td id="present1" data-stressed="baigiù">baigiu </td>
+<td>I finish</td>
+<td><a href="#examplepresent1"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="present2" data-stressed="baigì">baigi </td>
+<td>you finish</td>
+<td><a href="#examplepresent2"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jis/ji</div></td>
+<td id="present3" data-stressed="baĩgia">baigia </td>
+<td>he/she does finish</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Mes</div></td>
+<td id="present4" data-stressed="baĩgiame">baigiame </td>
+<td>we finish</td>
+<td><a href="#examplepresent4"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="present5" data-stressed="baĩgiate">baigiate </td>
+<td>you all finish</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jie/jos</div></td>
+<td id="present6" data-stressed="baĩgia">baigia </td>
+<td>they finish</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p id="past" class="tensetitle">Past tense</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th data-content="The past forms of the verb baigti in Lithuanian." data-variation="inverted"> Lithuanian Form</th>
+<th data-content="The past forms of the verb baigti translated to English." data-variation="inverted">English Translation</th>
+<th data-content="Click on the icon to see Lithuanian examples of this particular form." data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Aš</div></td>
+<td id="past1" data-stressed="baigiaũ">baigiau </td>
+<td>I did finish</td>
+<td><a href="#examplepast1"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="past2" data-stressed="baigeĩ">baigei </td>
+<td>you did finish</td>
+<td><a href="#examplepast2"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jis/ji</div></td>
+<td id="past3" data-stressed="baĩgė">baigė </td>
+<td>he/she did finish</td>
+<td><a href="#examplepast3"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Mes</div></td>
+<td id="past4" data-stressed="baĩgėme">baigėme </td>
+<td>we did finish</td>
+<td><a href="#examplepast4"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="past5" data-stressed="baĩgėte">baigėte </td>
+<td>you all did finish</td>
+<td><a href="#examplepast5"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jie/jos</div></td>
+<td id="past6" data-stressed="baĩgė">baigė </td>
+<td>they did finish</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p id="pastfrequentative" class="tensetitle">Past frequentative tense</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th data-content="The past frequentative forms of the verb baigti in Lithuanian." data-variation="inverted"> Lithuanian Form</th>
+<th data-content="The past frequentative forms of the verb baigti translated to English." data-variation="inverted">English Translation</th>
+<th data-content="Click on the icon to see Lithuanian examples of this particular form." data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Aš</div></td>
+<td id="pastperfect1" data-stressed="baĩgdavau">baigdavau </td>
+<td>I used to finish</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="pastperfect2" data-stressed="baigdavai">baigdavai </td>
+<td>you used to finish</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jis/ji</div></td>
+<td id="pastperfect3" data-stressed="baĩgdavo">baigdavo </td>
+<td>he/she used to finish</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Mes</div></td>
+<td id="pastperfect4" data-stressed="baĩgdavome">baigdavome </td>
+<td>we used to finish</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="pastperfect5" data-stressed="baigdavote">baigdavote </td>
+<td>you all used to finish</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jie/jos</div></td>
+<td id="pastperfect6" data-stressed="baĩgdavo">baigdavo </td>
+<td>they used to finish</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p id="future" class="tensetitle">Future tense</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th data-content="The future forms of the verb baigti in Lithuanian." data-variation="inverted"> Lithuanian Form</th>
+<th data-content="The future forms of the verb baigti translated to English." data-variation="inverted">English Translation</th>
+<th data-content="Click on the icon to see Lithuanian examples of this particular form." data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Aš</div></td>
+<td id="future1" data-stressed="baĩgsiu">baigsiu </td>
+<td>I will finish</td>
+<td><a href="#examplefuture1"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="future2" data-stressed="baĩgsi">baigsi </td>
+<td>you will finish</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jis/ji</div></td>
+<td id="future3" data-stressed="baĩgs">baigs </td>
+<td>he/she will finish</td>
+<td><a href="#examplefuture3"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Mes</div></td>
+<td id="future4" data-stressed="baĩgsime">baigsime </td>
+<td>we will finish</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="future5" data-stressed="baĩgsite">baigsite </td>
+<td>you all will finish</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jie/jos</div></td>
+<td id="future6" data-stressed="baĩgs">baigs </td>
+<td>they will finish</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p id="conditional" class="tensetitle">Conditional mood</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th data-content="The conditional forms of the verb baigti in Lithuanian." data-variation="inverted"> Lithuanian Form</th>
+<th data-content="The conditional forms of the verb baigti translated to English." data-variation="inverted">English Translation</th>
+<th data-content="Click on the icon to see Lithuanian examples of this particular form." data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Aš</div></td>
+<td id="hypothetical1" data-stressed="baigčiaũ">baigčiau </td>
+<td>I would finish</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="hypothetical2" data-stressed="baĩgtum">baigtum </td>
+<td>you would finish</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jis/ji</div></td>
+<td id="hypothetical3" data-stressed="baĩgtų">baigtų </td>
+<td>he/she would finish</td>
+<td><a href="#examplehypothetical3"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Mes</div></td>
+<td id="hypothetical4" data-stressed="baĩgtume">baigtume </td>
+<td>we would finish</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="hypothetical5" data-stressed="baigtute">baigtute </td>
+<td>you all would finish</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jie/jos</div></td>
+<td id="hypothetical6" data-stressed="baĩgtų">baigtų </td>
+<td>they would finish</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p id="imperative" class="tensetitle">Imperative mood</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th>Lithuanian Form</th>
+<th>English Translation</th>
+<th data-content="Click on the icon to see examples of this particular form" data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="command2" data-stressed="baĩk">baik </td>
+<td>you finish!</td>
+<td><a href="#examplecommand2"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="command4" data-stressed="baĩkite">baikite</td>
+<td>you all finish!</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 class="ui dividing header">Feedback: Noticed a mistake? Have a suggestion?</h3>
+<div id="feedbackMenu">
+<p>Have you noticed a mistake or a bug here somewhere on this page? Have ideas how we can improve our content? Submit a request for us and we will do our best to take your feedback into account!</p>
+<div class="ui container"><f method="post" class="ui review form"><div class="field">
+<input id="fname" name="fsubmitterName" placeholder="Your name..."><input id="fverb" name="fverb" type="hidden" value="baigti"><input id="flanguage" name="flanguage" type="hidden" value="lt"><input id="feedback" name="feedback" type="text" placeholder="Describe your feedback...">
+</div>
+<div style="text-align: center;" class="clear"><button id="givefeedback" type="submit" class="ui teal labeled icon button"><i class="bug icon"></i>    Submit for review</button></div></f></div>
+<div class="ui divider"></div>
+</div>
+<section id="usage"><p style="font-size: 1.714rem; padding-top: 8vh; padding-bottom: 4vh; color: rgba(0, 0, 0, 0.87);" class="ui header usageheader"><i class="info teal icon"></i>Usage information for baigti</p>
+<p>There is no additional usage information for the verb baigti.</p></section><section id="examples"><h3 style="font-size: 1.714rem; padding-top: 8vh; padding-bottom: 4vh; color: rgba(0, 0, 0, 0.87);" class="ui header">
+<i class="quote left teal icon"></i>Examples of baigti</h3>
+<table id="ExampleSentences" class="ui celled striped table">
+<thead><tr>
+<th data-content="An example sentence in Lithuanian. Our example sentences are picked from multiple sources with real world spoken or written language." data-variation="inverted" class="eight wide">Example in Lithuanian</th>
+<th data-content="The translation of the example in the English language, with the relevant part highlighted if possible." data-variation="inverted" class="eight wide">Translation in English</th>
+<th data-content="A link to the conjugated form - move your mouse over it to find out which form it is, or click on it to go back to the conjugation of that form." data-variation="inverted" class="one wide">Fm.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td id="exampleinfinitive0">Tačiau šios įmonės dėl išimtinių techninių apribojimų neturi galimybės <span class="highlightsample">baigti</span> modernizavimo proceso nurodytą datą.</td>
+<td>However, those establishments are not in position <span class="highlightsample">to finish</span> their upgrading process by the prescribed deadline due to exceptional technical constraints.</td>
+<td><a href="#conjugate"><i data-content="An instance of the main form." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="exampleinfinitive0-2">Tačiau dėl ypatingų techninių suvaržymų šios įmonės negali <span class="highlightsample">baigti</span> modernizavimo proceso iki nustatyto termino.</td>
+<td>However these establishments are not in position <span class="highlightsample">to finish</span> their upgrading process by the prescribed deadline due to exceptional technical constraints.</td>
+<td><a href="#conjugate"><i data-content="An instance of the main form." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="exampleinfinitive0-3">Tačiau dėl ypatingų techninių suvaržymų ši įmonė negali <span class="highlightsample">baigti</span> modernizavimo proceso iki nustatyto termino.</td>
+<td>However, this establishment is not in position <span class="highlightsample">to finish</span> its upgrading process by the prescribed deadline due to exceptional technical constraints.</td>
+<td><a href="#conjugate"><i data-content="An instance of the main form." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="exampleinfinitive0-4">Tačiau dėl ypatingų techninių apribojimų šios įmonės negali <span class="highlightsample">baigti</span> modernizavimo proceso iki nustatyto termino.</td>
+<td>However these establishments are not in a position <span class="highlightsample">to finish</span> their upgrading process by the prescribed deadline due to exceptional technical constraints.</td>
+<td><a href="#conjugate"><i data-content="An instance of the main form." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent1">O aš jįjau <span class="highlightsample">baigiu</span>.</td>
+<td>But me, I <span class="highlightsample">finish</span>ed things.</td>
+<td><a href="#present1"><i data-content="A 1st person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent1-1">- Jau beveik <span class="highlightsample">baigiu</span> jį išvalyti.</td>
+<td>- I'm about to <span class="highlightsample">finish</span> cleaning it.</td>
+<td><a href="#present1"><i data-content="A 1st person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent1-2">Aš <span class="highlightsample">baigiu</span> dešimtą!</td>
+<td>I <span class="highlightsample">finish</span> at 10:00.</td>
+<td><a href="#present1"><i data-content="A 1st person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent1-3">Tuojau <span class="highlightsample">baigiu</span> su monstriukais ir ateinu.</td>
+<td>Let me <span class="highlightsample">finish</span> up with the monsters and I'll come right up.</td>
+<td><a href="#present1"><i data-content="A 1st person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent1-4">Puiku, aš tuoj <span class="highlightsample">baigiu</span>.</td>
+<td>That's cool man, let me <span class="highlightsample">finish</span> up.</td>
+<td><a href="#present1"><i data-content="A 1st person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent2">– Kelintą <span class="highlightsample">baigi</span>? - Ką?</td>
+<td>- What time do you <span class="highlightsample">finish</span>?</td>
+<td><a href="#present2"><i data-content="A 2nd person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent4">Tiesiog <span class="highlightsample">baigiame</span> pusryčiauti.</td>
+<td>We're just <span class="highlightsample">finish</span>ing up breakfast.</td>
+<td><a href="#present4"><i data-content="A 4th person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent4-1">Na, jei mes <span class="highlightsample">baigiame</span> savo namų darbus anksti, Džiliana leidžia mums būti iki pat vidurnakčio.</td>
+<td>Well, if we <span class="highlightsample">finish</span> our homework in time, Gillian lets us stay up till midnight.</td>
+<td><a href="#present4"><i data-content="A 4th person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast1">Liublianos universitete studijuojanti slovėnė Vedrana 0rbušić rašo: „Studijuoju komunikaciją ir ką tik <span class="highlightsample">baigiau</span> baigiamąjį kursą kaip „Erasmus“ studentė viename iš seniausių Europos universitetų – Bolonijos universitete.</td>
+<td>Vedrana Trbuši5, a Slovene studying at the University of Ljubljana, writes, "I study communication studies, and I have just finished my final year as an Erasmus student at the University of Bologna, one of the oldest universities in Europe.</td>
+<td><a href="#past1"><i data-content="A 1st person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast1-1">Kai <span class="highlightsample">baigiau</span> savo „Erasmus“ programos metus, jaučiausi ne tik portugalu, bet ir šiek tiek švedu… taip pat šiek tiek italu ir ispanu, vokiečiu, prancūzu ir taip toliau!..</td>
+<td>When I finished my Erasmus year I felt not only Portuguese, but a bit Swedish… a little bit Italian as well, and Spanish, German, French, and so on…!.</td>
+<td><a href="#past1"><i data-content="A 1st person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast1-2">Ka tik <span class="highlightsample">baigiau</span> skaityti.</td>
+<td>Just finished reading it myself.</td>
+<td><a href="#past1"><i data-content="A 1st person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast1-3">- Ką tik <span class="highlightsample">baigiau</span>.</td>
+<td>Just finished it.</td>
+<td><a href="#past1"><i data-content="A 1st person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast1-4">Kai aš <span class="highlightsample">baigiau</span>, ji buvo tokia sujaudinta savo pirmu bandymu.</td>
+<td>When I was finished, she was all excited about her big screen test.</td>
+<td><a href="#past1"><i data-content="A 1st person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast2">Tu <span class="highlightsample">baigei</span>.</td>
+<td>You're finished.</td>
+<td><a href="#past2"><i data-content="A 2nd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast2-1">Gerai, gali sėstis. Ar <span class="highlightsample">baigei</span> rašinį?</td>
+<td>Oh, have you finished that essay yet?</td>
+<td><a href="#past2"><i data-content="A 2nd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast2-2">Jau <span class="highlightsample">baigei</span> darbą su tuo disku?</td>
+<td>Did you finish working on that disk?</td>
+<td><a href="#past2"><i data-content="A 2nd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast2-3">Tu <span class="highlightsample">baigei</span> dėstyti.</td>
+<td>You're finished teaching.</td>
+<td><a href="#past2"><i data-content="A 2nd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast2-4">O dabar, Ene, Jei <span class="highlightsample">baigei</span> valgyti, noriu tau kai ką parodyti.</td>
+<td>And now Annie, if you've finished eating, I have something to show you.</td>
+<td><a href="#past2"><i data-content="A 2nd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast3">Beje, buvo patikslinta, kad priešingai, nei iš pradžių teigė Prancūzija, CMdR iki sustabdydama savo veiklą <span class="highlightsample">baigė</span> visus pradėtus darbus ir kad viena priežasčių, dėl kurių ji sustabdė veiklą, buvo kaip tik tai, kad ji įvykdė visus užsakymus (žr. konstatuojamosios dalies 44 punktą).</td>
+<td>Furthermore, it was stated that, contrary to what France initially asserted, all the work in progress was finished by CMdR before it filed for bankruptcy and that one of the reasons for filing for bankruptcy was an empty order book (see paragraph 44 above).</td>
+<td><a href="#past3"><i data-content="A 3rd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast3-1">Išsami informacija apie išmetimą: diena, kai laivas <span class="highlightsample">baigė</span> išmetimą</td>
+<td>Discharge detail: date the vessel finished discharge</td>
+<td><a href="#past3"><i data-content="A 3rd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast3-2">Išsami informacija apie iškrovimą: Diena, kai laivas <span class="highlightsample">baigė</span> iškrovimą</td>
+<td>Discharge detail: Date the vessel finished discharge</td>
+<td><a href="#past3"><i data-content="A 3rd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast3-3">2009 m. ji pervežė 37 proc. keleivių, kurie pradėjo arba <span class="highlightsample">baigė</span> savo kelionę Prahoje.</td>
+<td>In 2009, it carried 37 % of passengers who started or finished their journey in Prague.</td>
+<td><a href="#past3"><i data-content="A 3rd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast3-4">Risten žvejai <span class="highlightsample">baigė</span> rūšiuoti.</td>
+<td>The Risten's fishermen have finished sorting the catch.</td>
+<td><a href="#past3"><i data-content="A 3rd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast4">Ponia O'Hara, šiandien mes <span class="highlightsample">baigėme</span> arti lauką.</td>
+<td>Mrs. O'Hara, we finished plowing the creek bottom today.</td>
+<td><a href="#past4"><i data-content="A 4th person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast4-1">- Ar jau <span class="highlightsample">baigėme</span>?</td>
+<td>-Are you quite finished with us?</td>
+<td><a href="#past4"><i data-content="A 4th person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast4-2">Na, mes ką tik <span class="highlightsample">baigėme</span> Sarajave, ir jūsų Admirolas norėjo, kad mes jums padėtume.</td>
+<td>Well, we just finished up in Sarajevo, and your Admiral wanted us to pump you guys up.</td>
+<td><a href="#past4"><i data-content="A 4th person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast4-3">Mes <span class="highlightsample">baigėme</span>.</td>
+<td>We're finished.</td>
+<td><a href="#past4"><i data-content="A 4th person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast4-4">Mes jau <span class="highlightsample">baigėme</span> ketvirtą aukštą, šiaurinė dalis neapsaugota.</td>
+<td>We're finishing fourth floor, north exposure.</td>
+<td><a href="#past4"><i data-content="A 4th person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast5">Ar jau <span class="highlightsample">baigėte</span>?</td>
+<td>Y'all finished?</td>
+<td><a href="#past5"><i data-content="A 5th person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplefuture1">O dabar, kai <span class="highlightsample">baigsiu</span> tave pjaustinėti, tie vyrai galutinai padarys tave moterimi.</td>
+<td>Now, when I'm done cutting you, these boys <span class="highlightsample">will finish</span> making a woman of you.</td>
+<td><a href="#future1"><i data-content="A 1st person form of the Future." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplefuture3">Pusė Tarnybos valdančiosios tarnybos narių savo kadenciją <span class="highlightsample">baigs</span> 2008 m. birželio 30 d.</td>
+<td>Half of the members of the Management Board of the Authority <span class="highlightsample">will finish</span> their term of office on 30 June 2008.</td>
+<td><a href="#future3"><i data-content="A 3rd person form of the Future." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplefuture3-1">Todél jusu déka, p. Coogane, ji u<span class="highlightsample">baigs</span> bausme.</td>
+<td>So thanks to you, Mr Coogan, she <span class="highlightsample">will finish</span> her sentence.</td>
+<td><a href="#future3"><i data-content="A 3rd person form of the Future." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplehypothetical3">Supranti, jeigu Benas negali su tuo susitaikyti, tai senų pažiūrų vaikinas, toks kaip mano tėvas, <span class="highlightsample">baigtų</span> alų, paskutinį kartą nusiriaugėtų ir kristų negyvas.</td>
+<td>You know, I figured if Ben couldn't handle it, an old-school union guy like my father <span class="highlightsample">would finish</span> his beer, have a final burp, and then keel over dead.</td>
+<td><a href="#hypothetical3"><i data-content="A 3rd person form of the Conditional." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="example">
+<span class="highlightsample"></span>B<span class="highlightsample"></span>ū<span class="highlightsample"></span>č<span class="highlightsample"></span>i<span class="highlightsample"></span>a<span class="highlightsample"></span>u<span class="highlightsample"></span> <span class="highlightsample"></span>d<span class="highlightsample"></span>ė<span class="highlightsample"></span>k<span class="highlightsample"></span>i<span class="highlightsample"></span>n<span class="highlightsample"></span>g<span class="highlightsample"></span>a<span class="highlightsample"></span>s<span class="highlightsample"></span>,<span class="highlightsample"></span> <span class="highlightsample"></span>j<span class="highlightsample"></span>e<span class="highlightsample"></span>i<span class="highlightsample"></span> <span class="highlightsample"></span>t<span class="highlightsample"></span>u<span class="highlightsample"></span>č<span class="highlightsample"></span>t<span class="highlightsample"></span>u<span class="highlightsample"></span>o<span class="highlightsample"></span>j<span class="highlightsample"></span>a<span class="highlightsample"></span>u<span class="highlightsample"></span> <span class="highlightsample"></span>b<span class="highlightsample"></span>a<span class="highlightsample"></span>i<span class="highlightsample"></span>g<span class="highlightsample"></span>t<span class="highlightsample"></span>u<span class="highlightsample"></span>m<span class="highlightsample"></span>ė<span class="highlightsample"></span>t<span class="highlightsample"></span>e<span class="highlightsample"></span> <span class="highlightsample"></span>š<span class="highlightsample"></span>i<span class="highlightsample"></span>f<span class="highlightsample"></span>r<span class="highlightsample"></span>u<span class="highlightsample"></span>o<span class="highlightsample"></span>t<span class="highlightsample"></span>i<span class="highlightsample"></span> <span class="highlightsample"></span>š<span class="highlightsample"></span>i<span class="highlightsample"></span>ą<span class="highlightsample"></span> <span class="highlightsample"></span>ž<span class="highlightsample"></span>i<span class="highlightsample"></span>n<span class="highlightsample"></span>i<span class="highlightsample"></span>ą<span class="highlightsample"></span>.<span class="highlightsample"></span>
+</td>
+<td>
+<span class="highlightsample"></span>I<span class="highlightsample"></span>'<span class="highlightsample"></span>d<span class="highlightsample"></span> <span class="highlightsample"></span>m<span class="highlightsample"></span>u<span class="highlightsample"></span>c<span class="highlightsample"></span>h<span class="highlightsample"></span> <span class="highlightsample"></span>a<span class="highlightsample"></span>p<span class="highlightsample"></span>p<span class="highlightsample"></span>r<span class="highlightsample"></span>e<span class="highlightsample"></span>c<span class="highlightsample"></span>i<span class="highlightsample"></span>a<span class="highlightsample"></span>t<span class="highlightsample"></span>e<span class="highlightsample"></span> <span class="highlightsample"></span>i<span class="highlightsample"></span>t<span class="highlightsample"></span> <span class="highlightsample"></span>i<span class="highlightsample"></span>f<span class="highlightsample"></span> <span class="highlightsample"></span>y<span class="highlightsample"></span>o<span class="highlightsample"></span>u<span class="highlightsample"></span>'<span class="highlightsample"></span>d<span class="highlightsample"></span> <span class="highlightsample"></span>f<span class="highlightsample"></span>i<span class="highlightsample"></span>n<span class="highlightsample"></span>i<span class="highlightsample"></span>s<span class="highlightsample"></span>h<span class="highlightsample"></span> <span class="highlightsample"></span>d<span class="highlightsample"></span>e<span class="highlightsample"></span>c<span class="highlightsample"></span>i<span class="highlightsample"></span>p<span class="highlightsample"></span>h<span class="highlightsample"></span>e<span class="highlightsample"></span>r<span class="highlightsample"></span>i<span class="highlightsample"></span>n<span class="highlightsample"></span>g<span class="highlightsample"></span> <span class="highlightsample"></span>t<span class="highlightsample"></span>h<span class="highlightsample"></span>a<span class="highlightsample"></span>t<span class="highlightsample"></span> <span class="highlightsample"></span>c<span class="highlightsample"></span>o<span class="highlightsample"></span>d<span class="highlightsample"></span>e<span class="highlightsample"></span> <span class="highlightsample"></span>n<span class="highlightsample"></span>o<span class="highlightsample"></span>w<span class="highlightsample"></span>.<span class="highlightsample"></span>
+</td>
+<td></td>
+</tr>
+<tr>
+<td id="examplecommand2">Sėsk ir <span class="highlightsample">baik</span> piešinį.</td>
+<td>Sit down and <span class="highlightsample">finish</span> your drawing.</td>
+<td><a href="#command2"><i data-content="A 2nd person form of the  verb." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplecommand2-1">Na, teksasieti, <span class="highlightsample">baik</span> gaudynes.</td>
+<td>Come on, Tex, let's <span class="highlightsample">finish</span> this.</td>
+<td><a href="#command2"><i data-content="A 2nd person form of the  verb." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplecommand2-2">Eik laukan ir <span class="highlightsample">baik</span> šluoti.</td>
+<td>Get on out there and <span class="highlightsample">finish</span> sweeping.</td>
+<td><a href="#command2"><i data-content="A 2nd person form of the  verb." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplecommand2-3">Tu, <span class="highlightsample">baik</span> valyti taures.</td>
+<td>You, <span class="highlightsample">finish</span> cleaning the glasses.</td>
+<td><a href="#command2"><i data-content="A 2nd person form of the  verb." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplecommand2-4">Rasai, eik į mano treilerį ir <span class="highlightsample">baik</span> dėti daiktus.</td>
+<td>Russ, why don't you take that walker back to my trailer and <span class="highlightsample">finish</span> packing up?</td>
+<td><a href="#command2"><i data-content="A 2nd person form of the  verb." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+</tbody>
+</table></section><section id="questions"><div class="ui comments"><h4 style="font-size: 1.714rem; padding-top: 8vh; padding-bottom: 4vh; color: rgba(0, 0, 0, 0.87);" class="ui header">
+<i class="help teal icon"></i>Questions and answers about baigti conjugation</h4></div>
+<div id="questionmenu">
+<h3 class="ui dividing header">Still don't understand something? Ask and receive a reply!</h3>
+<p>Ask us a question about this word and get it replied to here. Questions are answered by experienced language speakers.</p>
+<div class="ui center aligned container"><f class="ui reply form"><div class="field">
+<input id="fname" name="submitterName" placeholder="Your name..."><input id="qverb" name="qverb" type="hidden" value="baigti"><input id="qlanguage" name="qlanguage" type="hidden" value="lt">
+</div>
+<div class="field"><textarea id="question" name="question" rows="5"></textarea></div>
+<div id="askquestion" class="ui teal labeled submit icon button">
+<i class="icon edit"></i> Ask question about baigti</div></f></div>
+</div></section><div class="content"></div></section></div></div>
+<div class="five wide column">
+<div class="ui segment"><div style="text-align: center;">
+<b>Work in progress</b><p style="padding-top: 10px;"><span style="color: grey; text-align: justify;"><i class="announcement icon red big"></i>Help us become the best conjugation resource. <a href="http://cooljugator.com/blog/2016/12/16/cooljugators-mission">Find out more</a>. </span></p>
+</div></div>
+<div class="ui segment"><div style="text-align: center;">
+<b>Play Lithuanian conjugation game!</b><p style="padding-top: 10px;"><span style="color: grey; text-align: justify;"><i class="game icon orange big"></i>Practice Lithuanian verb conjugation with real sentences in our free <a href="http://cooljugator.com/game/Index">game</a>. Try now!</span></p>
+</div></div>
+<div class="ui segment"><div style="text-align: center;">
+<b>Tip: CTRL + M for navigation!</b><p style="padding-top: 10px;"><span style="color: grey; text-align: justify;"> <i class="keyboard icon teal"></i>You can access a quick navigation menu with the shortcut 'CTRL + M'.</span></p>
+</div></div>
+<div class="ui segment"><div style="text-align: center;">
+<b>Learn Lithuanian with our subtitled book!</b><p><a href="http://interlinearbooks.com/lithuanian/?r=cjgtr&amp;c=lt" rel="nofollow"><img src="/images/presentation_lt.png" style="width: 98%; padding-top: 10px;"></a></p>
+<p>Check out our new product - a novel subtitled Interlinear book in Lithuanian to get reading practice! Click on the 'Try out' button below.</p>
+<a href="http://interlinearbooks.com/lithuanian/?r=cjgtr&amp;c=lt" rel="nofollow"><div style="vertical-align: middle;" class="ui submit button large red">Try out</div></a>
+</div></div>
+<div class="ui segment center aligned">
+<p><b>Receive most useful verbs, tips and other info free!</b><!-- Begin MailChimp Signup Form--></p>
+<!-- Begin MailChimp Signup Form--><div id="mc_embed_signup"><form id="mc-embedded-subscribe-form" action="//cooljugator.us13.list-manage.com/subscribe/post?u=ceca7eaaa8f7bfdc14e243ae2&amp;id=980c8f3061" method="post" name="mc-embedded-subscribe-form" target="_blank" novalidate="" class="validate ui form error center aligned"><div id="mc_embed_signup_scroll">
+<div class="mc-field-group one field center aligned"><div class="field large">
+<label for="mce-EMAIL">Email Address</label><input id="mce-EMAIL" type="email" value="" name="EMAIL" class="required email">
+</div></div>
+<div class="mc-field-group input-group"></div>
+<div class="ui center aligned grid">
+<div id="newsletterlanguageselection" style="margin-top: 1.3rem; margin-bottom: 2rem;" class="ui button teal">Select the language(s) you're interested in</div>
+<div class="ui fluid popup top left transition hidden"><div class="ui four column divided center aligned grid"><ul>
+<li style="list-style-type: none">
+<input type="checkbox" value="1" name="group[2381][1]" id="mce-group[2381]-2381-0"><label for="mce-group[2381]-2381-0">  English</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="2" name="group[2381][2]" id="mce-group[2381]-2381-1"><label for="mce-group[2381]-2381-1">  Esperanto</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="4" name="group[2381][4]" id="mce-group[2381]-2381-2"><label for="mce-group[2381]-2381-2">  Estonian</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="8192" name="group[2381][8192]" id="mce-group[2381]-2381-13"><label for="mce-group[2381]-2381-13">  Hungarian</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="8" name="group[2381][8]" id="mce-group[2381]-2381-3"><label for="mce-group[2381]-2381-3">  Latvian</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" checked value="16" name="group[2381][16]" id="mce-group[2381]-2381-4"><label for="mce-group[2381]-2381-4">  Lithuanian</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="32" name="group[2381][32]" id="mce-group[2381]-2381-5"><label for="mce-group[2381]-2381-5">  Modern Greek</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="2048" name="group[2381][2048]" id="mce-group[2381]-2381-11"><label for="mce-group[2381]-2381-11">  Polish</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="128" name="group[2381][128]" id="mce-group[2381]-2381-6"><label for="mce-group[2381]-2381-6">  Portuguese</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="64" name="group[2381][64]" id="mce-group[2381]-2381-7"><label for="mce-group[2381]-2381-7">  Russian</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="4096" name="group[2381][4096]" id="mce-group[2381]-2381-12"><label for="mce-group[2381]-2381-12">   Spanish</label>
+</li>
+</ul></div></div>
+</div>
+<div id="mce-responses" class="clear">
+<div id="mce-error-response" style="display:none" class="response"></div>
+<div id="mce-success-response" style="display:none" class="response"></div>
+</div>
+<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--><div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_ceca7eaaa8f7bfdc14e243ae2_980c8f3061" tabindex="-1" value=""></div>
+<div style="text-align: center;" class="clear"><input id="mc-embedded-subscribe" type="submit" value="Subscribe" name="subscribe" style="text-align: center; vertical-align: middle;" class="ui submit button large teal"></div>
+</div></form></div>
+<!-- End mc_embed_signup-->
+</div>
+<div class="ui segment"><p style="text-align: center;"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- New 15 May 2016 CoolJugator flexible ad--><ins style="display:block" data-ad-client="ca-pub-0492579730264989" data-ad-slot="4873833251" data-ad-format="auto" class="adsbygoogle"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></p></div>
+<div class="ui segment">
+<p style="text-align: center;"><b>Related verbs</b></p>
+<table class="ui celled table">
+<thead><tr>
+<th>Verb</th>
+<th>Translation</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><a href="/lt/pabaigti" style="text-align: center;">pabaigti</a></td>
+<td>finish</td>
+</tr>
+<tr>
+<td><a href="/lt/pasibaigti" style="text-align: center;">pasibaigti</a></td>
+<td>finish</td>
+</tr>
+<tr>
+<td><a href="/lt/pribaigti" style="text-align: center;">pribaigti</a></td>
+<td>finish off</td>
+</tr>
+<tr>
+<td><a href="/lt/u%C5%BEbaigti" style="text-align: center;">užbaigti</a></td>
+<td>finish</td>
+</tr>
+<tr>
+<td><a href="/lt/u%C5%BEsibaigti" style="text-align: center;">užsibaigti</a></td>
+<td>end</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="ui segment">
+<p style="text-align: center;"><b>Similar verbs</b></p>
+<table class="ui celled table">
+<thead><tr>
+<th>Verb</th>
+<th>Translation</th>
+</tr></thead>
+<tbody>
+<tr>
+<td style="font-weight: bold;">Same length:</td>
+<td> </td>
+</tr>
+<tr>
+<td> <a href="/lt/badyti" style="text-align: center;">badyti</a>
+</td>
+<td>bunt</td>
+</tr>
+<tr>
+<td> <a href="/lt/baidyti" style="text-align: center;">baidyti</a>
+</td>
+<td>scare away</td>
+</tr>
+<tr>
+<td> <a href="/lt/baidytis" style="text-align: center;">baidytis</a>
+</td>
+<td>take fright</td>
+</tr>
+<tr>
+<td> <a href="/lt/baigtis" style="text-align: center;">baigtis</a>
+</td>
+<td>end</td>
+</tr>
+<tr>
+<td> <a href="/lt/bais%C4%97ti" style="text-align: center;">baisėti</a>
+</td>
+<td>turn scarrier</td>
+</tr>
+<tr>
+<td> <a href="/lt/bais%C4%97tis" style="text-align: center;">baisėtis</a>
+</td>
+<td>be scared</td>
+</tr>
+<tr>
+<td> <a href="/lt/balsti" style="text-align: center;">balsti</a>
+</td>
+<td>become white</td>
+</tr>
+<tr>
+<td> <a href="/lt/bausti" style="text-align: center;">bausti</a>
+</td>
+<td>punish</td>
+</tr>
+<tr>
+<td> <a href="/lt/blogti" style="text-align: center;">blogti</a>
+</td>
+<td>weaken</td>
+</tr>
+<tr>
+<td> <a href="/lt/%C4%AFmigti" style="text-align: center;">įmigti</a>
+</td>
+<td>fall asleep</td>
+</tr>
+<tr>
+<td> <a href="/lt/neigti" style="text-align: center;">neigti</a>
+</td>
+<td>deny</td>
+</tr>
+<tr>
+<td> <a href="/lt/smigti" style="text-align: center;">smigti</a>
+</td>
+<td>stick into something</td>
+</tr>
+<tr>
+<td> <a href="/lt/snigti" style="text-align: center;">snigti</a>
+</td>
+<td>snow</td>
+</tr>
+<tr>
+<td> <a href="/lt/stigti" style="text-align: center;">stigti</a>
+</td>
+<td>lack</td>
+</tr>
+<tr>
+<td> <a href="/lt/teigti" style="text-align: center;">teigti</a>
+</td>
+<td>assert</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">Different length:</td>
+<td> </td>
+</tr>
+<tr>
+<td> <a href="/lt/pabaigti" style="text-align: center;">pabaigti</a>
+</td>
+<td>finish</td>
+</tr>
+<tr>
+<td> <a href="/lt/u%C5%BEbaigti" style="text-align: center;">užbaigti</a>
+</td>
+<td>finish</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="ui segment">
+<p style="text-align: center;"><b>Other Lithuanian verbs with the meaning <span style="text-decoration: underline;">finish</span></b></p>
+<table class="ui celled table">
+<thead><tr><th>Verb</th></tr></thead>
+<tbody>
+<tr><td> <a href="/lt/pabaigti" style="text-align: center;">pabaigti</a>
+</td></tr>
+<tr><td> <a href="/lt/pasibaigti" style="text-align: center;">pasibaigti</a>
+</td></tr>
+<tr><td> <a href="/lt/u%C5%BEbaigti" style="text-align: center;">užbaigti</a>
+</td></tr>
+</tbody>
+</table>
+</div>
+<div class="ui segment">
+<p style="text-align: center;"><b>Verb <span style="text-decoration: underline;">finish</span> in other languages</b></p>
+<table id="VerbinOtherLanguages" class="ui celled table">
+<thead><tr><th>Verb</th></tr></thead>
+<tbody>
+<tr><td>
+<div class="ui ribon label">EE</div>
+<a href="/ee/l%C3%B5petama" style="text-align: center;">lõpetama</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">EN</div>
+<a href="/en/finish" style="text-align: center;">finish</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">GR</div>
+<a href="/gr/%CF%84%CE%B5%CE%BB%CE%B5%CE%B9%CF%8E%CE%BD%CF%89" style="text-align: center;">τελειώνω</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">LV</div>
+<a href="/lv/beigt" style="text-align: center;">beigt</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">LV</div>
+<a href="/lv/pabeigt" style="text-align: center;">pabeigt</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">PL</div>
+<a href="/pl/poko%C5%84czy%C4%87" style="text-align: center;">pokończyć</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">PL</div>
+<a href="/pl/uko%C5%84czy%C4%87" style="text-align: center;">ukończyć</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">PL</div>
+<a href="/pl/wyka%C5%84cza%C4%87" style="text-align: center;">wykańczać</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">PL</div>
+<a href="/pl/wyko%C5%84czy%C4%87" style="text-align: center;">wykończyć</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">RU</div>
+<a href="/ru/%D0%B4%D0%BE%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C" style="text-align: center;">доделать</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">RU</div>
+<a href="/ru/%D0%B4%D0%BE%D0%B4%D0%B5%D0%BB%D1%8B%D0%B2%D0%B0%D1%82%D1%8C" style="text-align: center;">доделывать</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">RU</div>
+<a href="/ru/%D0%B4%D0%BE%D1%87%D0%B8%D1%82%D1%8B%D0%B2%D0%B0%D1%82%D1%8C" style="text-align: center;">дочитывать</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">RU</div>
+<a href="/ru/%D0%BE%D1%82%D0%B4%D0%B5%D0%BB%D1%8B%D0%B2%D0%B0%D1%82%D1%8C" style="text-align: center;">отделывать</a>
+</td></tr>
+</tbody>
+</table>
+</div>
+<div class="ui segment">
+<p style="text-align: center;"><b>Do you know these verbs?</b></p>
+<table class="ui celled table">
+<thead><tr>
+<th>Verb</th>
+<th>Translation</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><a href="/lt/apspr%C4%99sti" style="text-align: center;">apspręsti</a></td>
+<td>decide</td>
+</tr>
+<tr>
+<td><a href="/lt/blankti" style="text-align: center;">blankti</a></td>
+<td>sink</td>
+</tr>
+<tr>
+<td><a href="/lt/i%C5%A1verkti" style="text-align: center;">išverkti</a></td>
+<td>cry out</td>
+</tr>
+<tr>
+<td><a href="/lt/%C4%AFteikti" style="text-align: center;">įteikti</a></td>
+<td>present</td>
+</tr>
+<tr>
+<td><a href="/lt/krutinti" style="text-align: center;">krutinti</a></td>
+<td>jiggle</td>
+</tr>
+<tr>
+<td><a href="/lt/palyti" style="text-align: center;">palyti</a></td>
+<td>rain (a little bit)</td>
+</tr>
+<tr>
+<td><a href="/lt/pavaduoti" style="text-align: center;">pavaduoti</a></td>
+<td>substitute</td>
+</tr>
+<tr>
+<td><a href="/lt/prisiliesti" style="text-align: center;">prisiliesti</a></td>
+<td>touch</td>
+</tr>
+<tr>
+<td><a href="/lt/susivienyti" style="text-align: center;">susivienyti</a></td>
+<td>unite</td>
+</tr>
+<tr>
+<td><a href="/lt/%C5%A1nib%C5%BEd%C4%97ti" style="text-align: center;">šnibždėti</a></td>
+<td>whisper</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="QuickNavigation" class="ui segment center aligned fluid vertical menu sticky">
+<a href="#conjugate" class="item"><b>Quick Navigation </b></a><p> <i class="keyboard icon teal"></i><span style="color: grey;">'CTRL + M' anytime to show this menu</span></p>
+<div class="item">
+<a href="#conjugate" style="text-decoration: none; color: inherit;"><b>Conjugations</b></a><div class="menu">
+<a href="#present" class="item">Present tense</a><a href="#past" class="item">Past tense</a><a href="#pastfrequentative" class="item">Past frequentative tense</a><a href="#future" class="item">Future tense</a><a href="#conditional" class="item">Conditional mood</a><a href="#imperative" class="item">Imperative mood</a>
+</div>
+</div>
+<div class="item"><a href="#examples" style="text-decoration: none; color: inherit;"><b>Examples</b></a></div>
+<p style="padding-left: 5px; padding-right: 5px;"> <a href="http://interlinearbooks.com/lithuanian/?r=cjgtr&amp;c=lt" rel="nofollow"><i class="book icon red"></i></a><span style="color: grey;">Have you tried our <a href="http://interlinearbooks.com/lithuanian/?r=cjgtr&amp;c=lt" rel="nofollow">Lithuanian Interlinear Book?</a></span></p>
+</div>
+</div>
+</div>
+<footer><div style="margin-top: 10vh; padding-top: 4vh;" class="ui inverted vertical footer segment grey"><div class="ui center aligned container">
+<div class="ui stackable inverted divided grid">
+<div class="three wide column">
+<h4 class="ui inverted header">CoolJugator</h4>
+<div class="ui inverted link list">
+<a href="/" class="item">Home</a><a href="mailto:cooljugator@techie.com" class="item">Contact us</a><a href="/about/#acknowledgments" class="item">Acknowledgments</a><a href="/about/" class="item">About</a><a href="/game/Index" class="item">Conjugation game</a><a href="/blog/" class="item">Blog</a>
+</div>
+</div>
+<div class="three wide column">
+<h4 class="ui inverted header">Languages</h4>
+<div id="OtherLanguages" class="ui inverted link list">
+<a href="/af/" class="item">Afrikaans</a><a href="/sq/" class="item">Albanian</a><a href="/ar/" class="item">Arabic</a><a href="/az/" class="item">Azeri</a><a href="/eu/" class="item">Basque</a><a href="/ca/" class="item">Catalan</a><a href="/da/" class="item">Danish</a><a href="/nl/" class="item">Dutch</a><a href="/en/" class="item">English</a><a href="/eo/" class="item">Esperanto</a><a href="/ee/" class="item">Estonian</a><a href="/fo/" class="item">Faroese</a><a href="/fi/" class="item">Finnish verbs</a><a href="/fia/" class="item">Finnish adjectives</a><a href="/fin/" class="item">Finnish nouns</a><a href="/fr/" class="item">French</a>
+</div>
+</div>
+<div class="three wide column">
+<h4 class="ui inverted header">   </h4>
+<div id="OtherLanguages" class="ui inverted link list">
+<a href="/de/" class="item">German</a><a href="/hw/" class="item">Hawaiian</a><a href="/he/" class="item">Hebrew</a><a href="/hu/" class="item">Hungarian</a><a href="/it/" class="item">Italian</a><a href="/is/" class="item">Icelandic</a><a href="/id/" class="item">Indonesian</a><a href="/ja/" class="item">Japanese</a><a href="/lt/" class="item">Lithuanian</a><a href="/lv/" class="item">Latvian</a><a href="/mk/" class="item">Macedonian</a><a href="/ms/" class="item">Malay</a><a href="/mt/" class="item">Maltese</a><a href="/mi/" class="item">Maori</a><a href="/gr/" class="item">Modern Greek</a><a href="/no/" class="item">Norwegian</a><a href="/fa/" class="item">Persian</a>
+</div>
+</div>
+<div class="three wide column">
+<h4 class="ui inverted header">  </h4>
+<div id="OtherLanguages" class="ui inverted link list">
+<a href="/pl/" class="item">Polish</a><a href="/pt/" class="item">Portuguese</a><a href="/qu/" class="item">Quechua</a><a href="/ro/" class="item">Romanian</a><a href="/ru/" class="item">Russian verbs</a><a href="/rua/" class="item">Russian adjectives</a><a href="/run/" class="item">Russian nouns</a><a href="/es/" class="item">Spanish</a><a href="/sv/" class="item">Swedish</a><a href="/th/" class="item">Thai</a><a href="/tr/" class="item">Turkish</a><a href="/vi/" class="item">Vietnamese</a>
+</div>
+</div>
+<div class="one wide column"></div>
+</div>
+<div class="ui inverted section divider"></div>
+<a href="/"><img src="/images/logo.png" alt="CoolJugator - an intelligent verb conjugator" class="ui centered image"></a><div class="ui horizontal inverted small divided link list">
+<a href="mailto:cooljugator@techie.com" class="item">Contact us</a><a href="http://facebook.com/cooljugator" class="item">Facebook</a><a href="http://twitter.com/cooljugator" class="item">Twitter</a>
+</div>
+</div></div>
+<script type="text/javascript" src="/javascripts/main.js"></script><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create', 'UA-8339065-3', 'auto');ga('send', 'pageview');</script></footer>
+</div>
+<script>(function(){var uv=document.createElement('script');uv.type='text/javascript';uv.async=true;uv.src='//widget.uservoice.com/uhrNzv9ysf9fNIGfDWgPQ.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(uv,s)})()</script>  <!-- A tab to launch the Classic Widget --> <script> UserVoice = window.UserVoice || []; UserVoice.push(['showTab', 'classic_widget', {   mode: 'feedback',   primary_color: '#00b5ac',   link_color: '#0a8cc6',   forum_id: 123075,   tab_label: 'Feedback',   tab_color: '#00b5ac',   tab_position: 'middle-right',   tab_inverted: false }]); </script>
+</body>
+</html>

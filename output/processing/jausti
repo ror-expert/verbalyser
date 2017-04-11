@@ -1,0 +1,966 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Jausti conjugation in Lithuanian in all forms | CoolJugator.com</title>
+<meta name="description" content="Conjugate the Lithuanian verb jausti in all forms and with usage examples. Jausti conjugation has never been easier!">
+<link rel="stylesheet" type="text/css" href="/components/semantic/dist/semantic.css">
+<link rel="stylesheet" type="text/css" href="/stylesheets/main.css">
+<link rel="stylesheet" type="text/css" href="/stylesheets/languagemap.css">
+<script type="text/javascript" src="/components/jquery/dist/jquery.min.js"></script><script type="text/javascript" src="/components/semantic/dist/semantic.min.js"></script>
+</head>
+<body>
+<div class="ui menu large inverted grey">
+<div id="CoolJugatorLogo" class="item"><a href="/"><img src="/images/logo.png" alt="CoolJugator: the smart verb Conjugator"></a></div>
+<div id="siteLanguageSelection" class="item"><div class="ui dropdown topmenuselection inverted grey">
+<div class="text">Lithuanian</div>
+<i class="dropdown icon"></i><div id="topBarSelectionMenu" class="menu">
+<div data-value="" class="item">Home</div>
+<div data-value="da" class="item">Danish</div>
+<div data-value="en" class="item">English</div>
+<div data-value="eo" class="item">Esperanto</div>
+<div data-value="fr" class="item">French</div>
+<div data-value="ee" class="item">Estonian</div>
+<div data-value="hu" class="item">Hungarian</div>
+<div data-value="it" class="item">Italian</div>
+<div data-value="ja" class="item">Japanese</div>
+<div data-value="lt" class="item">Lithuanian</div>
+<div data-value="lv" class="item">Latvian</div>
+<div data-value="gr" class="item">Modern Greek</div>
+<div data-value="pl" class="item">Polish</div>
+<div data-value="pt" class="item">Portuguese</div>
+<div data-value="ro" class="item">Romanian</div>
+<div data-value="ru" class="item">Russian</div>
+<div data-value="es" class="item">Spanish</div>
+<div data-value="tr" class="item">Turkish</div>
+</div>
+</div></div>
+<div id="topBarSearch" class="item"><div class="ui action input"><input type="text" placeholder="Type verb in Lithuanian or in English..." id="search" autofocus></div></div>
+</div>
+<div class="pusher">
+<div class="ui equal width grid stackable container">
+<div style="display: none;" class="row"><div class="column"><div id="results" class="ui segment"><p></p></div></div></div>
+<div class="row"><div class="column"><div class="ui segment">
+<div class="ui breadcrumb">
+<a href="/" class="section"><i class="home icon"></i>Home</a><i class="right chevron icon divider"></i><a href="/lt/" class="section">Lithuanian</a><i class="right chevron icon divider"></i><div id="individualverb" class="active section">jausti</div>
+</div>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- CoolJugator Top CrumbsBar--><ins style="display:block" data-ad-client="ca-pub-0492579730264989" data-ad-slot="2205579251" data-ad-format="auto" class="adsbygoogle"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div></div></div>
+<div class="eleven wide stretched column"><div id="mainContentArea" class="ui segment"><section id="conjugate"><h1 id="mainTitle">Jausti conjugation</h1>
+<div class="ui centered grid"><div class="center aligned column"><div id="navigationMenu" class="ui compact tabular stackable menu">
+<a href="#conjugate" class="item active">Conjugate</a><a href="#usage" class="item">Usage</a><a href="#examples" class="item">Examples [42]</a><a href="#questions" class="item">Questions [0]</a>
+</div></div></div>
+<h2 class="ui header">
+<i class="list layout teal icon"></i>Conjugate jausti - to feel</h2>
+<div id="mapexplanation" style="text-align: right;"><i data-content="This jausti conjugation map displays how forms of the verb jausti are constructed. Moreover, it also serves as an easy navigation menu: you can click on any part of the map to be taken directly to those forms." class="write info teal icon"></i></div>
+<div id="conjugationmap" style="min-height: 250px" class="ui container"><div class="tree"><ul><li>
+<a href="#">Verb stem jaus-</a><ul>
+<li>
+<a href="#conjugate">Infinitive: jausti</a><ul>
+<li><a href="#future">Future</a></li>
+<li><a href="#pastfrequentative">Past frequentative</a></li>
+<li><a href="#conditional">Conditional</a></li>
+<li><a href="#imperative">Imperative</a></li>
+</ul>
+</li>
+<li>
+<a href="#present">Present (s)he: jaučia</a><ul><li><a href="#present">Present forms</a></li></ul>
+</li>
+<li>
+<a href="#past">Past (s)he: jautė</a><ul><li><a href="#past">Past forms</a></li></ul>
+</li>
+</ul>
+</li></ul></div></div>
+<div style="text-align: right;"><div id="markstress" class="ui button teal">
+<i class="write square icon"></i>Turn on word stress</div></div>
+<div class="ui container">
+<p id="present" class="tensetitle">Present tense</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th data-content="The present forms of the verb jausti in Lithuanian." data-variation="inverted"> Lithuanian Form</th>
+<th data-content="The present forms of the verb jausti translated to English." data-variation="inverted">English Translation</th>
+<th data-content="Click on the icon to see Lithuanian examples of this particular form." data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Aš</div></td>
+<td id="present1" data-stressed="jaučiù">jaučiu </td>
+<td>I feel</td>
+<td><a href="#examplepresent1"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="present2" data-stressed="jautì">jauti </td>
+<td>you feel</td>
+<td><a href="#examplepresent2"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jis/ji</div></td>
+<td id="present3" data-stressed="jaũčia">jaučia </td>
+<td>he/she does feel</td>
+<td><a href="#examplepresent3"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Mes</div></td>
+<td id="present4" data-stressed="jaũčiame">jaučiame </td>
+<td>we feel</td>
+<td><a href="#examplepresent4"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="present5" data-stressed="jaũčiate">jaučiate </td>
+<td>you all feel</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jie/jos</div></td>
+<td id="present6" data-stressed="jaũčia">jaučia </td>
+<td>they feel</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p id="past" class="tensetitle">Past tense</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th data-content="The past forms of the verb jausti in Lithuanian." data-variation="inverted"> Lithuanian Form</th>
+<th data-content="The past forms of the verb jausti translated to English." data-variation="inverted">English Translation</th>
+<th data-content="Click on the icon to see Lithuanian examples of this particular form." data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Aš</div></td>
+<td id="past1" data-stressed="jaučiaũ">jaučiau </td>
+<td>I did feel</td>
+<td><a href="#examplepast1"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="past2" data-stressed="jauteĩ">jautei </td>
+<td>you did feel</td>
+<td><a href="#examplepast2"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jis/ji</div></td>
+<td id="past3" data-stressed="jaũtė">jautė </td>
+<td>he/she did feel</td>
+<td><a href="#examplepast3"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Mes</div></td>
+<td id="past4" data-stressed="jaũtėme">jautėme </td>
+<td>we did feel</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="past5" data-stressed="jaũtėte">jautėte </td>
+<td>you all did feel</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jie/jos</div></td>
+<td id="past6" data-stressed="jaũtė">jautė </td>
+<td>they did feel</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p id="pastfrequentative" class="tensetitle">Past frequentative tense</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th data-content="The past frequentative forms of the verb jausti in Lithuanian." data-variation="inverted"> Lithuanian Form</th>
+<th data-content="The past frequentative forms of the verb jausti translated to English." data-variation="inverted">English Translation</th>
+<th data-content="Click on the icon to see Lithuanian examples of this particular form." data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Aš</div></td>
+<td id="pastperfect1" data-stressed="jaũsdavau">jausdavau </td>
+<td>I used to feel</td>
+<td><a href="#examplepastperfect1"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="pastperfect2" data-stressed="jaũsdavai">jausdavai </td>
+<td>you used to feel</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jis/ji</div></td>
+<td id="pastperfect3" data-stressed="jaũsdavo">jausdavo </td>
+<td>he/she used to feel</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Mes</div></td>
+<td id="pastperfect4" data-stressed="jaũsdavome">jausdavome </td>
+<td>we used to feel</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="pastperfect5" data-stressed="jaũsdavote">jausdavote </td>
+<td>you all used to feel</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jie/jos</div></td>
+<td id="pastperfect6" data-stressed="jaũsdavo">jausdavo </td>
+<td>they used to feel</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p id="future" class="tensetitle">Future tense</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th data-content="The future forms of the verb jausti in Lithuanian." data-variation="inverted"> Lithuanian Form</th>
+<th data-content="The future forms of the verb jausti translated to English." data-variation="inverted">English Translation</th>
+<th data-content="Click on the icon to see Lithuanian examples of this particular form." data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Aš</div></td>
+<td id="future1" data-stressed="jáusiu">jausiu </td>
+<td>I will feel</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="future2" data-stressed="jáusi">jausi </td>
+<td>you will feel</td>
+<td><a href="#examplefuture2"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jis/ji</div></td>
+<td id="future3" data-stressed="jaũs">jaus </td>
+<td>he/she will feel</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Mes</div></td>
+<td id="future4" data-stressed="jáusime">jausime </td>
+<td>we will feel</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="future5" data-stressed="jáusite">jausite </td>
+<td>you all will feel</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jie/jos</div></td>
+<td id="future6" data-stressed="jaũs">jaus </td>
+<td>they will feel</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p id="conditional" class="tensetitle">Conditional mood</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th data-content="The conditional forms of the verb jausti in Lithuanian." data-variation="inverted"> Lithuanian Form</th>
+<th data-content="The conditional forms of the verb jausti translated to English." data-variation="inverted">English Translation</th>
+<th data-content="Click on the icon to see Lithuanian examples of this particular form." data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Aš</div></td>
+<td id="hypothetical1" data-stressed="jaũsčiau">jausčiau </td>
+<td>I would feel</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="hypothetical2" data-stressed="jaũstum">jaustum </td>
+<td>you would feel</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jis/ji</div></td>
+<td id="hypothetical3" data-stressed="jaũstų">jaustų </td>
+<td>he/she would feel</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Mes</div></td>
+<td id="hypothetical4" data-stressed="jaustumè">jaustume </td>
+<td>we would feel</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="hypothetical5" data-stressed="jaustute">jaustute </td>
+<td>you all would feel</td>
+<td></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jie/jos</div></td>
+<td id="hypothetical6" data-stressed="jaũstų">jaustų </td>
+<td>they would feel</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p id="imperative" class="tensetitle">Imperative mood</p>
+<table class="ui selectable celled definition table">
+<thead><tr>
+<th class="two wide"></th>
+<th>Lithuanian Form</th>
+<th>English Translation</th>
+<th data-content="Click on the icon to see examples of this particular form" data-variation="inverted" class="one wide">Ex.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="ui ribbon label">Tu</div></td>
+<td id="command2" data-stressed="jaũsk">jausk </td>
+<td>you feel!</td>
+<td><a href="#examplecommand2"><i class="external teal icon"></i></a></td>
+</tr>
+<tr>
+<td><div class="ui ribbon label">Jūs</div></td>
+<td id="command4" data-stressed="jaũskite">jauskite</td>
+<td>you all feel!</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 class="ui dividing header">Feedback: Noticed a mistake? Have a suggestion?</h3>
+<div id="feedbackMenu">
+<p>Have you noticed a mistake or a bug here somewhere on this page? Have ideas how we can improve our content? Submit a request for us and we will do our best to take your feedback into account!</p>
+<div class="ui container"><f method="post" class="ui review form"><div class="field">
+<input id="fname" name="fsubmitterName" placeholder="Your name..."><input id="fverb" name="fverb" type="hidden" value="jausti"><input id="flanguage" name="flanguage" type="hidden" value="lt"><input id="feedback" name="feedback" type="text" placeholder="Describe your feedback...">
+</div>
+<div style="text-align: center;" class="clear"><button id="givefeedback" type="submit" class="ui teal labeled icon button"><i class="bug icon"></i>    Submit for review</button></div></f></div>
+<div class="ui divider"></div>
+</div>
+<section id="usage"><p style="font-size: 1.714rem; padding-top: 8vh; padding-bottom: 4vh; color: rgba(0, 0, 0, 0.87);" class="ui header usageheader"><i class="info teal icon"></i>Usage information for jausti</p>
+<p>There is no additional usage information for the verb jausti.</p></section><section id="examples"><h3 style="font-size: 1.714rem; padding-top: 8vh; padding-bottom: 4vh; color: rgba(0, 0, 0, 0.87);" class="ui header">
+<i class="quote left teal icon"></i>Examples of jausti</h3>
+<table id="ExampleSentences" class="ui celled striped table">
+<thead><tr>
+<th data-content="An example sentence in Lithuanian. Our example sentences are picked from multiple sources with real world spoken or written language." data-variation="inverted" class="eight wide">Example in Lithuanian</th>
+<th data-content="The translation of the example in the English language, with the relevant part highlighted if possible." data-variation="inverted" class="eight wide">Translation in English</th>
+<th data-content="A link to the conjugated form - move your mouse over it to find out which form it is, or click on it to go back to the conjugation of that form." data-variation="inverted" class="one wide">Fm.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td id="exampleinfinitive0">Iš esmės gyvūno sąmoningumas – tai jo gebėjimas <span class="highlightsample">jausti</span> emocijas ir kontroliuoti valingus judesius.</td>
+<td>The consciousness of an animal is essentially its ability <span class="highlightsample">to feel</span> emotions and control its voluntary mobility.</td>
+<td><a href="#conjugate"><i data-content="An instance of the main form." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="exampleinfinitive0-1">Gyvūno jautrumas – tai iš esmės jo gebėjimas <span class="highlightsample">jausti</span> skausmą.</td>
+<td>Sensibility of an animal is essentially its ability <span class="highlightsample">to feel</span> pain.</td>
+<td><a href="#conjugate"><i data-content="An instance of the main form." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="exampleinfinitive0-2">MOTOE 4, nepriklausoma Graikijos motociklų sporto federacija, pradėjo <span class="highlightsample">jausti</span> šio dvigubo ELPA vaidmens poveikį.</td>
+<td>MOTOE, 4 an independent Greek motorcycling association, came <span class="highlightsample">to feel</span> the effects of ELPA’s dual role.</td>
+<td><a href="#conjugate"><i data-content="An instance of the main form." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="exampleinfinitive0-3">Nieko neurite <span class="highlightsample">jausti</span>. Lekteris tai padare pramogaudamas.</td>
+<td>You don't have <span class="highlightsample">to feel</span> any way about it.</td>
+<td><a href="#conjugate"><i data-content="An instance of the main form." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="exampleinfinitive0-4">Tiesa ta, kad draugas kaip šis, tikras draugas, tokio tu nesutiksi dar sykį. Jei tiesiog nusprendei su jūra viską baigti, jei nori <span class="highlightsample">jausti</span> kažką stabilesnio po savo kojomis,</td>
+<td>The fact is, a friend like that, a real friend, you won't meet again if you decide to go on land, if you just want <span class="highlightsample">to feel</span> something solid under your feet</td>
+<td><a href="#conjugate"><i data-content="An instance of the main form." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent1">Baigiantis mano darbo kaip Europos Komisijos narės atsakingos už žemės ūkį ir kaimo plėtrą laikotarpiui <span class="highlightsample">jaučiu</span> didelį pasitenkinimą.</td>
+<td>And at the end of this period, I <span class="highlightsample">feel</span> a great satisfaction.</td>
+<td><a href="#present1"><i data-content="A 1st person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent1-1">Mano darbas įvairus, darbo atmosferapuiki. Be to, <span class="highlightsample">jaučiu</span>, kad padėdamasžmonėms geriau atlikti savo darbą kartu padedu kurti Europą.“</td>
+<td>I have responsibility.It changes all the time and the atmosphere with colleagues is magnificent.In addition, I <span class="highlightsample">feel</span> I’m helping build Europe by helping people do their jobbetter.’</td>
+<td><a href="#present1"><i data-content="A 1st person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent1-2">Negalėčiauspėti, kokie bus šio svarstymo rezultatai ir tokio svarstymo tvarkaraštis, tačiau <span class="highlightsample">jaučiu</span>, jog neturėtume vengti šios temos.</td>
+<td>I would not predict the outcome, nor the timetable of such a reflection, but my <span class="highlightsample">feel</span>ing is we should notavoid it.</td>
+<td><a href="#present1"><i data-content="A 1st person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent1-3">Aš <span class="highlightsample">jaučiu</span>, kad mano, kaip Europos ombudsmeno, pareiga yra ir toliau viešai skelbti Kodekse minimas teises ir pareigas.</td>
+<td>As European Ombudsman, I <span class="highlightsample">feel</span> it is my duty to further raise awareness of the rights and obligations contained therein.</td>
+<td><a href="#present1"><i data-content="A 1st person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent1-4">Viktorai, <span class="highlightsample">jaučiu</span>, kad mums nereiktų čia likti.</td>
+<td>Victor, l <span class="highlightsample">feel</span> somehow we shouldn't stay here.</td>
+<td><a href="#present1"><i data-content="A 1st person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent2">Tu ką nors <span class="highlightsample">jauti</span>?</td>
+<td>Do you <span class="highlightsample">feel</span> anything?</td>
+<td><a href="#present2"><i data-content="A 2nd person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent2-1">Ką nors <span class="highlightsample">jauti</span>?</td>
+<td>Do you <span class="highlightsample">feel</span> anything?</td>
+<td><a href="#present2"><i data-content="A 2nd person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent2-2">Semai, ar <span class="highlightsample">jauti</span> mane?</td>
+<td>Sam, can you <span class="highlightsample">feel</span> me?</td>
+<td><a href="#present2"><i data-content="A 2nd person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent2-3">Pamanyčiau, kad <span class="highlightsample">jauti</span> kažkokius jausmus šiam pabaisai.</td>
+<td>If I didn't know better I'd think you had <span class="highlightsample">feel</span>ings for this monster.</td>
+<td><a href="#present2"><i data-content="A 2nd person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent2-4">Aš noriu sužinoti, ką tu <span class="highlightsample">jauti</span>.</td>
+<td>I want to know how you <span class="highlightsample">feel</span>.</td>
+<td><a href="#present2"><i data-content="A 2nd person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent3">Ką žmogus <span class="highlightsample">jaučia</span> ir viskas.</td>
+<td>It's what a person <span class="highlightsample">does feel</span> that counts.</td>
+<td><a href="#present3"><i data-content="A 3rd person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent4">Netgi būdami tokioj apgailėtinoj būsenoj... <span class="highlightsample">jaučiame</span> kaip mus vilioja Tibetas... Dalai Lamos namai.</td>
+<td>Even in our miserable condition... we <span class="highlightsample">feel</span> the lure of Tlbet 's holiest city... home of the Dalai Lama.</td>
+<td><a href="#present4"><i data-content="A 4th person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent4-1">Kaip mums suvokti tai, ką <span class="highlightsample">jaučiame</span>?</td>
+<td>How do we make sense of the <span class="highlightsample">feel</span>ings we're left with?</td>
+<td><a href="#present4"><i data-content="A 4th person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent4-2">Tiesiog mes <span class="highlightsample">jaučiame</span> kad tu ir ši programa pribrendo išsiskyrimui....</td>
+<td>It's just that we <span class="highlightsample">feel</span> that, well, you and the program... have, uh, g-grown apart, uh--</td>
+<td><a href="#present4"><i data-content="A 4th person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent4-3">Mes visi tai <span class="highlightsample">jaučiame</span>.</td>
+<td>We all <span class="highlightsample">feel</span> it.</td>
+<td><a href="#present4"><i data-content="A 4th person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepresent4-4">Nes, per meilę mes <span class="highlightsample">jaučiame</span> mūsų ryšio stiprumą viskam ir visiems ir širdyje, mes visi vienodi</td>
+<td>Because, through love, we <span class="highlightsample">feel</span> the intensity of our connection to everything and everyone, and at the core, we're all the same.</td>
+<td><a href="#present4"><i data-content="A 4th person form of the Present." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast1">Atrodė tarsi kažkas mane užbūrė ir visos mano nuojautos, tas jausmą kurį <span class="highlightsample">jaučiau</span>, tarsi... būtų kas nors nušlavę.</td>
+<td>It was like she kind of put a spell on me and all my foreboding, that feeling I had, just... kind of vanished.</td>
+<td><a href="#past1"><i data-content="A 1st person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast1-1">Aš jį <span class="highlightsample">jaučiau</span>.</td>
+<td>And I feel it.</td>
+<td><a href="#past1"><i data-content="A 1st person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast1-2">Vistiek turbūt tai nebūtų nieko pakeitę. visų tų jausmų, kuriuos <span class="highlightsample">jaučiau</span> pastaruoju metu.</td>
+<td>It probably wouldn't have changed all these feelings that I've been having lately anyway.</td>
+<td><a href="#past1"><i data-content="A 1st person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast1-3">Aš <span class="highlightsample">jaučiau</span> tai, ko jau seniai nebejaučiu su tavimi.</td>
+<td>And I felt like you haven't made me feel in years.</td>
+<td><a href="#past1"><i data-content="A 1st person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast1-4">Supratau, kad sapnuoju, bet... <span class="highlightsample">jaučiau</span>, kad name</td>
+<td>I knew I was asleep in the dream, but I could feel that someone was awake in the house.</td>
+<td><a href="#past1"><i data-content="A 1st person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast2">Kai sakei, kad tau atrodo, jog Semas yra čia, kad jis su tavim kalbasi, katu <span class="highlightsample">jautei</span>?</td>
+<td>When you said you thought that Sam was here, that he was talking to you what did you feel? What did he say to you?</td>
+<td><a href="#past2"><i data-content="A 2nd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast2-1">Ką po to <span class="highlightsample">jautei</span>?</td>
+<td>How did that make you feel?</td>
+<td><a href="#past2"><i data-content="A 2nd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast2-2">Ką tu <span class="highlightsample">jautei</span> Mardžorei Nadžent?</td>
+<td>How did you feel about Marjorie Nugent?</td>
+<td><a href="#past2"><i data-content="A 2nd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast2-3">- Ką <span class="highlightsample">jautei</span> maudamas juos ant kuolų?</td>
+<td>And when yöu put them to the stake, what did yöu feel?</td>
+<td><a href="#past2"><i data-content="A 2nd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast3">Neįprastai <span class="highlightsample">jautė</span> gėdą atėjusią į šeimą ir buvo labai tylūs.</td>
+<td>A strange feeling of shame had come over the family and they were very quiet.</td>
+<td><a href="#past3"><i data-content="A 3rd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast3-1">- Ar jis <span class="highlightsample">jautė</span>...</td>
+<td>- Was he feeling...</td>
+<td><a href="#past3"><i data-content="A 3rd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast3-2">Galbūt taip galvodami <span class="highlightsample">jautė</span> ir kaltės jausmą, tačiau tai ilgai netrukdavo.</td>
+<td>Maybe they felt a little guilty thinking that way, but that feeling didn't last long.</td>
+<td><a href="#past3"><i data-content="A 3rd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast3-3">Tomas <span class="highlightsample">jautė</span> karštus panikos botagus.</td>
+<td>Tom was feeling the hot whips of panic.</td>
+<td><a href="#past3"><i data-content="A 3rd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepast3-4">Pajusti, ką jis <span class="highlightsample">jautė</span>...</td>
+<td>Feel what he was feeling...</td>
+<td><a href="#past3"><i data-content="A 3rd person form of the Past." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepastperfect1">Darydamas tai, arba žiūrėdamas į tai <span class="highlightsample">jausdavau</span> didelį malonumą, ekstazę.</td>
+<td>Doing it or watching it, I <span class="highlightsample">used to feel</span> real horrorshow.</td>
+<td><a href="#pastperfect1"><i data-content="A 1st person form of the Past frequentative." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplepastperfect1-1">Aikštėje <span class="highlightsample">jausdavau</span>, kad gyvenu.</td>
+<td>I <span class="highlightsample">used to feel</span> so alive out there.</td>
+<td><a href="#pastperfect1"><i data-content="A 1st person form of the Past frequentative." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplefuture2">Ir tu <span class="highlightsample">jausi</span> kiekvieną dūrį.</td>
+<td>And you <span class="highlightsample">will feel</span> each poke.</td>
+<td><a href="#future2"><i data-content="A 2nd person form of the Future." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="example">
+<span class="highlightsample"></span>N<span class="highlightsample"></span>e<span class="highlightsample"></span>n<span class="highlightsample"></span>o<span class="highlightsample"></span>r<span class="highlightsample"></span>i<span class="highlightsample"></span>m<span class="highlightsample"></span>e<span class="highlightsample"></span>,<span class="highlightsample"></span> <span class="highlightsample"></span>k<span class="highlightsample"></span>a<span class="highlightsample"></span>d<span class="highlightsample"></span> <span class="highlightsample"></span>j<span class="highlightsample"></span>a<span class="highlightsample"></span>u<span class="highlightsample"></span>s<span class="highlightsample"></span>t<span class="highlightsample"></span>u<span class="highlightsample"></span>m<span class="highlightsample"></span>ė<span class="highlightsample"></span>t<span class="highlightsample"></span>e<span class="highlightsample"></span> <span class="highlightsample"></span>s<span class="highlightsample"></span>k<span class="highlightsample"></span>a<span class="highlightsample"></span>u<span class="highlightsample"></span>s<span class="highlightsample"></span>m<span class="highlightsample"></span>ą<span class="highlightsample"></span>.<span class="highlightsample"></span>
+</td>
+<td>
+<span class="highlightsample"></span>-<span class="highlightsample"></span> <span class="highlightsample"></span>W<span class="highlightsample"></span>e<span class="highlightsample"></span> <span class="highlightsample"></span>d<span class="highlightsample"></span>o<span class="highlightsample"></span>n<span class="highlightsample"></span>'<span class="highlightsample"></span>t<span class="highlightsample"></span> <span class="highlightsample"></span>w<span class="highlightsample"></span>a<span class="highlightsample"></span>n<span class="highlightsample"></span>t<span class="highlightsample"></span> <span class="highlightsample"></span>y<span class="highlightsample"></span>o<span class="highlightsample"></span>u<span class="highlightsample"></span> <span class="highlightsample"></span>t<span class="highlightsample"></span>o<span class="highlightsample"></span> <span class="highlightsample"></span>f<span class="highlightsample"></span>e<span class="highlightsample"></span>e<span class="highlightsample"></span>l<span class="highlightsample"></span> <span class="highlightsample"></span>a<span class="highlightsample"></span>n<span class="highlightsample"></span>y<span class="highlightsample"></span> <span class="highlightsample"></span>p<span class="highlightsample"></span>a<span class="highlightsample"></span>i<span class="highlightsample"></span>n<span class="highlightsample"></span>.<span class="highlightsample"></span>
+</td>
+<td></td>
+</tr>
+<tr>
+<td id="examplecommand2">Dabar <span class="highlightsample">jausk</span> malonų skausmą.</td>
+<td>Now <span class="highlightsample">feel</span> the delightful pain.</td>
+<td><a href="#command2"><i data-content="A 2nd person form of the  verb." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplecommand2-1">O, <span class="highlightsample">jausk</span> tai.</td>
+<td>Oh, <span class="highlightsample">feel</span> it.</td>
+<td><a href="#command2"><i data-content="A 2nd person form of the  verb." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+<tr>
+<td id="examplecommand2-2">Gyvenk, ir <span class="highlightsample">jausk</span> meilę.</td>
+<td>That could live and <span class="highlightsample">feel</span> love.</td>
+<td><a href="#command2"><i data-content="A 2nd person form of the  verb." data-variation="inverted" class="reply teal icon"></i></a></td>
+</tr>
+</tbody>
+</table></section><section id="questions"><div class="ui comments"><h4 style="font-size: 1.714rem; padding-top: 8vh; padding-bottom: 4vh; color: rgba(0, 0, 0, 0.87);" class="ui header">
+<i class="help teal icon"></i>Questions and answers about jausti conjugation</h4></div>
+<div id="questionmenu">
+<h3 class="ui dividing header">Still don't understand something? Ask and receive a reply!</h3>
+<p>Ask us a question about this word and get it replied to here. Questions are answered by experienced language speakers.</p>
+<div class="ui center aligned container"><f class="ui reply form"><div class="field">
+<input id="fname" name="submitterName" placeholder="Your name..."><input id="qverb" name="qverb" type="hidden" value="jausti"><input id="qlanguage" name="qlanguage" type="hidden" value="lt">
+</div>
+<div class="field"><textarea id="question" name="question" rows="5"></textarea></div>
+<div id="askquestion" class="ui teal labeled submit icon button">
+<i class="icon edit"></i> Ask question about jausti</div></f></div>
+</div></section><div class="content"></div></section></div></div>
+<div class="five wide column">
+<div class="ui segment"><div style="text-align: center;">
+<b>Work in progress</b><p style="padding-top: 10px;"><span style="color: grey; text-align: justify;"><i class="announcement icon red big"></i>Help us become the best conjugation resource. <a href="http://cooljugator.com/blog/2016/12/16/cooljugators-mission">Find out more</a>. </span></p>
+</div></div>
+<div class="ui segment"><div style="text-align: center;">
+<b>Play Lithuanian conjugation game!</b><p style="padding-top: 10px;"><span style="color: grey; text-align: justify;"><i class="game icon orange big"></i>Practice Lithuanian verb conjugation with real sentences in our free <a href="http://cooljugator.com/game/Index">game</a>. Try now!</span></p>
+</div></div>
+<div class="ui segment"><div style="text-align: center;">
+<b>Tip: CTRL + M for navigation!</b><p style="padding-top: 10px;"><span style="color: grey; text-align: justify;"> <i class="keyboard icon teal"></i>You can access a quick navigation menu with the shortcut 'CTRL + M'.</span></p>
+</div></div>
+<div class="ui segment"><div style="text-align: center;">
+<b>Learn Lithuanian with our subtitled book!</b><p><a href="http://interlinearbooks.com/lithuanian/?r=cjgtr&amp;c=lt" rel="nofollow"><img src="/images/presentation_lt.png" style="width: 98%; padding-top: 10px;"></a></p>
+<p>Check out our new product - a novel subtitled Interlinear book in Lithuanian to get reading practice! Click on the 'Try out' button below.</p>
+<a href="http://interlinearbooks.com/lithuanian/?r=cjgtr&amp;c=lt" rel="nofollow"><div style="vertical-align: middle;" class="ui submit button large red">Try out</div></a>
+</div></div>
+<div class="ui segment center aligned">
+<p><b>Receive most useful verbs, tips and other info free!</b><!-- Begin MailChimp Signup Form--></p>
+<!-- Begin MailChimp Signup Form--><div id="mc_embed_signup"><form id="mc-embedded-subscribe-form" action="//cooljugator.us13.list-manage.com/subscribe/post?u=ceca7eaaa8f7bfdc14e243ae2&amp;id=980c8f3061" method="post" name="mc-embedded-subscribe-form" target="_blank" novalidate="" class="validate ui form error center aligned"><div id="mc_embed_signup_scroll">
+<div class="mc-field-group one field center aligned"><div class="field large">
+<label for="mce-EMAIL">Email Address</label><input id="mce-EMAIL" type="email" value="" name="EMAIL" class="required email">
+</div></div>
+<div class="mc-field-group input-group"></div>
+<div class="ui center aligned grid">
+<div id="newsletterlanguageselection" style="margin-top: 1.3rem; margin-bottom: 2rem;" class="ui button teal">Select the language(s) you're interested in</div>
+<div class="ui fluid popup top left transition hidden"><div class="ui four column divided center aligned grid"><ul>
+<li style="list-style-type: none">
+<input type="checkbox" value="1" name="group[2381][1]" id="mce-group[2381]-2381-0"><label for="mce-group[2381]-2381-0">  English</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="2" name="group[2381][2]" id="mce-group[2381]-2381-1"><label for="mce-group[2381]-2381-1">  Esperanto</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="4" name="group[2381][4]" id="mce-group[2381]-2381-2"><label for="mce-group[2381]-2381-2">  Estonian</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="8192" name="group[2381][8192]" id="mce-group[2381]-2381-13"><label for="mce-group[2381]-2381-13">  Hungarian</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="8" name="group[2381][8]" id="mce-group[2381]-2381-3"><label for="mce-group[2381]-2381-3">  Latvian</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" checked value="16" name="group[2381][16]" id="mce-group[2381]-2381-4"><label for="mce-group[2381]-2381-4">  Lithuanian</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="32" name="group[2381][32]" id="mce-group[2381]-2381-5"><label for="mce-group[2381]-2381-5">  Modern Greek</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="2048" name="group[2381][2048]" id="mce-group[2381]-2381-11"><label for="mce-group[2381]-2381-11">  Polish</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="128" name="group[2381][128]" id="mce-group[2381]-2381-6"><label for="mce-group[2381]-2381-6">  Portuguese</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="64" name="group[2381][64]" id="mce-group[2381]-2381-7"><label for="mce-group[2381]-2381-7">  Russian</label>
+</li>
+<li style="list-style-type: none">
+<input type="checkbox" value="4096" name="group[2381][4096]" id="mce-group[2381]-2381-12"><label for="mce-group[2381]-2381-12">   Spanish</label>
+</li>
+</ul></div></div>
+</div>
+<div id="mce-responses" class="clear">
+<div id="mce-error-response" style="display:none" class="response"></div>
+<div id="mce-success-response" style="display:none" class="response"></div>
+</div>
+<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--><div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_ceca7eaaa8f7bfdc14e243ae2_980c8f3061" tabindex="-1" value=""></div>
+<div style="text-align: center;" class="clear"><input id="mc-embedded-subscribe" type="submit" value="Subscribe" name="subscribe" style="text-align: center; vertical-align: middle;" class="ui submit button large teal"></div>
+</div></form></div>
+<!-- End mc_embed_signup-->
+</div>
+<div class="ui segment"><p style="text-align: center;"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- New 15 May 2016 CoolJugator flexible ad--><ins style="display:block" data-ad-client="ca-pub-0492579730264989" data-ad-slot="4873833251" data-ad-format="auto" class="adsbygoogle"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></p></div>
+<div class="ui segment">
+<p style="text-align: center;"><b>Related verbs</b></p>
+<table class="ui celled table">
+<thead><tr>
+<th>Verb</th>
+<th>Translation</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><a href="/lt/nujausti" style="text-align: center;">nujausti</a></td>
+<td>anticipate</td>
+</tr>
+<tr>
+<td><a href="/lt/pasijausti" style="text-align: center;">pasijausti</a></td>
+<td>feel</td>
+</tr>
+<tr>
+<td><a href="/lt/prijausti" style="text-align: center;">prijausti</a></td>
+<td>sympathize</td>
+</tr>
+<tr>
+<td><a href="/lt/u%C5%BEjausti" style="text-align: center;">užjausti</a></td>
+<td>sympathize</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="ui segment">
+<p style="text-align: center;"><b>Similar verbs</b></p>
+<table class="ui celled table">
+<thead><tr>
+<th>Verb</th>
+<th>Translation</th>
+</tr></thead>
+<tbody>
+<tr>
+<td style="font-weight: bold;">Same length:</td>
+<td> </td>
+</tr>
+<tr>
+<td> <a href="/lt/bausti" style="text-align: center;">bausti</a>
+</td>
+<td>punish</td>
+</tr>
+<tr>
+<td> <a href="/lt/jaukti" style="text-align: center;">jaukti</a>
+</td>
+<td>mess</td>
+</tr>
+<tr>
+<td> <a href="/lt/jauktis" style="text-align: center;">jauktis</a>
+</td>
+<td>become cluttered</td>
+</tr>
+<tr>
+<td> <a href="/lt/jaustis" style="text-align: center;">jaustis</a>
+</td>
+<td>feel</td>
+</tr>
+<tr>
+<td> <a href="/lt/rausti" style="text-align: center;">rausti</a>
+</td>
+<td>blush</td>
+</tr>
+<tr>
+<td> <a href="/lt/raustis" style="text-align: center;">raustis</a>
+</td>
+<td>grub</td>
+</tr>
+<tr>
+<td> <a href="/lt/siusti" style="text-align: center;">siusti</a>
+</td>
+<td>rage</td>
+</tr>
+<tr>
+<td> <a href="/lt/skusti" style="text-align: center;">skusti</a>
+</td>
+<td>pare</td>
+</tr>
+<tr>
+<td> <a href="/lt/skustis" style="text-align: center;">skustis</a>
+</td>
+<td>shave</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">Different length:</td>
+<td> </td>
+</tr>
+<tr>
+<td> <a href="/lt/nujausti" style="text-align: center;">nujausti</a>
+</td>
+<td>anticipate</td>
+</tr>
+<tr>
+<td> <a href="/lt/u%C5%BEjausti" style="text-align: center;">užjausti</a>
+</td>
+<td>sympathize</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="ui segment">
+<p style="text-align: center;"><b>Other Lithuanian verbs with the meaning <span style="text-decoration: underline;">feel</span></b></p>
+<table class="ui celled table">
+<thead><tr><th>Verb</th></tr></thead>
+<tbody>
+<tr><td> <a href="/lt/jaustis" style="text-align: center;">jaustis</a>
+</td></tr>
+<tr><td> <a href="/lt/justi" style="text-align: center;">justi</a>
+</td></tr>
+<tr><td> <a href="/lt/pajausti" style="text-align: center;">pajausti</a>
+</td></tr>
+<tr><td> <a href="/lt/pajusti" style="text-align: center;">pajusti</a>
+</td></tr>
+<tr><td> <a href="/lt/pasijausti" style="text-align: center;">pasijausti</a>
+</td></tr>
+<tr><td> <a href="/lt/pasijusti" style="text-align: center;">pasijusti</a>
+</td></tr>
+</tbody>
+</table>
+</div>
+<div class="ui segment">
+<p style="text-align: center;"><b>Verb <span style="text-decoration: underline;">feel</span> in other languages</b></p>
+<table id="VerbinOtherLanguages" class="ui celled table">
+<thead><tr><th>Verb</th></tr></thead>
+<tbody>
+<tr><td>
+<div class="ui ribon label">EN</div>
+<a href="/en/feel" style="text-align: center;">feel</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">GR</div>
+<a href="/gr/%CE%B1%CE%B9%CF%83%CE%B8%CE%AC%CE%BD%CE%BF%CE%BC%CE%B1%CE%B9" style="text-align: center;">αισθάνομαι</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">GR</div>
+<a href="/gr/%CE%BD%CE%B9%CF%8E%CE%B8%CF%89" style="text-align: center;">νιώθω</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">LV</div>
+<a href="/lv/just" style="text-align: center;">just</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">LV</div>
+<a href="/lv/justies" style="text-align: center;">justies</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">LV</div>
+<a href="/lv/sajust" style="text-align: center;">sajust</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">PL</div>
+<a href="/pl/czu%C4%87" style="text-align: center;">czuć</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">PL</div>
+<a href="/pl/maca%C4%87" style="text-align: center;">macać</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">PL</div>
+<a href="/pl/odczu%C4%87" style="text-align: center;">odczuć</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">PL</div>
+<a href="/pl/odczuwa%C4%87" style="text-align: center;">odczuwać</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">PL</div>
+<a href="/pl/poczu%C4%87" style="text-align: center;">poczuć</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">PL</div>
+<a href="/pl/uczu%C4%87" style="text-align: center;">uczuć</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">PL</div>
+<a href="/pl/wyczu%C4%87" style="text-align: center;">wyczuć</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">PL</div>
+<a href="/pl/wymaca%C4%87" style="text-align: center;">wymacać</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">RU</div>
+<a href="/ru/%D0%BE%D1%89%D1%83%D1%82%D0%B8%D1%82%D1%8C" style="text-align: center;">ощутить</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">RU</div>
+<a href="/ru/%D0%BE%D1%89%D1%83%D1%89%D0%B0%D1%82%D1%8C" style="text-align: center;">ощущать</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">RU</div>
+<a href="/ru/%D0%BF%D0%BE%D1%87%D1%83%D0%B2%D1%81%D1%82%D0%B2%D0%BE%D0%B2%D0%B0%D1%82%D1%8C" style="text-align: center;">почувствовать</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">RU</div>
+<a href="/ru/%D0%BF%D0%BE%D1%89%D1%83%D0%BF%D0%B0%D1%82%D1%8C" style="text-align: center;">пощупать</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">RU</div>
+<a href="/ru/%D0%BF%D1%80%D0%BE%D1%87%D1%83%D0%B2%D1%81%D1%82%D0%B2%D0%BE%D0%B2%D0%B0%D1%82%D1%8C" style="text-align: center;">прочувствовать</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">RU</div>
+<a href="/ru/%D1%87%D1%83%D0%B2%D1%81%D1%82%D0%B2%D0%BE%D0%B2%D0%B0%D1%82%D1%8C" style="text-align: center;">чувствовать</a>
+</td></tr>
+<tr><td>
+<div class="ui ribon label">RU</div>
+<a href="/ru/%D1%89%D1%83%D0%BF%D0%B0%D1%82%D1%8C" style="text-align: center;">щупать</a>
+</td></tr>
+</tbody>
+</table>
+</div>
+<div class="ui segment">
+<p style="text-align: center;"><b>Do you know these verbs?</b></p>
+<table class="ui celled table">
+<thead><tr>
+<th>Verb</th>
+<th>Translation</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><a href="/lt/atsigriebti" style="text-align: center;">atsigriebti</a></td>
+<td>get back (at somebody)</td>
+</tr>
+<tr>
+<td><a href="/lt/atsilyginti" style="text-align: center;">atsilyginti</a></td>
+<td>return (a favor or a debt)</td>
+</tr>
+<tr>
+<td><a href="/lt/g%C4%97dinti" style="text-align: center;">gėdinti</a></td>
+<td>shame</td>
+</tr>
+<tr>
+<td><a href="/lt/nugal%C4%97ti" style="text-align: center;">nugalėti</a></td>
+<td>overcome</td>
+</tr>
+<tr>
+<td><a href="/lt/prana%C5%A1auti" style="text-align: center;">pranašauti</a></td>
+<td>foretell</td>
+</tr>
+<tr>
+<td><a href="/lt/sublogti" style="text-align: center;">sublogti</a></td>
+<td>lose weight</td>
+</tr>
+<tr>
+<td><a href="/lt/sugriauti" style="text-align: center;">sugriauti</a></td>
+<td>destroy</td>
+</tr>
+<tr>
+<td><a href="/lt/susitelkti" style="text-align: center;">susitelkti</a></td>
+<td>concentrate</td>
+</tr>
+<tr>
+<td><a href="/lt/u%C5%BEdirbti" style="text-align: center;">uždirbti</a></td>
+<td>earn</td>
+</tr>
+<tr>
+<td><a href="/lt/%C5%AB%C5%BEti" style="text-align: center;">ūžti</a></td>
+<td>buzz</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="QuickNavigation" class="ui segment center aligned fluid vertical menu sticky">
+<a href="#conjugate" class="item"><b>Quick Navigation </b></a><p> <i class="keyboard icon teal"></i><span style="color: grey;">'CTRL + M' anytime to show this menu</span></p>
+<div class="item">
+<a href="#conjugate" style="text-decoration: none; color: inherit;"><b>Conjugations</b></a><div class="menu">
+<a href="#present" class="item">Present tense</a><a href="#past" class="item">Past tense</a><a href="#pastfrequentative" class="item">Past frequentative tense</a><a href="#future" class="item">Future tense</a><a href="#conditional" class="item">Conditional mood</a><a href="#imperative" class="item">Imperative mood</a>
+</div>
+</div>
+<div class="item"><a href="#examples" style="text-decoration: none; color: inherit;"><b>Examples</b></a></div>
+<p style="padding-left: 5px; padding-right: 5px;"> <a href="http://interlinearbooks.com/lithuanian/?r=cjgtr&amp;c=lt" rel="nofollow"><i class="book icon red"></i></a><span style="color: grey;">Have you tried our <a href="http://interlinearbooks.com/lithuanian/?r=cjgtr&amp;c=lt" rel="nofollow">Lithuanian Interlinear Book?</a></span></p>
+</div>
+</div>
+</div>
+<footer><div style="margin-top: 10vh; padding-top: 4vh;" class="ui inverted vertical footer segment grey"><div class="ui center aligned container">
+<div class="ui stackable inverted divided grid">
+<div class="three wide column">
+<h4 class="ui inverted header">CoolJugator</h4>
+<div class="ui inverted link list">
+<a href="/" class="item">Home</a><a href="mailto:cooljugator@techie.com" class="item">Contact us</a><a href="/about/#acknowledgments" class="item">Acknowledgments</a><a href="/about/" class="item">About</a><a href="/game/Index" class="item">Conjugation game</a><a href="/blog/" class="item">Blog</a>
+</div>
+</div>
+<div class="three wide column">
+<h4 class="ui inverted header">Languages</h4>
+<div id="OtherLanguages" class="ui inverted link list">
+<a href="/af/" class="item">Afrikaans</a><a href="/sq/" class="item">Albanian</a><a href="/ar/" class="item">Arabic</a><a href="/az/" class="item">Azeri</a><a href="/eu/" class="item">Basque</a><a href="/ca/" class="item">Catalan</a><a href="/da/" class="item">Danish</a><a href="/nl/" class="item">Dutch</a><a href="/en/" class="item">English</a><a href="/eo/" class="item">Esperanto</a><a href="/ee/" class="item">Estonian</a><a href="/fo/" class="item">Faroese</a><a href="/fi/" class="item">Finnish verbs</a><a href="/fia/" class="item">Finnish adjectives</a><a href="/fin/" class="item">Finnish nouns</a><a href="/fr/" class="item">French</a>
+</div>
+</div>
+<div class="three wide column">
+<h4 class="ui inverted header">   </h4>
+<div id="OtherLanguages" class="ui inverted link list">
+<a href="/de/" class="item">German</a><a href="/hw/" class="item">Hawaiian</a><a href="/he/" class="item">Hebrew</a><a href="/hu/" class="item">Hungarian</a><a href="/it/" class="item">Italian</a><a href="/is/" class="item">Icelandic</a><a href="/id/" class="item">Indonesian</a><a href="/ja/" class="item">Japanese</a><a href="/lt/" class="item">Lithuanian</a><a href="/lv/" class="item">Latvian</a><a href="/mk/" class="item">Macedonian</a><a href="/ms/" class="item">Malay</a><a href="/mt/" class="item">Maltese</a><a href="/mi/" class="item">Maori</a><a href="/gr/" class="item">Modern Greek</a><a href="/no/" class="item">Norwegian</a><a href="/fa/" class="item">Persian</a>
+</div>
+</div>
+<div class="three wide column">
+<h4 class="ui inverted header">  </h4>
+<div id="OtherLanguages" class="ui inverted link list">
+<a href="/pl/" class="item">Polish</a><a href="/pt/" class="item">Portuguese</a><a href="/qu/" class="item">Quechua</a><a href="/ro/" class="item">Romanian</a><a href="/ru/" class="item">Russian verbs</a><a href="/rua/" class="item">Russian adjectives</a><a href="/run/" class="item">Russian nouns</a><a href="/es/" class="item">Spanish</a><a href="/sv/" class="item">Swedish</a><a href="/th/" class="item">Thai</a><a href="/tr/" class="item">Turkish</a><a href="/vi/" class="item">Vietnamese</a>
+</div>
+</div>
+<div class="one wide column"></div>
+</div>
+<div class="ui inverted section divider"></div>
+<a href="/"><img src="/images/logo.png" alt="CoolJugator - an intelligent verb conjugator" class="ui centered image"></a><div class="ui horizontal inverted small divided link list">
+<a href="mailto:cooljugator@techie.com" class="item">Contact us</a><a href="http://facebook.com/cooljugator" class="item">Facebook</a><a href="http://twitter.com/cooljugator" class="item">Twitter</a>
+</div>
+</div></div>
+<script type="text/javascript" src="/javascripts/main.js"></script><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create', 'UA-8339065-3', 'auto');ga('send', 'pageview');</script></footer>
+</div>
+<script>(function(){var uv=document.createElement('script');uv.type='text/javascript';uv.async=true;uv.src='//widget.uservoice.com/uhrNzv9ysf9fNIGfDWgPQ.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(uv,s)})()</script>  <!-- A tab to launch the Classic Widget --> <script> UserVoice = window.UserVoice || []; UserVoice.push(['showTab', 'classic_widget', {   mode: 'feedback',   primary_color: '#00b5ac',   link_color: '#0a8cc6',   forum_id: 123075,   tab_label: 'Feedback',   tab_color: '#00b5ac',   tab_position: 'middle-right',   tab_inverted: false }]); </script>
+</body>
+</html>
