@@ -8,10 +8,9 @@ describe Verbalyser::ConjugationScraper do
 
   subject {Verbalyser::ConjugationScraper.new(demo_verb_list)}
 
-  context "Has a shortlist of un-prefixed verbs;" do
-    it "fetches the present-tense-third-person and past-tense-third-person" do
-      expect(subject.fetch_conjugations(demo_verb_list)).to eq(demo_conjugated_list)
-    end
-
-  end
+  # context "Has a shortlist of un-prefixed verbs;" do
+  #   it "fetches the present-tense-third-person and past-tense-third-person" do
+  #     expect(subject.fetch_conjugations(demo_verb_list)).to eq(demo_conjugated_list)
+  #   end
+  # end
 end

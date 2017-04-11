@@ -76,6 +76,6 @@ module Verbalyser
   end
 end
 
-verb_list = File.readlines("output/verb_shortlist_core.txt")
-testing = Verbalyser::ConjugationScraper.new(verb_list)
-testing.fetch_conjugations
+# verb_list = File.readlines("output/verb_shortlist_core.txt")
+# testing = Verbalyser::ConjugationScraper.new(verb_list)
+# testing.fetch_conjugations
