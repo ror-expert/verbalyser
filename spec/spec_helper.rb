@@ -4,6 +4,7 @@ require "verbalyser/cooljugator_fetcher"
 require "verbalyser/verb_shortlister"
 require "verbalyser/conjugation_scraper"
 require "verbalyser/lemma_matcher"
+require "verbalyser/endings_grouper"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure

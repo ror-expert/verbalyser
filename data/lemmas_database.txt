@@ -1957,6 +1957,7 @@ guž
 gvaran
 gvardij
 gvazdik
+gver
 gvieš
 gvild
 gy
