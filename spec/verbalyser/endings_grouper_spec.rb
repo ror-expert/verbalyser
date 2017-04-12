@@ -8,13 +8,11 @@ describe Verbalyser::EndingsGrouper do
   let (:demo_infinitive_verb_without_lemma_suffix) {"gverti"}
   let (:isolated_lemma_without_lemma_suffix) {"gver"}
 
-
   let (:demo_infinitive_verb_reflexive) {"rengtis"}
   let (:isolated_lemma_suffix_reflexive) {"reng"}
 
   let (:conjugated_verb_standard_no_lemma_suffix) {"gverti"}
-  let (:file_name_conjugated_verb_standard_no_lemma_suffix) {"erti_ęra_ero"}
-
+  let (:file_name_conjugated_verb_standard_no_lemma_suffix) {"erti_ęra_ẽro"}
 
   subject {Verbalyser::EndingsGrouper.new}
 
@@ -36,9 +34,5 @@ describe Verbalyser::EndingsGrouper do
     it "creates a classificatory file name on the basis of the three main verb forms" do
       expect(subject.classify_verb_by_forms(conjugated_verb_standard_no_lemma_suffix)).to eq(file_name_conjugated_verb_standard_no_lemma_suffix)
     end
-
-
-
-
   end
 end

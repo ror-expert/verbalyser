@@ -37,8 +37,6 @@ module Verbalyser
 
       find_longest_matching_lemma(verb)
 
-      # puts "This is the matching lemma from before: #{@matching_lemma}"
-
       if verb[-2, 2] == "ti"
         stripped_standard_verb = verb[0...-2]
         stem_ending = stripped_standard_verb[@matching_lemma.length..-1]
@@ -63,7 +61,7 @@ module Verbalyser
         # "This might not be an infinitive verb: #{verb}"
       end
 
-      # puts "This is the isolated_stem_ending #{isolated_stem_ending}"
+
       nugget = isolated_stem_ending
     end
 
@@ -73,90 +71,52 @@ module Verbalyser
 
       @verb_database.each do |line|
         if line.include?(infinitive_verb)
-          puts "These are the forms: #{line}"
-          puts "This is the stripped line: #{line.strip}"
+
           verb_array = line.strip.split(",")
-          print verb_array
-          puts ""
+          puts "first item: #{verb_array[0]}"
+          puts "second item: #{verb_array[1]}"
+          puts "third item: #{verb_array[2]}"
+
+          @verb_file_name = ""
 
           verb_array.each do |main_form_verb|
+            puts "This is the main form of the verb: #{main_form_verb}"
 
-            exploded_letters = main_form_verb.split("")
-            puts "Exploded letters: #{exploded_letters}"
+            stem_extract = main_form_verb[/[aãàáąą̃ą̀ą́eẽeẽèéęę̃ę̀ę́ėė̃ė̀ė́iĩìíį̃į̀įįyỹỳýũùúuųų̃ų̀ų́ūū̃ū̀ū́](.*)/]
 
-            puts main_form_verb[/[aãàáąą̃ą̀ą́eẽèéęę̃ę̀ę́ėė̃ė̀ė́iĩìíį̃į̀įįyỹỳýoõòóũùúuųų̃ų̀ų́ūū̃ū̀ū́]/]
+            first_vowel_of_stem_extract = main_form_verb[/[aãàáąą̃ą̀ą́eẽeẽèéęę̃ę̀ę́ėė̃ė̀ė́iĩìíį̃į̀įįyỹỳýũùúuųų̃ų̀ų́ūū̃ū̀ū́]/]
 
+            puts "This is the main_form_verb starting from '#{first_vowel_of_stem_extract}': #{stem_extract}"
 
+            if @verb_file_name == ""
+              @verb_file_name = stem_extract
+            else
+              @verb_file_name = @verb_file_name + "_" + stem_extract
+            end
 
-            # puts main_form_verb[/<non_vowel>/]
-
-            # a[/(?<vowel>[aeiou])(?<non_vowel>[^aeiou])/, "non_vowel"] #=> "l"
-            # a[/(?<vowel>[aeiou])(?<non_vowel>[^aeiou])/, "vowel"]     #=> "e"
-
-
-
-            # exploded_letters.each do |first_letter|
-            #   exploded_letters.each do |second_letter|
-            #     exploded_letters.each do |third_letter|
-            #       exploded_letters.each do |fourth_letter|
-            #
-            #       end
-            #     end
-            #   end
-            # end
-
-            # exploded_letters.each do |letter|
-            #   @lithuanian_vowels.any?.first { |vowel| puts  "found the first vowel of #{main_form_verb}: #{vowel}" }
-            # end
-
-            # @lithuanian_vowels.any? { |letter| puts "found it #{main_form_verb[letter]}" }
-
-
-
-            # first_vowel = true
-            # while first_vowel == true
-            #   exploded_letters.each do |letter|
-            #     if @lithuanian_vowels.include?(letter)
-            #       puts "This is the first_vowel: #{letter}"
-            #       first_vowel = false
-            #     end
-            #   end
-            # end
+            puts "This is the @verb_file_name: #{@verb_file_name}"
 
           end
         end
       end
+
+      puts "this is the verb file name: #{@verb_file_name}"
+      final_form = @verb_file_name
+
+      # verb_group_output_filename = @output_folder + @verb_file_name
+      #
+      # verb_group_output_file = File.open(verb_group_output_filename, "a")
+      #
+      # verb_group_output_file.write(line)
     end
+
+    def write_verb_forms_to_group_file
+      classify_verb_by_forms(infinitive_verb)
+
+      puts "This is the prospective filename: #{@verb_file_name}"
+    end
+
+
+
   end
 end
-
-            # This will iterate through all the elements:
-            #
-            # array = [1, 2, 3, 4, 5, 6]
-            # array.each { |x| puts x }
-            # Prints:
-            #
-            # This will iterate through all the elements giving you the value and the index:
-            #
-            # array = ["A", "B", "C"]
-            # array.each_with_index {|val, index| puts "#{val} => #{index}" }
-            # Prints:
-            #
-            # A => 0
-            # B => 1
-            # C => 2
-
-
-
-
-          #
-          # verb_array.each do |main_form_verb|
-          #   if @lithuanian_consonants.include?(main_form_verb[0])
-          #
-          #     puts "#{main_form_verb} begins with a consonant"
-          #
-          #     if @lithuanian_consonants.include?(main_form_verb[])
-          #
-          #     end
-          #
-          #   end
