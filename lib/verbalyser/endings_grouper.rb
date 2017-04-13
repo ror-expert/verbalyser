@@ -18,9 +18,9 @@ module Verbalyser
     def identify_whether_verb_is_reflexive(infinitive_verb)
 
       if infinitive_verb[-2, 2] == "ti"
-        reflexivity = "not_reflexive"
+        @reflexivity = "not_reflexive"
       elsif infinitive_verb[-3, 3] == "tis"
-        reflexivity = "reflexive"
+        @reflexivity = "reflexive"
       end
 
     end

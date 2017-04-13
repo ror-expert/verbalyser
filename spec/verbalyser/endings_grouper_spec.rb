@@ -35,9 +35,37 @@ describe Verbalyser::EndingsGrouper do
       expect(subject.identify_whether_verb_is_reflexive(infinitive_verb_reflexive_with_lemma_suffix)).to eq("reflexive")
     end
 
+
     it "identifies whether rengtis reflexive" do
       expect(subject.identify_whether_verb_is_reflexive(infinitive_verb_reflexive_without_lemma_suffix)).to eq("reflexive")
     end
+
+    context "Verb is non-reflexive" do
+
+      it "checks for a lemma suffix in aktyvuoti" do
+        expect(subject.check_for_lemma_suffix(infinitive_verb_with_lemma_suffix)).to eq("lemma_suffix_found")
+      end
+
+      it "checks for a lemma suffix in gverti" do
+        expect(subject.check_for_lemma_suffix(infinitive_verb_without_lemma_suffix)).to eq("lemma_suffix_found")
+      end
+    end
+
+    context "Verb is reflexive" do
+      it "checks for a lemma suffix in darbuotis" do
+        expect(subject.check_for_lemma_suffix(infinitive_verb_reflexive_with_lemma_suffix)).to eq("lemma_suffix_found")
+      end
+
+      it "checks for a lemma suffix in rengtis" do
+        expect(subject.check_for_lemma_suffix(infinitive_verb_reflexive_without_lemma_suffix)).to eq("lemma_suffix_found")
+      end
+
+    end
+
+
+
+
+
 
 
 
