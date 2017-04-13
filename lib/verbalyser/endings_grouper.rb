@@ -15,6 +15,16 @@ module Verbalyser
 
     end
 
+    def identify_whether_verb_is_reflexive(infinitive_verb)
+
+      if infinitive_verb[-2, 2] == "ti"
+        reflexivity = "not_reflexive"
+      elsif infinitive_verb[-3, 3] == "tis"
+        reflexivity = "reflexive"
+      end
+
+    end
+
     def find_longest_matching_lemma(verb)
 
       matching_stem_array = Array.new
@@ -33,41 +43,51 @@ module Verbalyser
 
     end
 
-    def isolate_lemma_suffix(verb)
+    def isolate_lemma_suffix(infinitive_verb)
 
-      find_longest_matching_lemma(verb)
+      find_longest_matching_lemma(infinitive_verb)
 
-      if verb[-2, 2] == "ti"
-        stripped_standard_verb = verb[0...-2]
-        stem_ending = stripped_standard_verb[@matching_lemma.length..-1]
+      if infinitive_verb[-2, 2] == "ti"
+        stripped_standard_infinitive_verb = infinitive_verb[0...-2]
+        stem_ending = stripped_standard_infinitive_verb[@matching_lemma.length..-1]
 
         if stem_ending.length > 0
-          isolated_stem_ending = stem_ending
+          @nugget = stem_ending
+          puts "#{infinitive_verb} Standard nugget: #{@nugget}"
         else
-          isolated_stem_ending = stripped_standard_verb
+          @stem = stripped_standard_infinitive_verb
+          puts "#{infinitive_verb} stem: #{@stem}"
         end
 
-      elsif verb[-3, 3] == "tis"
-        stripped_reflexive_verb = verb[0...-3]
-        stem_ending = stripped_reflexive_verb[@matching_lemma.length..-1]
+      elsif infinitive_verb[-3, 3] == "tis"
+        stripped_reflexive_infinitive_verb = infinitive_verb[0...-3]
+        stem_ending = stripped_reflexive_infinitive_verb[@matching_lemma.length..-1]
 
         if stem_ending.length > 0
-          isolated_stem_ending = stem_ending
+          @nugget = stem_ending
+          puts "#{infinitive_verb} Reflexive nugget: #{@nugget}"
         else
-          isolated_stem_ending = stripped_reflexive_verb
+          @stem = stripped_reflexive_infinitive_verb
+          puts "#{infinitive_verb} Reflexive stem: #{@stem}"
         end
 
       else
-        # "This might not be an infinitive verb: #{verb}"
+        puts "This might not be an infinitive verb: #{verb}"
       end
 
+      puts "This is the nugget #{@nugget} for #{infinitive_verb}"
 
-      nugget = isolated_stem_ending
     end
 
     def classify_verb_by_forms(infinitive_verb)
 
+      isolate_lemma_suffix(infinitive_verb)
+
       puts "infinitive_verb: #{infinitive_verb}"
+
+      if @nugget.length > 0
+        puts  "This is the nugget: #{@nugget}"
+      end
 
       @verb_database.each do |line|
         if line.include?(infinitive_verb)
@@ -94,23 +114,26 @@ module Verbalyser
               @verb_file_name = @verb_file_name + "_" + stem_extract
             end
 
-            puts "This is the @verb_file_name: #{@verb_file_name}"
+
+
+            # puts "This is the verb_file_name: #{@verb_file_name}"
 
           end
+          puts "this is the verb file name: #{@verb_file_name}"
+
+          @verb_group_output_filename = @output_folder + @verb_file_name
+          verb_group_output_file = File.open(@verb_group_output_filename, "a")
+          verb_group_output_file.write(line)
+          verb_group_output_file.close
+
         end
       end
 
-      puts "this is the verb file name: #{@verb_file_name}"
-      final_form = @verb_file_name
+      x = @verb_file_name
 
-      # verb_group_output_filename = @output_folder + @verb_file_name
-      #
-      # verb_group_output_file = File.open(verb_group_output_filename, "a")
-      #
-      # verb_group_output_file.write(line)
     end
 
-    def write_verb_forms_to_group_file
+    def write_verb_forms_to_group_file(infinitive_verb)
       classify_verb_by_forms(infinitive_verb)
 
       puts "This is the prospective filename: #{@verb_file_name}"

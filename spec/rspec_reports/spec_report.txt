@@ -1,0 +1,68 @@
+...FFFFFF.
+
+Failures:
+
+  1) Verbalyser::EndingsGrouper Receives a set of verbs with diverse conjugations analyses the infinitive form of a standard verb with a stem ending and isolates the lemma suffix
+     Failure/Error: expect(subject.isolate_lemma_suffix(demo_infinitive_verb_with_lemma_suffix)).to eq(isolated_lemma_suffix)
+
+       expected: "uo"
+            got: nil
+
+       (compared using ==)
+     # ./spec/verbalyser/endings_grouper_spec.rb:25:in `block (3 levels) in <top (required)>'
+
+  2) Verbalyser::EndingsGrouper Receives a set of verbs with diverse conjugations analysis the infinitive form of a standard verb without a stem ending and isolates the lemma
+     Failure/Error: expect(subject.isolate_lemma_suffix(demo_infinitive_verb_without_lemma_suffix)).to eq(isolated_lemma_without_lemma_suffix)
+
+       expected: "gver"
+            got: nil
+
+       (compared using ==)
+     # ./spec/verbalyser/endings_grouper_spec.rb:30:in `block (3 levels) in <top (required)>'
+
+  3) Verbalyser::EndingsGrouper Receives a set of verbs with diverse conjugations analyses the infinitive form of a reflexive verb and isolates the lemma suffix
+     Failure/Error: expect(subject.isolate_lemma_suffix(demo_infinitive_verb_reflexive)).to eq(isolated_lemma_suffix_reflexive)
+
+       expected: "reng"
+            got: nil
+
+       (compared using ==)
+     # ./spec/verbalyser/endings_grouper_spec.rb:34:in `block (3 levels) in <top (required)>'
+
+  4) Verbalyser::EndingsGrouper Receives a set of verbs with diverse conjugations creates a classificatory file name on the basis of the three main verb forms
+     Failure/Error: expect(subject.classify_verb_by_forms(demo_infinitive_verb_with_lemma_suffix)).to eq(file_name_conjugated_verb_with_lemma_suffix)
+
+       expected: "uoti_uoja_avo"
+            got: "aktyvuoti_aktyvuoja_aktyvavo"
+
+       (compared using ==)
+     # ./spec/verbalyser/endings_grouper_spec.rb:38:in `block (3 levels) in <top (required)>'
+
+  5) Verbalyser::EndingsGrouper Receives a set of verbs with diverse conjugations creates a classificatory file name on the basis of the three main verb forms
+     Failure/Error: if @nugget.length > 0
+
+     NoMethodError:
+       undefined method `length' for nil:NilClass
+     # ./lib/verbalyser/endings_grouper.rb:78:in `classify_verb_by_forms'
+     # ./spec/verbalyser/endings_grouper_spec.rb:42:in `block (3 levels) in <top (required)>'
+
+  6) Verbalyser::EndingsGrouper Receives a set of verbs with diverse conjugations creates a classificatory file name on the basis of the three main verb forms
+     Failure/Error: if @nugget.length > 0
+
+     NoMethodError:
+       undefined method `length' for nil:NilClass
+     # ./lib/verbalyser/endings_grouper.rb:78:in `classify_verb_by_forms'
+     # ./spec/verbalyser/endings_grouper_spec.rb:46:in `block (3 levels) in <top (required)>'
+
+Finished in 0.3139 seconds (files took 0.12007 seconds to load)
+10 examples, 6 failures
+
+Failed examples:
+
+rspec ./spec/verbalyser/endings_grouper_spec.rb:24 # Verbalyser::EndingsGrouper Receives a set of verbs with diverse conjugations analyses the infinitive form of a standard verb with a stem ending and isolates the lemma suffix
+rspec ./spec/verbalyser/endings_grouper_spec.rb:29 # Verbalyser::EndingsGrouper Receives a set of verbs with diverse conjugations analysis the infinitive form of a standard verb without a stem ending and isolates the lemma
+rspec ./spec/verbalyser/endings_grouper_spec.rb:33 # Verbalyser::EndingsGrouper Receives a set of verbs with diverse conjugations analyses the infinitive form of a reflexive verb and isolates the lemma suffix
+rspec ./spec/verbalyser/endings_grouper_spec.rb:37 # Verbalyser::EndingsGrouper Receives a set of verbs with diverse conjugations creates a classificatory file name on the basis of the three main verb forms
+rspec ./spec/verbalyser/endings_grouper_spec.rb:41 # Verbalyser::EndingsGrouper Receives a set of verbs with diverse conjugations creates a classificatory file name on the basis of the three main verb forms
+rspec ./spec/verbalyser/endings_grouper_spec.rb:45 # Verbalyser::EndingsGrouper Receives a set of verbs with diverse conjugations creates a classificatory file name on the basis of the three main verb forms
+
