@@ -13,6 +13,8 @@ module Verbalyser
 
       @lithuanian_vowels = %w[a ã à á ą ą̃ ą̀ ą́ e ẽ è é ę ę̃ ę̀ ę́ ė ė̃  ė̀  ė́  i ĩ ì í į̃  į̀ į į y ỹ ỳ ý o õ ò ó ũ ù ú u ų ų̃ ų̀ ų́ ū ū̃  ū̀  ū́]
 
+      @from_first_vowel = /[aãàáąą̃ą̀ą́eẽeẽèéęę̃ę̀ę́ėė̃ė̀ė́iĩìíį̃į̀įįyỹỳýũùúuųų̃ų̀ų́ūū̃ū̀ū́](.*)/
+
       def identify_whether_verb_is_reflexive(infinitive_verb)
         if infinitive_verb[-2, 2] == "ti"
           @reflexivity = false
@@ -64,55 +66,90 @@ module Verbalyser
 
           verb_array = line.strip.split(",")
 
-          infinitive_form = verb_array[0].strip
-          present3 = verb_array[1].strip
-          past3 = verb_array[2].strip
+          @infinitive_form = verb_array[0].strip
+          @present3 = verb_array[1].strip
+          @past3 = verb_array[2].strip
 
 
           if @reflexivity == false && @lemma_suffix_found == true
 
-            part1 = infinitive_form[-(@nugget.length + "ti".length), (@nugget.length + "ti".length)]
-            part2 = present3[@matching_lemma.length..-1]
-            part3 = past3[@matching_lemma.length..-1]
+            part1 = @infinitive_form[-(@nugget.length + "ti".length), (@nugget.length + "ti".length)]
+            part2 = @present3[@matching_lemma.length..-1]
+            part3 = @past3[@matching_lemma.length..-1]
 
             @file_name = "#{part1}_#{part2}_#{part3}"
 
           elsif @reflexivity == true && @lemma_suffix_found == true
 
-            part1 = infinitive_form[-(@nugget.length + "tis".length), (@nugget.length + "tis".length)]
-            part2 = present3[@matching_lemma.length..-1]
-            part3 = past3[@matching_lemma.length..-1]
+            part1 = @infinitive_form[-(@nugget.length + "tis".length), (@nugget.length + "tis".length)]
+            part2 = @present3[@matching_lemma.length..-1]
+            part3 = @past3[@matching_lemma.length..-1]
 
             @file_name = "#{part1}_#{part2}_#{part3}"
 
           elsif @reflexivity == false && @lemma_suffix_found == false
 
-            part1 = infinitive_form[/[aãàáąą̃ą̀ą́eẽeẽèéęę̃ę̀ę́ėė̃ė̀ė́iĩìíį̃į̀įįyỹỳýũùúuųų̃ų̀ų́ūū̃ū̀ū́](.*)/]
-            part2 = present3[/[aãàáąą̃ą̀ą́eẽeẽèéęę̃ę̀ę́ėė̃ė̀ė́iĩìíį̃į̀įįyỹỳýũùúuųų̃ų̀ų́ūū̃ū̀ū́](.*)/]
-            part3 = past3[/[aãàáąą̃ą̀ą́eẽeẽèéęę̃ę̀ę́ėė̃ė̀ė́iĩìíį̃į̀įįyỹỳýũùúuųų̃ų̀ų́ūū̃ū̀ū́](.*)/]
+            part1 = @infinitive_form[@from_first_vowel]
+            part2 = @present3[@from_first_vowel]
+            part3 = @past3[@from_first_vowel]
 
             @file_name = "#{part1}_#{part2}_#{part3}"
 
           elsif @reflexivity == true && @lemma_suffix_found == false
 
-            part1 = infinitive_form[/[aãàáąą̃ą̀ą́eẽeẽèéęę̃ę̀ę́ėė̃ė̀ė́iĩìíį̃į̀įįyỹỳýũùúuųų̃ų̀ų́ūū̃ū̀ū́](.*)/]
-            part2 = present3[/[aãàáąą̃ą̀ą́eẽeẽèéęę̃ę̀ę́ėė̃ė̀ė́iĩìíį̃į̀įįyỹỳýũùúuųų̃ų̀ų́ūū̃ū̀ū́](.*)/]
-            part3 = past3[/[aãàáąą̃ą̀ą́eẽeẽèéęę̃ę̀ę́ėė̃ė̀ė́iĩìíį̃į̀įįyỹỳýũùúuųų̃ų̀ų́ūū̃ū̀ū́](.*)/]
+            part1 = @infinitive_form[@from_first_vowel]
+            part2 = @present3[@from_first_vowel]
+            part3 = @past3[@from_first_vowel]
 
             @file_name = "#{part1}_#{part2}_#{part3}"
 
           end
-
-
         end
       end
 
       file_name = @file_name
 
-
     end
 
+    def write_verb_forms_to_group_file(infinitive_verb)
+      create_classificatory_file_name(infinitive_verb)
 
+      output_verb_sequence = "#{@infinitive_form}, #{@present3}, #{@past3}\n"
+      file_path = @output_folder + @file_name + ".txt"
+      # inspection_file = File.open(file_path, "r")
+
+      puts "The file name received is #{@file_name}"
+      puts "The file to be created is: #{file_path}"
+
+      puts "does the file #{file_path} exist? #{File.exists?(file_path)}"
+
+      if File.exist?(file_path) == false
+
+        output_file = File.open(file_path, "a+")
+        output_file.write(output_verb_sequence)
+        output_file.close
+
+      elsif File.exists?(file_path) == true
+
+        check_for_duplicates = File.readlines(inspection_file)
+
+        check_for_duplicates.each do |line|
+          if line == output_verb_sequence
+            puts "This line exists already: #{line}"
+            inspection_file.close
+          else
+            inspection_file.close
+            output_file = File.open(file_path, "a+")
+            output_file.write(output_verb_sequence)
+            output_file.close
+          end
+        end
+      end
+
+
+      file_check = File.readlines(file_path)
+
+    end
   end
 end
 

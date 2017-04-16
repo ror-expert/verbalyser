@@ -22,10 +22,10 @@ describe Verbalyser::EndingsGrouper do
   let (:file_name_conjugated_reflexive_verb_with_lemma_suffix) {"uotis_úojasi_ãvosi"}
   let (:file_name_conjugated_reflexive_verb_stem_extract) {"engtis_eñgiasi_eñgėsi"}
 
-  let (:verb_forms_non_reflexive_with_lemma) {["aktyvuoti","aktyvuoja","aktyvavo"]}
-  let (:verb_forms_non_reflexive_no_lemma) {["gverti","gvęra","gvẽro"]}
-  let (:verb_forms_reflexive_with_lemma) {["darbuotis","darbúojasi","darbãvosi"]}
-  let (:verb_forms_reflexive_no_lemma) {"rengtis","reñgiasi","reñgėsi"}
+  let (:verb_forms_non_reflexive_with_lemma) {["aktyvuoti, aktyvuoja, aktyvavo\n"]}
+  let (:verb_forms_non_reflexive_no_lemma) {["gverti, gvęra, gvẽro\n"]}
+  let (:verb_forms_reflexive_with_lemma) {["darbuotis, darbúojasi, darbãvosi\n"]}
+  let (:verb_forms_reflexive_no_lemma) {["rengtis, reñgiasi, reñgėsi\n"]}
 
   subject {Verbalyser::EndingsGrouper.new}
 
@@ -93,9 +93,20 @@ describe Verbalyser::EndingsGrouper do
 
   context "Classificatory file name for non-reflexive with lemma suffix" do
     it "writes the forms to a new file" do
-      expect(subject.write_verb_forms_to_group_file).to eq()
+      expect(subject.write_verb_forms_to_group_file(infinitive_verb_with_lemma_suffix)).to eq(verb_forms_non_reflexive_with_lemma)
     end
   end
+
+
+  # let (:infinitive_verb_with_lemma_suffix) {"aktyvuoti"}
+  # let (:infinitive_verb_without_lemma_suffix) {"gverti"}
+  # let (:infinitive_verb_reflexive_with_lemma_suffix) {"darbuotis"}
+  # let (:infinitive_verb_reflexive_without_lemma_suffix) {"rengtis"}
+  #
+  # let (:verb_forms_non_reflexive_with_lemma) {["aktyvuoti","aktyvuoja","aktyvavo"]}
+  # let (:verb_forms_non_reflexive_no_lemma) {["gverti","gvęra","gvẽro"]}
+  # let (:verb_forms_reflexive_with_lemma) {["darbuotis","darbúojasi","darbãvosi"]}
+  # let (:verb_forms_reflexive_no_lemma) {["rengtis","reñgiasi","reñgėsi"]}
 
 
 
