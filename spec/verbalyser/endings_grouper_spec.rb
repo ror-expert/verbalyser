@@ -22,7 +22,10 @@ describe Verbalyser::EndingsGrouper do
   let (:file_name_conjugated_reflexive_verb_with_lemma_suffix) {"uotis_úojasi_ãvosi"}
   let (:file_name_conjugated_reflexive_verb_stem_extract) {"engtis_eñgiasi_eñgėsi"}
 
-
+  let (:verb_forms_non_reflexive_with_lemma) {["aktyvuoti","aktyvuoja","aktyvavo"]}
+  let (:verb_forms_non_reflexive_no_lemma) {["gverti","gvęra","gvẽro"]}
+  let (:verb_forms_reflexive_with_lemma) {["darbuotis","darbúojasi","darbãvosi"]}
+  let (:verb_forms_reflexive_no_lemma) {"rengtis","reñgiasi","reñgėsi"}
 
   subject {Verbalyser::EndingsGrouper.new}
 
@@ -88,60 +91,12 @@ describe Verbalyser::EndingsGrouper do
     end
   end
 
-
-  # let (:infinitive_verb_with_lemma_suffix) {"aktyvuoti"}
-  # let (:infinitive_verb_without_lemma_suffix) {"gverti"}
-  # let (:infinitive_verb_reflexive_with_lemma_suffix) {"darbuotis"}
-  # let (:infinitive_verb_reflexive_without_lemma_suffix) {"rengtis"}
-
-
-
-  # let (:file_name_conjugated_verb_from_lemma_suffix) {"uoti_uoja_avo"}
-  # let (:file_name_conjugated_verb_from_stem_extract) {"erti_ęra_ẽro"}
-  # let (:file_name_conjugated_reflexive_verb_with_lemma_suffix) {"uotis_úojasi_ãvosi"}
-  # let (:file_name_conjugated_reflexive_verb_stem_extract) {"engtis_eñgiasi_eñgėsi"}
+  context "Classificatory file name for non-reflexive with lemma suffix" do
+    it "writes the forms to a new file" do
+      expect(subject.write_verb_forms_to_group_file).to eq()
+    end
+  end
 
 
-  # context "Reflexive verb with lemma suffix, classify by forms" do
-  #   it "creates a classificatory file name for darbuotis" do
-  #
-  #   end
-  # end
+
 end
-
-
-
-
-
-
-    # darbuotis, darbúojasi, darbãvosi
-
-
-    # it "analyses the infinitive form of a standard verb with a stem ending and isolates the lemma suffix" do
-    #   expect(subject.isolate_lemma_suffix(infinitive_verb_with_lemma_suffix)).to eq(isolated_lemma_suffix)
-    # end
-    #
-    # # Cause of failure is missing item in database
-    # it "analysis the infinitive form of a standard verb without a stem ending and isolates the lemma" do
-    #   expect(subject.isolate_lemma_suffix(infinitive_verb_without_lemma_suffix)).to eq(isolated_lemma_without_lemma_suffix)
-    # end
-    #
-    # it "analyses the infinitive form of a reflexive verb and isolates the lemma suffix" do
-    #   expect(subject.isolate_lemma_suffix(infinitive_verb_reflexive_without_lemma_suffix)).to eq(reflexive_verb_stem)
-    # end
-    #
-    # it "creates a classificatory file name on the basis of the three main verb forms" do
-    #   expect(subject.classify_verb_by_forms(infinitive_verb_with_lemma_suffix)).to eq(file_name_conjugated_verb_with_lemma_suffix)
-    # end
-    #
-    # it "creates a classificatory file name on the basis of the three main verb forms" do
-    #   expect(subject.classify_verb_by_forms(infinitive_verb_without_lemma_suffix)).to eq(file_name_infinitive_verb_without_lemma_suffix)
-    # end
-    #
-    # it "creates a classificatory file name on the basis of the three main verb forms" do
-    #   expect(subject.classify_verb_by_forms(infinitive_verb_reflexive_without_lemma_suffix)).to eq(file_name_reflexive_verb_stem)
-    # end
-
-    # it "appends all three forms to the classificatory file" do
-    #   expect(subject.write_verb_forms_to_group_file(infinitive_verb_without_lemma_suffix)).to eq(["gverti,gvęra,gvẽro"])
-    # end
