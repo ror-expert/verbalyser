@@ -116,12 +116,11 @@ module Verbalyser
 
       output_verb_sequence = "#{@infinitive_form}, #{@present3}, #{@past3}\n"
       file_path = @output_folder + @file_name + ".txt"
-      # inspection_file = File.open(file_path, "r")
 
-      puts "The file name received is #{@file_name}"
-      puts "The file to be created is: #{file_path}"
-
-      puts "does the file #{file_path} exist? #{File.exists?(file_path)}"
+      # puts "The file name received is #{@file_name}"
+      # puts "The file to be created is: #{file_path}"
+      #
+      # puts "does the file #{file_path} exist? #{File.exists?(file_path)}"
 
       if File.exist?(file_path) == false
 
@@ -131,23 +130,42 @@ module Verbalyser
 
       elsif File.exists?(file_path) == true
 
+        inspection_file = File.open(file_path, "r")
         check_for_duplicates = File.readlines(inspection_file)
+
+        puts "check_for_duplicates: #{check_for_duplicates}"
 
         check_for_duplicates.each do |line|
           if line == output_verb_sequence
             puts "This line exists already: #{line}"
             inspection_file.close
-          else
-            inspection_file.close
-            output_file = File.open(file_path, "a+")
-            output_file.write(output_verb_sequence)
-            output_file.close
+            @inspection_results = output_verb_sequence.split(" ,")
           end
         end
+
+
+
+
+
+        # check_for_duplicates.each do |line|
+        #   if line == output_verb_sequence
+        #     puts "This line exists already: #{line}"
+        #     inspection_file.close
+        #   else
+        #     inspection_file.close
+        #     output_file = File.open(file_path, "a+")
+        #     output_file.write(output_verb_sequence)
+        #     output_file.close
+        #   end
+        # end
+
+        # inspection_results = ["aktyvuoti, aktyvuoja, aktyvavo\n"]
+
+
       end
 
 
-      file_check = File.readlines(file_path)
+      file_check = @inspection_results
 
     end
   end
