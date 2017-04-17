@@ -1,3 +1,6 @@
 require "verbalyser/version"
-# require "verbalyser/verbs_list"
-# require "verbalyser/lemma_scraper"
+require "verbalyser/conjugation_scraper"
+require "verbalyser/cooljugator_scraper"
+require "verbalyser/endings_grouper"
+require "verbalyser/lemma_matcher"
+require "verbalyser/verb_shortlister"

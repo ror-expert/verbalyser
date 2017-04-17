@@ -1,7 +1,13 @@
 #!/usr/bin/env ruby
 
-require 'verbalyser'
+require_relative 'verbalyser.rb'
 
-cli = Verbalyser::CLI.new
-verbs = cli.load_verbs(ARGV[0])
-cli.run(verbs)
+verb_list = File.readlines(ARGV[0])
+
+puts verb_list
+
+
+
+# cli = Verbalyser::CLI.new
+# verbs = cli.load_verbs(ARGV[0])
+# cli.run(verbs)
