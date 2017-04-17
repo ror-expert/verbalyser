@@ -1,7 +1,8 @@
 This is the infinitive form: absorbuoti
 This is the file name: uoti_úoja_ãvo
 This is the infinitive form: abstrahuoti
-This is the file name: strahuoti_strahúoja_strahãvo
+This is the file name: uoti_úoja_ãvo
+check_for_duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
 This is the infinitive form: abuojėti
 This is the file name: uojėti_uojėja_uojėjo
 This is the infinitive form: adaptuotis

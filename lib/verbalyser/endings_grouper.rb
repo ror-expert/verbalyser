@@ -113,8 +113,8 @@ module Verbalyser
     def write_verb_forms_to_group_file(infinitive_verb)
       create_classificatory_file_name(infinitive_verb)
 
-      puts "This is the infinitive form: #{@infinitive_form}"
-      puts "This is the file name: #{@file_name}"
+      puts "#{@infinitive_form}::#{@file_name}"
+      puts "Reflexive? #{@reflexivity} :: lemma? #{@lemma_suffix_found}"
 
       output_verb_sequence = "#{@infinitive_form}, #{@present3}, #{@past3}\n"
       file_path = @output_folder + @file_name + ".txt"
