@@ -16,10 +16,10 @@ module Verbalyser
       @from_first_vowel = /[aãàáąą̃ą̀ą́eẽeẽèéęę̃ę̀ę́ėė̃ė̀ė́iĩìíį̃į̀įįyỹỳýũùúuųų̃ų̀ų́ūū̃ū̀ū́](.*)/
 
       def identify_whether_verb_is_reflexive(infinitive_verb)
-        if infinitive_verb[-2, 2] == "ti"
+        if infinitive_verb.strip[-2, 2] == "ti"
           @reflexivity = false
           @stripped_verb = infinitive_verb[0...-2]
-        elsif infinitive_verb[-3, 3] == "tis"
+        elsif infinitive_verb.strip[-3, 3] == "tis"
           @reflexivity = true
           @stripped_verb = infinitive_verb[0...-3]
         end
@@ -42,7 +42,13 @@ module Verbalyser
       end
 
       @matching_lemma = matching_stem_array.max
-      @nugget = stripped_verb[@matching_lemma.length..-1]
+
+      if @matching_lemma[-2,2] == "in"
+        @nugget = stripped_verb[@matching_lemma[0...-2].length..-1]
+        @nugget_in = true
+      else
+        @nugget = stripped_verb[@matching_lemma.length..-1]
+      end
 
       if @nugget.length > 0
         nugget_found = true
@@ -73,16 +79,39 @@ module Verbalyser
           if @reflexivity == false && @lemma_suffix_found == true
 
             part1 = @infinitive_form[-(@nugget.length + "ti".length), (@nugget.length + "ti".length)]
-            part2 = @present3[@matching_lemma.length..-1]
-            part3 = @past3[@matching_lemma.length..-1]
+
+            if @nugget_in == true
+              part2 = @present3[@matching_lemma[0...-2].length..-1]
+            else
+              part2 = @present3[@matching_lemma.length..-1]
+              puts "This is part2: #{part2}"
+            end
+
+            if @nugget_in == true
+              part3 = @past3[@matching_lemma[0...-2].length..-1]
+            else
+              part3 = @past3[@matching_lemma.length..-1]
+            end
+
 
             @file_name = "#{part1}_#{part2}_#{part3}"
+            puts "File name of #{@infinitive_form}:#{@file_name}"
 
           elsif @reflexivity == true && @lemma_suffix_found == true
 
             part1 = @infinitive_form[-(@nugget.length + "tis".length), (@nugget.length + "tis".length)]
-            part2 = @present3[@matching_lemma.length..-1]
-            part3 = @past3[@matching_lemma.length..-1]
+
+            if @nugget_in == true
+              part2 = @present3[@matching_lemma[0...-2].length..-1]
+            else
+              part2 = @present3[@matching_lemma.length..-1]
+            end
+
+            if @nugget_in == true
+              part3 = @past3[@matching_lemma[0...-2].length..-1]
+            else
+              part3 = @past3[@matching_lemma.length..-1]
+            end
 
             @file_name = "#{part1}_#{part2}_#{part3}"
 
@@ -106,17 +135,23 @@ module Verbalyser
         end
       end
 
+
+      puts "Reflexive? #{@reflexivity} :: lemma? #{@lemma_suffix_found}"
+      puts "#{@infinitive_form}: #{@infinitive_form.length}"
+      puts "#{@present3}: #{@present3.length}"
+      puts "#{@past3}: #{@past3.length}"
+      "#{@file_name}"
+      puts "lemma: #{@matching_lemma}, nugget: #{@nugget}"
+      puts "#{@file_name}"
+      puts ""
+
       file_name = @file_name
+      x = file_name
 
     end
 
     def write_verb_forms_to_group_file(infinitive_verb)
       create_classificatory_file_name(infinitive_verb)
-
-      puts "Reflexive? #{@reflexivity} :: lemma? #{@lemma_suffix_found}"
-      puts "#{@infinitive_form}::#{@file_name}"
-      puts "lemma: #{@matching_lemma}, nugget: #{@nugget}"
-      puts ""
 
       output_verb_sequence = "#{@infinitive_form}, #{@present3}, #{@past3}\n"
       file_path = @output_folder + @file_name + ".txt"
@@ -137,7 +172,7 @@ module Verbalyser
         inspection_file = File.open(file_path, "r")
         check_for_duplicates = File.readlines(inspection_file)
 
-        puts "check_for_duplicates: #{check_for_duplicates}"
+        puts "\ncheck_for_duplicates: #{check_for_duplicates}\n"
 
         check_for_duplicates.each do |line|
           if line == output_verb_sequence

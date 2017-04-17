@@ -1,0 +1,32 @@
+require "spec_helper"
+
+describe Verbalyser::EndingsGrouper do
+
+  let (:adaptuotis) {"uotis_úojasi_ãvosi"}
+  let (:badyti) {"yti_o_ė"}
+  let (:rakinti) {"inti_ìna_ìno"}
+  let (:plaktis) {"aktis_ãkasi_ãkėsi"}
+
+  subject {Verbalyser::EndingsGrouper.new}
+
+  context "Testing for correct filename" do
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("adaptuotis")).to eq(adaptuotis)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("badyti")).to eq(badyti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("rakinti")).to eq(rakinti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("plaktis")).to eq(plaktis)
+    end
+
+  end
+
+end
