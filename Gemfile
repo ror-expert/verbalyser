@@ -1,9 +1,5 @@
 source 'https://rubygems.org'
 
-# Specify your gem's dependencies in web-scraper.gemspec
+# Specify your gem's dependencies in verbalyser.gemspec
+gemspec
 gem 'nokogiri'
-gem 'rack'
-gem 'rspec'
-gem 'rest-client'
-gem 'mechanize'
-gem 'sanitize'
