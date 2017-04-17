@@ -1,0 +1,323 @@
+This is the infinitive form: absorbuoti
+This is the file name: uoti_úoja_ãvo
+This is the infinitive form: abstrahuoti
+This is the file name: strahuoti_strahúoja_strahãvo
+This is the infinitive form: abuojėti
+This is the file name: uojėti_uojėja_uojėjo
+This is the infinitive form: adaptuotis
+This is the file name: otis_úojasi_ãvosi
+This is the infinitive form: adaptuotis
+This is the file name: uotis_úojasi_ãvosi
+This is the infinitive form: adinėti
+This is the file name: inėti_inėja_inėjo
+This is the infinitive form: badyti
+This is the file name: yti_do_dė
+This is the infinitive form: administruoti
+This is the file name: uoti_úoja_ãvo
+check_for_duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
+This is the infinitive form: adresuoti
+This is the file name: uoti_úoja_ãvo
+check_for_duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
+This is the infinitive form: aidėti
+This is the file name: ėti_i_ė́jo
+This is the infinitive form: aikčioti
+This is the file name: čioti_čioja_čiojo
+This is the infinitive form: akcentuoti
+This is the file name: uoti_úoja_ãvo
+check_for_duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
+This is the infinitive form: akėti
+This is the file name: ėti_ė́ja_ė́jo
+This is the infinitive form: rakinti
+This is the file name: nti_ìna_ìno
+This is the infinitive form: plaktis
+This is the file name: aktis_ãka_ãkė
+This is the infinitive form: aktyvėti
+This is the file name: ėti_ė́ja_ė́jo
+check_for_duplicates: ["akėti, akė́ja, akė́jo\n"]
+This is the infinitive form: aktyvinti
+This is the file name: inti_ina_ino
+This is the infinitive form: aktyvuoti
+This is the file name: uoti_uoja_avo
+This is the infinitive form: alkti
+This is the file name: alkti_álksta_al̃ko
+This is the infinitive form: alpti
+This is the file name: alpti_al̃psta_al̃po
+This is the infinitive form: alsinti
+This is the file name: inti_ìna_ìno
+This is the infinitive form: amputuoti
+This is the file name: uoti_uoja_ãvo
+This is the infinitive form: tamsėti
+This is the file name: ėti_sė́ja_sė́jo
+This is the infinitive form: amžinti
+This is the file name: inti_inà_ino
+This is the infinitive form: analizuoti
+This is the file name: uoti_úoja_ãvo
+check_for_duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
+This is the infinitive form: aneksuoti
+This is the file name: eksuoti_eksúoja_eksãvo
+This is the infinitive form: antspauduoti
+This is the file name: spauduoti_spaudúoja_spaudãvo
+This is the infinitive form: vardyti
+This is the file name: dyti_r̃dija_r̃dijo
+This is the infinitive form: areštuoti
+This is the file name: uoti_úoja_ãvo
+check_for_duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
+This is the infinitive form: artėti
+This is the file name: ėti_ė́ja_ė́jo
+check_for_duplicates: ["akėti, akė́ja, akė́jo\n"]
+This is the infinitive form: tartis
+This is the file name: artis_ãriasi_ãrėsi
+This is the infinitive form: artintis
+This is the file name: ntis_tinasi_tinosi
+This is the infinitive form: artintis
+This is the file name: intis_tinasi_tinosi
+This is the infinitive form: asimiliuoti
+This is the file name: iuoti_iúoja_iãvo
+This is the infinitive form: asmenuoti
+This is the file name: enuoti_enúoja_enãvo
+This is the infinitive form: asocijuoti
+This is the file name: uoti_úoja_avo
+This is the infinitive form: skaudėti
+This is the file name: ėti_ũda_udė́jo
+This is the infinitive form: rauginti
+This is the file name: inti_gìna_gìno
+This is the infinitive form: žliaugti
+This is the file name: iaugti_iaũgia_iaũgė
+This is the infinitive form: auklėti
+This is the file name: ėti_ėja_ėjo
+This is the infinitive form: aukotis
+This is the file name: tis_ója_ójo
+This is the infinitive form: aukotis
+This is the file name: otis_ója_ójo
+This is the infinitive form: auksuoti
+This is the file name: uoti_úoja_ãvo
+check_for_duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
+This is the infinitive form: aukštinti
+This is the file name: inti_ina_ino
+check_for_duplicates: ["aktyvinti, aktỹvina, aktỹvino\n"]
+This is the infinitive form: snausti
+This is the file name: austi_áudžia_áudė
+This is the infinitive form: šiauštis
+This is the file name: iauštis_iáušiasi_iáušėsi
+This is the infinitive form: žvygauti
+This is the file name: ygauti_ýgauja_ýgavo
+This is the infinitive form: vadovautis
+This is the file name: adovautis_adováujasi_adovãvosi
+This is the infinitive form: automatizuoti
+This is the file name: izuoti_izúoja_izavo
+This is the infinitive form: žavėtis
+This is the file name: tis_visi_vė́josi
+This is the infinitive form: badauti
+This is the file name: auti_áuja_ãvo
+This is the infinitive form: badyti
+This is the file name: yti_o_ė
+This is the infinitive form: baidytis
+This is the file name: tis_osi_ėsi
+This is the infinitive form: baidytis
+This is the file name: ytis_osi_ėsi
+This is the infinitive form: baigtis
+This is the file name: aigtis_aĩgiasi_aĩgėsi
+This is the infinitive form: baigtis
+This is the file name: aigtis_aĩgiasi_aĩgėsi
+check_for_duplicates: ["baigtis, baĩgiasi, baĩgėsi\n"]
+This line exists already: baigtis, baĩgiasi, baĩgėsi
+This is the infinitive form: baimintis
+This is the file name: intis_minasi_minosi
+This is the infinitive form: baimintis
+This is the file name: mintis_minasi_minosi
+This is the infinitive form: baisėtis
+This is the file name: tis_isi_ė́josi
+This is the infinitive form: baisėtis
+This is the file name: ėtis_isi_ė́josi
+This is the infinitive form: bakstelėti
+This is the file name: telėti_teli_telėjo
+This is the infinitive form: balansuoti
+This is the file name: uoti_úoja_ãvo
+check_for_duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
+This is the infinitive form: balinti
+This is the file name: inti_ina_ino
+check_for_duplicates: ["aktyvinti, aktỹvina, aktỹvino\n"]
+This is the infinitive form: balnoti
+This is the file name: oti_ója_ójo
+This is the infinitive form: balsti
+This is the file name: sti_sta_o
+This is the infinitive form: balsuoti
+This is the file name: suoti_súoja_sãvo
+This is the infinitive form: baltėti
+This is the file name: tėti_tėja_tėjo
+This is the infinitive form: žabalti
+This is the file name: abalti_abąla_alabo
+This is the infinitive form: baltinti
+This is the file name: tinti_tinà_tino
+This is the infinitive form: baltuoti
+This is the file name: tuoti_túoja_tãvo
+This is the infinitive form: bandyti
+This is the file name: yti_o_ė
+check_for_duplicates: ["badyti, bãdo, bãdė\n"]
+This is the infinitive form: banguoti
+This is the file name: uoti_úoja_ãvo
+check_for_duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
+This is the infinitive form: bankrutuoti
+This is the file name: uoti_úoja_ãvo
+check_for_duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
+This is the infinitive form: barstytis
+This is the file name: tytis_̃stosi_̃stėsi
+This is the infinitive form: barstytis
+This is the file name: stytis_̃stosi_̃stėsi
+This is the infinitive form: barškinti
+This is the file name: inti_ina_ino
+check_for_duplicates: ["aktyvinti, aktỹvina, aktỹvino\n"]
+This is the infinitive form: bartis
+This is the file name: artis_ãrasi_ãrėsi
+This is the infinitive form: bartis
+This is the file name: artis_ãrasi_ãrėsi
+check_for_duplicates: ["bartis, bãrasi, bãrėsi\n"]
+This line exists already: bartis, bãrasi, bãrėsi
+This is the infinitive form: bauginti
+This is the file name: inti_ìna_ìno
+check_for_duplicates: ["alsinti, alsìna, alsìno\n"]
+This is the infinitive form: bausti
+This is the file name: austi_aũdžia_aũdė
+This is the infinitive form: bėginėti
+This is the file name: inėti_inė́ja_inė́ja
+This is the infinitive form: bėgioti
+This is the file name: ioti_iója_iójo
+This is the infinitive form: bėgti
+This is the file name: ėgti_ė́ga_ė́go
+This is the infinitive form: bidzenti
+This is the file name: dzenti_zdena_zdeno
+This is the infinitive form: bijoti
+This is the file name: oti_o_ójo
+This is the infinitive form: bylinėtis
+This is the file name: inėtis_inė́jasi_inė́josi
+This is the infinitive form: byloti
+This is the file name: oti_ója_ójo
+check_for_duplicates: ["balnoti, balnója, balnójo\n"]
+This is the infinitive form: birbti
+This is the file name: irbti_ir̃bia_ir̃bė
+This is the infinitive form: byrėti
+This is the file name: ėti_a_ė́jo
+This is the infinitive form: birti
+This is the file name: irti_ỹra_
+This is the infinitive form: bjaurėtis
+This is the file name: ėtis_isi_ė́josi
+check_for_duplicates: ["baisėtis, baĩsisi, baisė́josi\n"]
+This is the infinitive form: bjurti
+This is the file name: jurti_jursta_jùro
+This is the infinitive form: blankti
+This is the file name: ankti_añksta_ánko
+This is the infinitive form: blaškytis
+This is the file name: tis_osi_ėsi
+check_for_duplicates: ["baidytis, baĩdosi, baĩdėsi\n"]
+This is the infinitive form: blaškytis
+This is the file name: ytis_osi_ėsi
+check_for_duplicates: ["baidytis, baĩdosi, baĩdėsi\n"]
+This is the infinitive form: blefuoti
+This is the file name: lefuoti_lefuoja_lefavo
+This is the infinitive form: blęsti
+This is the file name: lęsti_leñdžia_leñdė
+This is the infinitive form: blykšti
+This is the file name: ykšti_ỹkšta_ỹško
+This is the infinitive form: blizgėti
+This is the file name: ėti_a_ė́jo
+check_for_duplicates: ["byrėti, bỹra, byrė́jo\n"]
+This is the infinitive form: blizginti
+This is the file name: inti_ina_ino
+check_for_duplicates: ["aktyvinti, aktỹvina, aktỹvino\n"]
+This is the infinitive form: blogėti
+This is the file name: ėti_ė́ja_ė́jo
+check_for_duplicates: ["akėti, akė́ja, akė́jo\n"]
+This is the infinitive form: bloginti
+This is the file name: inti_ina_ino
+check_for_duplicates: ["aktyvinti, aktỹvina, aktỹvino\n"]
+This is the infinitive form: blogti
+This is the file name: i_a_
+This is the infinitive form: blokšti
+This is the file name: i_ia_ė
+This is the infinitive form: blokuoti
+This is the file name: uoti_úoja_ãvo
+check_for_duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
+This is the infinitive form: blukinti
+This is the file name: inti_ina_ino
+check_for_duplicates: ["aktyvinti, aktỹvina, aktỹvino\n"]
+This is the infinitive form: blukti
+This is the file name: ukti_uñka_
+This is the infinitive form: bodėti
+This is the file name: ėti_i_ėjo
+This is the infinitive form: boluoti
+This is the file name: uoti_úoja_ãvo
+check_for_duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
+This is the infinitive form: bombarduoti
+This is the file name: uoti_úoja_ãvo
+check_for_duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
+This is the infinitive form: braidyti
+This is the file name: yti_o_ė
+check_for_duplicates: ["badyti, bãdo, bãdė\n"]
+This is the infinitive form: braižyti
+This is the file name: yti_o_ė
+check_for_duplicates: ["badyti, bãdo, bãdė\n"]
+This is the infinitive form: brandinti
+This is the file name: inti_ìna_ìno
+check_for_duplicates: ["alsinti, alsìna, alsìno\n"]
+This is the infinitive form: branginti
+This is the file name: inti_ìna_ìno
+check_for_duplicates: ["alsinti, alsìna, alsìno\n"]
+This is the infinitive form: brangti
+This is the file name: angti_ángsta_ángo
+This is the infinitive form: braukyti
+This is the file name: yti_o_ė
+check_for_duplicates: ["badyti, bãdo, bãdė\n"]
+This is the infinitive form: braukti
+This is the file name: aukti_aũkia_aũkė
+This is the infinitive form: brautis
+This is the file name: autis_áunasi_ėsi
+This is the infinitive form: brazdėti
+This is the file name: razdėti_rãzda_razdė́jo
+This is the infinitive form: bręsti
+This is the file name: sti_́sta_ndo
+This is the infinitive form: brėžti
+This is the file name: ėžti_ė́žia_ė́žė
+This is the infinitive form: brinkti
+This is the file name: inkti_a_
+This is the infinitive form: bristi
+This is the file name: isti_eñda_
+This is the infinitive form: brukti
+This is the file name: ukti_unka_
+This is the infinitive form: brūžinti
+This is the file name: inti_žina_žino
+This is the infinitive form: bučiuotis
+This is the file name: uotis_iúojasi_iãvosi
+This is the infinitive form: bučiuotis
+This is the file name: iuotis_iúojasi_iãvosi
+This is the infinitive form: budėti
+This is the file name: ėti_i_ė́jo
+check_for_duplicates: ["aidėti, áidi, aidė́jo\n"]
+This is the infinitive form: budinti
+This is the file name: inti_ina_ino
+check_for_duplicates: ["aktyvinti, aktỹvina, aktỹvino\n"]
+This is the infinitive form: būgštauti
+This is the file name: štauti_gtauja_gštavo
+This is the infinitive form: bujoti
+This is the file name: oti_ója_ójo
+check_for_duplicates: ["balnoti, balnója, balnójo\n"]
+This is the infinitive form: burbėti
+This is the file name: ėti_a_ė́jo
+check_for_duplicates: ["byrėti, bỹra, byrė́jo\n"]
+This is the infinitive form: burbuliuoti
+This is the file name: uliuoti_uliúoja_uliãvo
+This is the infinitive form: buriuoti
+This is the file name: iuoti_iúoja_iãvo
+check_for_duplicates: ["asimiliuoti, asimiliúoja, asimiliãvo\n"]
+This is the infinitive form: būriuoti
+This is the file name: iuoti_iúoja_iãvo
+check_for_duplicates: ["asimiliuoti, asimiliúoja, asimiliãvo\n"]
+This is the infinitive form: burti
+This is the file name: urti_ia_ū́rė
+This is the infinitive form: busti
+This is the file name: usti_uñda_
+This is the infinitive form: tebebūti
+This is the file name: ebebūti_ebebū̃na_ebebùvo
+This is the infinitive form: buvoti
+This is the file name: oti_ója_ójo
+check_for_duplicates: ["balnoti, balnója, balnójo\n"]
+bundler: failed to load command: exe/verbalyser (exe/verbalyser)
