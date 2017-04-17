@@ -67,7 +67,7 @@ module Verbalyser
 
       @verb_database.each do |line|
 
-        if line.include?(infinitive_verb)
+        if line.include?("#{infinitive_verb},")
 
           verb_array = line.strip.split(",")
 
@@ -79,20 +79,21 @@ module Verbalyser
           if @reflexivity == false && @lemma_suffix_found == true
 
             part1 = @infinitive_form[-(@nugget.length + "ti".length), (@nugget.length + "ti".length)]
+            puts "This is part1 of #{@infinitive_form}: #{part1}"
 
             if @nugget_in == true
               part2 = @present3[@matching_lemma[0...-2].length..-1]
             else
               part2 = @present3[@matching_lemma.length..-1]
-              puts "This is part2: #{part2}"
+              puts "This is part2 NR: #{part2}"
             end
 
             if @nugget_in == true
               part3 = @past3[@matching_lemma[0...-2].length..-1]
             else
               part3 = @past3[@matching_lemma.length..-1]
+              puts "This is part3 NR: #{part3}"
             end
-
 
             @file_name = "#{part1}_#{part2}_#{part3}"
             puts "File name of #{@infinitive_form}:#{@file_name}"
@@ -105,12 +106,14 @@ module Verbalyser
               part2 = @present3[@matching_lemma[0...-2].length..-1]
             else
               part2 = @present3[@matching_lemma.length..-1]
+              puts "This is part2 Ref: #{part2}"
             end
 
             if @nugget_in == true
               part3 = @past3[@matching_lemma[0...-2].length..-1]
             else
               part3 = @past3[@matching_lemma.length..-1]
+              puts "This is part3 Ref: #{part3}"
             end
 
             @file_name = "#{part1}_#{part2}_#{part3}"
@@ -131,10 +134,11 @@ module Verbalyser
 
             @file_name = "#{part1}_#{part2}_#{part3}"
 
+          else
+            puts "Something has gone wrong"
           end
         end
       end
-
 
       puts "Reflexive? #{@reflexivity} :: lemma? #{@lemma_suffix_found}"
       puts "#{@infinitive_form}: #{@infinitive_form.length}"
@@ -172,7 +176,7 @@ module Verbalyser
         inspection_file = File.open(file_path, "r")
         check_for_duplicates = File.readlines(inspection_file)
 
-        puts "\ncheck_for_duplicates: #{check_for_duplicates}\n"
+        puts "\nFile already exists, checking for duplicates: #{check_for_duplicates}\n"
 
         check_for_duplicates.each do |line|
           if line == output_verb_sequence

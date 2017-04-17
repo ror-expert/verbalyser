@@ -1,4 +1,5 @@
-Isn't this the file name? uoti_úoja_ãvo
+This is part2: úoja
+File name of absorbuoti:uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 absorbuoti: 10
 absorbúoja: 10
@@ -6,7 +7,8 @@ absorbãvo: 9
 lemma: absorb, nugget: uo
 uoti_úoja_ãvo
 
-Isn't this the file name? uoti_úoja_ãvo
+This is part2: úoja
+File name of abstrahuoti:uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 abstrahuoti: 11
 abstrahúoja: 11
@@ -15,8 +17,9 @@ lemma: abstrah, nugget: uo
 uoti_úoja_ãvo
 
 
-check_for_duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
-Isn't this the file name? uojėti_uojėja_uojėjo
+File already exists, checking for duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
+This is part2: uojėja
+File name of abuojėti:uojėti_uojėja_uojėjo
 Reflexive? false :: lemma? true
 abuojėti: 8
 abuojėja: 8
@@ -24,7 +27,10 @@ abuojėjo: 8
 lemma: ab, nugget: uojė
 uojėti_uojėja_uojėjo
 
-Isn't this the file name? otis_úojasi_ãvosi
+This is part2: úoja
+File name of adaptuoti:uoti_úoja_ãvo
+This is part2: úojasi
+File name of adaptuotis:otis_úojasi_ãvosi
 Reflexive? false :: lemma? true
 adaptuotis: 10
 adaptúojasi: 11
@@ -32,7 +38,6 @@ adaptãvosi: 10
 lemma: adapt, nugget: uo
 otis_úojasi_ãvosi
 
-Isn't this the file name? uotis_úojasi_ãvosi
 Reflexive? true :: lemma? true
 adaptuotis: 10
 adaptúojasi: 11
@@ -40,7 +45,8 @@ adaptãvosi: 10
 lemma: adapt, nugget: uo
 uotis_úojasi_ãvosi
 
-Isn't this the file name? inėti_inėja_inėjo
+This is part2: inėja
+File name of adinėti:inėti_inėja_inėjo
 Reflexive? false :: lemma? true
 adinėti: 7
 adinėja: 7
@@ -48,7 +54,8 @@ adinėjo: 7
 lemma: ad, nugget: inė
 inėti_inėja_inėjo
 
-Isn't this the file name? uoti_úoja_ãvo
+This is part2: úoja
+File name of administruoti:uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 administruoti: 13
 administrúoja: 13
@@ -57,8 +64,9 @@ lemma: administr, nugget: uo
 uoti_úoja_ãvo
 
 
-check_for_duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
-Isn't this the file name? uoti_úoja_ãvo
+File already exists, checking for duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
+This is part2: úoja
+File name of adresuoti:uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 adresuoti: 9
 adresúoja: 9
@@ -67,8 +75,11 @@ lemma: adres, nugget: uo
 uoti_úoja_ãvo
 
 
-check_for_duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
-Isn't this the file name? yti_do_dė
+File already exists, checking for duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
+This is part2: o
+File name of adyti:yti_o_ė
+This is part2: do
+File name of badyti:yti_do_dė
 Reflexive? false :: lemma? true
 badyti: 6
 bãdo: 4
@@ -76,7 +87,8 @@ bãdė: 4
 lemma: ad, nugget: y
 yti_do_dė
 
-Isn't this the file name? ėti_i_ė́jo
+This is part2: i
+File name of aidėti:ėti_i_ė́jo
 Reflexive? false :: lemma? true
 aidėti: 6
 áidi: 4
@@ -84,7 +96,8 @@ aidė́jo: 7
 lemma: aid, nugget: ė
 ėti_i_ė́jo
 
-Isn't this the file name? čioti_čioja_čiojo
+This is part2: čioja
+File name of aikčioti:čioti_čioja_čiojo
 Reflexive? false :: lemma? true
 aikčioti: 8
 áikčioja: 8
@@ -92,7 +105,8 @@ aikčioti: 8
 lemma: aik, nugget: čio
 čioti_čioja_čiojo
 
-Isn't this the file name? uoti_úoja_ãvo
+This is part2: úoja
+File name of akcentuoti:uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 akcentuoti: 10
 akcentúoja: 10
@@ -101,8 +115,9 @@ lemma: akcent, nugget: uo
 uoti_úoja_ãvo
 
 
-check_for_duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
-Isn't this the file name? ėti_ė́ja_ė́jo
+File already exists, checking for duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
+This is part2: ė́ja
+File name of akėti:ėti_ė́ja_ė́jo
 Reflexive? false :: lemma? true
 akėti: 5
 akė́ja: 6
@@ -110,7 +125,10 @@ akė́jo: 6
 lemma: ak, nugget: ė
 ėti_ė́ja_ė́jo
 
-Isn't this the file name? nti_ìna_ìno
+This is part2: na
+File name of akinti:nti_na_no
+This is part2: ìna
+File name of rakinti:nti_ìna_ìno
 Reflexive? false :: lemma? true
 rakinti: 7
 rakìna: 6
@@ -118,15 +136,15 @@ rakìno: 6
 lemma: aki, nugget: n
 nti_ìna_ìno
 
-Isn't this the file name? aktis_ãka_ãkė
 Reflexive? false :: lemma? false
 plaktis: 7
-plãka: 5
-plãkė: 5
+plãkasi: 7
+plãkėsi: 7
 lemma: ak, nugget: 
-aktis_ãka_ãkė
+aktis_ãkasi_ãkėsi
 
-Isn't this the file name? ėti_ė́ja_ė́jo
+This is part2: ė́ja
+File name of aktyvėti:ėti_ė́ja_ė́jo
 Reflexive? false :: lemma? true
 aktyvėti: 8
 aktyvė́ja: 9
@@ -135,8 +153,9 @@ lemma: aktyv, nugget: ė
 ėti_ė́ja_ė́jo
 
 
-check_for_duplicates: ["akėti, akė́ja, akė́jo\n"]
-Isn't this the file name? inti_ina_ino
+File already exists, checking for duplicates: ["akėti, akė́ja, akė́jo\n"]
+This is part2: ina
+File name of aktyvinti:inti_ina_ino
 Reflexive? false :: lemma? true
 aktyvinti: 9
 aktỹvina: 8
@@ -144,7 +163,8 @@ aktỹvino: 8
 lemma: aktyv, nugget: in
 inti_ina_ino
 
-Isn't this the file name? uoti_uoja_avo
+This is part2: uoja
+File name of aktyvuoti:uoti_uoja_avo
 Reflexive? false :: lemma? true
 aktyvuoti: 9
 aktyvuoja: 9
@@ -152,7 +172,6 @@ aktyvavo: 8
 lemma: aktyv, nugget: uo
 uoti_uoja_avo
 
-Isn't this the file name? alkti_álksta_al̃ko
 Reflexive? false :: lemma? false
 alkti: 5
 álksta: 6
@@ -160,7 +179,6 @@ al̃ko: 5
 lemma: alk, nugget: 
 alkti_álksta_al̃ko
 
-Isn't this the file name? alpti_al̃psta_al̃po
 Reflexive? false :: lemma? false
 alpti: 5
 al̃psta: 7
@@ -168,7 +186,8 @@ al̃po: 5
 lemma: alp, nugget: 
 alpti_al̃psta_al̃po
 
-Isn't this the file name? inti_ìna_ìno
+This is part2: ìna
+File name of alsinti:inti_ìna_ìno
 Reflexive? false :: lemma? true
 alsinti: 7
 alsìna: 6
@@ -176,7 +195,8 @@ alsìno: 6
 lemma: als, nugget: in
 inti_ìna_ìno
 
-Isn't this the file name? uoti_uoja_ãvo
+This is part2: uoja
+File name of amputuoti:uoti_uoja_ãvo
 Reflexive? false :: lemma? true
 amputuoti: 9
 amputuoja: 9
@@ -184,7 +204,10 @@ amputãvo: 8
 lemma: amput, nugget: uo
 uoti_uoja_ãvo
 
-Isn't this the file name? ėti_sė́ja_sė́jo
+This is part2: i
+File name of amsėti:ėti_i_ė́jo
+This is part2: sė́ja
+File name of tamsėti:ėti_sė́ja_sė́jo
 Reflexive? false :: lemma? true
 tamsėti: 7
 tamsė́ja: 8
@@ -192,7 +215,8 @@ tamsė́jo: 8
 lemma: ams, nugget: ė
 ėti_sė́ja_sė́jo
 
-Isn't this the file name? inti_inà_ino
+This is part2: inà
+File name of amžinti:inti_inà_ino
 Reflexive? false :: lemma? true
 amžinti: 7
 amžinà: 6
@@ -200,7 +224,8 @@ amžinà: 6
 lemma: amž, nugget: in
 inti_inà_ino
 
-Isn't this the file name? uoti_úoja_ãvo
+This is part2: úoja
+File name of analizuoti:uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 analizuoti: 10
 analizúoja: 10
@@ -209,8 +234,9 @@ lemma: analiz, nugget: uo
 uoti_úoja_ãvo
 
 
-check_for_duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
-Isn't this the file name? eksuoti_eksúoja_eksãvo
+File already exists, checking for duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
+This is part2: eksúoja
+File name of aneksuoti:eksuoti_eksúoja_eksãvo
 Reflexive? false :: lemma? true
 aneksuoti: 9
 aneksúoja: 9
@@ -218,7 +244,8 @@ aneksãvo: 8
 lemma: an, nugget: eksuo
 eksuoti_eksúoja_eksãvo
 
-Isn't this the file name? spauduoti_spaudúoja_spaudãvo
+This is part2: spaudúoja
+File name of antspauduoti:spauduoti_spaudúoja_spaudãvo
 Reflexive? false :: lemma? true
 antspauduoti: 12
 antspaudúoja: 12
@@ -226,7 +253,16 @@ antspaudãvo: 11
 lemma: ant, nugget: spauduo
 spauduoti_spaudúoja_spaudãvo
 
-Isn't this the file name? dyti_r̃dija_r̃dijo
+This is part2: ̃do
+File name of ardyti:dyti_̃do_̃dė
+This is part2: rdo
+File name of nardyti:dyti_rdo_rdė
+This is part2: rdo
+File name of tardyti:dyti_rdo_rdė
+This is part2: árdo
+File name of tvardyti:dyti_árdo_árdė
+This is part2: r̃dija
+File name of vardyti:dyti_r̃dija_r̃dijo
 Reflexive? false :: lemma? true
 vardyti: 7
 var̃dija: 8
@@ -234,7 +270,8 @@ var̃dijo: 8
 lemma: ar, nugget: dy
 dyti_r̃dija_r̃dijo
 
-Isn't this the file name? uoti_úoja_ãvo
+This is part2: úoja
+File name of areštuoti:uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 areštuoti: 9
 areštúoja: 9
@@ -243,8 +280,9 @@ lemma: arešt, nugget: uo
 uoti_úoja_ãvo
 
 
-check_for_duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
-Isn't this the file name? ėti_ė́ja_ė́jo
+File already exists, checking for duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
+This is part2: ė́ja
+File name of artėti:ėti_ė́ja_ė́jo
 Reflexive? false :: lemma? true
 artėti: 6
 artė́ja: 7
@@ -253,8 +291,7 @@ lemma: art, nugget: ė
 ėti_ė́ja_ė́jo
 
 
-check_for_duplicates: ["akėti, akė́ja, akė́jo\n"]
-Isn't this the file name? artis_ãriasi_ãrėsi
+File already exists, checking for duplicates: ["akėti, akė́ja, akė́jo\n"]
 Reflexive? false :: lemma? false
 tartis: 6
 tãriasi: 7
@@ -262,7 +299,10 @@ tãrėsi: 6
 lemma: ar, nugget: 
 artis_ãriasi_ãrėsi
 
-Isn't this the file name? ntis_tinasi_tinosi
+This is part2: tina
+File name of artinti:inti_tina_tino
+This is part2: tinasi
+File name of artintis:ntis_tinasi_tinosi
 Reflexive? false :: lemma? true
 artintis: 8
 ar̃tinasi: 9
@@ -270,7 +310,6 @@ ar̃tinosi: 9
 lemma: art, nugget: in
 ntis_tinasi_tinosi
 
-Isn't this the file name? intis_tinasi_tinosi
 Reflexive? true :: lemma? true
 artintis: 8
 ar̃tinasi: 9
@@ -278,7 +317,8 @@ ar̃tinosi: 9
 lemma: art, nugget: in
 intis_tinasi_tinosi
 
-Isn't this the file name? iuoti_iúoja_iãvo
+This is part2: iúoja
+File name of asimiliuoti:iuoti_iúoja_iãvo
 Reflexive? false :: lemma? true
 asimiliuoti: 11
 asimiliúoja: 11
@@ -286,7 +326,8 @@ asimiliãvo: 10
 lemma: asimil, nugget: iuo
 iuoti_iúoja_iãvo
 
-Isn't this the file name? enuoti_enúoja_enãvo
+This is part2: enúoja
+File name of asmenuoti:enuoti_enúoja_enãvo
 Reflexive? false :: lemma? true
 asmenuoti: 9
 asmenúoja: 9
@@ -294,7 +335,8 @@ asmenãvo: 8
 lemma: asm, nugget: enuo
 enuoti_enúoja_enãvo
 
-Isn't this the file name? uoti_úoja_avo
+This is part2: úoja
+File name of asocijuoti:uoti_úoja_avo
 Reflexive? false :: lemma? true
 asocijuoti: 10
 asocijúoja: 10
@@ -302,7 +344,14 @@ asocijavo: 9
 lemma: asocij, nugget: uo
 uoti_úoja_avo
 
-Isn't this the file name? ėti_ũda_udė́jo
+This is part2: a
+File name of audėti:ėti_a_ė́jo
+This is part2: udėja
+File name of čiaudėti:ėti_udėja_udėjo
+This is part2: audė́ja
+File name of griaudėti:ėti_audė́ja_audė́jo
+This is part2: ũda
+File name of skaudėti:ėti_ũda_udė́jo
 Reflexive? false :: lemma? true
 skaudėti: 8
 skaũda: 6
@@ -310,7 +359,16 @@ skaudė́jo: 9
 lemma: aud, nugget: ė
 ėti_ũda_udė́jo
 
-Isn't this the file name? inti_gìna_gìno
+This is part2: ìna
+File name of auginti:inti_ìna_ìno
+This is part2: gìna
+File name of bauginti:inti_gìna_gìno
+This is part2: gina
+File name of dauginti:inti_gina_gino
+This is part2: ginasi
+File name of daugintis:ntis_ginasi_ginosi
+This is part2: gìna
+File name of rauginti:inti_gìna_gìno
 Reflexive? false :: lemma? true
 rauginti: 8
 raugìna: 7
@@ -318,7 +376,6 @@ raugìno: 7
 lemma: aug, nugget: in
 inti_gìna_gìno
 
-Isn't this the file name? iaugti_iaũgia_iaũgė
 Reflexive? false :: lemma? false
 žliaugti: 8
 žliaũgia: 8
@@ -326,7 +383,8 @@ Reflexive? false :: lemma? false
 lemma: aug, nugget: 
 iaugti_iaũgia_iaũgė
 
-Isn't this the file name? ėti_ėja_ėjo
+This is part2: ėja
+File name of auklėti:ėti_ėja_ėjo
 Reflexive? false :: lemma? true
 auklėti: 7
 áuklėja: 7
@@ -334,7 +392,10 @@ auklėti: 7
 lemma: aukl, nugget: ė
 ėti_ėja_ėjo
 
-Isn't this the file name? tis_ója_ójo
+This is part2: ója
+File name of aukoti:oti_ója_ójo
+This is part2: ója
+File name of aukotis:tis_ója_ójo
 Reflexive? false :: lemma? true
 aukotis: 7
 aukója: 6
@@ -342,7 +403,6 @@ aukójo: 6
 lemma: auk, nugget: o
 tis_ója_ójo
 
-Isn't this the file name? otis_ója_ójo
 Reflexive? true :: lemma? true
 aukotis: 7
 aukója: 6
@@ -350,7 +410,8 @@ aukójo: 6
 lemma: auk, nugget: o
 otis_ója_ójo
 
-Isn't this the file name? inti_ina_ino
+This is part2: ina
+File name of aukštinti:inti_ina_ino
 Reflexive? false :: lemma? true
 aukštinti: 9
 áukština: 8
@@ -359,8 +420,9 @@ lemma: aukšt, nugget: in
 inti_ina_ino
 
 
-check_for_duplicates: ["aktyvinti, aktỹvina, aktỹvino\n"]
-Isn't this the file name? uoti_úoja_ãvo
+File already exists, checking for duplicates: ["aktyvinti, aktỹvina, aktỹvino\n"]
+This is part2: úoja
+File name of auksuoti:uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 auksuoti: 8
 auksúoja: 8
@@ -369,8 +431,7 @@ lemma: auks, nugget: uo
 uoti_úoja_ãvo
 
 
-check_for_duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
-Isn't this the file name? austi_áudžia_áudė
+File already exists, checking for duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
 Reflexive? false :: lemma? false
 snausti: 7
 snáudžia: 8
@@ -378,7 +439,6 @@ snáudė: 6
 lemma: aus, nugget: 
 austi_áudžia_áudė
 
-Isn't this the file name? iauštis_iáušiasi_iáušėsi
 Reflexive? false :: lemma? false
 šiauštis: 8
 šiáušiasi: 9
@@ -386,7 +446,6 @@ Reflexive? false :: lemma? false
 lemma: auš, nugget: 
 iauštis_iáušiasi_iáušėsi
 
-Isn't this the file name? ygauti_ýgauja_ýgavo
 Reflexive? false :: lemma? false
 žvygauti: 8
 žvýgauja: 8
@@ -394,7 +453,6 @@ Reflexive? false :: lemma? false
 lemma: au, nugget: 
 ygauti_ýgauja_ýgavo
 
-Isn't this the file name? adovautis_adováujasi_adovãvosi
 Reflexive? true :: lemma? false
 vadovautis: 10
 vadováujasi: 11
@@ -402,7 +460,8 @@ vadovãvosi: 10
 lemma: au, nugget: 
 adovautis_adováujasi_adovãvosi
 
-Isn't this the file name? izuoti_izúoja_izavo
+This is part2: izúoja
+File name of automatizuoti:izuoti_izúoja_izavo
 Reflexive? false :: lemma? true
 automatizuoti: 13
 automatizúoja: 13
@@ -410,7 +469,12 @@ automatizavo: 12
 lemma: automat, nugget: izuo
 izuoti_izúoja_izavo
 
-Isn't this the file name? tis_visi_vė́josi
+This is part2: i
+File name of avėti:ėti_i_ė́jo
+This is part2: vi
+File name of žavėti:ėti_vi_vė́jo
+This is part2: visi
+File name of žavėtis:tis_visi_vė́josi
 Reflexive? false :: lemma? true
 žavėtis: 7
 žãvisi: 6
@@ -418,7 +482,8 @@ Reflexive? false :: lemma? true
 lemma: av, nugget: ė
 tis_visi_vė́josi
 
-Isn't this the file name? auti_áuja_ãvo
+This is part2: áuja
+File name of badauti:auti_áuja_ãvo
 Reflexive? false :: lemma? true
 badauti: 7
 badáuja: 7
@@ -426,7 +491,8 @@ badãvo: 6
 lemma: bad, nugget: au
 auti_áuja_ãvo
 
-Isn't this the file name? yti_o_ė
+This is part2: o
+File name of badyti:yti_o_ė
 Reflexive? false :: lemma? true
 badyti: 6
 bãdo: 4
@@ -434,7 +500,10 @@ bãdė: 4
 lemma: bad, nugget: y
 yti_o_ė
 
-Isn't this the file name? tis_osi_ėsi
+This is part2: o
+File name of baidyti:yti_o_ė
+This is part2: osi
+File name of baidytis:tis_osi_ėsi
 Reflexive? false :: lemma? true
 baidytis: 8
 baĩdosi: 7
@@ -442,7 +511,6 @@ baĩdėsi: 7
 lemma: baid, nugget: y
 tis_osi_ėsi
 
-Isn't this the file name? ytis_osi_ėsi
 Reflexive? true :: lemma? true
 baidytis: 8
 baĩdosi: 7
@@ -450,7 +518,6 @@ baĩdėsi: 7
 lemma: baid, nugget: y
 ytis_osi_ėsi
 
-Isn't this the file name? aigtis_aĩgiasi_aĩgėsi
 Reflexive? false :: lemma? false
 baigtis: 7
 baĩgiasi: 8
@@ -458,7 +525,6 @@ baĩgėsi: 7
 lemma: baig, nugget: 
 aigtis_aĩgiasi_aĩgėsi
 
-Isn't this the file name? aigtis_aĩgiasi_aĩgėsi
 Reflexive? true :: lemma? false
 baigtis: 7
 baĩgiasi: 8
@@ -467,9 +533,12 @@ lemma: baig, nugget:
 aigtis_aĩgiasi_aĩgėsi
 
 
-check_for_duplicates: ["baigtis, baĩgiasi, baĩgėsi\n"]
+File already exists, checking for duplicates: ["baigtis, baĩgiasi, baĩgėsi\n"]
 This line exists already: baigtis, baĩgiasi, baĩgėsi
-Isn't this the file name? intis_minasi_minosi
+This is part2: mina
+File name of baiminti:minti_mina_minosi
+This is part2: minasi
+File name of baimintis:intis_minasi_minosi
 Reflexive? false :: lemma? true
 baimintis: 9
 báiminasi: 9
@@ -477,7 +546,6 @@ báiminosi: 9
 lemma: bai, nugget: min
 intis_minasi_minosi
 
-Isn't this the file name? mintis_minasi_minosi
 Reflexive? true :: lemma? true
 baimintis: 9
 báiminasi: 9
@@ -485,7 +553,10 @@ báiminosi: 9
 lemma: bai, nugget: min
 mintis_minasi_minosi
 
-Isn't this the file name? tis_isi_ė́josi
+This is part2: ėja
+File name of baisėti:ėti_ėja_ėjo
+This is part2: isi
+File name of baisėtis:tis_isi_ė́josi
 Reflexive? false :: lemma? true
 baisėtis: 8
 baĩsisi: 7
@@ -493,7 +564,6 @@ baisė́josi: 10
 lemma: bais, nugget: ė
 tis_isi_ė́josi
 
-Isn't this the file name? ėtis_isi_ė́josi
 Reflexive? true :: lemma? true
 baisėtis: 8
 baĩsisi: 7
@@ -501,7 +571,8 @@ baisė́josi: 10
 lemma: bais, nugget: ė
 ėtis_isi_ė́josi
 
-Isn't this the file name? telėti_teli_telėjo
+This is part2: teli
+File name of bakstelėti:telėti_teli_telėjo
 Reflexive? false :: lemma? true
 bakstelėti: 10
 bãksteli: 8
@@ -509,7 +580,8 @@ bãkstelėjo: 10
 lemma: baks, nugget: telė
 telėti_teli_telėjo
 
-Isn't this the file name? uoti_úoja_ãvo
+This is part2: úoja
+File name of balansuoti:uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 balansuoti: 10
 balansúoja: 10
@@ -518,8 +590,9 @@ lemma: balans, nugget: uo
 uoti_úoja_ãvo
 
 
-check_for_duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
-Isn't this the file name? inti_ina_ino
+File already exists, checking for duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
+This is part2: ina
+File name of balinti:inti_ina_ino
 Reflexive? false :: lemma? true
 balinti: 7
 bãlina: 6
@@ -528,8 +601,9 @@ lemma: bal, nugget: in
 inti_ina_ino
 
 
-check_for_duplicates: ["aktyvinti, aktỹvina, aktỹvino\n"]
-Isn't this the file name? oti_ója_ójo
+File already exists, checking for duplicates: ["aktyvinti, aktỹvina, aktỹvino\n"]
+This is part2: ója
+File name of balnoti:oti_ója_ójo
 Reflexive? false :: lemma? true
 balnoti: 7
 balnója: 7
@@ -537,7 +611,8 @@ balnójo: 7
 lemma: baln, nugget: o
 oti_ója_ójo
 
-Isn't this the file name? sti_sta_o
+This is part2: sta
+File name of balsti:sti_sta_o
 Reflexive? false :: lemma? true
 balsti: 6
 balsta: 6
@@ -545,7 +620,8 @@ bãlo: 4
 lemma: bal, nugget: s
 sti_sta_o
 
-Isn't this the file name? suoti_súoja_sãvo
+This is part2: súoja
+File name of balsuoti:suoti_súoja_sãvo
 Reflexive? false :: lemma? true
 balsuoti: 8
 balsúoja: 8
@@ -553,7 +629,8 @@ balsãvo: 7
 lemma: bal, nugget: suo
 suoti_súoja_sãvo
 
-Isn't this the file name? tėti_tėja_tėjo
+This is part2: tėja
+File name of baltėti:tėti_tėja_tėjo
 Reflexive? false :: lemma? true
 baltėti: 7
 baltėja: 7
@@ -561,7 +638,6 @@ baltėjo: 7
 lemma: bal, nugget: tė
 tėti_tėja_tėjo
 
-Isn't this the file name? abalti_abąla_alabo
 Reflexive? false :: lemma? false
 žabalti: 7
 žabąla: 6
@@ -569,7 +645,8 @@ Reflexive? false :: lemma? false
 lemma: bal, nugget: 
 abalti_abąla_alabo
 
-Isn't this the file name? tinti_tinà_tino
+This is part2: tinà
+File name of baltinti:tinti_tinà_tino
 Reflexive? false :: lemma? true
 baltinti: 8
 baltinà: 7
@@ -577,7 +654,8 @@ báltino: 7
 lemma: bal, nugget: tin
 tinti_tinà_tino
 
-Isn't this the file name? tuoti_túoja_tãvo
+This is part2: túoja
+File name of baltuoti:tuoti_túoja_tãvo
 Reflexive? false :: lemma? true
 baltuoti: 8
 baltúoja: 8
@@ -585,7 +663,8 @@ baltãvo: 7
 lemma: bal, nugget: tuo
 tuoti_túoja_tãvo
 
-Isn't this the file name? yti_o_ė
+This is part2: o
+File name of bandyti:yti_o_ė
 Reflexive? false :: lemma? true
 bandyti: 7
 bañdo: 5
@@ -594,8 +673,9 @@ lemma: band, nugget: y
 yti_o_ė
 
 
-check_for_duplicates: ["badyti, bãdo, bãdė\n"]
-Isn't this the file name? uoti_úoja_ãvo
+File already exists, checking for duplicates: ["badyti, bãdo, bãdė\n"]
+This is part2: úoja
+File name of banguoti:uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 banguoti: 8
 bangúoja: 8
@@ -604,8 +684,9 @@ lemma: bang, nugget: uo
 uoti_úoja_ãvo
 
 
-check_for_duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
-Isn't this the file name? uoti_úoja_ãvo
+File already exists, checking for duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
+This is part2: úoja
+File name of bankrutuoti:uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 bankrutuoti: 11
 bankrutúoja: 11
@@ -614,8 +695,9 @@ lemma: bankrut, nugget: uo
 uoti_úoja_ãvo
 
 
-check_for_duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
-Isn't this the file name? inti_ina_ino
+File already exists, checking for duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
+This is part2: ina
+File name of barškinti:inti_ina_ino
 Reflexive? false :: lemma? true
 barškinti: 9
 bárškina: 8
@@ -624,8 +706,11 @@ lemma: baršk, nugget: in
 inti_ina_ino
 
 
-check_for_duplicates: ["aktyvinti, aktỹvina, aktỹvino\n"]
-Isn't this the file name? tytis_̃stosi_̃stėsi
+File already exists, checking for duplicates: ["aktyvinti, aktỹvina, aktỹvino\n"]
+This is part2: ̃sto
+File name of barstyti:styti_̃sto_̃stė
+This is part2: ̃stosi
+File name of barstytis:tytis_̃stosi_̃stėsi
 Reflexive? false :: lemma? true
 barstytis: 9
 bar̃stosi: 9
@@ -633,7 +718,6 @@ bar̃stėsi: 9
 lemma: bar, nugget: sty
 tytis_̃stosi_̃stėsi
 
-Isn't this the file name? stytis_̃stosi_̃stėsi
 Reflexive? true :: lemma? true
 barstytis: 9
 bar̃stosi: 9
@@ -641,7 +725,6 @@ bar̃stėsi: 9
 lemma: bar, nugget: sty
 stytis_̃stosi_̃stėsi
 
-Isn't this the file name? artis_ãrasi_ãrėsi
 Reflexive? false :: lemma? false
 bartis: 6
 bãrasi: 6
@@ -649,7 +732,6 @@ bãrėsi: 6
 lemma: bar, nugget: 
 artis_ãrasi_ãrėsi
 
-Isn't this the file name? artis_ãrasi_ãrėsi
 Reflexive? true :: lemma? false
 bartis: 6
 bãrasi: 6
@@ -658,9 +740,10 @@ lemma: bar, nugget:
 artis_ãrasi_ãrėsi
 
 
-check_for_duplicates: ["bartis, bãrasi, bãrėsi\n"]
+File already exists, checking for duplicates: ["bartis, bãrasi, bãrėsi\n"]
 This line exists already: bartis, bãrasi, bãrėsi
-Isn't this the file name? inti_ìna_ìno
+This is part2: ìna
+File name of bauginti:inti_ìna_ìno
 Reflexive? false :: lemma? true
 bauginti: 8
 baugìna: 7
@@ -669,8 +752,7 @@ lemma: baug, nugget: in
 inti_ìna_ìno
 
 
-check_for_duplicates: ["alsinti, alsìna, alsìno\n"]
-Isn't this the file name? austi_aũdžia_aũdė
+File already exists, checking for duplicates: ["alsinti, alsìna, alsìno\n"]
 Reflexive? false :: lemma? false
 bausti: 6
 baũdžia: 7
@@ -678,7 +760,8 @@ baũdė: 5
 lemma: baus, nugget: 
 austi_aũdžia_aũdė
 
-Isn't this the file name? inėti_inė́ja_inė́ja
+This is part2: inė́ja
+File name of bėginėti:inėti_inė́ja_inė́ja
 Reflexive? false :: lemma? true
 bėginėti: 8
 bėginė́ja: 9
@@ -686,7 +769,8 @@ bėginė́ja: 9
 lemma: bėg, nugget: inė
 inėti_inė́ja_inė́ja
 
-Isn't this the file name? ioti_iója_iójo
+This is part2: iója
+File name of bėgioti:ioti_iója_iójo
 Reflexive? false :: lemma? true
 bėgioti: 7
 bėgiója: 7
@@ -694,7 +778,6 @@ bėgiójo: 7
 lemma: bėg, nugget: io
 ioti_iója_iójo
 
-Isn't this the file name? ėgti_ė́ga_ė́go
 Reflexive? false :: lemma? false
 bėgti: 5
 bė́ga: 5
@@ -702,7 +785,8 @@ bė́go: 5
 lemma: bėg, nugget: 
 ėgti_ė́ga_ė́go
 
-Isn't this the file name? dzenti_zdena_zdeno
+This is part2: zdena
+File name of bidzenti:dzenti_zdena_zdeno
 Reflexive? false :: lemma? true
 bidzenti: 8
 bizdena: 7
@@ -710,7 +794,8 @@ bizdeno: 7
 lemma: bi, nugget: dzen
 dzenti_zdena_zdeno
 
-Isn't this the file name? oti_o_ójo
+This is part2: o
+File name of bijoti:oti_o_ójo
 Reflexive? false :: lemma? true
 bijoti: 6
 bìjo: 4
@@ -718,7 +803,6 @@ bijójo: 6
 lemma: bij, nugget: o
 oti_o_ójo
 
-Isn't this the file name? irbti_ir̃bia_ir̃bė
 Reflexive? false :: lemma? false
 birbti: 6
 bir̃bia: 7
@@ -726,7 +810,6 @@ bir̃bė: 6
 lemma: birb, nugget: 
 irbti_ir̃bia_ir̃bė
 
-Isn't this the file name? irti_ỹra_
 Reflexive? false :: lemma? false
 birti: 5
 bỹra: 4
@@ -734,7 +817,6 @@ bìro: 4
 lemma: bir, nugget: 
 irti_ỹra_
 
-Isn't this the file name? ėtis_isi_ė́josi
 Reflexive? true :: lemma? true
 bjaurėtis: 9
 bjaũrisi: 8
@@ -743,8 +825,9 @@ lemma: bjaur, nugget: ė
 ėtis_isi_ė́josi
 
 
-check_for_duplicates: ["baisėtis, baĩsisi, baisė́josi\n"]
-Isn't this the file name? jurti_jursta_jùro
+File already exists, checking for duplicates: ["baisėtis, baĩsisi, baisė́josi\n"]
+This is part2: jursta
+File name of bjurti:jurti_jursta_jùro
 Reflexive? false :: lemma? true
 bjurti: 6
 bjursta: 7
@@ -752,7 +835,6 @@ bjùro: 5
 lemma: b, nugget: jur
 jurti_jursta_jùro
 
-Isn't this the file name? ankti_añksta_ánko
 Reflexive? false :: lemma? false
 blankti: 7
 blañksta: 8
@@ -760,7 +842,10 @@ blánko: 6
 lemma: blank, nugget: 
 ankti_añksta_ánko
 
-Isn't this the file name? tis_osi_ėsi
+This is part2: o
+File name of blaškyti:yti_o_ė
+This is part2: osi
+File name of blaškytis:tis_osi_ėsi
 Reflexive? false :: lemma? true
 blaškytis: 9
 blãškosi: 8
@@ -769,8 +854,7 @@ lemma: blašk, nugget: y
 tis_osi_ėsi
 
 
-check_for_duplicates: ["baidytis, baĩdosi, baĩdėsi\n"]
-Isn't this the file name? ytis_osi_ėsi
+File already exists, checking for duplicates: ["baidytis, baĩdosi, baĩdėsi\n"]
 Reflexive? true :: lemma? true
 blaškytis: 9
 blãškosi: 8
@@ -779,8 +863,9 @@ lemma: blašk, nugget: y
 ytis_osi_ėsi
 
 
-check_for_duplicates: ["baidytis, baĩdosi, baĩdėsi\n"]
-Isn't this the file name? lefuoti_lefuoja_lefavo
+File already exists, checking for duplicates: ["baidytis, baĩdosi, baĩdėsi\n"]
+This is part2: lefuoja
+File name of blefuoti:lefuoti_lefuoja_lefavo
 Reflexive? false :: lemma? true
 blefuoti: 8
 blefuoja: 8
@@ -788,7 +873,8 @@ blefavo: 7
 lemma: b, nugget: lefuo
 lefuoti_lefuoja_lefavo
 
-Isn't this the file name? lęsti_leñdžia_leñdė
+This is part2: leñdžia
+File name of blęsti:lęsti_leñdžia_leñdė
 Reflexive? false :: lemma? true
 blęsti: 6
 bleñdžia: 8
@@ -796,7 +882,8 @@ bleñdė: 6
 lemma: b, nugget: lęs
 lęsti_leñdžia_leñdė
 
-Isn't this the file name? ėti_a_ė́jo
+This is part2: a
+File name of blizgėti:ėti_a_ė́jo
 Reflexive? false :: lemma? true
 blizgėti: 8
 blìzga: 6
@@ -804,7 +891,8 @@ blizgė́jo: 9
 lemma: blizg, nugget: ė
 ėti_a_ė́jo
 
-Isn't this the file name? inti_ina_ino
+This is part2: ina
+File name of blizginti:inti_ina_ino
 Reflexive? false :: lemma? true
 blizginti: 9
 blìzgina: 8
@@ -813,8 +901,9 @@ lemma: blizg, nugget: in
 inti_ina_ino
 
 
-check_for_duplicates: ["aktyvinti, aktỹvina, aktỹvino\n"]
-Isn't this the file name? ėti_ė́ja_ė́jo
+File already exists, checking for duplicates: ["aktyvinti, aktỹvina, aktỹvino\n"]
+This is part2: ė́ja
+File name of blogėti:ėti_ė́ja_ė́jo
 Reflexive? false :: lemma? true
 blogėti: 7
 blogė́ja: 8
@@ -823,8 +912,9 @@ lemma: blog, nugget: ė
 ėti_ė́ja_ė́jo
 
 
-check_for_duplicates: ["akėti, akė́ja, akė́jo\n"]
-Isn't this the file name? inti_ina_ino
+File already exists, checking for duplicates: ["akėti, akė́ja, akė́jo\n"]
+This is part2: ina
+File name of bloginti:inti_ina_ino
 Reflexive? false :: lemma? true
 bloginti: 8
 blõgina: 7
@@ -833,8 +923,7 @@ lemma: blog, nugget: in
 inti_ina_ino
 
 
-check_for_duplicates: ["aktyvinti, aktỹvina, aktỹvino\n"]
-Isn't this the file name? i_a_
+File already exists, checking for duplicates: ["aktyvinti, aktỹvina, aktỹvino\n"]
 Reflexive? false :: lemma? false
 blogti: 6
 blogsta: 7
@@ -842,7 +931,6 @@ blõgo: 5
 lemma: blog, nugget: 
 i_a_
 
-Isn't this the file name? i_ia_ė
 Reflexive? false :: lemma? false
 blokšti: 7
 blõškia: 7
@@ -850,7 +938,8 @@ blõškė: 6
 lemma: blokš, nugget: 
 i_ia_ė
 
-Isn't this the file name? uoti_úoja_ãvo
+This is part2: úoja
+File name of blokuoti:uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 blokuoti: 8
 blokúoja: 8
@@ -859,8 +948,9 @@ lemma: blok, nugget: uo
 uoti_úoja_ãvo
 
 
-check_for_duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
-Isn't this the file name? inti_ina_ino
+File already exists, checking for duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
+This is part2: ina
+File name of blukinti:inti_ina_ino
 Reflexive? false :: lemma? true
 blukinti: 8
 blùkina: 7
@@ -869,8 +959,7 @@ lemma: bluk, nugget: in
 inti_ina_ino
 
 
-check_for_duplicates: ["aktyvinti, aktỹvina, aktỹvino\n"]
-Isn't this the file name? ukti_uñka_
+File already exists, checking for duplicates: ["aktyvinti, aktỹvina, aktỹvino\n"]
 Reflexive? false :: lemma? false
 blukti: 6
 bluñka: 6
@@ -878,7 +967,6 @@ blùko: 5
 lemma: bluk, nugget: 
 ukti_uñka_
 
-Isn't this the file name? ykšti_ỹkšta_ỹško
 Reflexive? false :: lemma? false
 blykšti: 7
 blỹkšta: 7
@@ -886,7 +974,8 @@ blỹško: 6
 lemma: blykš, nugget: 
 ykšti_ỹkšta_ỹško
 
-Isn't this the file name? ėti_i_ėjo
+This is part2: i
+File name of bodėti:ėti_i_ėjo
 Reflexive? false :: lemma? true
 bodėti: 6
 bõdi: 4
@@ -894,7 +983,8 @@ bodėjo: 6
 lemma: bod, nugget: ė
 ėti_i_ėjo
 
-Isn't this the file name? uoti_úoja_ãvo
+This is part2: úoja
+File name of boluoti:uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 boluoti: 7
 bolúoja: 7
@@ -903,8 +993,9 @@ lemma: bol, nugget: uo
 uoti_úoja_ãvo
 
 
-check_for_duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
-Isn't this the file name? uoti_úoja_ãvo
+File already exists, checking for duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
+This is part2: úoja
+File name of bombarduoti:uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 bombarduoti: 11
 bombardúoja: 11
@@ -913,8 +1004,9 @@ lemma: bombard, nugget: uo
 uoti_úoja_ãvo
 
 
-check_for_duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
-Isn't this the file name? yti_o_ė
+File already exists, checking for duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
+This is part2: o
+File name of braidyti:yti_o_ė
 Reflexive? false :: lemma? true
 braidyti: 8
 braĩdo: 6
@@ -923,8 +1015,9 @@ lemma: braid, nugget: y
 yti_o_ė
 
 
-check_for_duplicates: ["badyti, bãdo, bãdė\n"]
-Isn't this the file name? yti_o_ė
+File already exists, checking for duplicates: ["badyti, bãdo, bãdė\n"]
+This is part2: o
+File name of braižyti:yti_o_ė
 Reflexive? false :: lemma? true
 braižyti: 8
 braĩžo: 6
@@ -933,8 +1026,9 @@ lemma: braiž, nugget: y
 yti_o_ė
 
 
-check_for_duplicates: ["badyti, bãdo, bãdė\n"]
-Isn't this the file name? inti_ìna_ìno
+File already exists, checking for duplicates: ["badyti, bãdo, bãdė\n"]
+This is part2: ìna
+File name of brandinti:inti_ìna_ìno
 Reflexive? false :: lemma? true
 brandinti: 9
 brandìna: 8
@@ -943,8 +1037,9 @@ lemma: brand, nugget: in
 inti_ìna_ìno
 
 
-check_for_duplicates: ["alsinti, alsìna, alsìno\n"]
-Isn't this the file name? inti_ìna_ìno
+File already exists, checking for duplicates: ["alsinti, alsìna, alsìno\n"]
+This is part2: ìna
+File name of branginti:inti_ìna_ìno
 Reflexive? false :: lemma? true
 branginti: 9
 brangìna: 8
@@ -953,8 +1048,7 @@ lemma: brang, nugget: in
 inti_ìna_ìno
 
 
-check_for_duplicates: ["alsinti, alsìna, alsìno\n"]
-Isn't this the file name? angti_ángsta_ángo
+File already exists, checking for duplicates: ["alsinti, alsìna, alsìno\n"]
 Reflexive? false :: lemma? false
 brangti: 7
 brángsta: 8
@@ -962,7 +1056,6 @@ brángo: 6
 lemma: brang, nugget: 
 angti_ángsta_ángo
 
-Isn't this the file name? aukti_aũkia_aũkė
 Reflexive? false :: lemma? false
 braukti: 7
 braũkia: 7
@@ -970,7 +1063,8 @@ braũkė: 6
 lemma: brauk, nugget: 
 aukti_aũkia_aũkė
 
-Isn't this the file name? yti_o_ė
+This is part2: o
+File name of braukyti:yti_o_ė
 Reflexive? false :: lemma? true
 braukyti: 8
 braũko: 6
@@ -979,8 +1073,7 @@ lemma: brauk, nugget: y
 yti_o_ė
 
 
-check_for_duplicates: ["badyti, bãdo, bãdė\n"]
-Isn't this the file name? autis_áunasi_ėsi
+File already exists, checking for duplicates: ["badyti, bãdo, bãdė\n"]
 Reflexive? true :: lemma? false
 brautis: 7
 bráunasi: 8
@@ -988,7 +1081,8 @@ bróvėsi: 7
 lemma: brau, nugget: 
 autis_áunasi_ėsi
 
-Isn't this the file name? razdėti_rãzda_razdė́jo
+This is part2: rãzda
+File name of brazdėti:razdėti_rãzda_razdė́jo
 Reflexive? false :: lemma? true
 brazdėti: 8
 brãzda: 6
@@ -996,7 +1090,8 @@ brazdė́jo: 9
 lemma: b, nugget: razdė
 razdėti_rãzda_razdė́jo
 
-Isn't this the file name? sti_́sta_ndo
+This is part2: ́sta
+File name of bręsti:sti_́sta_ndo
 Reflexive? false :: lemma? true
 bręsti: 6
 brę́sta: 7
@@ -1004,7 +1099,6 @@ bréndo: 6
 lemma: brę, nugget: s
 sti_́sta_ndo
 
-Isn't this the file name? ėžti_ė́žia_ė́žė
 Reflexive? false :: lemma? false
 brėžti: 6
 brė́žia: 7
@@ -1012,7 +1106,6 @@ brė́žė: 6
 lemma: brėž, nugget: 
 ėžti_ė́žia_ė́žė
 
-Isn't this the file name? inkti_a_
 Reflexive? false :: lemma? false
 brinkti: 7
 brìnksta: 8
@@ -1020,7 +1113,6 @@ brìnko: 6
 lemma: brink, nugget: 
 inkti_a_
 
-Isn't this the file name? isti_eñda_
 Reflexive? false :: lemma? false
 bristi: 6
 breñda: 6
@@ -1028,7 +1120,6 @@ brìdo: 5
 lemma: bris, nugget: 
 isti_eñda_
 
-Isn't this the file name? ukti_unka_
 Reflexive? false :: lemma? false
 brukti: 6
 brunka: 6
@@ -1036,7 +1127,8 @@ brùko: 5
 lemma: bruk, nugget: 
 ukti_unka_
 
-Isn't this the file name? inti_žina_žino
+This is part2: žina
+File name of brūžinti:inti_žina_žino
 Reflexive? false :: lemma? true
 brūžinti: 8
 brū́žina: 8
@@ -1044,7 +1136,10 @@ brū́žino: 8
 lemma: brūž, nugget: in
 inti_žina_žino
 
-Isn't this the file name? uotis_iúojasi_iãvosi
+This is part2: iúoja
+File name of bučiuoti:iuoti_iúoja_iãvo
+This is part2: iúojasi
+File name of bučiuotis:uotis_iúojasi_iãvosi
 Reflexive? false :: lemma? true
 bučiuotis: 9
 bučiúojasi: 10
@@ -1052,7 +1147,6 @@ bučiãvosi: 9
 lemma: buč, nugget: iuo
 uotis_iúojasi_iãvosi
 
-Isn't this the file name? iuotis_iúojasi_iãvosi
 Reflexive? true :: lemma? true
 bučiuotis: 9
 bučiúojasi: 10
@@ -1060,7 +1154,8 @@ bučiãvosi: 9
 lemma: buč, nugget: iuo
 iuotis_iúojasi_iãvosi
 
-Isn't this the file name? ėti_i_ė́jo
+This is part2: i
+File name of budėti:ėti_i_ė́jo
 Reflexive? false :: lemma? true
 budėti: 6
 bùdi: 4
@@ -1069,8 +1164,9 @@ lemma: bud, nugget: ė
 ėti_i_ė́jo
 
 
-check_for_duplicates: ["aidėti, áidi, aidė́jo\n"]
-Isn't this the file name? inti_ina_ino
+File already exists, checking for duplicates: ["aidėti, áidi, aidė́jo\n"]
+This is part2: ina
+File name of budinti:inti_ina_ino
 Reflexive? false :: lemma? true
 budinti: 7
 bùdina: 6
@@ -1079,8 +1175,9 @@ lemma: bud, nugget: in
 inti_ina_ino
 
 
-check_for_duplicates: ["aktyvinti, aktỹvina, aktỹvino\n"]
-Isn't this the file name? štauti_gtauja_gštavo
+File already exists, checking for duplicates: ["aktyvinti, aktỹvina, aktỹvino\n"]
+This is part2: gtauja
+File name of būgštauti:štauti_gtauja_gštavo
 Reflexive? false :: lemma? true
 būgštauti: 9
 būšgtauja: 9
@@ -1088,7 +1185,8 @@ bū́gštavo: 9
 lemma: būg, nugget: štau
 štauti_gtauja_gštavo
 
-Isn't this the file name? oti_ója_ójo
+This is part2: ója
+File name of bujoti:oti_ója_ójo
 Reflexive? false :: lemma? true
 bujoti: 6
 bujója: 6
@@ -1097,8 +1195,9 @@ lemma: buj, nugget: o
 oti_ója_ójo
 
 
-check_for_duplicates: ["balnoti, balnója, balnójo\n"]
-Isn't this the file name? ėti_a_ė́jo
+File already exists, checking for duplicates: ["balnoti, balnója, balnójo\n"]
+This is part2: a
+File name of burbėti:ėti_a_ė́jo
 Reflexive? false :: lemma? true
 burbėti: 7
 bùrba: 5
@@ -1107,8 +1206,9 @@ lemma: burb, nugget: ė
 ėti_a_ė́jo
 
 
-check_for_duplicates: ["blizgėti, blìzga, blizgė́jo\n"]
-Isn't this the file name? uliuoti_uliúoja_uliãvo
+File already exists, checking for duplicates: ["blizgėti, blìzga, blizgė́jo\n"]
+This is part2: uliúoja
+File name of burbuliuoti:uliuoti_uliúoja_uliãvo
 Reflexive? false :: lemma? true
 burbuliuoti: 11
 burbuliúoja: 11
@@ -1116,7 +1216,8 @@ burbuliãvo: 10
 lemma: burb, nugget: uliuo
 uliuoti_uliúoja_uliãvo
 
-Isn't this the file name? iuoti_iúoja_iãvo
+This is part2: iúoja
+File name of buriuoti:iuoti_iúoja_iãvo
 Reflexive? false :: lemma? true
 buriuoti: 8
 buriúoja: 8
@@ -1125,8 +1226,9 @@ lemma: bur, nugget: iuo
 iuoti_iúoja_iãvo
 
 
-check_for_duplicates: ["asimiliuoti, asimiliúoja, asimiliãvo\n"]
-Isn't this the file name? iuoti_iúoja_iãvo
+File already exists, checking for duplicates: ["asimiliuoti, asimiliúoja, asimiliãvo\n"]
+This is part2: iúoja
+File name of būriuoti:iuoti_iúoja_iãvo
 Reflexive? false :: lemma? true
 būriuoti: 8
 buriúoja: 8
@@ -1135,8 +1237,7 @@ lemma: būr, nugget: iuo
 iuoti_iúoja_iãvo
 
 
-check_for_duplicates: ["asimiliuoti, asimiliúoja, asimiliãvo\n"]
-Isn't this the file name? urti_ia_ū́rė
+File already exists, checking for duplicates: ["asimiliuoti, asimiliúoja, asimiliãvo\n"]
 Reflexive? false :: lemma? false
 burti: 5
 bùria: 5
@@ -1144,7 +1245,6 @@ bū́rė: 5
 lemma: bur, nugget: 
 urti_ia_ū́rė
 
-Isn't this the file name? usti_uñda_
 Reflexive? false :: lemma? false
 busti: 5
 buñda: 5
@@ -1152,7 +1252,6 @@ bùdo: 4
 lemma: bus, nugget: 
 usti_uñda_
 
-Isn't this the file name? ebebūti_ebebū̃na_ebebùvo
 Reflexive? false :: lemma? false
 tebebūti: 8
 tebebū̃na: 9
@@ -1160,7 +1259,8 @@ tebebùvo: 8
 lemma: bū, nugget: 
 ebebūti_ebebū̃na_ebebùvo
 
-Isn't this the file name? oti_ója_ójo
+This is part2: ója
+File name of buvoti:oti_ója_ójo
 Reflexive? false :: lemma? true
 buvoti: 6
 buvója: 6
@@ -1169,8 +1269,7 @@ lemma: buv, nugget: o
 oti_ója_ójo
 
 
-check_for_duplicates: ["balnoti, balnója, balnójo\n"]
-Isn't this the file name? inėtis_inė́jasi_inė́josi
+File already exists, checking for duplicates: ["balnoti, balnója, balnójo\n"]
 Reflexive? true :: lemma? true
 bylinėtis: 9
 bylinė́jasi: 11
@@ -1178,7 +1277,8 @@ bylinė́josi: 11
 lemma: byl, nugget: inė
 inėtis_inė́jasi_inė́josi
 
-Isn't this the file name? oti_ója_ójo
+This is part2: ója
+File name of byloti:oti_ója_ójo
 Reflexive? false :: lemma? true
 byloti: 6
 bylója: 6
@@ -1187,8 +1287,9 @@ lemma: byl, nugget: o
 oti_ója_ójo
 
 
-check_for_duplicates: ["balnoti, balnója, balnójo\n"]
-Isn't this the file name? ėti_a_ė́jo
+File already exists, checking for duplicates: ["balnoti, balnója, balnójo\n"]
+This is part2: a
+File name of byrėti:ėti_a_ė́jo
 Reflexive? false :: lemma? true
 byrėti: 6
 bỹra: 4
@@ -1197,8 +1298,9 @@ lemma: byr, nugget: ė
 ėti_a_ė́jo
 
 
-check_for_duplicates: ["blizgėti, blìzga, blizgė́jo\n"]
-Isn't this the file name? ėti_a_ė́jo
+File already exists, checking for duplicates: ["blizgėti, blìzga, blizgė́jo\n"]
+This is part2: a
+File name of čežėti:ėti_a_ė́jo
 Reflexive? false :: lemma? true
 čežėti: 6
 čẽža: 4
@@ -1207,8 +1309,7 @@ lemma: čež, nugget: ė
 ėti_a_ė́jo
 
 
-check_for_duplicates: ["blizgėti, blìzga, blizgė́jo\n"]
-Isn't this the file name? ežti_ęžta_ežo
+File already exists, checking for duplicates: ["blizgėti, blìzga, blizgė́jo\n"]
 Reflexive? false :: lemma? false
 čežti: 5
 čęžta: 5
@@ -1216,7 +1317,8 @@ Reflexive? false :: lemma? false
 lemma: čež, nugget: 
 ežti_ęžta_ežo
 
-Isn't this the file name? ėti_ėja_ėjo
+This is part2: ėja
+File name of čiaudėti:ėti_ėja_ėjo
 Reflexive? false :: lemma? true
 čiaudėti: 8
 čiáudėja: 8
@@ -1225,8 +1327,9 @@ lemma: čiaud, nugget: ė
 ėti_ėja_ėjo
 
 
-check_for_duplicates: ["auklėti, áuklėja, áuklėjo\n"]
-Isn't this the file name? ėti_a_ė́jo
+File already exists, checking for duplicates: ["auklėti, áuklėja, áuklėjo\n"]
+This is part2: a
+File name of čiauškėti:ėti_a_ė́jo
 Reflexive? false :: lemma? true
 čiauškėti: 9
 čiáuška: 7
@@ -1235,8 +1338,9 @@ lemma: čiaušk, nugget: ė
 ėti_a_ė́jo
 
 
-check_for_duplicates: ["blizgėti, blìzga, blizgė́jo\n"]
-Isn't this the file name? užti_užia_užė
+File already exists, checking for duplicates: ["blizgėti, blìzga, blizgė́jo\n"]
+This is part2: užia
+File name of čiaužti:užti_užia_užė
 Reflexive? false :: lemma? true
 čiaužti: 7
 čiaužia: 7
@@ -1244,7 +1348,8 @@ Reflexive? false :: lemma? true
 lemma: čia, nugget: už
 užti_užia_užė
 
-Isn't this the file name? ėti_a_ėjo
+This is part2: a
+File name of čirpėti:ėti_a_ėjo
 Reflexive? false :: lemma? true
 čirpėti: 7
 čirpa: 5
@@ -1252,7 +1357,8 @@ Reflexive? false :: lemma? true
 lemma: čirp, nugget: ė
 ėti_a_ėjo
 
-Isn't this the file name? uoti_úoja_ãvo
+This is part2: úoja
+File name of cituoti:uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 cituoti: 7
 citúoja: 7
@@ -1261,8 +1367,9 @@ lemma: cit, nugget: uo
 uoti_úoja_ãvo
 
 
-check_for_duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
-Isn't this the file name? ėti_a_ė́jo
+File already exists, checking for duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
+This is part2: a
+File name of čiulbėti:ėti_a_ė́jo
 Reflexive? false :: lemma? true
 čiulbėti: 8
 čiùlba: 6
@@ -1271,8 +1378,7 @@ lemma: čiulb, nugget: ė
 ėti_a_ė́jo
 
 
-check_for_duplicates: ["blizgėti, blìzga, blizgė́jo\n"]
-Isn't this the file name? iulpti_iul̃pia_iul̃pė
+File already exists, checking for duplicates: ["blizgėti, blìzga, blizgė́jo\n"]
 Reflexive? false :: lemma? false
 čiulpti: 7
 čiul̃pia: 8
@@ -1280,7 +1386,8 @@ Reflexive? false :: lemma? false
 lemma: čiulp, nugget: 
 iulpti_iul̃pia_iul̃pė
 
-Isn't this the file name? inėti_inė́ja_inė́ja
+This is part2: inė́ja
+File name of čiuožinėti:inėti_inė́ja_inė́ja
 Reflexive? false :: lemma? true
 čiuožinėti: 10
 čiuožinė́ja: 11
@@ -1289,8 +1396,7 @@ lemma: čiuož, nugget: inė
 inėti_inė́ja_inė́ja
 
 
-check_for_duplicates: ["bėginėti, bėginė́ja, bėginė́ja\n"]
-Isn't this the file name? iuožti_iuõžia_iuõžė
+File already exists, checking for duplicates: ["bėginėti, bėginė́ja, bėginė́ja\n"]
 Reflexive? false :: lemma? false
 čiuožti: 7
 čiuõžia: 7
@@ -1298,7 +1404,6 @@ Reflexive? false :: lemma? false
 lemma: čiuož, nugget: 
 iuožti_iuõžia_iuõžė
 
-Isn't this the file name? iupti_iupa_iùpo
 Reflexive? false :: lemma? false
 čiupti: 6
 čiupa: 5
@@ -1306,7 +1411,8 @@ Reflexive? false :: lemma? false
 lemma: čiup, nugget: 
 iupti_iupa_iùpo
 
-Isn't this the file name? izuoti_izuoja_izãvo
+This is part2: izuoja
+File name of civilizuoti:izuoti_izuoja_izãvo
 Reflexive? false :: lemma? true
 civilizuoti: 11
 civilizuoja: 11
