@@ -1,324 +1,602 @@
-This is the infinitive form: absorbuoti
-This is the file name: uoti_úoja_ãvo
-This is the infinitive form: abstrahuoti
-This is the file name: uoti_úoja_ãvo
+Reflexive? false :: lemma? true
+absorbuoti::uoti_úoja_ãvo
+lemma: absorb, nugget: uo
+
+Reflexive? false :: lemma? true
+abstrahuoti::uoti_úoja_ãvo
+lemma: abstrah, nugget: uo
+
 check_for_duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
-This is the infinitive form: abuojėti
-This is the file name: uojėti_uojėja_uojėjo
-This is the infinitive form: adaptuotis
-This is the file name: otis_úojasi_ãvosi
-This is the infinitive form: adaptuotis
-This is the file name: uotis_úojasi_ãvosi
-This is the infinitive form: adinėti
-This is the file name: inėti_inėja_inėjo
-This is the infinitive form: badyti
-This is the file name: yti_do_dė
-This is the infinitive form: administruoti
-This is the file name: uoti_úoja_ãvo
+Reflexive? false :: lemma? true
+abuojėti::uojėti_uojėja_uojėjo
+lemma: ab, nugget: uojė
+
+Reflexive? false :: lemma? true
+adaptuotis::otis_úojasi_ãvosi
+lemma: adapt, nugget: uo
+
+Reflexive? true :: lemma? true
+adaptuotis::uotis_úojasi_ãvosi
+lemma: adapt, nugget: uo
+
+Reflexive? false :: lemma? true
+adinėti::inėti_inėja_inėjo
+lemma: ad, nugget: inė
+
+Reflexive? false :: lemma? true
+badyti::yti_do_dė
+lemma: ad, nugget: y
+
+Reflexive? false :: lemma? true
+administruoti::uoti_úoja_ãvo
+lemma: administr, nugget: uo
+
 check_for_duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
-This is the infinitive form: adresuoti
-This is the file name: uoti_úoja_ãvo
+Reflexive? false :: lemma? true
+adresuoti::uoti_úoja_ãvo
+lemma: adres, nugget: uo
+
 check_for_duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
-This is the infinitive form: aidėti
-This is the file name: ėti_i_ė́jo
-This is the infinitive form: aikčioti
-This is the file name: čioti_čioja_čiojo
-This is the infinitive form: akcentuoti
-This is the file name: uoti_úoja_ãvo
+Reflexive? false :: lemma? true
+aidėti::ėti_i_ė́jo
+lemma: aid, nugget: ė
+
+Reflexive? false :: lemma? true
+aikčioti::čioti_čioja_čiojo
+lemma: aik, nugget: čio
+
+Reflexive? false :: lemma? true
+akcentuoti::uoti_úoja_ãvo
+lemma: akcent, nugget: uo
+
 check_for_duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
-This is the infinitive form: akėti
-This is the file name: ėti_ė́ja_ė́jo
-This is the infinitive form: rakinti
-This is the file name: nti_ìna_ìno
-This is the infinitive form: plaktis
-This is the file name: aktis_ãka_ãkė
-This is the infinitive form: aktyvėti
-This is the file name: ėti_ė́ja_ė́jo
+Reflexive? false :: lemma? true
+akėti::ėti_ė́ja_ė́jo
+lemma: ak, nugget: ė
+
+Reflexive? false :: lemma? true
+rakinti::nti_ìna_ìno
+lemma: aki, nugget: n
+
+Reflexive? false :: lemma? false
+plaktis::aktis_ãka_ãkė
+lemma: ak, nugget: 
+
+Reflexive? false :: lemma? true
+aktyvėti::ėti_ė́ja_ė́jo
+lemma: aktyv, nugget: ė
+
 check_for_duplicates: ["akėti, akė́ja, akė́jo\n"]
-This is the infinitive form: aktyvinti
-This is the file name: inti_ina_ino
-This is the infinitive form: aktyvuoti
-This is the file name: uoti_uoja_avo
-This is the infinitive form: alkti
-This is the file name: alkti_álksta_al̃ko
-This is the infinitive form: alpti
-This is the file name: alpti_al̃psta_al̃po
-This is the infinitive form: alsinti
-This is the file name: inti_ìna_ìno
-This is the infinitive form: amputuoti
-This is the file name: uoti_uoja_ãvo
-This is the infinitive form: tamsėti
-This is the file name: ėti_sė́ja_sė́jo
-This is the infinitive form: amžinti
-This is the file name: inti_inà_ino
-This is the infinitive form: analizuoti
-This is the file name: uoti_úoja_ãvo
+Reflexive? false :: lemma? true
+aktyvinti::inti_ina_ino
+lemma: aktyv, nugget: in
+
+Reflexive? false :: lemma? true
+aktyvuoti::uoti_uoja_avo
+lemma: aktyv, nugget: uo
+
+Reflexive? false :: lemma? false
+alkti::alkti_álksta_al̃ko
+lemma: alk, nugget: 
+
+Reflexive? false :: lemma? false
+alpti::alpti_al̃psta_al̃po
+lemma: alp, nugget: 
+
+Reflexive? false :: lemma? true
+alsinti::inti_ìna_ìno
+lemma: als, nugget: in
+
+Reflexive? false :: lemma? true
+amputuoti::uoti_uoja_ãvo
+lemma: amput, nugget: uo
+
+Reflexive? false :: lemma? true
+tamsėti::ėti_sė́ja_sė́jo
+lemma: ams, nugget: ė
+
+Reflexive? false :: lemma? true
+amžinti::inti_inà_ino
+lemma: amž, nugget: in
+
+Reflexive? false :: lemma? true
+analizuoti::uoti_úoja_ãvo
+lemma: analiz, nugget: uo
+
 check_for_duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
-This is the infinitive form: aneksuoti
-This is the file name: eksuoti_eksúoja_eksãvo
-This is the infinitive form: antspauduoti
-This is the file name: spauduoti_spaudúoja_spaudãvo
-This is the infinitive form: vardyti
-This is the file name: dyti_r̃dija_r̃dijo
-This is the infinitive form: areštuoti
-This is the file name: uoti_úoja_ãvo
+Reflexive? false :: lemma? true
+aneksuoti::eksuoti_eksúoja_eksãvo
+lemma: an, nugget: eksuo
+
+Reflexive? false :: lemma? true
+antspauduoti::spauduoti_spaudúoja_spaudãvo
+lemma: ant, nugget: spauduo
+
+Reflexive? false :: lemma? true
+vardyti::dyti_r̃dija_r̃dijo
+lemma: ar, nugget: dy
+
+Reflexive? false :: lemma? true
+areštuoti::uoti_úoja_ãvo
+lemma: arešt, nugget: uo
+
 check_for_duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
-This is the infinitive form: artėti
-This is the file name: ėti_ė́ja_ė́jo
+Reflexive? false :: lemma? true
+artėti::ėti_ė́ja_ė́jo
+lemma: art, nugget: ė
+
 check_for_duplicates: ["akėti, akė́ja, akė́jo\n"]
-This is the infinitive form: tartis
-This is the file name: artis_ãriasi_ãrėsi
-This is the infinitive form: artintis
-This is the file name: ntis_tinasi_tinosi
-This is the infinitive form: artintis
-This is the file name: intis_tinasi_tinosi
-This is the infinitive form: asimiliuoti
-This is the file name: iuoti_iúoja_iãvo
-This is the infinitive form: asmenuoti
-This is the file name: enuoti_enúoja_enãvo
-This is the infinitive form: asocijuoti
-This is the file name: uoti_úoja_avo
-This is the infinitive form: skaudėti
-This is the file name: ėti_ũda_udė́jo
-This is the infinitive form: rauginti
-This is the file name: inti_gìna_gìno
-This is the infinitive form: žliaugti
-This is the file name: iaugti_iaũgia_iaũgė
-This is the infinitive form: auklėti
-This is the file name: ėti_ėja_ėjo
-This is the infinitive form: aukotis
-This is the file name: tis_ója_ójo
-This is the infinitive form: aukotis
-This is the file name: otis_ója_ójo
-This is the infinitive form: auksuoti
-This is the file name: uoti_úoja_ãvo
+Reflexive? false :: lemma? false
+tartis::artis_ãriasi_ãrėsi
+lemma: ar, nugget: 
+
+Reflexive? false :: lemma? true
+artintis::ntis_tinasi_tinosi
+lemma: art, nugget: in
+
+Reflexive? true :: lemma? true
+artintis::intis_tinasi_tinosi
+lemma: art, nugget: in
+
+Reflexive? false :: lemma? true
+asimiliuoti::iuoti_iúoja_iãvo
+lemma: asimil, nugget: iuo
+
+Reflexive? false :: lemma? true
+asmenuoti::enuoti_enúoja_enãvo
+lemma: asm, nugget: enuo
+
+Reflexive? false :: lemma? true
+asocijuoti::uoti_úoja_avo
+lemma: asocij, nugget: uo
+
+Reflexive? false :: lemma? true
+skaudėti::ėti_ũda_udė́jo
+lemma: aud, nugget: ė
+
+Reflexive? false :: lemma? true
+rauginti::inti_gìna_gìno
+lemma: aug, nugget: in
+
+Reflexive? false :: lemma? false
+žliaugti::iaugti_iaũgia_iaũgė
+lemma: aug, nugget: 
+
+Reflexive? false :: lemma? true
+auklėti::ėti_ėja_ėjo
+lemma: aukl, nugget: ė
+
+Reflexive? false :: lemma? true
+aukotis::tis_ója_ójo
+lemma: auk, nugget: o
+
+Reflexive? true :: lemma? true
+aukotis::otis_ója_ójo
+lemma: auk, nugget: o
+
+Reflexive? false :: lemma? true
+auksuoti::uoti_úoja_ãvo
+lemma: auks, nugget: uo
+
 check_for_duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
-This is the infinitive form: aukštinti
-This is the file name: inti_ina_ino
+Reflexive? false :: lemma? true
+aukštinti::inti_ina_ino
+lemma: aukšt, nugget: in
+
 check_for_duplicates: ["aktyvinti, aktỹvina, aktỹvino\n"]
-This is the infinitive form: snausti
-This is the file name: austi_áudžia_áudė
-This is the infinitive form: šiauštis
-This is the file name: iauštis_iáušiasi_iáušėsi
-This is the infinitive form: žvygauti
-This is the file name: ygauti_ýgauja_ýgavo
-This is the infinitive form: vadovautis
-This is the file name: adovautis_adováujasi_adovãvosi
-This is the infinitive form: automatizuoti
-This is the file name: izuoti_izúoja_izavo
-This is the infinitive form: žavėtis
-This is the file name: tis_visi_vė́josi
-This is the infinitive form: badauti
-This is the file name: auti_áuja_ãvo
-This is the infinitive form: badyti
-This is the file name: yti_o_ė
-This is the infinitive form: baidytis
-This is the file name: tis_osi_ėsi
-This is the infinitive form: baidytis
-This is the file name: ytis_osi_ėsi
-This is the infinitive form: baigtis
-This is the file name: aigtis_aĩgiasi_aĩgėsi
-This is the infinitive form: baigtis
-This is the file name: aigtis_aĩgiasi_aĩgėsi
+Reflexive? false :: lemma? false
+snausti::austi_áudžia_áudė
+lemma: aus, nugget: 
+
+Reflexive? false :: lemma? false
+šiauštis::iauštis_iáušiasi_iáušėsi
+lemma: auš, nugget: 
+
+Reflexive? false :: lemma? false
+žvygauti::ygauti_ýgauja_ýgavo
+lemma: au, nugget: 
+
+Reflexive? true :: lemma? false
+vadovautis::adovautis_adováujasi_adovãvosi
+lemma: au, nugget: 
+
+Reflexive? false :: lemma? true
+automatizuoti::izuoti_izúoja_izavo
+lemma: automat, nugget: izuo
+
+Reflexive? false :: lemma? true
+žavėtis::tis_visi_vė́josi
+lemma: av, nugget: ė
+
+Reflexive? false :: lemma? true
+badauti::auti_áuja_ãvo
+lemma: bad, nugget: au
+
+Reflexive? false :: lemma? true
+badyti::yti_o_ė
+lemma: bad, nugget: y
+
+Reflexive? false :: lemma? true
+baidytis::tis_osi_ėsi
+lemma: baid, nugget: y
+
+Reflexive? true :: lemma? true
+baidytis::ytis_osi_ėsi
+lemma: baid, nugget: y
+
+Reflexive? false :: lemma? false
+baigtis::aigtis_aĩgiasi_aĩgėsi
+lemma: baig, nugget: 
+
+Reflexive? true :: lemma? false
+baigtis::aigtis_aĩgiasi_aĩgėsi
+lemma: baig, nugget: 
+
 check_for_duplicates: ["baigtis, baĩgiasi, baĩgėsi\n"]
 This line exists already: baigtis, baĩgiasi, baĩgėsi
-This is the infinitive form: baimintis
-This is the file name: intis_minasi_minosi
-This is the infinitive form: baimintis
-This is the file name: mintis_minasi_minosi
-This is the infinitive form: baisėtis
-This is the file name: tis_isi_ė́josi
-This is the infinitive form: baisėtis
-This is the file name: ėtis_isi_ė́josi
-This is the infinitive form: bakstelėti
-This is the file name: telėti_teli_telėjo
-This is the infinitive form: balansuoti
-This is the file name: uoti_úoja_ãvo
+Reflexive? false :: lemma? true
+baimintis::intis_minasi_minosi
+lemma: bai, nugget: min
+
+Reflexive? true :: lemma? true
+baimintis::mintis_minasi_minosi
+lemma: bai, nugget: min
+
+Reflexive? false :: lemma? true
+baisėtis::tis_isi_ė́josi
+lemma: bais, nugget: ė
+
+Reflexive? true :: lemma? true
+baisėtis::ėtis_isi_ė́josi
+lemma: bais, nugget: ė
+
+Reflexive? false :: lemma? true
+bakstelėti::telėti_teli_telėjo
+lemma: baks, nugget: telė
+
+Reflexive? false :: lemma? true
+balansuoti::uoti_úoja_ãvo
+lemma: balans, nugget: uo
+
 check_for_duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
-This is the infinitive form: balinti
-This is the file name: inti_ina_ino
+Reflexive? false :: lemma? true
+balinti::inti_ina_ino
+lemma: bal, nugget: in
+
 check_for_duplicates: ["aktyvinti, aktỹvina, aktỹvino\n"]
-This is the infinitive form: balnoti
-This is the file name: oti_ója_ójo
-This is the infinitive form: balsti
-This is the file name: sti_sta_o
-This is the infinitive form: balsuoti
-This is the file name: suoti_súoja_sãvo
-This is the infinitive form: baltėti
-This is the file name: tėti_tėja_tėjo
-This is the infinitive form: žabalti
-This is the file name: abalti_abąla_alabo
-This is the infinitive form: baltinti
-This is the file name: tinti_tinà_tino
-This is the infinitive form: baltuoti
-This is the file name: tuoti_túoja_tãvo
-This is the infinitive form: bandyti
-This is the file name: yti_o_ė
+Reflexive? false :: lemma? true
+balnoti::oti_ója_ójo
+lemma: baln, nugget: o
+
+Reflexive? false :: lemma? true
+balsti::sti_sta_o
+lemma: bal, nugget: s
+
+Reflexive? false :: lemma? true
+balsuoti::suoti_súoja_sãvo
+lemma: bal, nugget: suo
+
+Reflexive? false :: lemma? true
+baltėti::tėti_tėja_tėjo
+lemma: bal, nugget: tė
+
+Reflexive? false :: lemma? false
+žabalti::abalti_abąla_alabo
+lemma: bal, nugget: 
+
+Reflexive? false :: lemma? true
+baltinti::tinti_tinà_tino
+lemma: bal, nugget: tin
+
+Reflexive? false :: lemma? true
+baltuoti::tuoti_túoja_tãvo
+lemma: bal, nugget: tuo
+
+Reflexive? false :: lemma? true
+bandyti::yti_o_ė
+lemma: band, nugget: y
+
 check_for_duplicates: ["badyti, bãdo, bãdė\n"]
-This is the infinitive form: banguoti
-This is the file name: uoti_úoja_ãvo
+Reflexive? false :: lemma? true
+banguoti::uoti_úoja_ãvo
+lemma: bang, nugget: uo
+
 check_for_duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
-This is the infinitive form: bankrutuoti
-This is the file name: uoti_úoja_ãvo
+Reflexive? false :: lemma? true
+bankrutuoti::uoti_úoja_ãvo
+lemma: bankrut, nugget: uo
+
 check_for_duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
-This is the infinitive form: barstytis
-This is the file name: tytis_̃stosi_̃stėsi
-This is the infinitive form: barstytis
-This is the file name: stytis_̃stosi_̃stėsi
-This is the infinitive form: barškinti
-This is the file name: inti_ina_ino
+Reflexive? false :: lemma? true
+barstytis::tytis_̃stosi_̃stėsi
+lemma: bar, nugget: sty
+
+Reflexive? true :: lemma? true
+barstytis::stytis_̃stosi_̃stėsi
+lemma: bar, nugget: sty
+
+Reflexive? false :: lemma? true
+barškinti::inti_ina_ino
+lemma: baršk, nugget: in
+
 check_for_duplicates: ["aktyvinti, aktỹvina, aktỹvino\n"]
-This is the infinitive form: bartis
-This is the file name: artis_ãrasi_ãrėsi
-This is the infinitive form: bartis
-This is the file name: artis_ãrasi_ãrėsi
+Reflexive? false :: lemma? false
+bartis::artis_ãrasi_ãrėsi
+lemma: bar, nugget: 
+
+Reflexive? true :: lemma? false
+bartis::artis_ãrasi_ãrėsi
+lemma: bar, nugget: 
+
 check_for_duplicates: ["bartis, bãrasi, bãrėsi\n"]
 This line exists already: bartis, bãrasi, bãrėsi
-This is the infinitive form: bauginti
-This is the file name: inti_ìna_ìno
+Reflexive? false :: lemma? true
+bauginti::inti_ìna_ìno
+lemma: baug, nugget: in
+
 check_for_duplicates: ["alsinti, alsìna, alsìno\n"]
-This is the infinitive form: bausti
-This is the file name: austi_aũdžia_aũdė
-This is the infinitive form: bėginėti
-This is the file name: inėti_inė́ja_inė́ja
-This is the infinitive form: bėgioti
-This is the file name: ioti_iója_iójo
-This is the infinitive form: bėgti
-This is the file name: ėgti_ė́ga_ė́go
-This is the infinitive form: bidzenti
-This is the file name: dzenti_zdena_zdeno
-This is the infinitive form: bijoti
-This is the file name: oti_o_ójo
-This is the infinitive form: bylinėtis
-This is the file name: inėtis_inė́jasi_inė́josi
-This is the infinitive form: byloti
-This is the file name: oti_ója_ójo
+Reflexive? false :: lemma? false
+bausti::austi_aũdžia_aũdė
+lemma: baus, nugget: 
+
+Reflexive? false :: lemma? true
+bėginėti::inėti_inė́ja_inė́ja
+lemma: bėg, nugget: inė
+
+Reflexive? false :: lemma? true
+bėgioti::ioti_iója_iójo
+lemma: bėg, nugget: io
+
+Reflexive? false :: lemma? false
+bėgti::ėgti_ė́ga_ė́go
+lemma: bėg, nugget: 
+
+Reflexive? false :: lemma? true
+bidzenti::dzenti_zdena_zdeno
+lemma: bi, nugget: dzen
+
+Reflexive? false :: lemma? true
+bijoti::oti_o_ójo
+lemma: bij, nugget: o
+
+Reflexive? true :: lemma? true
+bylinėtis::inėtis_inė́jasi_inė́josi
+lemma: byl, nugget: inė
+
+Reflexive? false :: lemma? true
+byloti::oti_ója_ójo
+lemma: byl, nugget: o
+
 check_for_duplicates: ["balnoti, balnója, balnójo\n"]
-This is the infinitive form: birbti
-This is the file name: irbti_ir̃bia_ir̃bė
-This is the infinitive form: byrėti
-This is the file name: ėti_a_ė́jo
-This is the infinitive form: birti
-This is the file name: irti_ỹra_
-This is the infinitive form: bjaurėtis
-This is the file name: ėtis_isi_ė́josi
+Reflexive? false :: lemma? false
+birbti::irbti_ir̃bia_ir̃bė
+lemma: birb, nugget: 
+
+Reflexive? false :: lemma? true
+byrėti::ėti_a_ė́jo
+lemma: byr, nugget: ė
+
+Reflexive? false :: lemma? false
+birti::irti_ỹra_
+lemma: bir, nugget: 
+
+Reflexive? true :: lemma? true
+bjaurėtis::ėtis_isi_ė́josi
+lemma: bjaur, nugget: ė
+
 check_for_duplicates: ["baisėtis, baĩsisi, baisė́josi\n"]
-This is the infinitive form: bjurti
-This is the file name: jurti_jursta_jùro
-This is the infinitive form: blankti
-This is the file name: ankti_añksta_ánko
-This is the infinitive form: blaškytis
-This is the file name: tis_osi_ėsi
+Reflexive? false :: lemma? true
+bjurti::jurti_jursta_jùro
+lemma: b, nugget: jur
+
+Reflexive? false :: lemma? false
+blankti::ankti_añksta_ánko
+lemma: blank, nugget: 
+
+Reflexive? false :: lemma? true
+blaškytis::tis_osi_ėsi
+lemma: blašk, nugget: y
+
 check_for_duplicates: ["baidytis, baĩdosi, baĩdėsi\n"]
-This is the infinitive form: blaškytis
-This is the file name: ytis_osi_ėsi
+Reflexive? true :: lemma? true
+blaškytis::ytis_osi_ėsi
+lemma: blašk, nugget: y
+
 check_for_duplicates: ["baidytis, baĩdosi, baĩdėsi\n"]
-This is the infinitive form: blefuoti
-This is the file name: lefuoti_lefuoja_lefavo
-This is the infinitive form: blęsti
-This is the file name: lęsti_leñdžia_leñdė
-This is the infinitive form: blykšti
-This is the file name: ykšti_ỹkšta_ỹško
-This is the infinitive form: blizgėti
-This is the file name: ėti_a_ė́jo
+Reflexive? false :: lemma? true
+blefuoti::lefuoti_lefuoja_lefavo
+lemma: b, nugget: lefuo
+
+Reflexive? false :: lemma? true
+blęsti::lęsti_leñdžia_leñdė
+lemma: b, nugget: lęs
+
+Reflexive? false :: lemma? false
+blykšti::ykšti_ỹkšta_ỹško
+lemma: blykš, nugget: 
+
+Reflexive? false :: lemma? true
+blizgėti::ėti_a_ė́jo
+lemma: blizg, nugget: ė
+
 check_for_duplicates: ["byrėti, bỹra, byrė́jo\n"]
-This is the infinitive form: blizginti
-This is the file name: inti_ina_ino
+Reflexive? false :: lemma? true
+blizginti::inti_ina_ino
+lemma: blizg, nugget: in
+
 check_for_duplicates: ["aktyvinti, aktỹvina, aktỹvino\n"]
-This is the infinitive form: blogėti
-This is the file name: ėti_ė́ja_ė́jo
+Reflexive? false :: lemma? true
+blogėti::ėti_ė́ja_ė́jo
+lemma: blog, nugget: ė
+
 check_for_duplicates: ["akėti, akė́ja, akė́jo\n"]
-This is the infinitive form: bloginti
-This is the file name: inti_ina_ino
+Reflexive? false :: lemma? true
+bloginti::inti_ina_ino
+lemma: blog, nugget: in
+
 check_for_duplicates: ["aktyvinti, aktỹvina, aktỹvino\n"]
-This is the infinitive form: blogti
-This is the file name: i_a_
-This is the infinitive form: blokšti
-This is the file name: i_ia_ė
-This is the infinitive form: blokuoti
-This is the file name: uoti_úoja_ãvo
+Reflexive? false :: lemma? false
+blogti::i_a_
+lemma: blog, nugget: 
+
+Reflexive? false :: lemma? false
+blokšti::i_ia_ė
+lemma: blokš, nugget: 
+
+Reflexive? false :: lemma? true
+blokuoti::uoti_úoja_ãvo
+lemma: blok, nugget: uo
+
 check_for_duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
-This is the infinitive form: blukinti
-This is the file name: inti_ina_ino
+Reflexive? false :: lemma? true
+blukinti::inti_ina_ino
+lemma: bluk, nugget: in
+
 check_for_duplicates: ["aktyvinti, aktỹvina, aktỹvino\n"]
-This is the infinitive form: blukti
-This is the file name: ukti_uñka_
-This is the infinitive form: bodėti
-This is the file name: ėti_i_ėjo
-This is the infinitive form: boluoti
-This is the file name: uoti_úoja_ãvo
+Reflexive? false :: lemma? false
+blukti::ukti_uñka_
+lemma: bluk, nugget: 
+
+Reflexive? false :: lemma? true
+bodėti::ėti_i_ėjo
+lemma: bod, nugget: ė
+
+Reflexive? false :: lemma? true
+boluoti::uoti_úoja_ãvo
+lemma: bol, nugget: uo
+
 check_for_duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
-This is the infinitive form: bombarduoti
-This is the file name: uoti_úoja_ãvo
+Reflexive? false :: lemma? true
+bombarduoti::uoti_úoja_ãvo
+lemma: bombard, nugget: uo
+
 check_for_duplicates: ["absorbuoti, absorbúoja, absorbãvo\n"]
-This is the infinitive form: braidyti
-This is the file name: yti_o_ė
+Reflexive? false :: lemma? true
+braidyti::yti_o_ė
+lemma: braid, nugget: y
+
 check_for_duplicates: ["badyti, bãdo, bãdė\n"]
-This is the infinitive form: braižyti
-This is the file name: yti_o_ė
+Reflexive? false :: lemma? true
+braižyti::yti_o_ė
+lemma: braiž, nugget: y
+
 check_for_duplicates: ["badyti, bãdo, bãdė\n"]
-This is the infinitive form: brandinti
-This is the file name: inti_ìna_ìno
+Reflexive? false :: lemma? true
+brandinti::inti_ìna_ìno
+lemma: brand, nugget: in
+
 check_for_duplicates: ["alsinti, alsìna, alsìno\n"]
-This is the infinitive form: branginti
-This is the file name: inti_ìna_ìno
+Reflexive? false :: lemma? true
+branginti::inti_ìna_ìno
+lemma: brang, nugget: in
+
 check_for_duplicates: ["alsinti, alsìna, alsìno\n"]
-This is the infinitive form: brangti
-This is the file name: angti_ángsta_ángo
-This is the infinitive form: braukyti
-This is the file name: yti_o_ė
+Reflexive? false :: lemma? false
+brangti::angti_ángsta_ángo
+lemma: brang, nugget: 
+
+Reflexive? false :: lemma? true
+braukyti::yti_o_ė
+lemma: brauk, nugget: y
+
 check_for_duplicates: ["badyti, bãdo, bãdė\n"]
-This is the infinitive form: braukti
-This is the file name: aukti_aũkia_aũkė
-This is the infinitive form: brautis
-This is the file name: autis_áunasi_ėsi
-This is the infinitive form: brazdėti
-This is the file name: razdėti_rãzda_razdė́jo
-This is the infinitive form: bręsti
-This is the file name: sti_́sta_ndo
-This is the infinitive form: brėžti
-This is the file name: ėžti_ė́žia_ė́žė
-This is the infinitive form: brinkti
-This is the file name: inkti_a_
-This is the infinitive form: bristi
-This is the file name: isti_eñda_
-This is the infinitive form: brukti
-This is the file name: ukti_unka_
-This is the infinitive form: brūžinti
-This is the file name: inti_žina_žino
-This is the infinitive form: bučiuotis
-This is the file name: uotis_iúojasi_iãvosi
-This is the infinitive form: bučiuotis
-This is the file name: iuotis_iúojasi_iãvosi
-This is the infinitive form: budėti
-This is the file name: ėti_i_ė́jo
+Reflexive? false :: lemma? false
+braukti::aukti_aũkia_aũkė
+lemma: brauk, nugget: 
+
+Reflexive? true :: lemma? false
+brautis::autis_áunasi_ėsi
+lemma: brau, nugget: 
+
+Reflexive? false :: lemma? true
+brazdėti::razdėti_rãzda_razdė́jo
+lemma: b, nugget: razdė
+
+Reflexive? false :: lemma? true
+bręsti::sti_́sta_ndo
+lemma: brę, nugget: s
+
+Reflexive? false :: lemma? false
+brėžti::ėžti_ė́žia_ė́žė
+lemma: brėž, nugget: 
+
+Reflexive? false :: lemma? false
+brinkti::inkti_a_
+lemma: brink, nugget: 
+
+Reflexive? false :: lemma? false
+bristi::isti_eñda_
+lemma: bris, nugget: 
+
+Reflexive? false :: lemma? false
+brukti::ukti_unka_
+lemma: bruk, nugget: 
+
+Reflexive? false :: lemma? true
+brūžinti::inti_žina_žino
+lemma: brūž, nugget: in
+
+Reflexive? false :: lemma? true
+bučiuotis::uotis_iúojasi_iãvosi
+lemma: buč, nugget: iuo
+
+Reflexive? true :: lemma? true
+bučiuotis::iuotis_iúojasi_iãvosi
+lemma: buč, nugget: iuo
+
+Reflexive? false :: lemma? true
+budėti::ėti_i_ė́jo
+lemma: bud, nugget: ė
+
 check_for_duplicates: ["aidėti, áidi, aidė́jo\n"]
-This is the infinitive form: budinti
-This is the file name: inti_ina_ino
+Reflexive? false :: lemma? true
+budinti::inti_ina_ino
+lemma: bud, nugget: in
+
 check_for_duplicates: ["aktyvinti, aktỹvina, aktỹvino\n"]
-This is the infinitive form: būgštauti
-This is the file name: štauti_gtauja_gštavo
-This is the infinitive form: bujoti
-This is the file name: oti_ója_ójo
+Reflexive? false :: lemma? true
+būgštauti::štauti_gtauja_gštavo
+lemma: būg, nugget: štau
+
+Reflexive? false :: lemma? true
+bujoti::oti_ója_ójo
+lemma: buj, nugget: o
+
 check_for_duplicates: ["balnoti, balnója, balnójo\n"]
-This is the infinitive form: burbėti
-This is the file name: ėti_a_ė́jo
+Reflexive? false :: lemma? true
+burbėti::ėti_a_ė́jo
+lemma: burb, nugget: ė
+
 check_for_duplicates: ["byrėti, bỹra, byrė́jo\n"]
-This is the infinitive form: burbuliuoti
-This is the file name: uliuoti_uliúoja_uliãvo
-This is the infinitive form: buriuoti
-This is the file name: iuoti_iúoja_iãvo
+Reflexive? false :: lemma? true
+burbuliuoti::uliuoti_uliúoja_uliãvo
+lemma: burb, nugget: uliuo
+
+Reflexive? false :: lemma? true
+buriuoti::iuoti_iúoja_iãvo
+lemma: bur, nugget: iuo
+
 check_for_duplicates: ["asimiliuoti, asimiliúoja, asimiliãvo\n"]
-This is the infinitive form: būriuoti
-This is the file name: iuoti_iúoja_iãvo
+Reflexive? false :: lemma? true
+būriuoti::iuoti_iúoja_iãvo
+lemma: būr, nugget: iuo
+
 check_for_duplicates: ["asimiliuoti, asimiliúoja, asimiliãvo\n"]
-This is the infinitive form: burti
-This is the file name: urti_ia_ū́rė
-This is the infinitive form: busti
-This is the file name: usti_uñda_
-This is the infinitive form: tebebūti
-This is the file name: ebebūti_ebebū̃na_ebebùvo
-This is the infinitive form: buvoti
-This is the file name: oti_ója_ójo
+Reflexive? false :: lemma? false
+burti::urti_ia_ū́rė
+lemma: bur, nugget: 
+
+Reflexive? false :: lemma? false
+busti::usti_uñda_
+lemma: bus, nugget: 
+
+Reflexive? false :: lemma? false
+tebebūti::ebebūti_ebebū̃na_ebebùvo
+lemma: bū, nugget: 
+
+Reflexive? false :: lemma? true
+buvoti::oti_ója_ójo
+lemma: buv, nugget: o
+
 check_for_duplicates: ["balnoti, balnója, balnójo\n"]
 bundler: failed to load command: exe/verbalyser (exe/verbalyser)
