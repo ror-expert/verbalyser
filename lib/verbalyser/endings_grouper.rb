@@ -183,6 +183,10 @@ module Verbalyser
             puts "This line exists already: #{line}"
             inspection_file.close
             @inspection_results = output_verb_sequence.split(" ,")
+          else
+            output_file = File.open(file_path, "a+")
+            output_file.write(output_verb_sequence)
+            output_file.close            
           end
         end
       end

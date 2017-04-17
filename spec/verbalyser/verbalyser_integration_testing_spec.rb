@@ -13,6 +13,9 @@ describe Verbalyser::EndingsGrouper do
 
   context "Testing for correct filename" do
 
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("adaptuoti")).to eq(adaptuoti)
+    end
 
     it "outputs a file name from an infinitive_verb input" do
       expect(subject.create_classificatory_file_name("adaptuotis")).to eq(adaptuotis)
@@ -29,10 +32,6 @@ describe Verbalyser::EndingsGrouper do
     it "outputs a file name from an infinitive_verb input" do
       expect(subject.create_classificatory_file_name("plaktis")).to eq(plaktis)
     end
-
-    it "outputs a file name from an infinitive_verb input" do
-      expect(subject.create_classificatory_file_name("adaptuoti")).to eq(adaptuoti)
-    end
+    
   end
-
 end
