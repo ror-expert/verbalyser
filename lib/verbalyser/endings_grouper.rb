@@ -93,9 +93,6 @@ module Verbalyser
 
 
 
-
-
-
         if @reflexivity == false && @lemma_suffix_found == true
 
           part1 = @infinitive_form[-(@nugget.length + "ti".length), (@nugget.length + "ti".length)]
@@ -104,9 +101,9 @@ module Verbalyser
           if @nugget_in == true
             part2 = @present3[@matching_lemma[0...-2].length..-1]
             puts "nugget true"
-          # elsif @lemma_in == true
-          #   part2 = @present3[@stripped_verb[-2,2].length..-1]
-          #   puts "lemma true"
+          elsif @lemma_in == true
+            part2 = @present3[@stripped_verb[0...-2].length..-1]
+            puts "lemma true"
           else
             part2 = @present3[@matching_lemma.length..-1]
             puts "neither true"
@@ -115,9 +112,9 @@ module Verbalyser
           if @nugget_in == true
             part3 = @past3[@matching_lemma[0...-2].length..-1]
             puts "nugget true"
-          # elsif @lemma_in == true
-          #   part3 = @past3[@stripped_verb[-2,2].length..-1]
-          #   puts "lemma true"
+          elsif @lemma_in == true
+            part3 = @past3[@stripped_verb[0...2].length..-1]
+            puts "lemma true"
           else
             part3 = @past3[@matching_lemma.length..-1]
             puts "neither true"
