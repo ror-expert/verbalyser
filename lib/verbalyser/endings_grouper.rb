@@ -53,6 +53,11 @@ module Verbalyser
       if @matching_lemma[-2,2] == "in"
         @nugget = stripped_verb[@matching_lemma[0...-2].length..-1]
         @nugget_in = true
+        @lemma_in = false
+      elsif stripped_verb[-2,2] == "in"
+        @nugget = stripped_verb[@matching_lemma[0...-1].length..-1]
+        @nugget_in = false
+        @lemma_in = true
       else
         @nugget = stripped_verb[@matching_lemma.length..-1]
       end
@@ -82,21 +87,14 @@ module Verbalyser
           @past3 = verb_array[2].strip
           puts "verb_array[0]: #{verb_array[0]}"
         end
-
-        # if line.include?("#{infinitive_verb},")
-        #   puts "this is the line: #{line}"
-        #   puts "this is the first element of the line: #{line[0]}"
-        #
-        #   verb_array = line.strip.split(",")
-        #
-        #   @infinitive_form = verb_array[0].strip
-        #   @present3 = verb_array[1].strip
-        #   @past3 = verb_array[2].strip
-        #   puts "verb_array[0]: #{verb_array[0]}"
-        # end
       end
 
       if @infinitive_form.match(infinitive_verb)
+
+
+
+
+
 
         if @reflexivity == false && @lemma_suffix_found == true
 
@@ -105,15 +103,24 @@ module Verbalyser
 
           if @nugget_in == true
             part2 = @present3[@matching_lemma[0...-2].length..-1]
+            puts "nugget true"
+          # elsif @lemma_in == true
+          #   part2 = @present3[@stripped_verb[-2,2].length..-1]
+          #   puts "lemma true"
           else
             part2 = @present3[@matching_lemma.length..-1]
+            puts "neither true"
           end
 
           if @nugget_in == true
             part3 = @past3[@matching_lemma[0...-2].length..-1]
+            puts "nugget true"
+          # elsif @lemma_in == true
+          #   part3 = @past3[@stripped_verb[-2,2].length..-1]
+          #   puts "lemma true"
           else
             part3 = @past3[@matching_lemma.length..-1]
-            #puts "This is part3 NR: #{part3}"
+            puts "neither true"
           end
 
           @file_name = "#{part1}_#{part2}_#{part3}"
