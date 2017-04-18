@@ -1,220 +1,3 @@
-This is the infinitive_verb from the outset: absorbuoti
-This is the stripped_verb from the outset: absorbuo
-This is the stripped_verb: absorbuo
-This is the matching_lemma: absorb
-verb_array[0]: absorbuoti
-neither true
-neither true
-infinitive_verb: absorbuoti
-@infinitive_form: absorbuoti
-RFLT absorbuoti:uoti_úoja_ãvo
-Reflexive? false :: lemma? true
-absorbuoti: 10
-absorbúoja: 10
-absorbãvo: 9
-lemma: absorb, nugget: uo
-uoti_úoja_ãvo
-
-This is the infinitive_verb from the outset: abstrahuoti
-This is the stripped_verb from the outset: abstrahuo
-This is the stripped_verb: abstrahuo
-This is the matching_lemma: abstrah
-verb_array[0]: abstrahuoti
-neither true
-neither true
-infinitive_verb: abstrahuoti
-@infinitive_form: abstrahuoti
-RFLT abstrahuoti:uoti_úoja_ãvo
-Reflexive? false :: lemma? true
-abstrahuoti: 11
-abstrahúoja: 11
-abstrahãvo: 10
-lemma: abstrah, nugget: uo
-uoti_úoja_ãvo
-
-This is the infinitive_verb from the outset: abuojėti
-This is the stripped_verb from the outset: abuojė
-This is the stripped_verb: abuojė
-This is the matching_lemma: ab
-verb_array[0]: abuojėti
-neither true
-neither true
-infinitive_verb: abuojėti
-@infinitive_form: abuojėti
-RFLT abuojėti:uojėti_uojėja_uojėjo
-Reflexive? false :: lemma? true
-abuojėti: 8
-abuojėja: 8
-abuojėjo: 8
-lemma: ab, nugget: uojė
-uojėti_uojėja_uojėjo
-
-This is the infinitive_verb from the outset: adaptuoti
-This is the stripped_verb from the outset: adaptuo
-This is the stripped_verb: adaptuo
-This is the matching_lemma: adapt
-verb_array[0]: adaptuoti
-neither true
-neither true
-infinitive_verb: adaptuoti
-@infinitive_form: adaptuoti
-RFLT adaptuoti:uoti_úoja_ãvo
-Reflexive? false :: lemma? true
-adaptuoti: 9
-adaptúoja: 9
-adaptãvo: 8
-lemma: adapt, nugget: uo
-uoti_úoja_ãvo
-
-This is the infinitive_verb from the outset: adaptuotis
-This is the stripped_verb from the outset: adaptuo
-This is the stripped_verb: adaptuo
-This is the matching_lemma: adapt
-verb_array[0]: adaptuotis
-RTLT adaptuotis:uotis_úojasi_ãvosi
-Reflexive? true :: lemma? true
-adaptuotis: 10
-adaptúojasi: 11
-adaptãvosi: 10
-lemma: adapt, nugget: uo
-uotis_úojasi_ãvosi
-
-This is the infinitive_verb from the outset: adinėti
-This is the stripped_verb from the outset: adinė
-This is the stripped_verb: adinė
-This is the matching_lemma: ad
-verb_array[0]: adinėti
-neither true
-neither true
-infinitive_verb: adinėti
-@infinitive_form: adinėti
-RFLT adinėti:inėti_inėja_inėjo
-Reflexive? false :: lemma? true
-adinėti: 7
-adinėja: 7
-adinėjo: 7
-lemma: ad, nugget: inė
-inėti_inėja_inėjo
-
-This is the infinitive_verb from the outset: administruoti
-This is the stripped_verb from the outset: administruo
-This is the stripped_verb: administruo
-This is the matching_lemma: administr
-verb_array[0]: administruoti
-neither true
-neither true
-infinitive_verb: administruoti
-@infinitive_form: administruoti
-RFLT administruoti:uoti_úoja_ãvo
-Reflexive? false :: lemma? true
-administruoti: 13
-administrúoja: 13
-administrãvo: 12
-lemma: administr, nugget: uo
-uoti_úoja_ãvo
-
-This is the infinitive_verb from the outset: adresuoti
-This is the stripped_verb from the outset: adresuo
-This is the stripped_verb: adresuo
-This is the matching_lemma: adres
-verb_array[0]: adresuoti
-neither true
-neither true
-infinitive_verb: adresuoti
-@infinitive_form: adresuoti
-RFLT adresuoti:uoti_úoja_ãvo
-Reflexive? false :: lemma? true
-adresuoti: 9
-adresúoja: 9
-adresãvo: 8
-lemma: adres, nugget: uo
-uoti_úoja_ãvo
-
-This is the infinitive_verb from the outset: adyti
-This is the stripped_verb from the outset: ady
-This is the stripped_verb: ady
-This is the matching_lemma: ad
-verb_array[0]: adyti
-neither true
-neither true
-infinitive_verb: adyti
-@infinitive_form: adyti
-RFLT adyti:yti_o_ė
-Reflexive? false :: lemma? true
-adyti: 5
-ãdo: 3
-ãdė: 3
-lemma: ad, nugget: y
-yti_o_ė
-
-This is the infinitive_verb from the outset: aidėti
-This is the stripped_verb from the outset: aidė
-This is the stripped_verb: aidė
-This is the matching_lemma: aid
-verb_array[0]: aidėti
-neither true
-neither true
-infinitive_verb: aidėti
-@infinitive_form: aidėti
-RFLT aidėti:ėti_i_ė́jo
-Reflexive? false :: lemma? true
-aidėti: 6
-áidi: 4
-aidė́jo: 7
-lemma: aid, nugget: ė
-ėti_i_ė́jo
-
-This is the infinitive_verb from the outset: aikčioti
-This is the stripped_verb from the outset: aikčio
-This is the stripped_verb: aikčio
-This is the matching_lemma: aik
-verb_array[0]: aikčioti
-neither true
-neither true
-infinitive_verb: aikčioti
-@infinitive_form: aikčioti
-RFLT aikčioti:čioti_čioja_čiojo
-Reflexive? false :: lemma? true
-aikčioti: 8
-áikčioja: 8
-áikčiojo: 8
-lemma: aik, nugget: čio
-čioti_čioja_čiojo
-
-This is the infinitive_verb from the outset: akcentuoti
-This is the stripped_verb from the outset: akcentuo
-This is the stripped_verb: akcentuo
-This is the matching_lemma: akcent
-verb_array[0]: akcentuoti
-neither true
-neither true
-infinitive_verb: akcentuoti
-@infinitive_form: akcentuoti
-RFLT akcentuoti:uoti_úoja_ãvo
-Reflexive? false :: lemma? true
-akcentuoti: 10
-akcentúoja: 10
-akcentãvo: 9
-lemma: akcent, nugget: uo
-uoti_úoja_ãvo
-
-This is the infinitive_verb from the outset: akėti
-This is the stripped_verb from the outset: akė
-This is the stripped_verb: akė
-This is the matching_lemma: ak
-verb_array[0]: akėti
-neither true
-neither true
-infinitive_verb: akėti
-@infinitive_form: akėti
-RFLT akėti:ėti_ė́ja_ė́jo
-Reflexive? false :: lemma? true
-akėti: 5
-akė́ja: 6
-akė́jo: 6
-lemma: ak, nugget: ė
-ėti_ė́ja_ė́jo
-
 This is the infinitive_verb from the outset: akinti
 This is the stripped_verb from the outset: akin
 This is the stripped_verb: akin
@@ -1557,26 +1340,26 @@ This is the stripped_verb from the outset: blog
 This is the stripped_verb: blog
 This is the matching_lemma: blog
 verb_array[0]: blogti
-RFLF blogti:i_a_
+RFLF blogti:ogti_ogsta_õgo
 Reflexive? false :: lemma? false
 blogti: 6
 blogsta: 7
 blõgo: 5
 lemma: blog, nugget: 
-i_a_
+ogti_ogsta_õgo
 
 This is the infinitive_verb from the outset: blokšti
 This is the stripped_verb from the outset: blokš
 This is the stripped_verb: blokš
 This is the matching_lemma: blokš
 verb_array[0]: blokšti
-RFLF blokšti:i_ia_ė
+RFLF blokšti:okšti_õškia_õškė
 Reflexive? false :: lemma? false
 blokšti: 7
 blõškia: 7
 blõškė: 6
 lemma: blokš, nugget: 
-i_ia_ė
+okšti_õškia_õškė
 
 This is the infinitive_verb from the outset: blokuoti
 This is the stripped_verb from the outset: blokuo
@@ -1617,13 +1400,13 @@ This is the stripped_verb from the outset: bluk
 This is the stripped_verb: bluk
 This is the matching_lemma: bluk
 verb_array[0]: blukti
-RFLF blukti:ukti_uñka_
+RFLF blukti:ukti_uñka_o
 Reflexive? false :: lemma? false
 blukti: 6
 bluñka: 6
 blùko: 5
 lemma: bluk, nugget: 
-ukti_uñka_
+ukti_uñka_o
 
 This is the infinitive_verb from the outset: blykšti
 This is the stripped_verb from the outset: blykš
@@ -1805,13 +1588,13 @@ This is the stripped_verb from the outset: brau
 This is the stripped_verb: brau
 This is the matching_lemma: brau
 verb_array[0]: brautis
-RTLF brautis:autis_áunasi_ėsi
+RTLF brautis:autis_áunasi_óvėsi
 Reflexive? true :: lemma? false
 brautis: 7
 bráunasi: 8
 bróvėsi: 7
 lemma: brau, nugget: 
-autis_áunasi_ėsi
+autis_áunasi_óvėsi
 
 This is the infinitive_verb from the outset: brazdėti
 This is the stripped_verb from the outset: brazdė
@@ -1891,13 +1674,13 @@ This is the stripped_verb from the outset: bruk
 This is the stripped_verb: bruk
 This is the matching_lemma: bruk
 verb_array[0]: brukti
-RFLF brukti:ukti_unka_
+RFLF brukti:ukti_unka_o
 Reflexive? false :: lemma? false
 brukti: 6
 brunka: 6
 brùko: 5
 lemma: bruk, nugget: 
-ukti_unka_
+ukti_unka_o
 
 This is the infinitive_verb from the outset: brūžinti
 This is the stripped_verb from the outset: brūžin
@@ -2100,26 +1883,26 @@ This is the stripped_verb from the outset: bus
 This is the stripped_verb: bus
 This is the matching_lemma: bus
 verb_array[0]: busti
-RFLF busti:usti_uñda_
+RFLF busti:usti_uñda_o
 Reflexive? false :: lemma? false
 busti: 5
 buñda: 5
 bùdo: 4
 lemma: bus, nugget: 
-usti_uñda_
+usti_uñda_o
 
 This is the infinitive_verb from the outset: būti
 This is the stripped_verb from the outset: bū
 This is the stripped_verb: bū
 This is the matching_lemma: bū
 verb_array[0]: būti
-RFLF būti:ūti_yrà_
+RFLF būti:ūti_yrà_o
 Reflexive? false :: lemma? false
 būti: 4
 yrà: 3
 bùvo: 4
 lemma: bū, nugget: 
-ūti_yrà_
+ūti_yrà_o
 
 This is the infinitive_verb from the outset: buvoti
 This is the stripped_verb from the outset: buvo

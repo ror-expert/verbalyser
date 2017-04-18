@@ -89,6 +89,12 @@ module Verbalyser
         end
       end
 
+      @present3_slice = @present3[(@present3.count(@nugget))..-1]
+      @past3_slice = @past3[(@past3.count(@nugget))..-1]
+      puts "present3_slice: #{@present3_slice}"
+      puts "past3_slice: #{@past3_slice}"
+
+
       if @infinitive_form.match(infinitive_verb)
 
 
@@ -101,9 +107,9 @@ module Verbalyser
           if @nugget_in == true
             part2 = @present3[@matching_lemma[0...-2].length..-1]
             puts "nugget true"
-          # elsif @lemma_in == true
-          #   part2 = @present3[@stripped_verb[0...-2].length..-1]
-          #   puts "lemma true"
+          elsif @lemma_in == true
+            part2 = @present3_slice
+            puts "lemma true"
           else
             part2 = @present3[@matching_lemma.length..-1]
             puts "neither true"
@@ -112,9 +118,9 @@ module Verbalyser
           if @nugget_in == true
             part3 = @past3[@matching_lemma[0...-2].length..-1]
             puts "nugget true"
-          # elsif @lemma_in == true
-          #   part3 = @past3[@stripped_verb[0...2].length..-1]
-          #   puts "lemma true"
+          elsif @lemma_in == true
+            part3 = @past3_slice
+            puts "lemma true"
           else
             part3 = @past3[@matching_lemma.length..-1]
             puts "neither true"
