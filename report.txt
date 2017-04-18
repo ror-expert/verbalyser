@@ -1369,13 +1369,13 @@ This is the stripped_verb from the outset: bir
 This is the stripped_verb: bir
 This is the matching_lemma: bir
 verb_array[0]: birti
-RFLF birti:irti_ỹra_
+RFLF birti:irti_ỹra_ìro
 Reflexive? false :: lemma? false
 birti: 5
 bỹra: 4
 bìro: 4
 lemma: bir, nugget: 
-irti_ỹra_
+irti_ỹra_ìro
 
 This is the infinitive_verb from the outset: bjaurėtis
 This is the stripped_verb from the outset: bjaurė
@@ -1865,26 +1865,26 @@ This is the stripped_verb from the outset: brink
 This is the stripped_verb: brink
 This is the matching_lemma: brink
 verb_array[0]: brinkti
-RFLF brinkti:inkti_a_
+RFLF brinkti:inkti_ìnksta_ìnko
 Reflexive? false :: lemma? false
 brinkti: 7
 brìnksta: 8
 brìnko: 6
 lemma: brink, nugget: 
-inkti_a_
+inkti_ìnksta_ìnko
 
 This is the infinitive_verb from the outset: bristi
 This is the stripped_verb from the outset: bris
 This is the stripped_verb: bris
 This is the matching_lemma: bris
 verb_array[0]: bristi
-RFLF bristi:isti_eñda_
+RFLF bristi:isti_eñda_ìdo
 Reflexive? false :: lemma? false
 bristi: 6
 breñda: 6
 brìdo: 5
 lemma: bris, nugget: 
-isti_eñda_
+isti_eñda_ìdo
 
 This is the infinitive_verb from the outset: brukti
 This is the stripped_verb from the outset: bruk
