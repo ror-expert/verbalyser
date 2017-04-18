@@ -79,20 +79,20 @@ module Verbalyser
           if @reflexivity == false && @lemma_suffix_found == true
 
             part1 = @infinitive_form[-(@nugget.length + "ti".length), (@nugget.length + "ti".length)]
-            puts "This is part1 of #{@infinitive_form}: #{part1}"
+            #puts "This is part1 of #{@infinitive_form}: #{part1}"
 
             if @nugget_in == true
               part2 = @present3[@matching_lemma[0...-2].length..-1]
             else
               part2 = @present3[@matching_lemma.length..-1]
-              puts "This is part2 NR: #{part2}"
+              #puts "This is part2 NR: #{part2}"
             end
 
             if @nugget_in == true
               part3 = @past3[@matching_lemma[0...-2].length..-1]
             else
               part3 = @past3[@matching_lemma.length..-1]
-              puts "This is part3 NR: #{part3}"
+              #puts "This is part3 NR: #{part3}"
             end
 
             @file_name = "#{part1}_#{part2}_#{part3}"
@@ -106,14 +106,14 @@ module Verbalyser
               part2 = @present3[@matching_lemma[0...-2].length..-1]
             else
               part2 = @present3[@matching_lemma.length..-1]
-              puts "This is part2 Ref: #{part2}"
+              #puts "This is part2 Ref: #{part2}"
             end
 
             if @nugget_in == true
               part3 = @past3[@matching_lemma[0...-2].length..-1]
             else
               part3 = @past3[@matching_lemma.length..-1]
-              puts "This is part3 Ref: #{part3}"
+              #puts "This is part3 Ref: #{part3}"
             end
 
             @file_name = "#{part1}_#{part2}_#{part3}"
@@ -158,37 +158,116 @@ module Verbalyser
       create_classificatory_file_name(infinitive_verb)
 
       output_verb_sequence = "#{@infinitive_form}, #{@present3}, #{@past3}\n"
+      testing_output_verb_sequence = "[#{output_verb_sequence}]"
       file_path = @output_folder + @file_name + ".txt"
 
-      # puts "The file name received is #{@file_name}"
-      # puts "The file to be created is: #{file_path}"
-      #
-      # puts "does the file #{file_path} exist? #{File.exists?(file_path)}"
+      puts "#{infinitive_verb}: #{output_verb_sequence}"
 
       if File.exist?(file_path) == false
 
-        output_file = File.open(file_path, "a+")
+        puts "No file for this pattern, creating a new one..."
+
+        # new_verbs_array = "verbs_array = [#{output_verb_sequence}]"
+
+        output_file = File.open(file_path, "w")
         output_file.write(output_verb_sequence)
         output_file.close
 
+        # output_file = File.read(file_path, "a+")
+        # verbs_array.push(output_verb_sequence)
+        # output_file.write(verbs_array)
+        # # output_file.write(output_verb_sequence)
+        # # output_file.write(output_verb_sequence)
+        # output_file.close
+
       elsif File.exists?(file_path) == true
 
-        inspection_file = File.open(file_path, "r")
-        check_for_duplicates = File.readlines(inspection_file)
+        open_existing_file = File.open(file_path, "a+")
+        inspection_file = File.readlines(open_existing_file)
 
-        puts "\nFile already exists, checking for duplicates: #{check_for_duplicates}\n"
-
-        check_for_duplicates.each do |line|
-          if line == output_verb_sequence
-            puts "This line exists already: #{line}"
-            inspection_file.close
-            @inspection_results = output_verb_sequence.split(" ,")
-          else
-            output_file = File.open(file_path, "a+")
-            output_file.write(output_verb_sequence)
-            output_file.close            
-          end
+        inspection_file.map do |line|
+          puts "This is the line before the split:"
+          item = line.split(",")
+          puts "This is the item: #{item}"
+          puts "This is the first element: #{item[0]}"
+          @test_for_duplicate =
+          puts "Is #{item[0]} identical to #{@infinitive_form}? #{item[0].match?(@infinitive_form)}"
         end
+
+        if @test_for_duplicate == true
+          puts "There is a match somewhere in the file"
+        else
+          puts "no match found"
+          puts "Writing #{output_verb_sequence}"
+          open_existing_file.write(output_verb_sequence)
+          open_existing_file.close
+          # puts "Now this is what the file looks like: #{inspection_file}"
+        end
+
+        # load file_path
+        # puts "This is the verbs array: #{@verbs_array}"
+        #
+        # existing_array = File.read(file_path)
+        #
+        # puts "This is the existing_array: #{existing_array}"
+        #
+        # existing_array.push(output_verb_sequence)
+        #
+        # puts "This is the existing_array now: #{existing_array}"
+
+
+        # inspect_file = File.readlines(inspection_file_open)
+        #
+        # puts "This is the inspection file: #{inspect_file}"
+        #
+        # inspect_file.push(output_verb_sequence)
+
+
+
+        # inspect_file.each do |item|
+        #   if item.include?(infinitive_verb)
+        #     puts "Found #{infinitive_verb} in #{item}"
+        #   .push(output_verb_sequence)
+        #   end
+        # end
+        #
+        # puts "This is the inspection_file"
+        # puts inspection_file
+
+        # check_for_duplicates.each do |array|
+        #   puts "This is the array: #{array}"
+        # end
+        #
+        # check_for_duplicates.each do |line|
+        #   # puts "This is the line: #{line}"
+        #   if line.include?(output_verb_sequence)
+        #     puts "sequence found: #{line} : #{output_verb_sequence}"
+        #   else
+        #     puts "sequence not found, writing #{output_verb_sequence} in #{file_path}"
+        #     output_file = File.open(file_path, "a+")
+        #     output_file.write(output_verb_sequence)
+        #     output_file.close
+        #     puts "the line now: #{line}"
+        #   end
+        # end
+
+        # inspection_file = File.open(file_path, "r")
+        # check_for_duplicates = IO.readlines(inspection_file)
+        #
+        # puts "\nFile already exists, checking for duplicates..."
+        #
+        # check_for_duplicates.each do |line|
+        #   if line.include?(output_verb_sequence)
+        #     puts "This line exists already: #{line}"
+        #     inspection_file.close
+        #     @inspection_results = output_verb_sequence.split(" ,")
+        #   elsif !line.include?(output_verb_sequence)
+        #     puts "#{output_verb_sequence} not found in #{line}"
+        #     output_file = File.open(file_path, "a+")
+        #     output_file.write(output_verb_sequence)
+        #     output_file.close
+        #   end
+        # end
       end
 
       file_check = @inspection_results

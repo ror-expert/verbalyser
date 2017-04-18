@@ -1,1918 +1,1435 @@
-......F.
+File name of absorbuoti:uoti_úoja_ãvo
+Reflexive? false :: lemma? true
+absorbuoti: 10
+absorbúoja: 10
+absorbãvo: 9
+lemma: absorb, nugget: uo
+uoti_úoja_ãvo
 
-Failures:
+absorbuoti: absorbuoti, absorbúoja, absorbãvo
+No file for this pattern, creating a new one...
+File name of abstrahuoti:uoti_úoja_ãvo
+Reflexive? false :: lemma? true
+abstrahuoti: 11
+abstrahúoja: 11
+abstrahãvo: 10
+lemma: abstrah, nugget: uo
+uoti_úoja_ãvo
 
-  1) Verbalyser::EndingsGrouper Receives a set of verbs with diverse conjugations creates a classificatory file name on the basis of the three main verb forms
-     Failure/Error: expect(subject.classify_verb_by_forms(conjugated_verb_standard_no_lemma_suffix)).to eq(file_name_conjugated_verb_standard_no_lemma_suffix)
+abstrahuoti: abstrahuoti, abstrahúoja, abstrahãvo
+File name of abuojėti:uojėti_uojėja_uojėjo
+Reflexive? false :: lemma? true
+abuojėti: 8
+abuojėja: 8
+abuojėjo: 8
+lemma: ab, nugget: uojė
+uojėti_uojėja_uojėjo
 
-       expected: "erti_ęra_ero"
-            got: ["absorbuoti, absorbúoja, absorbãvo\n", "abstrahuoti, abstrahúoja, abstrahãvo\n", "abuojėti, abuojėja...ìlgčioja, žvìlgčiojo\n", "žvilgėti, žvìlga, žvilgė́jo\n", "žvilgtelėti, žvìlgtelėja, žvìlgtelėjo\n"]
+abuojėti: abuojėti, abuojėja, abuojėjo
+No file for this pattern, creating a new one...
+File name of adaptuoti:uoti_úoja_ãvo
+Reflexive? false :: lemma? true
+adaptuoti: 9
+adaptúoja: 9
+adaptãvo: 8
+lemma: adapt, nugget: uo
+uoti_úoja_ãvo
 
-       (compared using ==)
+adaptuoti: adaptuoti, adaptúoja, adaptãvo
+Reflexive? true :: lemma? true
+adaptuotis: 10
+adaptúojasi: 11
+adaptãvosi: 10
+lemma: adapt, nugget: uo
+uotis_úojasi_ãvosi
 
-       Diff:
-       @@ -1,2 +1,1895 @@
-       -erti_ęra_ero
-       +absorbuoti, absorbúoja, absorbãvo\n
-       +abstrahuoti, abstrahúoja, abstrahãvo\n
-       +abuojėti, abuojėja, abuojėjo\n
-       +adaptuoti, adaptúoja, adaptãvo\n
-       +adaptuotis, adaptúojasi, adaptãvosi\n
-       +adinėti, adinėja, adinėjo\n
-       +adyti, ãdo, ãdė\n
-       +administruoti, administrúoja, administrãvo\n
-       +adresuoti, adresúoja, adresãvo\n
-       +aidėti, áidi, aidė́jo\n
-       +aikčioti, áikčioja, áikčiojo\n
-       +akcentuoti, akcentúoja, akcentãvo\n
-       +akėti, akė́ja, akė́jo\n
-       +akinti, ãkina, ãkino\n
-       +akti, añka, ãko\n
-       +aktyvėti, aktyvė́ja, aktyvė́jo\n
-       +aktyvinti, aktỹvina, aktỹvino\n
-       +aktyvuoti, aktyvuoja, aktyvavo\n
-       +alkti, álksta, al̃ko\n
-       +alpti, al̃psta, al̃po\n
-       +alsinti, alsìna, alsìno\n
-       +amputuoti, amputuoja, amputãvo\n
-       +amsėti, ámsi, amsė́jo\n
-       +amžinti, amžinà, ámžino\n
-       +analizuoti, analizúoja, analizãvo\n
-       +aneksuoti, aneksúoja, aneksãvo\n
-       +antspauduoti, antspaudúoja, antspaudãvo\n
-       +ardyti, ar̃do, ar̃dė\n
-       +areštuoti, areštúoja, areštãvo\n
-       +artėti, artė́ja, artė́jo\n
-       +arti, ãria, ãrė\n
-       +artinti, ar̃tina, ar̃tino\n
-       +artintis, ar̃tinasi, ar̃tinosi\n
-       +asimiliuoti, asimiliúoja, asimiliãvo\n
-       +asmenuoti, asmenúoja, asmenãvo\n
-       +asocijuoti, asocijúoja, asocijavo\n
-       +audėti, auda, audė́jo\n
-       +auginti, augìna, augìno\n
-       +augti, áuga, áugo\n
-       +auklėti, áuklėja, áuklėjo\n
-       +aukoti, aukója, aukójo\n
-       +aukotis, aukója, aukójo\n
-       +auksuoti, auksúoja, auksãvo\n
-       +aukštinti, áukština, áukštino\n
-       +austi, áudžia, áudė\n
-       +aušti, áudžia, áudė\n
-       +auti, aũna, ãvė\n
-       +autis, aũnasi, ãvėsi\n
-       +automatizuoti, automatizúoja, automatizavo\n
-       +avėti, ãvi, avė́jo\n
-       +badauti, badáuja, badãvo\n
-       +badyti, bãdo, bãdė\n
-       +baidyti, baĩdo, baĩdė\n
-       +baidytis, baĩdosi, baĩdėsi\n
-       +baigti, baĩgia, baĩgė\n
-       +baigtis, baĩgiasi, baĩgėsi\n
-       +baiminti, báimina, báiminosi\n
-       +baimintis, báiminasi, báiminosi\n
-       +baisėti, baisėja, baisėjo\n
-       +baisėtis, baĩsisi, baisė́josi\n
-       +bakstelėti, bãksteli, bãkstelėjo\n
-       +balansuoti, balansúoja, balansãvo\n
-       +balinti, bãlina, bãlino\n
-       +balnoti, balnója, balnójo\n
-       +balsti, balsta, bãlo\n
-       +balsuoti, balsúoja, balsãvo\n
-       +baltėti, baltėja, baltėjo\n
-       +balti, bą̃la, bãlo\n
-       +baltinti, baltinà, báltino\n
-       +baltuoti, baltúoja, baltãvo\n
-       +bandyti, bañdo, bañdė\n
-       +banguoti, bangúoja, bangãvo\n
-       +bankrutuoti, bankrutúoja, bankrutãvo\n
-       +barstyti, bar̃sto, bar̃stė\n
-       +barstytis, bar̃stosi, bar̃stėsi\n
-       +barškinti, bárškina, bárškino\n
-       +barti, bãra, bãrė\n
-       +bartis, bãrasi, bãrėsi\n
-       +bauginti, baugìna, baugìno\n
-       +bausti, baũdžia, baũdė\n
-       +bėginėti, bėginė́ja, bėginė́ja\n
-       +bėgioti, bėgiója, bėgiójo\n
-       +bėgti, bė́ga, bė́go\n
-       +bidzenti, bizdena, bizdeno\n
-       +bijoti, bìjo, bijójo\n
-       +bylinėtis, bylinė́jasi, bylinė́josi\n
-       +byloti, bylója, bylójo\n
-       +birbti, bir̃bia, bir̃bė\n
-       +byrėti, bỹra, byrė́jo\n
-       +birti, bỹra, bìro\n
-       +bjaurėtis, bjaũrisi, bjaurė́josi\n
-       +bjurti, bjursta, bjùro\n
-       +blankti, blañksta, blánko\n
-       +blaškyti, blãško, blãškė\n
-       +blaškytis, blãškosi, blãškėsi\n
-       +blefuoti, blefuoja, blefavo\n
-       +blęsti, bleñdžia, bleñdė\n
-       +blykšti, blỹkšta, blỹško\n
-       +blizgėti, blìzga, blizgė́jo\n
-       +blizginti, blìzgina, blìzgino\n
-       +blogėti, blogė́ja, blogė́jo\n
-       +bloginti, blõgina, blõgino\n
-       +blogti, blogsta, blõgo\n
-       +blokšti, blõškia, blõškė\n
-       +blokuoti, blokúoja, blokãvo\n
-       +blukinti, blùkina, blukino\n
-       +blukti, bluñka, blùko\n
-       +bodėti, bõdi, bodėjo\n
-       +boluoti, bolúoja, bolãvo\n
-       +bombarduoti, bombardúoja, bombardãvo\n
-       +braidyti, braĩdo, braĩdė\n
-       +braižyti, braĩžo, braĩžė\n
-       +brandinti, brandìna, brandìno\n
-       +branginti, brangìna, brangìno\n
-       +brangti, brángsta, brángo\n
-       +braukyti, braũko, braũkė\n
-       +braukti, braũkia, braũkė\n
-       +brautis, bráunasi, bróvėsi\n
-       +brazdėti, brãzda, brazdė́jo\n
-       +bręsti, brę́sta, bréndo\n
-       +brėžti, brė́žia, brė́žė\n
-       +brinkti, brìnksta, brìnko\n
-       +bristi, breñda, brìdo\n
-       +brukti, brunka, brùko\n
-       +brūžinti, brū́žina, brū́žino\n
-       +bučiuoti, bučiúoja, bučiãvo\n
-       +bučiuotis, bučiúojasi, bučiãvosi\n
-       +budėti, bùdi, budė́jo\n
-       +budinti, bùdina, bùdino\n
-       +būgštauti, būšgtauja, bū́gštavo\n
-       +bujoti, bujója, bujójo\n
-       +burbėti, bùrba, burbė́jo\n
-       +burbuliuoti, burbuliúoja, burbuliãvo\n
-       +buriuoti, buriúoja, buriãvo\n
-       +būriuoti, buriúoja, buriãvo\n
-       +burti, bùria, bū́rė\n
-       +busti, buñda, bùdo\n
-       +būti, yrà, bùvo\n
-       +buvoti, buvója, buvójo\n
-       +cypauti, cýpauja, cýpavo\n
-       +cypti, cỹpia, cỹpė\n
-       +cituoti, citúoja, citãvo\n
-       +civilizuoti, civilizuoja, civilizãvo\n
-       +čežėti, čẽža, čežė́jo\n
-       +čežti, čęžta, čežo\n
-       +čiaudėti, čiáudėja, čiáudėjo\n
-       +čiauškėti, čiáuška, čiauškė́jo\n
-       +čiaužti, čiaužia, čiaužė\n
-       +čirpėti, čirpa, čirpėjo\n
-       +čiulbėti, čiùlba, čiulbė́jo\n
-       +čiulpti, čiul̃pia, čiul̃pė\n
-       +čiuožinėti, čiuožinė́ja, čiuožinė́ja\n
-       +čiuožti, čiuõžia, čiuõžė\n
-       +čiupti, čiupa, čiùpo\n
-       +dabinti, dabìna, dabìno\n
-       +dailėti,  dailėja,  dailėjo\n
-       +dainuoti, dainúoja, dainãvo\n
-       +dairytis, daĩrosi, daĩrėsi\n
-       +dalinti, dalìna, dalìno\n
-       +dalintis, dalìnasi, dalìnosi\n
-       +dalyti, dalìja, dalìjo\n
-       +dalytis, dalìjasi, dalìjosi\n
-       +dalyvauti, dalyváuja, dalyvãvo\n
-       +dangstytis, dañgstosi, dañgstėsi\n
-       +darbuotis, darbúojasi, darbãvosi\n
-       +daryti, dãro, dãrė\n
-       +darytis, dãro, dãrė\n
-       +daugėti, daugė́ja, daugė́jo\n
-       +dauginti, dáugina, daũgino\n
-       +daugintis, dáuginasi, dáuginosi\n
-       +daužinėti, daužinėja, daužinėjosi\n
-       +daužyti, daũžo, daũžė\n
-       +daužti, daũžia, daũžė\n
-       +davinėti, davinė́ja, davinė́ja\n
-       +dažyti, dãžo, dãžė\n
-       +dažytis, dãžo, dãžė\n
-       +deaktivuoti, deaktyvuoja, deaktyvavo\n
-       +debiutuoti, deaktyvuoja, deaktyvavo\n
-       +dedikuoti, dedikúoja, dedikãvo\n
-       +deginti, dẽgina, dẽgino\n
-       +degintis, dẽginasi, dẽginosi\n
-       +degti, dẽga, dẽgė\n
-       +dejuoti, dejúoja, dejãvo\n
-       +deklaruoti, deklarúoja, deklarãvo\n
-       +dekoruoti, dekorúoja, dekorãvo\n
-       +dėkoti, dėkója, dėkójo\n
-       +dėlioti, dėliója, dėliójo\n
-       +delsti, del̃sia, del̃sė\n
-       +dėmėti, dėmėja, dėmėjo\n
-       +demonstruoti, demonstrúoja, demonstrãvo\n
-       +dengti, deñgia, deñgė\n
-       +deportuoti, deportúoja, deportãvo\n
-       +derėti, dẽra, derė́jo\n
-       +derėtis, derisi, derė́josi\n
-       +dergti, dérgia, dérgė\n
-       +derinti, dẽrina, dẽrino\n
-       +derintis, dẽrinasi, dẽrinosi\n
-       +dėstyti, dė́sto, dė́stė\n
-       +dėti, dẽda, dė́jo\n
-       +dėtis, dẽdasi, dė́josi\n
-       +devalvuoti, devalvúoja, devalvãvo\n
-       +dėvėti, dė̃vi, dėvė́jo\n
-       +dėvėtis, dė̃visi, dėvė́josi\n
-       +diagnozuoti, diagnozúoja, diagnozãvo\n
-       +didėti, didė́ja, didėco\n
-       +didinti, dìdina, dìdino\n
-       +didžiuotis, didžiúojasi, didžiãvosi\n
-       +dienoti, dienója, dienójo\n
-       +dievagotis, dievagójasi, dievagójosi\n
-       +dievinti, diẽvina, diẽvino\n
-       +dygti, dýgsta, dýgo\n
-       +dykinėti, dykinė́ja, dykinė́jo\n
-       +diktuoti, diktúoja, diktãvo\n
-       +dilti, dỹla, dìlo\n
-       +dingti, diñgsta, diñgo\n
-       +dirbinėti, dirbinė́ja, dirbinė́jo\n
-       +dirbti, dìrba, dìrbo\n
-       +dirbtis, dìrbasi, dirbosi\n
-       +direktoriauti, direktoriáuja, direktoriãvo\n
-       +dirginti, dìrgina, dìrgino\n
-       +dirgti, dirgsta, dirgo\n
-       +diriguoti, dirigúoja, dirigãvo\n
-       +dirstelėti, dirstelėja, dìrstelėjo\n
-       +dirti, dìria, dýrė\n
-       +diskutuoti, diskutúoja, diskutãvo\n
-       +dobti, dóbia, dobė\n
-       +domėtis, dõmisi, domė́josi\n
-       +dominti, dõmina, dõmino\n
-       +dominuoti, dominúoti, dominãvo\n
-       +doroti, dorója, dorójo\n
-       +dorotis, dorójasi, dorójosi\n
-       +dovanoti, dovanója, dovanójo\n
-       +dovanotis, dovanója, dovanójo\n
-       +drabstyti, drãbsto, drãbstė\n
-       +dramatizuoti, dramatizúoja, dramatizãvo\n
-       +drąsinti, drą́sina, drą́sino\n
-       +drąskyti, drą́sina, drą́sino\n
-       +draskyti, drãsko, drãskė\n
-       +draugauti, draugáuja, draugãvo\n
-       +drausti, draũdžia, draũdė\n
-       +draustis, draũdžia, draũdė\n
-       +drebėti, drẽba, drebė́jo\n
-       +drebinti, drẽbina, drẽbino\n
-       +drėbti, drẽbia, drė̃bė\n
-       +drėgti, drėgsta, drėgo\n
-       +dreifuoti, dreifúoja, dreifãvo\n
-       +drėksti, drẽskia, drė̃skė\n
-       +drėkti, drė́ksta, drė́ko\n
-       +drybsoti, drỹbso, drybsójo\n
-       +dribti, drim̃ba, drìbo\n
-       +drįsti, drį̃sta, drį̃so\n
-       +drovėtis, drõvisi, drovė́josi\n
-       +drožti, dróžia, dróžė\n
-       +drumsti, drum̃sčia, drum̃stė\n
-       +drumstis, drum̃sčiasi, drum̃stėsi\n
-       +dubliouti, dubliúoja, dubliãvo\n
-       +dubti, dum̃ba, dùbo\n
-       +dūgzti, dū̃zgia, dū̃zgė\n
-       +dūkti, dū̃ksta, dū̃ko\n
-       +dulkinti, dulkinà, dùlkino\n
-       +dulkintis, dùlkinasi, dùlkinosi\n
-       +dulksnoti, dulksnója, dulksnójo\n
-       +dumti, dùmia, dū́mė\n
-       +dundėti, dùnda, dundė́jo\n
-       +duoti, dúoda, dãvė\n
-       +duotis, dúoda, dãvė\n
-       +durti, dùria, dū́rė\n
-       +dūsauti, dū́sauja, dūsãvo\n
-       +dusinti, dùsina, dùsino\n
-       +dusti, dū̃sta, dùso\n
-       +dvejoti, dvejója, dvejójo\n
-       +dvelkti, dvel̃kia, dvel̃kė\n
-       +dvėsti, dvẽsia, dvė̃sė\n
-       +dvigubinti, dvìgubina, dvìgubino\n
-       +dvokti, dvõkia, dvõkė\n
-       +džiaugtis, džiaũgiasi, džiaũgėsi\n
-       +džiauti, džiáuna, džióvė\n
-       +džiovinti, džiovìna, džiovìno\n
-       +džiūgauti, džiū́gauja, džiū́gavo\n
-       +džiuginti, džiùgina, džiùgino\n
-       +džiūti, džiūsta, džiuvo\n
-       +egzistuoti, egzistúoja, egzistãvo\n
-       +eidinėti, eidinė́ja, eidinėjo\n
-       +eikvoti, eikvója, eikvójo\n
-       +eiliuoti, eiliúoja, eiliãvo\n
-       +eiti, eĩna, ė̃jo\n
-       +eitis, eĩnasi, ė̃josi\n
-       +eksperimentuoti, eksperimentúoja, eksperimentãvo\n
-       +ekzaminuoti, ekzaminuoja, ekzaminavo\n
-       +ekzistuoti, ekzistuoja, ekzistavo\n
-       +elektrifikuoti, elektrifikuoja, elektrifikãvo\n
-       +elgegauti, elgetáuja, elgetãvo\n
-       +elgetauti, elgetáuja, elgetãvo\n
-       +elgtis, el̃giasi, el̃gėsi\n
-       +ėmėti, ėmė́ja, ėmė́jo\n
-       +emigruoti, emigrúoja, emigrãvo\n
-       +emuliuoti, emuliuoja, emuliavo\n
-       +engti, éngia, éngė\n
-       +erzinti, érzina, érzino\n
-       +erzintis, érzinasi, érzinosi\n
-       +ėsti, ė́da, ė́dė\n
-       +evakuoti, evakúoja, evakãvo\n
-       +evakuotis, evakúojasi, evakãvosi\n
-       +fantazuoti, fantazúoja, fantazãvo\n
-       +fermentuotis, fermentúojasi, fermentãvosi\n
-       +figūruoti, figūrúoja, figūrãvo\n
-       +filmuoti, filmúoja, filmãvo\n
-       +filosofuoti, filosofúoja, filosofãvo\n
-       +finansuoti, finansúoja, finansãvo\n
-       +flirtuoti, flirtúoja, flirtãvo\n
-       +fokusuoti, fokusuoja, fokusavo\n
-       +forminti, formina, formino\n
-       +formuoti, formúoja, formãvo\n
-       +formuotis, formúojasi, formãvosi\n
-       +fotografuoti, fotografúoja, fotografãvo\n
-       +funkcionuoti, funkcionúoja, funkcionãvo\n
-       +gabenti, gabẽna, gabẽno\n
-       +gadinti, gadìna, gadìno\n
-       +gagėti, gagà, gagėjo\n
-       +gailėti, gaĩli, gailė́jo\n
-       +gailėtis, gaĩlisi, gailė́josi\n
-       +gaišti, gaĩšta, gaĩšo\n
-       +gaivinti, gaivìna, gaivìno\n
-       +galąsti, galánda, galándo\n
-       +galėti, gãli, galė́jo\n
-       +galioti, galiója, galiójo\n
-       +galvoti, galvója, galvójo\n
-       +gaminti, gamìna, gamìno\n
-       +gamintis, gamìna, gamìno\n
-       +ganyti, gãno, gãnė\n
-       +garantuoti, garantúoja, garantãvo\n
-       +garbanoti, garbanoja, garbanojo\n
-       +garbinti, gárbina, gárbino\n
-       +garsėti, garsė́ja, garsė́jo\n
-       +garuoti, garúoja, garãvo\n
-       +gąsdinti, gą̃sdina, gą̃sdino\n
-       +gąstauti, gąstauja, gąstavo\n
-       +gaubti, gaũbia, gaũbė\n
-       +gaudyti, gáudo, gáudė\n
-       +gausėti, gausė́ja, gausė́jo\n
-       +gauti, gáuna, gãvo\n
-       +gebėti, gẽba, gebė́jo\n
-       +gedėti, gẽdi, gedė́jo\n
-       +gėdinti, gė́dina, gė́dino\n
-       +gėdintis, gė́dinasi, gė́dinosi\n
-       +gėdyti, gėdyja, gėdyjo\n
-       +gėdytis, gė́dijasi, gė́dijosi\n
-       +geibti, geĩbsta, geibo\n
-       +geisti, geĩdžia, geĩdė\n
-       +gelbėti, gélbėja, gélbėjo\n
-       +gelsti, gel̃sta, gel̃to\n
-       +gelsvinti, gelsvina, gelsvino\n
-       +gelti, gẽlia, gėlė̃\n
-       +geltonėti, geltonė́ja, geltonėjo\n
-       +geltoninti, geltonina, geltonino\n
-       +geltonuoti, geltonúoja, geltonãvo\n
-       +genėti, genė́ja, genė́jo\n
-       +gerbti, ger̃bia, ger̃bė\n
-       +gerėti, gerė́ja, gerė́jo\n
-       +gėrėtis, gė̃risi, gėrė́josi\n
-       +gerinti, gẽrina, gẽrino\n
-       +gerintis, gẽrina, gẽrino\n
-       +gerti, gẽria, gė́rė\n
-       +gervuogiauti, gervuogiauja, gervuogiavo\n
-       +gesinti, gesìna, gesìno\n
-       +gesti, geñda, gẽdo\n
-       +gydyti, gýdo, gýdė\n
-       +gydytis, gýdosi, gýdėsi\n
-       +giedoti, giedoja, giedójo\n
-       +giedrėti, giedrė́ja, giedrė́jo\n
-       +giedryti, giedrija, giedrijo\n
-       +giedrytis, giẽdrijasi, giẽdrijosi\n
-       +gilėti, gilė́ja, gilė́jo\n
-       +gilinti, gìlina, gìlino\n
-       +gilintis, gìlinasi, gìlinosi\n
-       +gilti, gyla, gylė̃\n
-       +gimdyti, gim̃do, gim̃dė\n
-       +giminuotis, giminuojasi, giminiãvosi\n
-       +gimti, gìmsta, gìmė\n
-       +ginčyti, giñčija, giñčijo\n
-       +ginčytis, giñčijasi, giñčijosi\n
-       +ginkluoti, ginklúoja, ginklãvo\n
-       +ginti, gìna, gýnė\n
-       +gintis, gìna, gýnė\n
-       +girdėti, gir̃di, girdė́jo\n
-       +girdyti, gir̃do, gìrdė\n
-       +girgždėti, girgždà, girgždė́jo\n
-       +girtauti, girtáuja, girtãvo\n
-       +girti, girià, gýrė\n
-       +girtis, gìriasi, gýrėsi\n
-       +gyti, gỹja, gìjo\n
-       +gyventi, gyvẽna, gyvẽno\n
-       +gyventis, gyvẽnasi, gyvẽnosi\n
-       +gyvėti, gyvė́ja, gyvė́jo\n
-       +gyvinti, gývina, gývino\n
-       +gyvuoti, gyvúoja, gyvãvo\n
-       +gižti, gỹžta, gìžo\n
-       +glamonėti, glamonė́ja, glamonė́jo\n
-       +glaudyti, glaudo, glaũdė\n
-       +glausti, glaũdžia, glaũdė\n
-       +glaustis, glaũdžiasi, glaũdėsi\n
-       +glaustytis, glaũdžiasi, glaũdėsi\n
-       +glėbti, glė́bia, glė́bė\n
-       +glerti, glęra, glero\n
-       +gležti, glę̃žta, gležo\n
-       +globoti, globója, globójo\n
-       +glostyti, glósto, glóstė\n
-       +glūdėti, glū̃di, glūdė́jo\n
-       +gnaibyti, gnáibo, gnáibė\n
-       +gnybtelėti, gnybtelėja, gnýbtelėjo\n
-       +gnybti, gnýbia, gnybė\n
-       +gniuždyti, gniùždo, gniùždė\n
-       +gniužti, gniužta, gniùžo\n
-       +gobtis, gniužta, gniùžo\n
-       +godėti, gõdi, godėjo\n
-       +grabinėti, grabinė́ja, grabinė́jo\n
-       +graibyti, graĩbo, graĩbė\n
-       +graibytis, graĩbosi, graĩbėsi\n
-       +gramdyti, grámdo, grámdė\n
-       +grasinti, grasìna, grasìno\n
-       +graudenti, graudẽna, graudẽno\n
-       +graudentis, graudẽna, graudẽno\n
-       +graudinti, graudìna, graudìno\n
-       +graužti, gráužia, gráužė\n
-       +graužtis, gráužiasi, gráužėsi\n
-       +graviruoti, graviruoja, graviravo\n
-       +gražėti, gražė́ja, gražė́jo\n
-       +gražinti, grãžina, grãžino\n
-       +grąžinti, grãžina, grãžino\n
-       +gražintis, grãžinasi, grãžinosi\n
-       +grėbti, grė́bia, grė́bė\n
-       +greitinti, greĩtina, greĩtino\n
-       +grėsti, grẽsia, grė̃sė\n
-       +gręžti, grę̃žia, grę̃žė\n
-       +griaudėti, griaudė́ja, griaudė́jo\n
-       +griausti, griáudžia, griáudė\n
-       +griauti, griáuna, grióvė\n
-       +grybauti, grybáuja, grybãvo\n
-       +grybštelėti, grybštelėja, grýbštelėjo\n
-       +griebti, griẽbia, griẽbė\n
-       +griebtis, griẽbia, griẽbė\n
-       +grieti, grieja, griejo\n
-       +griežti, gríežia, gríežė\n
-       +griežtinti, gríežtina, gríežtino\n
-       +grimti, grima, grìmo\n
-       +grimuoti, grimúoja, grimãvo\n
-       +grimzti, grim̃zta, grim̃zdo\n
-       +grįsti, griñdžia, griñdė\n
-       +griūti, griū̃va, griùvo\n
-       +grizti, gryzta, grizo\n
-       +grįžti, grį̃žta, grį̃žo\n
-       +grobstyti, gróbsto, gróbstė\n
-       +grobti, gróbia, gróbė\n
-       +groti, grója, grójo\n
-       +grožėtis, grõžisi, grožė́josi\n
-       +grūdinti, grū́dina, grū́dino\n
-       +grūmoti, grūmója, grūmójo\n
-       +grumtis, grùmiasi, grū́mėsi\n
-       +grūsti, grūstà, grū́do\n
-       +gudrauti, gudráuja, gudrãvo\n
-       +gudrėti, gudrė́ja, gudrėjo\n
-       +guglinti, guglina, guglino\n
-       +gugti, guñga, gugo\n
-       +guldyti, gul̃do, gul̃dė\n
-       +gulėti, gùli, gulė́jo\n
-       +gulti, gùla, gùlė\n
-       +gultis, gùlasi, gùlėsi\n
-       +gundyti, gùndo, guñdė\n
-       +guosti, gúodžia, gúodė\n
-       +guostis, gúodžia, gúodė\n
-       +gurkšnoti, gurkšnója, gurkšnójo\n
-       +gūžtis, gū̃žiasi, gū̃žėsi\n
-       +gverti, gvęra, gvẽro\n
-       +gvildenti, gvildẽna, gvildẽno\n
-       +hipnotizuoti, hipnotizúoja, hipnotizãvo\n
-       +identifikuoti, identifikúoja, identifikãvo\n
-       +ieškoti, íeško, ieškójo\n
-       +ignoruoti, ignorúoja, ignorãvo\n
-       +ilgėti, ilgė́ja, ilgė́jo\n
-       +ilgėtis, il̃gisi, ilgė́josi\n
-       +ilsėti, ìlsi, ilsė́jo\n
-       +ilsėtis, ìlsisi, ilsė́josi\n
-       +ilsinti, ilsìna, ilsìno\n
-       +imigruoti, imigrúoja, imigrãvo\n
-       +imituoti, imitúoja, imitãvo\n
-       +imponuoti, imponúoja, imponãvo\n
-       +importuoti, importúoja, importãvo\n
-       +improvizuoti, improvizúoja, improvizãvo\n
-       +imti, ìma, ė̃mė\n
-       +imtis, ìmasi, ė̃mėsi\n
-       +infekuoti, infekúoja, infekavo\n
-       +informuoti, informúoja, informãvo\n
-       +inkšti, iñkščia, inšktė\n
-       +inspiruoti, inspirúoja, inspirãvo\n
-       +integruoti, integrúoja, integrãvo\n
-       +integruotis, integrúojasi, integrãvosi\n
-       +interpretuoti, interpretúoja, interpretãvo\n
-       +investuoti, investúoja, investãvo\n
-       +irkluoti, irklúoja, irklãvo\n
-       +irti, yrà, ìro\n
-       +irtis, ìriasi, ýrėsi\n
-       +issigąsti, išsigą̃sta, išsigañdo\n
-       +isšikeroti, išsikerója, išsikerójo\n
-       +izoliuoti, izoliúoja, izoliãvo\n
-       +jaudinti, jáudina, jáudino\n
-       +jaudintis, jáudinasi, jáudinosi\n
-       +jaukinti, jaukìna, jaukìno\n
-       +jaukti, jaũkia, jaũkė\n
-       +jauktis, jaũkiasi, jaũkėsi\n
-       +jausti, jaũčia, jaũtė\n
-       +jaustis, jaũčiasi, jaũtėsi\n
-       +jodinėti, jodinė́ja, jodinė́jo\n
-       +joti, jója, jõjo\n
-       +judėti, jùda, judė́jo\n
-       +judinti, jùdina, jùdino\n
-       +jungti, jùngia, jungė̃\n
-       +jungtis, jùngiasi, jùngėsi\n
-       +juodėti, juodėja, juodėjo\n
-       +juodinti, júodina, júodino\n
-       +juoduoti, juodúoja, juodãvo\n
-       +juokauti, juokáuja, juokãvo\n
-       +juokinti, juõkina, juõkino\n
-       +juoktis, juõkiasi, juõkėsi\n
-       +justi, juñta, jùto\n
-       +kabėti, kabà, kabė́jo\n
-       +kabinti, kabinà, kabìno\n
-       +kaboti, kãbo, kabójo\n
-       +kainuoti, kainúoja, kainãvo\n
-       +kaisti, kaĩsta, kaĩto\n
-       +kaišioti, káišioja, káišiojo\n
-       +kaitinti, kaĩtina, kaĩtino\n
-       +kaitintis, kaĩtinasi, kaĩtinosi\n
-       +kakoti, kakoja, kakojo\n
-       +kalbėti, kalbà, kalbė́jo\n
-       +kalbėtis, kal̃basi, kalbė́josi\n
-       +kalbinti, kálbina, kálbino\n
-       +kaldinti, káldina, káldino\n
-       +kalėti, kãli, kalė́jo\n
-       +kalti, kãla, kalė̃\n
-       +kaltinti, káltina, káltino\n
-       +kamšyti, kam̃šo, kam̃šė\n
-       +kamuoti, kamúoja, kamãvo\n
-       +kamuotis, kamúojasi, kamãvosi\n
-       +kandidatuoti, kandidatúoja, kandidatãvo\n
-       +kandžioti, kándžioja, kándžiojo\n
-       +kankinti, kankìna, kankìno\n
-       +kankintis, kankìna, kankìno\n
-       +kariauti, kariáuja, kariãvo\n
-       +karpyti, carp, kar̃pė\n
-       +karsti, kar̃sta, kar̃to\n
-       +karstytis, kárstosi, kárstosi\n
-       +karščiuoti, karščiúoja, karščiãvo\n
-       +karščiuotis, karščiúojasi, karčiavosi\n
-       +karšinti, káršina, káršino\n
-       +karšti, káršina, káršino\n
-       +karti, kãria, kórė\n
-       +kartoti, kartója, kartójo\n
-       +kartotis, kartója, kartójo\n
-       +karūnuoti, karūnúoja, karūnãvo\n
-       +kasinėti, kasinė́ja, kasinė́jo\n
-       +kasyti, kãso, kãsė\n
-       +kasytis, kãso, kãsė\n
-       +kąsti, kãso, kãsė\n
-       +kasti, kasà, kãsė\n
-       +kastis, kãsasi, kãsėsi\n
-       +kaukti, kaũkia, kaũkė\n
-       +kaulėti, kaulė́ja, kaulėjo\n
-       +kaupti, kaũpia, kaũpė\n
-       +kauptis, kaũpiasi, kaũpėsi\n
-       +kaustyti, káusto, káustė\n
-       +kauti, káuna, kovė\n
-       +kautis, káunasi, kóvėsi\n
-       +kavoti, kavoja, kavojo\n
-       +kedenti, kedẽna, kedẽno\n
-       +keiksnoti, keiksnója, keiksnójo\n
-       +keikti, kéikia, kéikė\n
-       +keiktis, kéikiasi, kéikėsi\n
-       +keisti, keĩčia, keĩtė\n
-       +keistis, keĩčiasi, keĩtėsi\n
-       +keliauti, keliáuja, keliãvo\n
-       +kelti, kẽlia, kė́lė\n
-       +keltis, kẽliasi, kė́lėsi\n
-       +kenkti, keñkia, keñkė\n
-       +kentėti, keñčia, kentė́jo\n
-       +kepinti, kẽpinta, kẽpino\n
-       +kepti, kẽpa, kẽpė\n
-       +keptis, kẽpa, kẽpė\n
-       +kerėti, kẽri, kerė́jo\n
-       +kergti, ker̃gia, ker̃gė\n
-       +kerpėti, kerpė́ja, kerpė́jo\n
-       +keršyti, ker̃šija, ker̃šijo\n
-       +kerštauti, kerštáuja, kerštãvo\n
-       +kerti, kę̃ra, kẽro\n
-       +kęsti, kę̃ra, kẽro\n
-       +kėsti, kečia, kė́tė\n
-       +ketinti, ketìna, ketìno\n
-       +keturgubinti, keturgubina, keturgubino\n
-       +kežti, kęžta, kežo\n
-       +kibirkščiuoti, kibirkščiúoja, kibirkščiãvo\n
-       +kibti, kim̃ba, kìbo\n
-       +kikenti, kikẽna, kikẽno\n
-       +kylėti, kỹli, kylėjo\n
-       +kilnėti, kilnėja, kilnėjo\n
-       +kilnoti, kilnója, kilnójo\n
-       +kilstelėti, kìlsteli, kìlstelėjo\n
-       +kilti, kỹla, kìlo\n
-       +kimšti, kem̃ša, kìmšo\n
-       +kimštis, kem̃šasi, kim̃šosi\n
-       +kinkyti, kiñko, kiñkė\n
-       +kirbėti, kìrba, kirbė́jo\n
-       +kirbti, kirbsta, kirbo\n
-       +kirčiuoti, kirčiúoja, kirčiãvo\n
-       +kirdyti, kirdo, kirdė\n
-       +kirkinti, kìrkina, kìrkino\n
-       +kirmyti, kirmìja, kirmìjo\n
-       +kirpti, ker̃pa, kir̃po\n
-       +kirptis, ker̃pa, kir̃po\n
-       +kirsti, ker̃ta, kir̃to\n
-       +kirstis, ker̃tasi, kir̃tosi\n
-       +kiršinti, kìršina, kir̃šino\n
-       +kisti, kiñta, kìto\n
-       +kyšoti, kýšo, kýšojo\n
-       +kiurdyti, kiùrdo, kiurdė\n
-       +klaidinti, klaidìna, klaidìno\n
-       +klaidžioti, kláidžioja, kláidžiojo\n
-       +klajoti, klajója, klajójo\n
-       +klastoti, klastója, klastójo\n
-       +klaupti, klaũpia, klaũpė\n
-       +klauptis, klaũpiasi, klaũpėsi\n
-       +klausinėti, klausinė́ja, klausinė́jo\n
-       +klausyti, klaũso, klaũsė\n
-       +klausytis, klaũsosi, klaũsėsi\n
-       +klausti, kláusia, kláusė\n
-       +klerti, klęra, klèro\n
-       +klestėti, klẽsti, klestė́jo\n
-       +kliautis, kliaunasi, klióvėsi\n
-       +klibinti, klìbina, klìbino\n
-       +kliedėti, klíedi, kliedė́jo\n
-       +klijuoti, klijúoja, klijãvo\n
-       +klykti, klỹkia, klỹkė\n
-       +klimpti, klim̃psta, klim̃po\n
-       +klysti, klýsta, klýdo\n
-       +kliudyti, kliùdo, kliùdė\n
-       +kliustelėti, kliustelėja, kliustelė́jo\n
-       +kliūti, kliū̃va, kliùvo\n
-       +klostytis, klóstosi, klóstėsi\n
-       +kloti, klója, klójo\n
-       +klotis, klójasi, klójosi\n
-       +klūpėti, klū̃pi, klūpė́jo\n
-       +klūpoti, klū́po, klū́pojo\n
-       +knarkti, knar̃kia, knar̃kė\n
-       +knežinti, knežina, knežino\n
-       +knežti, knęža, knežo\n
-       +kniaukti, kniaũkia, kniaũkė\n
-       +knibždėti, knìbžda, knibždė́jo\n
-       +knisti, knìsa, knìso\n
-       +knistis, knìsasi, knìsosi\n
-       +kniūbčioti, kniūbčioja, kniūbčiojo\n
-       +koduoti, kodúoja, kodãvo\n
-       +kolaboruoti, kolaboruoja, kolaboravo\n
-       +kolekcionuoti, kolekcionúoja, kolekcionãvo\n
-       +kolonizuoti, konolizuoja, kolonizãvo\n
-       +kombinuoti, kombinúoja, kombinãvo\n
-       +komentuoti, komentúoja, komentãvo\n
-       +kompensuoti, kompensúoja, kompensãvo\n
-       +kompiuterizuoti, kompiuterizuoja, kompiuterizavo\n
-       +komponuoti, komponúoja, komponãvo\n
-       +komunikuoti, komunikuoja, komunikavo\n
-       +koncentruoti, koncentrúoja, koncentrãvo\n
-       +koncertuoti, koncertúoja, koncertãvo\n
-       +konfiskuoti, konfiskúoja, konfiskãvo\n
-       +konkuruoti, konkurúoja, konkurãvo\n
-       +konstruoti, konstrúoja, konstrãvo\n
-       +konsultuoti, konsultúoja, konsultãvo\n
-       +konsultuotis, konsultúojasi, konsultãvosi\n
-       +kontempliuoti, kontempliuoja, kontempliavo\n
-       +kontroliuoti, kontroliúoja, kontroliãvo\n
-       +konvertuoti, konvertúoja, konvertãvo\n
-       +koordinuoti, koordinúoja, koordinãvo\n
-       +kopijuoti, kopijúoja, kopijãvo\n
-       +kopti, kõpia, kõpė\n
-       +koreguoti, koregúoja, koregãvo\n
-       +korumpuoti, korumpuoja, korumpavo\n
-       +kosėti, kósėja, kósėjo\n
-       +košti, kóšia, kõšė\n
-       +kovoti, kovója, kovójo\n
-       +kraipyti, kraĩpo, kraĩpė\n
-       +kramsnoti, kramsnója, kramsnójo\n
-       +kramtyti, kram̃to, kram̃tė\n
-       +kranksėti, kránksi, kranksė́jo\n
-       +krapštyti, krãpšto, krãpštė\n
-       +kratyti, krãto, krãtė\n
-       +kratytis, krãtosi, krãtėsi\n
-       +kraujuoti, kraujúoja, kraujãvo\n
-       +kraustyti, kráusto, kráustėsi\n
-       +kraustytis, kráustosi, kráustėsi\n
-       +krauti, kráuna, króvė\n
-       +krautis, kráunasi, króvėsi\n
-       +kreipti, kreĩpia, kreĩpė\n
-       +kreiptis, kreĩpiasi, kreĩpėsi\n
-       +krėsti, kreĩpiasi, kreĩpėsi\n
-       +krešti, krę̃šta, krẽšo\n
-       +krieti, krieja, kriejo\n
-       +krikdyti, krikdo, krikdė\n
-       +krykštauti, krýkštauja, krýkštavo\n
-       +krikštyti, krìkštija, krìkštijo\n
-       +krikti, kriñka, krìko\n
-       +krimsti, krimstà, krim̃to\n
-       +krypti, krỹpsta, krỹpo\n
-       +krypuoti, krypúoja, krypãvo\n
-       +kristi, kreñta, krìto\n
-       +kritikuoti, kritikúoja, kritikãvo\n
-       +kryžiuoti, kryžiúoja, kryžiãvo\n
-       +krūptelėti, krū́ptelėja, krū́ptelėjo\n
-       +krustelėti, krùsteli, krùstelėjo\n
-       +krušti, krušà, krùšo\n
-       +krutėti, krùta, krutė́jo\n
-       +krutinti, krùtina, krùtino\n
-       +krutintis, krutinasi, krutinosi\n
-       +kuisti, kuĩčia, kuitė\n
-       +kulti, kùlia, kū́lė\n
-       +kuopti, kuõpia, kuõpė\n
-       +kuprintis, kuprinasi, kuprinosi\n
-       +kūprintis, kuprinasi, kuprinosi\n
-       +kūrenti, kūrẽna, kūrẽno\n
-       +kursuoti, kursúoja, kursãvo\n
-       +kurti, kùria, kū́rė\n
-       +kušti, kùšta, kušo\n
-       +kutenti, kutẽna, kutẽno\n
-       +kvailinti, kvaĩlina, kvaĩlino\n
-       +kvailioti, kvailiója, kvailiójo\n
-       +kvalifikuoti, kvalifikúoti, kvalifikãvo\n
-       +kvatoti, kvatója, kvatójo\n
-       +kvatotis, kvatójasi, kvatójosi\n
-       +kvepėti, kvẽpia, kvepė́jo\n
-       +kvėpinti, kvėpìna, kvėpìno\n
-       +kvėpuoti, kvėpúoja, kvėpãvo\n
-       +kviesti, kviẽčia, kviẽtė\n
-       +kviestis, kviẽčiasi, kviẽtėsi\n
-       +labinti, lãbina, labino\n
-       +laidyti, laĩdo, laidė̃\n
-       +laidoti, láidoja, láidojo\n
-       +laiduoti, laidúoja, laidãvo\n
-       +laikinti, laikinà, laĩkino\n
-       +laikyti, laĩko, laĩkė\n
-       +laikytis, laĩkosi, laĩkėsi\n
-       +laimėti, laĩmi, laimė́jo\n
-       +laiminti, láimina, láimino\n
-       +laipinti, laipìna, laipìno\n
-       +laipioti, láipioja, láipiojo\n
-       +laistyti, láisto, láistė\n
-       +laisvėti, laisvė́ja, laisvė́jo\n
-       +laisvinti, láisvina, láisvino\n
-       +laižyti, laĩžo, laĩžė\n
-       +laižytis, laĩžo, laĩžė\n
-       +lakioti, lakiója, lakiójo\n
-       +lakstyti, lãksto, lãkstė\n
-       +lamdyti, lámdo, lámdė\n
-       +landžioti, lándžioja, lándžiojo\n
-       +lankyti, lañko, lañkė\n
-       +lankytis, lañkosi, lañkėsi\n
-       +lankstyti, lañksto, lañkstė\n
-       +lanktytis, lañkosi, lañkėsi\n
-       +lašėti, lãša, lašė́jo\n
-       +lašnoti, lašnója, lašnójo\n
-       +laukti, láukia, laũkė\n
-       +lauktis, láukiasi, láukėsi\n
-       +laužyti, láužo, láužė\n
-       +laužti, láužia, láužė\n
-       +lavinti, lavinà, lãvino\n
-       +lavintis, lãvinasi, lãvino\n
-       +lažintis, lãžinasi, lãžinosi\n
-       +leisti, léidžia, léido\n
-       +leistis, léidžiasi, léidosi\n
-       +lekioti, lekiója, lekiójo\n
-       +lėkti, lẽkia, lė̃kė\n
-       +lemti, lẽmia, lė́mė\n
-       +lengvėti, lengvė́ja, lengvė́jo\n
-       +lengvinti, leñgvina, leñgvino\n
-       +lenkti, leñkia, lénkė\n
-       +lenktyniauti, lenktyniáuja, lenktyniãvo\n
-       +lenktis, leñkiasi, leñkėsi\n
-       +lepinti, lẽpina, lẽpino\n
-       +lepintis, lẽpinasi, lẽpinosi\n
-       +leptelėti, leptelėja, lèptelėjo\n
-       +lepti, lémpa, lẽpo\n
-       +lesinėti, lesinė́ja, lesinė́jo\n
-       +lesinti, lẽsina, lẽsino\n
-       +lesti, lẽsa, lẽsė\n
-       +lėtinti, lė̃tina, lė̃tino\n
-       +liaupsinti, liáupsina, liáupsino\n
-       +liautis, liáunasi, lióvėsi\n
-       +lydėti, lỹdi, lydė́jo\n
-       +lydyti, lýdo, lýdė\n
-       +lydytis, lýdosi, lydė́si\n
-       +liepsnoti, liepsnója, liepsnójo\n
-       +liepti, liẽpia, liẽpė\n
-       +liesti, liẽčia, liẽtė\n
-       +lieti, líeja, líejo\n
-       +lietuvinti, lietùvina, lietùvino\n
-       +liežuvauti, liežuváuja, liežuvavo\n
-       +lyginti, lýgina, lýgino\n
-       +lignuoti, lingúoja, lingãvo\n
-       +likti, liẽka, lìko\n
-       +likviduoti, likvidúoja, likvidãvo\n
-       +lindėti, liñdi, lindė́jo\n
-       +linguoti, lingúoja, lingãvo\n
-       +linkčioti, lìnkčioja, lìnkčiojo\n
-       +linkėti, liñki, linkė́jo\n
-       +linksėti, lìnksi, linksė́jo\n
-       +linksmėti, linksmėja, linksmė́jo\n
-       +linksminti, lìnksmina, lìnksmino\n
-       +linksmintis, lìnksminasi, lìnksminosi\n
-       +linksniuoti, linksniúoja, linksniãvo\n
-       +linktelėti, lìnktelėja, lìnktelėjo\n
-       +linkti, liñksta, liñko\n
-       +lynoti, lynója, lynójo\n
-       +lipdyti, lìpdo, lìpdė\n
-       +lipti, lìpa, lìpo\n
-       +lytėti, lýti, lytė́jo\n
-       +lyti, lỹja, lìjo\n
-       +liūdėti, liū̃di, liūdė́jo\n
-       +liūdinti, liū̃dina, liū̃dino\n
-       +liudyti, liùdija, liùdijo\n
-       +lyžtelėti, lýžtelėja, lýžtelėjo\n
-       +lopyti, lõpo, lopė̃\n
-       +lošti, lõšia, lõšė\n
-       +loti, lója, lójo\n
-       +lukterėti, lukterėja, lùkterėjo\n
-       +luošinti, lúošina, lúošino\n
-       +lupti, lùpa, lùpo\n
-       +lūžti, lū́žta, lū́žo\n
-       +maigyti, máigo, máigė\n
-       +mainyti, maĩno, maĩnė\n
-       +maišyti, maĩšo, maĩšė\n
-       +maištauti, maištáuja, maištãvo\n
-       +maitinti, maitìna, maitìno\n
-       +maitintis, maitìnasi, maitìnosi\n
-       +maivytis, máivosi, máivėsi\n
-       +maldauti, maldáuja, maldãvo\n
-       +maldyti, mal̃do, mal̃dė\n
-       +malonėti, malonė́ja, malonė́jo\n
-       +malšinti, malšìna, malšìno\n
-       +malti, mãla, mãlė\n
-       +manipuliuoti, manipuliúoja, manipuliãvo\n
-       +manyti, mãno, mãnė\n
-       +mankštinti, mankštìna, mankštìno\n
-       +mankštintis, mankštìnasi, mankštìnosi\n
-       +marginti, márgina, márgino\n
-       +marguliuoti, marguliúoja, marguliavo\n
-       +marguoti, margúoja, margãvo\n
-       +marinti, marinà, marìno\n
-       +marinuoti, marinúoja, marinãvo\n
-       +masažuoti, masažúoja, masažãvo\n
-       +mąsyti, mą̃sto, mą̃stė\n
-       +maskatuoti, maskatúoja, maskatãvo\n
-       +mąstyti, mą̃sto, mą̃stė\n
-       +masturbuotis, masturbuojasi, masturbavosi\n
-       +maudyti, máudo, máudė\n
-       +maudytis, máudosi, máudėsi\n
-       +mauti, máuna, móvė\n
-       +mautis, máunasi, móvėsi\n
-       +mazgoti, mazgója, mazgójo\n
-       +mažėti, mažė́ja, mažė́jo\n
-       +mažinti, mãžina, mãžino\n
-       +medituoti, meditúoja, meditãvo\n
-       +medžioti, medžiója, medžiójo\n
-       +mėgautis, mė́gaujasi, mė́gavosi\n
-       +mėgdžioti, mė́gdžioja, mė́gdžiojo\n
-       +mėginti, mėgìna, mėgìno\n
-       +mėgti, mė́gsta, mė́go\n
-       +megzti, mẽzga, mẽzgė\n
-       +megztis, mẽzgasi, mẽzgėsi\n
-       +meilikauti, meilikáuja, meilikãvo\n
-       +meilintis, méilinasi, méilinosi\n
-       +mėlynėti, mėlynėja, mėlynėjo\n
-       +mėlyninti, mėlynina, mėlynino\n
-       +mėlynuoti, mėlynúoja, mėlynãvo\n
-       +melsti, mel̃džia, mel̃dė\n
-       +melstis, mel̃džiasi, mel̃dėsi\n
-       +melsvinti, melsvina, melsvino\n
-       +meluoti, melúoja, melãvo\n
-       +melžti, mélžia, mélžė\n
-       +menkėti, menkė́ja, menkė́jo\n
-       +menkinti, meñkina, meñkino\n
-       +merkti, mérkia, mérkė\n
-       +mesti, mẽta, mẽtė\n
-       +meškerioti, meškeriója, meškeriójo\n
-       +mėtyti, mė́to, mė́tė\n
-       +mezgti, mẽzga, mẽzgė\n
-       +mėžti, mė́žia, mė́žė\n
-       +miaukti, miaũkia, miaũkė\n
-       +miegoti,  miẽga,  miegójo\n
-       +miešti, miẽšia, miẽšė\n
-       +migdyti, mìgdo, mìgdė\n
-       +migti, miñga, mìgo\n
-       +mikčioti, mikčiója, mikčiójo\n
-       +mykti, mỹkia, mỹkė\n
-       +mylėti, mýli, mylė́jo\n
-       +mylėtis, mýlisi, mylė́josi\n
-       +myluoti, mylúoja, mylãvo\n
-       +myluotis, mylúojasi, mylavosi\n
-       +mindyti, mind, mìndė\n
-       +minėti, minì, minė́jo\n
-       +minkyti, mìnko, mìnkė\n
-       +minti, minà, mýnė\n
-       +mintyti, miñtija, miñtijo\n
-       +mirgėti, mìrga, mirgė́jo\n
-       +mirguliuoti, mirguliúoja, mirguliãvo\n
-       +mirkčioti, mìrkčioja, mìrkčiojo\n
-       +mirksėti, mìrksi, mirksė́jo\n
-       +mirktelėti, mirktelėja, mìrktelėjo\n
-       +mirkti, merka, mir̃ko\n
-       +mirti, mìršta, mìrė\n
-       +misti, miñta, mìto\n
-       +myžti, myža, myžo\n
-       +modifikuoti, modifikúoja, modifikãvo\n
-       +mojuoti, mojúoja, mojãvo\n
-       +mokėti, mokà, mokė́jo\n
-       +mokinti, mokìna, mokìno\n
-       +mokintis, mokìnasi, mokìnosi\n
-       +mokyti, móko, mókė\n
-       +mokytis, mókosi, mókėsi\n
-       +mokytojauti, mokytojáuja, mokytojãvo\n
-       +montuoti, montúoja, montãvo\n
-       +mosikuoti, mosikúoja, mosikãvo\n
-       +mosuoti, mosúoja, mosãvo\n
-       +moti, mója, mójo\n
-       +motyvuoti, motyvúoja, motyvãvo\n
-       +mūkti, mū̃kia, mū̃kė\n
-       +mūryti, mū́rija, mū́rijo\n
-       +murkti, mur̃kia, mur̃kė\n
-       +murmėti, mùrma, murmė́jo\n
-       +mušinėti, mušinė́ja, mušinėjo\n
-       +mušti, mùša, mùšė\n
-       +muštis, mùšasi, mùšėsi\n
-       +mutuoti, mutuoja, mutavo\n
-       +muturiuoti, muturiuoja, muturiavo\n
-       +mūvėti, mū̃vi, mūvė́jo\n
-       +nagrinėti, nagrinė́ja, nagrinė́jo\n
-       +naikinti, naikìna, naikìno\n
-       +nakvoti, nakvója, nakvójo\n
-       +nardyti, nárdo, nárdė\n
-       +narplioti, nárplioja, nárpliojo\n
-       +narstyti, nársto, nárstė\n
-       +naršyti, nar̃šo, nar̃šė\n
-       +naudoti, naudója, naudójo\n
-       +naudotis, naudójasi, naudójosi\n
-       +naujinti, naũjina, naujino\n
-       +neabejoti, neabejója, neabejójo\n
-       +neapkęsti, neapkeñčia, neàpkentė\n
-       +nebepasikiškiakopūsteliauti, nebepasikiškiakopūsteliauja, nebepasikiškiakopūsteliavo\n
-       +nebeprisikiškiakopūsteliauti, nebeprisikiškiakopūsteliauja, nebeprisikiškiakopūsteliavo\n
-       +neigti, neĩgia, neĩgė\n
-       +nekantrauti, nekantráuja, nekantrãvo\n
-       +nekęsti, nekeñčia, nèkentė\n
-       +nenuvilti, nenùvilia, nenuvýlė\n
-       +nepaisyti, nepaĩso, nepaĩsė\n
-       +neraminti, neramìna, neramìno\n
-       +nerimauti, nerimáuja, nerimãvo\n
-       +neršti, ner̃šia, ner̃šė\n
-       +nerti, nẽria, nė́rė\n
-       +nertis, nẽria, nė́rė\n
-       +nervinti, nèrvina, nèrvino\n
-       +nervintis, nèrvinasi, nèrvinosi\n
-       +nešdintis, nẽšdinasi, nẽšdinosi\n
-       +nėšėti, nėši, nėšėjo\n
-       +nešioti, nešiója, nešiójo\n
-       +nešiotis, nešiójasi, nešiójosi\n
-       +nešiotis, nešiójasi, nešiójosi\n
-       +nešti, nẽša, nẽšė\n
-       +neštis, nẽšasi, nẽšėsi\n
-       +netekti, neteñka, netẽko\n
-       +neužmigti, neužmiẽga, neužmìgo\n
-       +niekinti, niẽkina, niẽkino\n
-       +niežėti, niẽžti, niežė́jo\n
-       +nykti, nỹksta, nỹko\n
-       +niokti, niokia, niokė\n
-       +niršti, nir̃šta, nir̃šo\n
-       +niūniuoti, niūniúoja, niūniãvo\n
-       +nokti, nóksta, nóko\n
-       +nominuoti, nominuoja, nominavo\n
-       +norėti, nóri, norė́jo\n
-       +norėtis, nórisi, norė́josi\n
-       +obliuoti, obliúoja, obliãvo\n
-       +obuoliauti, obuoliauja, obuoliavo\n
-       +okupuoti, okupúoja, okupãvo\n
-       +organizuoti, organizúoja, organizãvo\n
-       +orientuoti, orientúoja, orientãvo\n
-       +ošti, õšia, õšė\n
-       +ožiuotis, ožiúojasi, ožiãvosi\n
-       +pėdinti, pė̃dina, pė̃dino\n
-       +peikti, peĩkia, peĩkė\n
-       +pelnyti, pel̃no, pel̃nė\n
-       +pelnytis, pel̃nosi, pel̃nėsi\n
-       +pešioti, pešiója, pešiójo\n
-       +pešti, pẽša, pẽšė\n
-       +peštis, pẽšasi, pẽšėsi\n
-       +piesti, piečia, pietė\n
-       +piešti, piẽšia, piẽšė\n
-       +pietauti, pietáuja, pietãvo\n
-       +pigti, piñga, pìgo\n
-       +pykdyti, pýkdo, pýkdė\n
-       +pykinti, pỹkina, pỹkino\n
-       +pykti, pỹksta, pỹko\n
-       +piktinti, pìktina, pìktino\n
-       +pyktis, pỹkstasi, pỹkosi\n
-       +piktnaudžiauti, piktnaudžiáuja, piktnaudžiãvo\n
-       +pildyti, pìldo, pìldė\n
-       +pildytis, pìldosi, pìldėsi\n
-       +pilkuoti, pilkúoja, pilkãvo\n
-       +pilti, pìla, pýlė\n
-       +piltis, pìla, pýlė\n
-       +pinti, pìna, pynė̃\n
-       +pypsėti, pýpsi, pypsė́jo\n
-       +pypsinti, pypsina, pypsino\n
-       +piratauti, piratáuja, piratãvo\n
-       +pirkinėti, pirkinėja, pirkinė́jo\n
-       +pirkti, per̃ka, pir̃ko\n
-       +pirktis, per̃ka, pir̃ko\n
-       +pirmauti, pirmáuja, pirmãvo\n
-       +pirstelėti, pirstelėja, pirstelė́jo\n
-       +piršti, per̃ša, pir̃šo\n
-       +pirštis, per̃šasi, pir̃šosi\n
-       +pisti, pisa, piso\n
-       +pistis, pisasi, pisosi\n
-       +pyškėti, pýška, pyškė́jo\n
-       +pjaustyti, pjáusto, pjáustė\n
-       +pjauti, pjáuna, pjóvė\n
-       +plakti, plãka, plãkė\n
-       +plaktis, plãka, plãkė\n
-       +planiruoti, planiruoja, planiravo\n
-       +planuoti, planúoja, planãvo\n
-       +plasnoti, plasnója, plasnójo\n
-       +platinti, platinà, plãtino\n
-       +plaukioti, pláukioja, pláukiojo\n
-       +plaukyti, pláuko, plaũkė\n
-       +plaukti, plaũkia, plaũkė\n
-       +plauti, pláuna, plóvė\n
-       +plautis, pláunasi, plóvėsi\n
-       +pleiskanoti, pleiskanója, pleiskanojo\n
-       +plepėti, plẽpa, plepė́jo\n
-       +plėpėti, plẽpa, plepė́jo\n
-       +plėsti, plẽčia, plė̃tė\n
-       +plėstis, plẽčiasi, plė̃tėsi\n
-       +plėšikauti, plėšikáuja, plėšikãvo\n
-       +plėšyti, plė́šo, plė́šė\n
-       +plėšytis, plė́šo, plė́šė\n
-       +pleškėti, plẽška, pleškė́jo\n
-       +plėšti, plẽška, pleškė́jo\n
-       +plėtoti, plėtója, plėtójo\n
-       +pleventi, plevẽna, plevẽno\n
-       +plevėsuoti, plevėsúoja, plevėsãvo\n
-       +pliaukšti, pliaũškia, pliaũškė\n
-       +plikyti, plìko, plìkė\n
-       +plisti, pliñta, plìto\n
-       +plyšoti, plýšo, plýšojo\n
-       +plyšti, plýšta, plýšo\n
-       +pliumptelėti, pliumptelėja, pliùmptelėjo\n
-       +pliurpti, pliur̃pia, pliur̃pė\n
-       +plonėti, plonė́ja, plonė́jo\n
-       +ploti, plója, plójo\n
-       +plūduriuoti, plū̃duriuoja, plū̃duriavo\n
-       +plukdyti, plùkdo, plùkdė\n
-       +plūktis, plū̃kiasi, plū̃kėsi\n
-       +plūsti, plū̃kiasi, plū̃kėsi\n
-       +plūstis, plū́stasi, plū́dosi\n
-       +plušti, plūšta, plùšo\n
-       +poilsiauti, poilsiáuja, poilsiãvo\n
-       +pokštauti, pókštauja, pókštavo\n
-       +pokštelėti, pokštelėja, pókštelėjo\n
-       +pompuoti, pompuoja, pompavo\n
-       +populiarėti, populiarė́ja, populiarė́jo\n
-       +posėdžiauti, posėdžiáuja, posėdžiãvo\n
-       +pozuoti, pozúoja, pozãvo\n
-       +prekiauti, prekiáuja, prekiãvo\n
-       +prenumeruoti, prenumerúoja, prenumerãvo\n
-       +prognozuoti, prognozúoja, prognozãvo\n
-       +programuoti, programúoja, programãvo\n
-       +protestuoti, protestúoja, protestãvo\n
-       +puikuotis, puikúojasi, puikãvosi\n
-       +pūkšti, pūška, pūškė\n
-       +puldinėti, puldinė́ja, puldinė́jo\n
-       +pūliuoti, pūliúoja, pūliãvo\n
-       +pulsuoti, pulsúoja, pulsãvo\n
-       +pulti, púola, púolė\n
-       +pumpuoti, pumpúoja, pumpãvo\n
-       +puoselėti, púoselėja, púoselėjo\n
-       +puošti, puõšia, puõšė\n
-       +puoštis, puõšia, puõšė\n
-       +purenti, purẽna, purẽno\n
-       +purkšti, pur̃škia, pur̃škė\n
-       +purti, pūra, pùro\n
-       +purtyti, pùrto, pùrtė\n
-       +purtytis, pùrtosi, pùrtėsi\n
-       +purvinti, purvinà, pur̃vino\n
-       +pūsti, pùčia, pū̃tė\n
-       +pūstis, pùčiasi, pū̃tėsi\n
-       +pustyti, pùsto, pùstė\n
-       +pūškuoti, pūškúoja, pūškãvo\n
-       +pūti, pū̃va, pùvo\n
-       +putoti, putója, putójo\n
-       +ragauti, ragáuja, ragãvo\n
-       +raginti, rãgina, rãgino\n
-       +raiyti, raĩto, raĩtė\n
-       +raikyti, raĩko, raĩkė\n
-       +raityti, raĩto, raĩtė\n
-       +raitytis, raĩtosi, raĩtėsi\n
-       +raitoti, raitoja, raitójo\n
-       +raitotis, raitoja, raitójo\n
-       +raižioti, raižioja, raižiojo\n
-       +raižyti, ráižo, raĩžė\n
-       +rakinti, rakìna, rakìno\n
-       +raminti, ramìna, ramìno\n
-       +ramintis, ramìnasi, ramìnosi\n
-       +ramstytis, ram̃stosi, ram̃stėsi\n
-       +rangyti, rángo, rañgė\n
-       +rangytis, rañgosi, rañgėsi\n
-       +rankyti, ranko, rankė\n
-       +rasoti, rasója, rasójo\n
-       +rasti, rañda, rãdo\n
-       +rastis, rañdasi, rãdosi\n
-       +rašinėti, rašinė́ja, rašinė́jo\n
-       +rašyti, rãšo, rãšė\n
-       +rašytis, rãšosi, rãšėsi\n
-       +raudonėti, raudonėja, raudonėjo\n
-       +raudoninti, raudonina, raudonino\n
-       +raudonuoti, raudonúoja, raudonãvo\n
-       +raudoti, raudà, raudójo\n
-       +rauginti, raugìna, raugìno\n
-       +raugti, ráugia, ráugė\n
-       +raukšlėti, raukšlė́ja, raukšlė́jo\n
-       +raukšlėtis, raukšlė́jasi, raukšlėjosi\n
-       +raukti, raũkia, raũkė\n
-       +rausti, raustà, raũdo\n
-       +raustis, raũsiasi, raũsėsi\n
-       +rausvinti, raũsvina, raũsvino\n
-       +rauti, ráuna, róvė\n
-       +rąžytis, rą̃žosi, rą̃žėsi\n
-       +reaguoti, reagúoja, reagãvo\n
-       +realizuoti, realizúoja, realizãvo\n
-       +redaguoti, redagúoja, redagãvo\n
-       +regėti, rẽgi, regė́jo\n
-       +registruoti, registrúoja, registrãvo\n
-       +registruotis, registrúojasi, registrãvosi\n
-       +regulioti, reguliúoja, reguliãvo\n
-       +reguliuoti, reguliúoja, reguliãvo\n
-       +regzti, rẽzga, rẽzgė\n
-       +reikalauti, reikaláuja, reikalãvo\n
-       +reikėti, reĩkia, reikė́jo\n
-       +reikšti, réiškia, réiškė\n
-       +reikštis, réiškiasi, réiškėsi\n
-       +reikti, reĩkia, reĩkė\n
-       +rėkauti, rė́kauja, rė́kavo\n
-       +reklamuoti, reklamúoja, reklamãvo\n
-       +reklamuotis, reklamúojasi, reklamãvosi\n
-       +rekomenduoti, rekomendúoja, rekomendãvo\n
-       +rekonstruoti, rekonstrúoja, rekonstrãvo\n
-       +rėkti, rė̃kia, rė̃kė\n
-       +remontuoti, remontúoja, remontãvo\n
-       +remti, rẽmia, rė̃mė\n
-       +remtis, rẽmiasi, remėsi\n
-       +rengti, reñgia, reñgė\n
-       +rengtis, reñgiasi, reñgėsi\n
-       +repečkoti, repečkoja, repečkójo\n
-       +repetuoti, repetúoja, repetãvo\n
-       +restauruoti, restaurúoja, restaurãvo\n
-       +ręsti, reñčia, reñtė\n
-       +retinti, rẽtina, rẽtino\n
-       +revizuoti, revizúoti, revizúoja\n
-       +rezervuoti, rezervúoja, rezervãvo\n
-       +rezervuotis, rezervúoja, rezervãvo\n
-       +režisuoti, režisúoja, režisãvo\n
-       +rėžyti, rė̃žo, rė̃žė\n
-       +rėžti, rė́žia, rė̃žė\n
-       +riaumoti, riaumója, riaumójo\n
-       +riboti, ribója, ribójo\n
-       +ridenti, ridẽna, ridẽno\n
-       +ridėti, ridà, ridėjo\n
-       +riebinti, riebina, ríebino\n
-       +riedėti, riẽda, riedė́jo\n
-       +riekti, riẽkia, riekė̃\n
-       +riesti, riẽčia, riẽtė\n
-       +riestis, riẽčiasi, riẽtėsi\n
-       +rieti, rieja, riejo\n
-       +rietis, ríejasi, ríejosi\n
-       +rikiuoti, rikiúoja, rikiãvo\n
-       +rikiuotis, rikiúojasi, rikiãvosi\n
-       +rimuoti, rimúoja, rimãvo\n
-       +rimuotis, rimúojasi, rimavosi\n
-       +rinkti, reñka, riñko\n
-       +rinktis, reñkasi, riñkosi\n
-       +risnoti, risnója, risnójo\n
-       +risti, rìta, rìto\n
-       +ristis, rìtasi, rìtosi\n
-       +ryšėti, rỹši, ryšė́jo\n
-       +ryškėti, ryškė́ja, ryškė́jo\n
-       +ryti, rỹja, rìjo\n
-       +rizikuoti, rizikúoja, rizikãvo\n
-       +ryžtis, rýžtasi, rýžosi\n
-       +rodyti, ròdo, ródė\n
-       +rodytis, ródosi, ródėsi\n
-       +rokuotis, rokuojasi, rokavosi\n
-       +ropoti, ropója, ropójo\n
-       +ropoto, ropója, ropójo\n
-       +rūdyti, rūdìja, rūdìjo\n
-       +rūgti, rū́gsta, rū́go\n
-       +rūkyti, rū̃ko, rū̃kė\n
-       +rūkti, rū̃ksta, rū̃ko\n
-       +rungtyniauti, rungtyniáuja, rungtyniãvo\n
-       +rungtis, rùngiasi, rùngėsi\n
-       +ruošti, ruõšia, ruõšė\n
-       +ruoštis, ruõšiasi, ruõšėsi\n
-       +rūpėti, rū̃pi, rupė́jo\n
-       +rūpinti, rū́pina, rū́pino\n
-       +rūpintis, rū́pinasi, rū́pinosi\n
-       +rupti, rum̃pa, rùpo\n
-       +rusenti, rusẽna, rusẽno\n
-       +rusinti, rùsina, rùsino\n
-       +rūstauti, rū́stauja, rū́stavo\n
-       +rūšiuoti, rūšiúoja, rūšiãvo\n
-       +sabotuoti, sabotúoja, sabotãvo\n
-       +sakinėti, sakinėja, sakinėjo\n
-       +sakyti, sãko, sãkė\n
-       +samdyti, sam̃do, sam̃dė\n
-       +sandėliuoti, sandėliúoja, sandėliãvo\n
-       +santykiauti, santykiáuja, sántykiavo\n
-       +saugoti, sáugoja, sáugojo\n
-       +saugotis, saugojasi, sáugojosi\n
-       +savinti, savinti, sãvina\n
-       +sėdėti, sė́di, sėdė́jo\n
-       +segti, sẽga, sẽgė\n
-       +segtis, sẽgasi, sẽgėsi\n
-       +seilėtis, seilė́jasi, seilė́josi\n
-       +sekinti, sẽkina, sẽkino\n
-       +sekioti, sekiója, sekiójo\n
-       +sekti, señka, sẽko\n
-       +sekti, señka, sẽko\n
-       +sektis, sẽkasi, sẽkėsi\n
-       +semti, sẽmia, sėmė̃\n
-       +semtis, sẽmiasi, sė́mėsi\n
-       +senti, sénsta, sèno\n
-       +sergėti, sérgėja, sérgėjo\n
-       +sėsti, sė́da, sė́do\n
-       +sėstis, sė́dasi, sė́dosi\n
-       +sėti, sėjà, sė́jo\n
-       +siaurėti, siaurė́ja, siaurė́jo\n
-       +siausti, siaũčia, siaũtė\n
-       +siautėti, siáutėja, siáutėjo\n
-       +sidabruoti, sidabrúoja, sidabrãvo\n
-       +siekti, síekia, síekė\n
-       +sielotis, síelojasi, síelojosi\n
-       +sielvartauti, sielvartáuja, sielvartãvo\n
-       +sieti, síeja, síejo\n
-       +sietis, síejasi, síejosi\n
-       +sijoti, sijója, sijójo\n
-       +silpnėti, silpnė́ja, silpnė́jo\n
-       +silpninti, sil̃pnina, sil̃pnino\n
-       +sirgi, ser̃ga, sir̃go\n
-       +sirgti, ser̃ga, sir̃go\n
-       +sysioti, sysioja, sysiojo\n
-       +siūbtelėti, siūbtelėja, siū́btelėjo\n
-       +siūbtelti, siū́bteli, siū́btelėjo\n
-       +siūlyti, siū́lo, siū́lė\n
-       +siūlytis, siū́lo, siū́lė\n
-       +siurbti, siur̃bia, siur̃bė\n
-       +siusti, siuntà, siùto\n
-       +siųsti, siuñčia, nùsiuntė\n
-       +siųstis, siuñčiasi, siuntėsi\n
-       +siūti, siùva, siùvo\n
-       +siuvinėti, siuvinė́ja, siuvinė́jo\n
-       +skabyti, skãbo, skãbė\n
-       +skaičiuoti, skaičiúoja, skaičiãvo\n
-       +skaidyti, skáido, skáidė\n
-       +skaityti, skaĩto, skaĩtė\n
-       +skaitytis, skaĩtosi, skaĩtėsi\n
-       +skalauti, skaláuja, skalãvo\n
-       +skalbti, skal̃bia, skal̃bė\n
-       +skalbtis, skal̃biasi, skal̃bėsi\n
-       +skaldyti, skáldo, skáldė\n
-       +skambėti, skam̃ba, skambė́jo\n
-       +skambinti, skam̃bina, skam̃bino\n
-       +skanauti, skanáuja, skanãvo\n
-       +skandinti, skandìna, skandìno\n
-       +skandintis, skandìna, skandìno\n
-       +skanduoti, skandúoja, skandãvo\n
-       +skaninti, skãnina, skãnino\n
-       +skatinti, skãtina, skãtino\n
-       +skaudėti, skaũda, skaudė́jo\n
-       +skaudinti, skaũdina, skaũdino\n
-       +skaudintis, skaũdina, skaũdino\n
-       +skelbti, skélbia, skélbė\n
-       +skelbtis, skélbia, skélbė\n
-       +skelti, skẽlia, skė́lė\n
-       +skenuoti, skenuoja, skenavo\n
-       +skeryčioti, skeryčiója, skeryčiójo\n
-       +skersti, sker̃džia, sker̃dė\n
-       +skėsčioti, skė́sčioja, skė́sčiojo\n
-       +skęsti, skė́sčioja, skė́sčiojo\n
-       +skėsti, skẽčia, skė̃tė\n
-       +skiepyti, skiẽpija, skiẽpijo\n
-       +skiepytis, skiẽpijasi, skiẽpijosi\n
-       +skiesti, skíedžia, skíedė\n
-       +skilti, skỹla, skìlo\n
-       +skinti, skìna, skýnė\n
-       +skirstyti, skìrsto, skìrstė\n
-       +skirstytis, skìrstosi, skìrstėsi\n
-       +skirti, skìria, skýrė\n
-       +skirtis, skìriasi, skýrėsi\n
-       +sklaidyti, sklaĩdo, sklaĩdė\n
-       +sklaidytis, sklaĩdosi, sklaĩdėsi\n
-       +skleisti, skleĩdžia, skleĩdė\n
-       +skleistis, skleĩdžiasi, skleĩdėsi\n
-       +sklęsti, skleñdžia, sklendė̃\n
-       +sklisti, skliñda, sklìdo\n
-       +skolinti, skõlina, skõlino\n
-       +skolintis, skõlinasi, skõlinosi\n
-       +skraidinti, skraidìna, skraidìno\n
-       +skraidyti, skraĩdo, skraĩdė\n
-       +skrepliuoti,  skrepliúoja,  skrepliãvo\n
-       +skriausti, skriaũdžia, skriaũdė\n
-       +skrieti, skríeja, skríejo\n
-       +skristi, skreñda, skrìdo\n
-       +skrosti, skródžia, skrõdė\n
-       +skrudinti, skrudina, skrùdino\n
-       +skubėti, skùba, skubė́jo\n
-       +skubinti, skubinà, skùbino\n
-       +skubintis, skùbinasi, skùbinosi\n
-       +skursti, skur̃sta, skur̃do\n
-       +skųsti, skur̃sta, skur̃do\n
-       +skusti, skùta, skùto\n
-       +skųstis, skundžiasi, skùtosi\n
-       +skustis, skùtasi, skùtosi\n
-       +skutinėti, skutinėja, skutinėjo\n
-       +slankinti, slankina, slankino\n
-       +slankioti, slánkioja, slánkiojo\n
-       +slapstyti, slãpstosi, slãpstėsi\n
-       +slaugyti, slaũgo, slaũgė\n
-       +slėgti, slẽgia, slė̃gė\n
-       +slėpti, slẽpia, slė̃pė\n
-       +slėptis, slẽpia, slė̃pė\n
-       +slidinėti, slidinė́ja, slidinė́jo\n
-       +slinkti, sleñka, sliñko\n
-       +slinktis, sleñkasi, sliñkosi\n
-       +slypėti, slỹpi, slypė́jo\n
-       +slystelėti, slystelėja, slýstelėjo\n
-       +slysti, slýsta, slýdo\n
-       +sloguoti, slogúoja, slogãvo\n
-       +slopinti, slopìna, slopìno\n
-       +slūgti, slū́gsta, slū́go\n
-       +smaguriauti, smaguriáuja, smaguriãvo\n
-       +smaigyti, smaĩgo, smaĩgė\n
-       +smaigstyti, smaĩgsto, smaĩgstė\n
-       +smaližiauti, smaližiáuja, smaližiãvo\n
-       +smaugti, smáugia, smáugė\n
-       +smaukyti, smaũko, smaũkė\n
-       +smaukti, smaũkia, smaũkė\n
-       +smeigti, smeĩgia, smeigė̃\n
-       +smerkti, smer̃kia, smer̃kė\n
-       +smigti, smiñga, smìgo\n
-       +smirdėti, smìrdi, smirdė́jo\n
-       +smogti, smõgia, smõgė\n
-       +smūgiuoti, smūgiúoja, smūgiãvo\n
-       +smukdyti, smùkdo, smùkdė\n
-       +smukti, smuñka, smùko\n
-       +smulkinti, smùlkina, smùlkino\n
-       +snausti, snáudžia, snáudė\n
-       +snerkšti, šnerkščia, šnirkštė\n
-       +snieguoti, snieguoja, sniegavo\n
-       +snigti, sniñga, snìgo\n
-       +sodinti, sodìna, sodìno\n
-       +sotinti, sótina, sótino\n
-       +spėlioti, spėliója, spėliójo\n
-       +spęsti, spéndžia, spéndė\n
-       +spęstis, spendžiasi, spendėsi\n
-       +spėti, spė́ja, spė́jo\n
-       +spiegti, spiẽgia, spiẽgė\n
-       +spygauti, spýgauja, spýgavo\n
-       +spindėti, spiñdi, spindė́jo\n
-       +spinduliuoti, spinduliúoja, spinduliãvo\n
-       +spirti, spìria, spýrė\n
-       +spisti, spìnta, spito\n
-       +spjaudyti, spaũdo, spjáudė\n
-       +spjauti, spjáuna, spjóvė\n
-       +spoksoti, spõkso, spoksójo\n
-       +sportuoti, sportúoja, sportãvo\n
-       +spręsti, spréndžia, spréndė\n
-       +spręstis, spréndžia, spréndė\n
-       +sprogdinti, sprogdìna, sprogdìno\n
-       +sprogti, sprógsta, sprógo\n
-       +sprukti, spruñka, sprùko\n
-       +spustelėti, spustelėja, spùstelėjo\n
-       +srėbti, srėbia, srė̃bė\n
-       +sriuobti, sriuobia, sriuobė\n
-       +stabdyti, stãbdo, stãbdė\n
-       +stambėti, stambė́ja, stambė́jo\n
-       +stambinti, stam̃bina, stam̃bino\n
-       +statyti, stãto, stãtė\n
-       +statytis, stãto, stãtė\n
-       +staugti, stáugia, stáugė\n
-       +stebėti, stẽbi, stebė́jo\n
-       +stebėtis, stẽbisi, stebė́josi\n
-       +stebinti, stẽbina, stẽbino\n
-       +steigti, steĩgia, steĩgė\n
-       +steigtis, steĩgiasi, steĩgėsi\n
-       +stenėti, steĩgiasi, steĩgėsi\n
-       +stengtis, sténgiasi, sténgėsi\n
-       +stiebtis, stiẽbiasi, stiẽbėsi\n
-       +stigti, stiñga, stìgo\n
-       +stingti, stìngsta, stìngo\n
-       +stiprėti, stiprė́ja, stiprė́jo\n
-       +stiprinti, stìprina, stìprino\n
-       +stypsoti, stỹpso, stypsójo\n
-       +stipti, stim̃pa, stìpo\n
-       +stirksoti, stir̃kso, stirksójo\n
-       +styroti, stýro, stýrojo\n
-       +stodinėti, stodinėja, stodinėjo\n
-       +stokoti, stokója, stokójo\n
-       +storėti, storė́ja, storė́jo\n
-       +storinti, stórina, stórino\n
-       +stoti, stója, stójo\n
-       +stotis, stójasi, stójosi\n
-       +stovėti, stóvi, stovė́jo\n
-       +stovyklauti, stovykláuja, stovyklãvo\n
-       +stovinėti, stovinėja, stovinė́jo\n
-       +stoviniuoti, stoviniúoja, stoviniãvo\n
-       +streikuoti, streikúoja, streikãvo\n
-       +stresuoti, sttresuoja, stresavo\n
-       +strikinėti, strikinė́ja, strikinė́jo\n
-       +strykinėti, strykinė́ja, strykinė́jo\n
-       +stryktelėti, stryktelėja, strýktelėjo\n
-       +studentauti, stryktelėja, strýktelėjo\n
-       +studijuoti, studijúoja, studijãvo\n
-       +stulbinti, stul̃bina, stul̃bino\n
-       +stumdytis, stùmdosi, stùmdėsi\n
-       +stūmėti, stūmi, stūmėjo\n
-       +stumtelėti, stumtelėja, stùmtelėjo\n
-       +stumti, stùmia, stū́mė\n
-       +stverti, stvẽria, stvė́rė\n
-       +sūdyti, sū́do, sū́dė\n
-       +sūpuoti, sūpúoja, sūpãvo\n
-       +svaidyti, sváido, sváidė\n
-       +svaigti, svaĩgsta, svaĩgo\n
-       +svajoti, svajója, svãjojo\n
-       +svarstyti, svar̃sto, svar̃stė\n
-       +svečiuotis, svečiúojasi, svečiãvosi\n
-       +sveikinti, svéikina, svéikino\n
-       +sveikintis, svéikinasi, svéikinosi\n
-       +sveikti, sveĩksta, sveĩko\n
-       +sverti, svẽria, svė̃rė\n
-       +sviesti, svíedžia, svíedė\n
-       +svilinti, svìlina, svìlino\n
-       +svilti, svylà, svìlo\n
-       +svirti, svỹra, svìro\n
-       +svyruoti, svyrúoja, svyrãvo\n
-       +šaipytis, šaĩposi, šaĩpėsi\n
-       +šaldyti, šáldo, šáldė\n
-       +šalinti, šãlina, šãlino\n
-       +šalti, šą̃la, šãlo\n
-       +šantažuoti, šantažúoja, šantažãvo\n
-       +šaudyti, šáudo, šáudė\n
-       +šaukti, šaũkia, šaũkė\n
-       +šauktis, šaũkiasi, šaũkėsi\n
-       +šauti, šáuna, šóvė\n
-       +šeimininkauti, šeimininkáuja, šeimininkãvo\n
-       +šėlioti, šėliója, šėliójo\n
-       +šėlti, šė̃lsta, šė̃lo\n
-       +šerkšnyti, šerkšnija, šerkšnijo\n
-       +šerti, šẽria, šėrė̃\n
-       +šiaušti, šẽria, šėrė̃\n
-       +šiauštis, šiáušiasi, šiáušėsi\n
-       +šieptis, šiepasi, šiẽpėsi\n
-       +šieti, šiepasi, šiẽpėsi\n
-       +šykštėti, šykštì, šykštė́jo\n
-       +šikti, šika, šiko\n
-       +šildyti, šìldo, šìldė\n
-       +šildytis, šìldosi, šìldėsi\n
-       +šilti, šỹla, šìlo\n
-       +šypsotis, šỹpsosi, šypsójosi\n
-       +šyptelėti, šýptelėja, šýptelėjo\n
-       +širsti, šir̃sta, šir̃do\n
-       +šiurkšti, šiurkščià, šiurkštė\n
-       +šlamėti, šlãma, šlamė́jo\n
-       +šlapinti, šlãpina, šlãpino\n
-       +šlapintis, šlãpinasi, šlãpinosi\n
-       +šlapti, šlam̃pa, šlãpo\n
-       +šlempinti, šlem̃pinti, šlempino\n
-       +šlepsėti, šlèpsi, šlepsė́jo\n
-       +šliaužti, šliaũžia, šliaũžė\n
-       +šlieti, šlíeja, šlíejo\n
-       +šlovinti, šlóvina, šlóvino\n
-       +šluostyti, šlúosto, šluõstė\n
-       +šluostytis, šlúostosi, šlúostėsi\n
-       +šluoti, šlúoja, šlãvė\n
-       +šmeižti, šmeĩžia, šmeĩžė\n
-       +šnabždėti, šnãbžda, šnabždė́jo\n
-       +šnekėti, šnekà, šnekė́jo\n
-       +šnekėtis, šnẽkasi, šnekė́josi\n
-       +šnekinti, šnẽkina, šnẽkino\n
-       +šnektelėti, šnektelėja, šnèktelėjo\n
-       +šnektelti, šnèkteli, šnèktelėjo\n
-       +šnekučiuotis, šnekučiúojasi, šnekučiãvosi\n
-       +šnerpšti, šnerpščia, šnir̃pštė\n
-       +šnibždėti, šnìbžda, šnibždė́jo\n
-       +šniypšti, šnỹpščia, šnỹpštė\n
-       +šniokšti, šniõkščia, šniõkštė\n
-       +šnipinėti, šnipinė́ja, šnipinė́jo\n
-       +šnypšti, šnỹpščia, šnypstė\n
-       +šniukštinėti, šniukštelėja, šniùkštelėjo\n
-       +šokinėti, šokinė́ja, šokinė́jo\n
-       +šokiruoti, šokirúoja, šokirãvo\n
-       +šokti, šóka, šòko\n
-       +šokuoti, šokúoja, šokãvo\n
-       +šturmuoti, šturmúoja, šturmãvo\n
-       +šūkauti, šū́kauja, šūkãvo\n
-       +šukuoti, šukúoja, šukãvo\n
-       +šukuotis, šukúojasi, šukãvosi\n
-       +šuoliuoti, šuoliúoja, šuoliãvo\n
-       +šurmuliuoti, šurmuliúoja, šurmuliãvo\n
-       +šusti, šuñta, šùto\n
-       +švaistyti, švaĩsto, švaĩstė\n
-       +švarinti, švãrina, švãrino\n
-       +švartuotis, švartúojasi, švartãvosi\n
-       +šveisti, šveĩčia, šveĩtė\n
-       +švelninti, švel̃nina, švel̃nino\n
-       +šventinti, švéntina, švéntino\n
-       +švesti, šveñčia, šveñtė\n
-       +švęsti, šveñčia, šveñtė\n
-       +šviesėti, šviesė́ja, šviesė́jo\n
-       +šviesinti, šviẽsina, šviẽsino\n
-       +šviesti, šviẽsina, šviẽsino\n
-       +švilpauti, švìlpauja, švìlpavo\n
-       +švilptelėti, švilptelėja, švìlptelėjo\n
-       +švilpti, švil̃pia, švil̃pė\n
-       +švisti, šviñta, švìto\n
-       +švytėti, švỹti, švytė́jo\n
-       +švokšti, švõkščia, švõkštė\n
-       +taikyti, táiko, táikė\n
-       +taikytis, táikosi, táikėsi\n
-       +taisyti, taĩso, taĩsė\n
-       +taisytis, taĩsosi, taĩsėsi\n
-       +talpinti, talpìna, talpìno\n
-       +tampyti, tam̃po, tam̃pė\n
-       +tampytis, tam̃posi, tam̃pėsi\n
-       +tamsėti, tamsė́ja, tamsė́jo\n
-       +tamsinti, támsina, támsino\n
-       +tankinti, tánkina, tankino\n
-       +tardyti, tárdo, tárdė\n
-       +tarkuoti, tarkúoja, tarkãvo\n
-       +tarnauti, tarnáuja, tarnãvo\n
-       +tarpininkauti, tarpininkáuja, tarpininkãvo\n
-       +tarti, tãria, tãrė\n
-       +tartis, tãriasi, tãrėsi\n
-       +tašyti, tãšo, tãšė\n
-       +taškyti, tãško, tãškė\n
-       +taškytis, tãškosi, tãškėsi\n
-       +taukšti, taũškia, taũškė\n
-       +taupyti, taũpo, taũpė\n
-       +tausoti, tausója, tausójo\n
-       +tebebūti, tebebū̃na, tebebùvo\n
-       +teigti, teĩgia, teĩgė\n
-       +teikti, teĩkia, teĩkė\n
-       +teiktis, teĩkiasi, teĩkėsi\n
-       +teirautis, teiráujasi, teirãvosi\n
-       +teisinti, téisina, téisino\n
-       +teisintis, téisina, téisino\n
-       +teisti, teĩsia, téisė\n
-       +tekėti, tẽka, tekė́jo\n
-       +tekinti, tekinà, tẽkino\n
-       +tekti, teñka, tẽko\n
-       +telkti, tel̃kia, tel̃kė\n
-       +telktis, tel̃kiasi, tel̃kėsi\n
-       +temdyti, témdo, témdė\n
-       +tempt, tempì, tem̃pė\n
-       +tempti, tem̃pia, tem̃pė\n
-       +temti, témsta, temo\n
-       +tenkinti, ténkina, ténkino\n
-       +tenkintis, ténkina, ténkino\n
-       +tepti, tẽpa, tẽpė\n
-       +teptis, tẽpasi, tẽpėsi\n
-       +teršti, ter̃šia, ter̃šė\n
-       +tęsti, ter̃šia, ter̃šė\n
-       +tęstis, tę̃siasi, tę̃sėsi\n
-       +testuoti, testuoja, testavo\n
-       +tėšti, tešia, tėšė\n
-       +težti, tę̃žta, tẽžo\n
-       +tyčiotis, týčiojasi, týčiojosi\n
-       +tiekti, tiẽkia, tiẽkė\n
-       +tiesti, tiẽsia, tiesė̃\n
-       +tikėti, tìki, tikė́jo\n
-       +tikėtis, tìkisi, tikė́josi\n
-       +tikinti, tìkina, tìkino\n
-       +tykoti, týko, týkojo\n
-       +tikrėti, tikrė́ja, tikrėjo\n
-       +tikrinti, tìkrina, tìkrino\n
-       +tikrintis, tìkrinasi, tìkrinosi\n
-       +tiksėti, tìksi, tiksė́jo\n
-       +tikšti, tỹška, tìško\n
-       +tikti, tiñka, tìko\n
-       +tiktis, tinkasi, tikosi\n
-       +tildyti, tìldo, tìldė\n
-       +tylėti, tỹli, tylė́jo\n
-       +tilpti, tel̃pa, tiplo\n
-       +tilti, tilsta, tìlo\n
-       +timptelėti, tìmptelėja, tìmptelėjo\n
-       +tingėti, tìngi, tingė́jo\n
-       +tinginiauti, tinginiáuja, tinginiãvo\n
-       +tingti, tìngsta, tìngo\n
-       +tinti, tìnsta, tìno\n
-       +tyrinėti, tyrinė́ja, tyrinė́jo\n
-       +tirpdyti, tir̃pdo, tir̃pdė\n
-       +tirpti, tir̃psta, tir̃po\n
-       +tirti, tìria, tỹrė\n
-       +tysoti, týso, týsojo\n
-       +tižti, tỹžta, tìžo\n
-       +tmepti, tem̃pia, temptė\n
-       +tobulėti, tobulė́ja, tobulė́jo\n
-       +tobulinti, tóbulina, tóbulino\n
-       +tolti, tõlsta, tõlo\n
-       +traiškyti, tráiško, tráiškė\n
-       +trakštelėti, trakštelėja, tràkštelėjo\n
-       +traktuoti, traktúoja, traktãvo\n
-       +tramdyti, trámdo, trámdė\n
-       +trankyti, trañko, trañkė\n
-       +transliuoti, transliúoja, transliãvo\n
-       +transportuoti, transportúoja, transportãvo\n
-       +tratėti, trãta, tratė́jo\n
-       +traukti, tráukia, tráukė\n
-       +trauktis, tráukė, tráukėsi\n
-       +traumuoti, traumúoja, traumãvo\n
-       +tremti, trẽmia, trė̃mė\n
-       +treniruoti, trenirúoja, trenirãvo\n
-       +treniruotis, trenirúojasi, trenirãvosi\n
-       +trenkti, treñkia, treñkė\n
-       +trenktis, treñkiasi, treñkėsi\n
-       +trepsėti, trèpsi, trepsė́jo\n
-       +tręšti, trę̃šia, trę̃šė\n
-       +triesti, triedžia, triedė\n
-       +trigubinti, trigubina, trigubino\n
-       +trikdyti, trìkdo, trìkdė\n
-       +trykšti, trýkšta, trýško\n
-       +trikti, trìnka, trìko\n
-       +trimituoti, trimitúoja, trimitãvo\n
-       +trinti, trìna, trynė̃\n
-       +trintis, trìnasi, trýnėsi\n
-       +triukšmauti, triumškauja, triukšmãvo\n
-       +triumfuoti, triumfúoti, triumfúoja\n
-       +trokšti, trókšta, tróško\n
-       +troškinti, troškìna, troškìno\n
-       +trukdyti, trùkdo, trùkdė\n
-       +trūkti, trùkdo, trùkdė\n
-       +trukti, truñka, trùko\n
-       +trumpėti, trumpė́ja, trumpė́jo\n
-       +trumpinti, trum̃pina, trum̃pino\n
-       +trupėti, trùpa, trupė́jo\n
-       +trupinti, trùpina, trùpino\n
-       +tujinti, tùjina, tùjino\n
-       +tukti, tuñka, tùko\n
-       +tūnoti, tū́no, tū́nojo\n
-       +tuokti, tuõkia, tuõkė\n
-       +tuoktis, tuõkiasi,  tuõkėsi\n
-       +tupėti, tùpi, tupė́jo\n
-       +tūpti, tùpia, tū̃pė\n
-       +tūptis, tùpiasi, tū̃pėsi\n
-       +turėti, turì, turė́jo\n
-       +tursenti, tursẽna, tursẽno\n
-       +tuštėti, tuštė́ja, tuštė́jo\n
-       +tušti, tuša, tùšo\n
-       +tuštinti, tùština, tùštino\n
-       +tuštintis, tùštinasi, tùštinosi\n
-       +tūžti, tū́žta, tū́žo\n
-       +tvaikti, tvaiksta, tvaĩko\n
-       +tvardyti, tvárdo, tvárdė\n
-       +tvarkyti, tvar̃ko, tvar̃kė\n
-       +tvarkytis, tvar̃kosi, tvar̃kėsi\n
-       +tvarstyti, tvársto, tvárstė\n
-       +tvenkti, tveñkia, tveñkė\n
-       +tverti, tvẽria, tvėrė̃\n
-       +tvertis, tvẽriasi, tvė́rėsi\n
-       +tvykstelėti, tvykstelėja, tvýkstelėjo\n
-       +tvinti, tvìnsta, tvìno\n
-       +tvyroti, tvýro, tvýrojo\n
-       +tvirtėti, tvirtė́ja, tvirtė́jo\n
-       +tvirtinti, tvìrtina, tvìrtino\n
-       +tvirtintis, tvìrtinasi, tvìrtinosi\n
-       +ugdyti, ùgdo, ùgdė\n
-       +ūkininkauti, ūkininkáuja, ūkininkãvo\n
-       +ūkti, ū̃kia, ū̃kė\n
-       +uogauti, uogáuja, uogãvo\n
-       +uosti, úodžia, úodė\n
-       +uostyti, úosto, úostė\n
-       +urgzti, ur̃zgia, ur̃zgė\n
-       +utilizuoti, utilizúoja, utilizavo\n
-       +ūžti, ū̃žia, ū̃žė\n
-       +vadinti, vadìna, vadìno\n
-       +vadintis, vadìnasi, vadìnosi\n
-       +vadovauti, vadováuja, vadovãvo\n
-       +vadovautis, vadováujasi, vadovãvosi\n
-       +vadžioti, vadžioja, vadžiojo\n
-       +vagiliauti, vagiliáuja, vagiliãvo\n
-       +vagoti, vagója, vagójo\n
-       +vaidinti, vaidìna, vaidìno\n
-       +vaikyti, vaĩko, vaĩkė\n
-       +vaikščioti, váikščioja, váikščiojo\n
-       +vaikštinėti, vaikštinė́ja, vaikštinė́jo\n
-       +vainikuoti, vainikúoja, vainikãvo\n
-       +vaipyti, vaipo, vaipė\n
-       +vairuoti, vairúoja, vairãvo\n
-       +vaisinti, vaisìna, vaisino\n
-       +vaišinti, vaisìna, vaisino\n
-       +vaišintis, vaišìnasi, vaišìnosi\n
-       +vaizduoti, vaizdúoja, vaizdãvo\n
-       +vaizduotis, vaizdúoja, vaizdãvo\n
-       +vakarienauti, vakarieniáuja, vakarieniãvo\n
-       +vakarieniauti, vakarienauja, vakarieniãvo\n
-       +valdyti, val̃do, val̃dė\n
-       +valgydinti, valgydìna, valgydìno\n
-       +valgyti, válgo, válgė\n
-       +valioti, valiója, valiójo\n
-       +valyti, vãlo, vãlė\n
-       +valytis, vãlosi, vãlėsi\n
-       +valkatauti, valkatáuja, valkatãvo\n
-       +vanoti, vanója, vanójo\n
-       +vardinti, var̃dina, var̃dino\n
-       +vardyti, var̃dija, var̃dijo\n
-       +varginti, várgina, várgino\n
-       +vargintis, várginasi, varginosi\n
-       +vargti, var̃gsta, var̃go\n
-       +varinėti, varinė́ja, varinė́jo\n
-       +varyti, vãro, varė̃\n
-       +varstyti, vársto, várstė\n
-       +vartyti, var̃to, var̃tė\n
-       +vartytis, var̃tosi, var̃tėsi\n
-       +vartoti, vartója, vartójo\n
-       +vartototi, vartója, vartójo\n
-       +varvėti, var̃va, varvė́jo\n
-       +varžyti, var̃žo, var̃žė\n
-       +varžytis, var̃žosi, var̃žėsi\n
-       +vasaroti, vasarója, vasarójo\n
-       +vaškuoti, vaškuoja, vaškãvo\n
-       +važinėti, važinė́ja, važinė́jo\n
-       +važinėtis, važinė́jasi, važinė́josi\n
-       +važiuoti, važiúoja, važiãvo\n
-       +veblenti, veblẽna, veblẽno\n
-       +vėdinti, vėdìna, vėdìno\n
-       +vedžioti, vedžiója, vedžiójo\n
-       +veidmaniauti, veidmainiáuja, veidmainiãvo\n
-       +veikti, veĩkia, veĩkė\n
-       +veisti, veĩsia, veitė\n
-       +veistis, veĩsiasi, veĩsėsi\n
-       +veizėti, veizėja, veizė́jo\n
-       +vėjuoti, vėjuoja, vėjavo\n
-       +vėlinti, vė̃lina, vė̃lino\n
-       +vėlintis, vė̃linasi, vėlinosi\n
-       +velti, vẽlia, vėlė̃\n
-       +vėluoti, vėlúoja, vėlãvo\n
-       +vemti, vẽmia, vė́mė\n
-       +vengti, véngia, véngė\n
-       +vergauti, vergáuja, vergãvo\n
-       +verkšlenti, verkšlẽna, verkšlẽno\n
-       +verkti, ver̃kia, ver̃kė\n
-       +verpti, ver̃pia, ver̃pė\n
-       +versti, ver̃čia, vertė̃\n
-       +verstis, ver̃čiasi, ver̃tėsi\n
-       +vertėjauti, vertėjáuja, vertėjãvo\n
-       +vertėti, vertė́ja, vertė́jo\n
-       +verti, vẽria, vėrė̃\n
-       +vertinti, vértina, vértino\n
-       +vertis, vẽriasi, vė́rėsi\n
-       +veržtis, ver̃žiasi, ver̃žėsi\n
-       +vėsti, vė́sta, vė́so\n
-       +vesti, vẽda, vẽdė\n
-       +vestis, vẽdasi, vẽdėsi\n
-       +vešėti, vešì, vešė́jo\n
-       +vežioti, vežiója, vežiójo\n
-       +vežiotis, vežiójasi, vežiójosi\n
-       +vežti, vẽža, vẽžė\n
-       +vežtis, vẽžasi, vẽžėsi\n
-       +viduriuoti, viduriúoja, viduriãvo\n
-       +vienyti, viẽnija, viẽnijo\n
-       +vienytis, viẽnijasi, viẽnijosi\n
-       +vienodinti, vienódina, vienódino\n
-       +viešeti, viẽši, viešė́jo\n
-       +viešėti, viẽši, viešė́jo\n
-       +viešinti, viešina, viẽšino\n
-       +viešpatauti, viešpatáuja, viešpatãvo\n
-       +vykdyti, výkdo, výkdė\n
-       +vykti, vỹksta, vỹko\n
-       +vilioti, viliója, viliójo\n
-       +vilkėti, vil̃ki, vilkė́jo\n
-       +vilkinti, vìlkina, vìlkino\n
-       +vilkti, vel̃ka, vil̃ko\n
-       +vilktis, vel̃kasi, vil̃kosi\n
-       +vilnyti, vilnìja, vilnìjo\n
-       +vilti, vìlia, vylė\n
-       +viltis, vìliasi, výlėsi\n
-       +vingiuoti, vingiúoja, vingiãvo\n
-       +vynioti, vyniója, vyniójo\n
-       +vyniotis, vyniójasi, vyniójosi\n
-       +vyptelėti, vyptelėja, výptelėjo\n
-       +vyrauti, výrauja, vyrãvo\n
-       +virbti, virbsta, vir̃bo\n
-       +virinti, vìrina, vìrino\n
-       +virkdyti, vìrkdo, vìrkdė\n
-       +virpėti, vìrpa, virpė́jo\n
-       +virsti, vir̃sta, vir̃to\n
-       +viršyti, vir̃šija, vir̃šijo\n
-       +virškinti, vìrškina, vìrškino\n
-       +virti, vérda, vìrė\n
-       +virtis, vérdasi, vìrėsi\n
-       +vysta, výsta, výto\n
-       +visti, výsta, vìso\n
-       +vysti, výsta, výto\n
-       +vystyti, výsto, výstė\n
-       +vystytis, výstosi, výstėsi\n
-       +vyti, vejà, vìjo\n
-       +vytis, vẽjasi, vìjosi\n
-       +vizgėti, vizga, vizgė́jo\n
-       +vizginti, vìzgina, vìzgino\n
-       +vogti, vãgia, võgė\n
-       +vožti, vóžia, vóžė\n
-       +zirzti, zir̃zia, zir̃zė\n
-       +zysti, zỹzia, zỹzė\n
-       +zyzti, zỹzia, zỹzė\n
-       +zvimbti, zvim̃bia, zvim̃bė\n
-       +žabalti, žabąla, žalabo\n
-       +žadėti, žãda, žadė́jo\n
-       +žadinti, žãdina, žãdino\n
-       +žagsėti, žàgsi, žagsė́jo\n
-       +žaibuoti, žaibúoja, žaibãvo\n
-       +žaisti, žaĩdžia, žaĩdė\n
-       +žaižaruoti, žaižarúoja, žaižarãvo\n
-       +žalėti, žalėja, žalėjo\n
-       +žalinti, žalina, žalino\n
-       +žaliuoti, žaliúoja, žaliãvo\n
-       +žaloti, žalója, žalójo\n
-       +žavėti, žãvi, žavė́jo\n
-       +žavėtis, žãvisi, žavė́josi\n
-       +žeisti, žeĩdžia, žeĩdė\n
-       +želti, žẽlia, žė́lė\n
-       +žemėti, žemė́ja, žemė́jo\n
-       +žeminti, žeminà, žẽmino\n
-       +žengti, žeñgia, žeñgė\n
-       +ženklinti, žénklina, žénklino\n
-       +žėrėti, žė̃ri, žėrė́jo\n
-       +žerti, žẽria, žė̃rė\n
-       +žiaukčioti, žiáukčioja, žiáukčiojo\n
-       +žybėti, žìba, žibė́jo\n
-       +žibėti, žìba, žibė́jo\n
-       +žybsėti, žýbsi, žybsė́jo\n
-       +žydėti, žýdi, žydė́jo\n
-       +žiebti, žiẽbia, žiẽbė\n
-       +žiemoti, žiemója, žiemójo\n
-       +žiesti, žiẽdžia, žiẽdė\n
-       +žygiuoti, žygiúoja, žygiãvo\n
-       +žymėti, žỹmi, žymė́jo\n
-       +žindyti, žìndo, žìndė\n
-       +žingsniuoti, žingsniúoja, žingsniãvo\n
-       +žinoti, žìno, žinójo\n
-       +žiojėti, žiõji, žiojė́jo\n
-       +žioplinėti, žioplinė́ja, žioplinė́jo\n
-       +žiopsoti, žiõpso, žiopsójo\n
-       +žioruoti, žiorúoja, žiorãvo\n
-       +žiovauti, žióvauja, žióvavo\n
-       +žirti, žỹra, žìro\n
-       +žysti, žỹra, žìro\n
-       +žiūrėti, žiūrì, žiūrė́jo\n
-       +žiūrinėti, žiūrinė́ja, žiūrinė́jo\n
-       +žlegsėti, žlegsi, žlegsė́jo\n
-       +žlegtelėti, žiegtelėja, žiegtelėjo\n
-       +žliaugti, žliaũgia, žliaũgė\n
-       +žlibti, žlim̃ba, žlibo\n
-       +žlugdyti, žlùgdo, žlùgdė\n
-       +žlugti, žluñga, žlùgo\n
-       +žnybti, žnýbia, žnybė\n
-       +žodžiuoti, žodžiuoja, žodžiavo\n
-       +žodžiuotis, žodžiuojasi, žodžiavosi\n
-       +žongliruoti, žonglirúoja, žonglirãvo\n
-       +žudyti, žùdo, žùdė\n
-       +žūti, žū̃va, žùvo\n
-       +žuvauti, žuváuja, žuvãvo\n
-       +žvalgyti, žval̃go, žval̃gė\n
-       +žvalgytis, žval̃gosi, žval̃gėsi\n
-       +žvangina, žvángina, žvángino\n
-       +žvarbėti, žvarbà, žvarbėjo\n
-       +žvarbti, žvar̃bsta, žvar̃bo\n
-       +žvejoti, žvejója, žvejójo\n
-       +žvelgti, žvel̃gia, žvel̃gė\n
-       +žvengti, žvéngia, žvéngė\n
-       +žviegti, žviẽgia, žviẽgė\n
-       +žvygauti, žvýgauja, žvýgavo\n
-       +žvilgčioti, žvìlgčioja, žvìlgčiojo\n
-       +žvilgėti, žvìlga, žvilgė́jo\n
-       +žvilgtelėti, žvìlgtelėja, žvìlgtelėjo\n
-     # ./spec/verbalyser/endings_grouper_spec.rb:37:in `block (3 levels) in <top (required)>'
+adaptuotis: adaptuotis, adaptúojasi, adaptãvosi
+No file for this pattern, creating a new one...
+File name of adinėti:inėti_inėja_inėjo
+Reflexive? false :: lemma? true
+adinėti: 7
+adinėja: 7
+adinėjo: 7
+lemma: ad, nugget: inė
+inėti_inėja_inėjo
 
-Finished in 0.26397 seconds (files took 0.25999 seconds to load)
-8 examples, 1 failure
+adinėti: adinėti, adinėja, adinėjo
+No file for this pattern, creating a new one...
+File name of administruoti:uoti_úoja_ãvo
+Reflexive? false :: lemma? true
+administruoti: 13
+administrúoja: 13
+administrãvo: 12
+lemma: administr, nugget: uo
+uoti_úoja_ãvo
 
-Failed examples:
+administruoti: administruoti, administrúoja, administrãvo
+File name of adresuoti:uoti_úoja_ãvo
+Reflexive? false :: lemma? true
+adresuoti: 9
+adresúoja: 9
+adresãvo: 8
+lemma: adres, nugget: uo
+uoti_úoja_ãvo
 
-rspec ./spec/verbalyser/endings_grouper_spec.rb:36 # Verbalyser::EndingsGrouper Receives a set of verbs with diverse conjugations creates a classificatory file name on the basis of the three main verb forms
+adresuoti: adresuoti, adresúoja, adresãvo
+File name of adyti:yti_o_ė
+File name of badyti:yti_do_dė
+Reflexive? false :: lemma? true
+badyti: 6
+bãdo: 4
+bãdė: 4
+lemma: ad, nugget: y
+yti_do_dė
 
+adyti: badyti, bãdo, bãdė
+No file for this pattern, creating a new one...
+File name of aidėti:ėti_i_ė́jo
+Reflexive? false :: lemma? true
+aidėti: 6
+áidi: 4
+aidė́jo: 7
+lemma: aid, nugget: ė
+ėti_i_ė́jo
+
+aidėti: aidėti, áidi, aidė́jo
+No file for this pattern, creating a new one...
+File name of aikčioti:čioti_čioja_čiojo
+Reflexive? false :: lemma? true
+aikčioti: 8
+áikčioja: 8
+áikčiojo: 8
+lemma: aik, nugget: čio
+čioti_čioja_čiojo
+
+aikčioti: aikčioti, áikčioja, áikčiojo
+No file for this pattern, creating a new one...
+File name of akcentuoti:uoti_úoja_ãvo
+Reflexive? false :: lemma? true
+akcentuoti: 10
+akcentúoja: 10
+akcentãvo: 9
+lemma: akcent, nugget: uo
+uoti_úoja_ãvo
+
+akcentuoti: akcentuoti, akcentúoja, akcentãvo
+File name of akėti:ėti_ė́ja_ė́jo
+Reflexive? false :: lemma? true
+akėti: 5
+akė́ja: 6
+akė́jo: 6
+lemma: ak, nugget: ė
+ėti_ė́ja_ė́jo
+
+akėti: akėti, akė́ja, akė́jo
+No file for this pattern, creating a new one...
+File name of akinti:nti_na_no
+File name of rakinti:nti_ìna_ìno
+Reflexive? false :: lemma? true
+rakinti: 7
+rakìna: 6
+rakìno: 6
+lemma: aki, nugget: n
+nti_ìna_ìno
+
+akinti: rakinti, rakìna, rakìno
+No file for this pattern, creating a new one...
+Reflexive? false :: lemma? false
+plakti: 6
+plãka: 5
+plãkė: 5
+lemma: ak, nugget: 
+akti_ãka_ãkė
+
+akti: plakti, plãka, plãkė
+No file for this pattern, creating a new one...
+File name of aktyvėti:ėti_ė́ja_ė́jo
+Reflexive? false :: lemma? true
+aktyvėti: 8
+aktyvė́ja: 9
+aktyvė́jo: 9
+lemma: aktyv, nugget: ė
+ėti_ė́ja_ė́jo
+
+aktyvėti: aktyvėti, aktyvė́ja, aktyvė́jo
+File name of aktyvinti:inti_ina_ino
+Reflexive? false :: lemma? true
+aktyvinti: 9
+aktỹvina: 8
+aktỹvino: 8
+lemma: aktyv, nugget: in
+inti_ina_ino
+
+aktyvinti: aktyvinti, aktỹvina, aktỹvino
+No file for this pattern, creating a new one...
+File name of aktyvuoti:uoti_uoja_avo
+Reflexive? false :: lemma? true
+aktyvuoti: 9
+aktyvuoja: 9
+aktyvavo: 8
+lemma: aktyv, nugget: uo
+uoti_uoja_avo
+
+aktyvuoti: aktyvuoti, aktyvuoja, aktyvavo
+No file for this pattern, creating a new one...
+Reflexive? false :: lemma? false
+alkti: 5
+álksta: 6
+al̃ko: 5
+lemma: alk, nugget: 
+alkti_álksta_al̃ko
+
+alkti: alkti, álksta, al̃ko
+No file for this pattern, creating a new one...
+Reflexive? false :: lemma? false
+alpti: 5
+al̃psta: 7
+al̃po: 5
+lemma: alp, nugget: 
+alpti_al̃psta_al̃po
+
+alpti: alpti, al̃psta, al̃po
+No file for this pattern, creating a new one...
+File name of alsinti:inti_ìna_ìno
+Reflexive? false :: lemma? true
+alsinti: 7
+alsìna: 6
+alsìno: 6
+lemma: als, nugget: in
+inti_ìna_ìno
+
+alsinti: alsinti, alsìna, alsìno
+No file for this pattern, creating a new one...
+File name of amputuoti:uoti_uoja_ãvo
+Reflexive? false :: lemma? true
+amputuoti: 9
+amputuoja: 9
+amputãvo: 8
+lemma: amput, nugget: uo
+uoti_uoja_ãvo
+
+amputuoti: amputuoti, amputuoja, amputãvo
+No file for this pattern, creating a new one...
+File name of amsėti:ėti_i_ė́jo
+File name of tamsėti:ėti_sė́ja_sė́jo
+Reflexive? false :: lemma? true
+tamsėti: 7
+tamsė́ja: 8
+tamsė́jo: 8
+lemma: ams, nugget: ė
+ėti_sė́ja_sė́jo
+
+amsėti: tamsėti, tamsė́ja, tamsė́jo
+No file for this pattern, creating a new one...
+File name of amžinti:inti_inà_ino
+Reflexive? false :: lemma? true
+amžinti: 7
+amžinà: 6
+ámžino: 6
+lemma: amž, nugget: in
+inti_inà_ino
+
+amžinti: amžinti, amžinà, ámžino
+No file for this pattern, creating a new one...
+File name of analizuoti:uoti_úoja_ãvo
+Reflexive? false :: lemma? true
+analizuoti: 10
+analizúoja: 10
+analizãvo: 9
+lemma: analiz, nugget: uo
+uoti_úoja_ãvo
+
+analizuoti: analizuoti, analizúoja, analizãvo
+File name of aneksuoti:eksuoti_eksúoja_eksãvo
+Reflexive? false :: lemma? true
+aneksuoti: 9
+aneksúoja: 9
+aneksãvo: 8
+lemma: an, nugget: eksuo
+eksuoti_eksúoja_eksãvo
+
+aneksuoti: aneksuoti, aneksúoja, aneksãvo
+No file for this pattern, creating a new one...
+File name of antspauduoti:spauduoti_spaudúoja_spaudãvo
+Reflexive? false :: lemma? true
+antspauduoti: 12
+antspaudúoja: 12
+antspaudãvo: 11
+lemma: ant, nugget: spauduo
+spauduoti_spaudúoja_spaudãvo
+
+antspauduoti: antspauduoti, antspaudúoja, antspaudãvo
+No file for this pattern, creating a new one...
+File name of ardyti:dyti_̃do_̃dė
+File name of nardyti:dyti_rdo_rdė
+File name of tardyti:dyti_rdo_rdė
+File name of tvardyti:dyti_árdo_árdė
+File name of vardyti:dyti_r̃dija_r̃dijo
+Reflexive? false :: lemma? true
+vardyti: 7
+var̃dija: 8
+var̃dijo: 8
+lemma: ar, nugget: dy
+dyti_r̃dija_r̃dijo
+
+ardyti: vardyti, var̃dija, var̃dijo
+No file for this pattern, creating a new one...
+File name of areštuoti:uoti_úoja_ãvo
+Reflexive? false :: lemma? true
+areštuoti: 9
+areštúoja: 9
+areštãvo: 8
+lemma: arešt, nugget: uo
+uoti_úoja_ãvo
+
+areštuoti: areštuoti, areštúoja, areštãvo
+File name of artėti:ėti_ė́ja_ė́jo
+Reflexive? false :: lemma? true
+artėti: 6
+artė́ja: 7
+artė́jo: 7
+lemma: art, nugget: ė
+ėti_ė́ja_ė́jo
+
+artėti: artėti, artė́ja, artė́jo
+Reflexive? false :: lemma? false
+tarti: 5
+tãria: 5
+tãrė: 4
+lemma: ar, nugget: 
+arti_ãria_ãrė
+
+arti: tarti, tãria, tãrė
+No file for this pattern, creating a new one...
+File name of artinti:inti_tina_tino
+Reflexive? false :: lemma? true
+artinti: 7
+ar̃tina: 7
+ar̃tino: 7
+lemma: art, nugget: in
+inti_tina_tino
+
+artinti: artinti, ar̃tina, ar̃tino
+No file for this pattern, creating a new one...
+Reflexive? true :: lemma? true
+artintis: 8
+ar̃tinasi: 9
+ar̃tinosi: 9
+lemma: art, nugget: in
+intis_tinasi_tinosi
+
+artintis: artintis, ar̃tinasi, ar̃tinosi
+No file for this pattern, creating a new one...
+File name of asimiliuoti:iuoti_iúoja_iãvo
+Reflexive? false :: lemma? true
+asimiliuoti: 11
+asimiliúoja: 11
+asimiliãvo: 10
+lemma: asimil, nugget: iuo
+iuoti_iúoja_iãvo
+
+asimiliuoti: asimiliuoti, asimiliúoja, asimiliãvo
+No file for this pattern, creating a new one...
+File name of asmenuoti:enuoti_enúoja_enãvo
+Reflexive? false :: lemma? true
+asmenuoti: 9
+asmenúoja: 9
+asmenãvo: 8
+lemma: asm, nugget: enuo
+enuoti_enúoja_enãvo
+
+asmenuoti: asmenuoti, asmenúoja, asmenãvo
+No file for this pattern, creating a new one...
+File name of asocijuoti:uoti_úoja_avo
+Reflexive? false :: lemma? true
+asocijuoti: 10
+asocijúoja: 10
+asocijavo: 9
+lemma: asocij, nugget: uo
+uoti_úoja_avo
+
+asocijuoti: asocijuoti, asocijúoja, asocijavo
+No file for this pattern, creating a new one...
+File name of audėti:ėti_a_ė́jo
+File name of čiaudėti:ėti_udėja_udėjo
+File name of griaudėti:ėti_audė́ja_audė́jo
+File name of skaudėti:ėti_ũda_udė́jo
+Reflexive? false :: lemma? true
+skaudėti: 8
+skaũda: 6
+skaudė́jo: 9
+lemma: aud, nugget: ė
+ėti_ũda_udė́jo
+
+audėti: skaudėti, skaũda, skaudė́jo
+No file for this pattern, creating a new one...
+File name of auginti:inti_ìna_ìno
+File name of bauginti:inti_gìna_gìno
+File name of dauginti:inti_gina_gino
+File name of rauginti:inti_gìna_gìno
+Reflexive? false :: lemma? true
+rauginti: 8
+raugìna: 7
+raugìno: 7
+lemma: aug, nugget: in
+inti_gìna_gìno
+
+auginti: rauginti, raugìna, raugìno
+No file for this pattern, creating a new one...
+Reflexive? false :: lemma? false
+žliaugti: 8
+žliaũgia: 8
+žliaũgė: 7
+lemma: aug, nugget: 
+iaugti_iaũgia_iaũgė
+
+augti: žliaugti, žliaũgia, žliaũgė
+No file for this pattern, creating a new one...
+File name of auklėti:ėti_ėja_ėjo
+Reflexive? false :: lemma? true
+auklėti: 7
+áuklėja: 7
+áuklėjo: 7
+lemma: aukl, nugget: ė
+ėti_ėja_ėjo
+
+auklėti: auklėti, áuklėja, áuklėjo
+No file for this pattern, creating a new one...
+File name of aukoti:oti_ója_ójo
+Reflexive? false :: lemma? true
+aukoti: 6
+aukója: 6
+aukójo: 6
+lemma: auk, nugget: o
+oti_ója_ójo
+
+aukoti: aukoti, aukója, aukójo
+No file for this pattern, creating a new one...
+Reflexive? true :: lemma? true
+aukotis: 7
+aukója: 6
+aukójo: 6
+lemma: auk, nugget: o
+otis_ója_ójo
+
+aukotis: aukotis, aukója, aukójo
+No file for this pattern, creating a new one...
+File name of aukštinti:inti_ina_ino
+Reflexive? false :: lemma? true
+aukštinti: 9
+áukština: 8
+áukštino: 8
+lemma: aukšt, nugget: in
+inti_ina_ino
+
+aukštinti: aukštinti, áukština, áukštino
+File name of auksuoti:uoti_úoja_ãvo
+Reflexive? false :: lemma? true
+auksuoti: 8
+auksúoja: 8
+auksãvo: 7
+lemma: auks, nugget: uo
+uoti_úoja_ãvo
+
+auksuoti: auksuoti, auksúoja, auksãvo
+Reflexive? false :: lemma? false
+snausti: 7
+snáudžia: 8
+snáudė: 6
+lemma: aus, nugget: 
+austi_áudžia_áudė
+
+austi: snausti, snáudžia, snáudė
+No file for this pattern, creating a new one...
+Reflexive? false :: lemma? false
+šiaušti: 7
+šẽria: 5
+šėrė̃: 5
+lemma: auš, nugget: 
+iaušti_ẽria_ėrė̃
+
+aušti: šiaušti, šẽria, šėrė̃
+No file for this pattern, creating a new one...
+Reflexive? false :: lemma? false
+žvygauti: 8
+žvýgauja: 8
+žvýgavo: 7
+lemma: au, nugget: 
+ygauti_ýgauja_ýgavo
+
+auti: žvygauti, žvýgauja, žvýgavo
+No file for this pattern, creating a new one...
+Reflexive? true :: lemma? false
+vadovautis: 10
+vadováujasi: 11
+vadovãvosi: 10
+lemma: au, nugget: 
+adovautis_adováujasi_adovãvosi
+
+autis: vadovautis, vadováujasi, vadovãvosi
+No file for this pattern, creating a new one...
+File name of automatizuoti:izuoti_izúoja_izavo
+Reflexive? false :: lemma? true
+automatizuoti: 13
+automatizúoja: 13
+automatizavo: 12
+lemma: automat, nugget: izuo
+izuoti_izúoja_izavo
+
+automatizuoti: automatizuoti, automatizúoja, automatizavo
+No file for this pattern, creating a new one...
+File name of avėti:ėti_i_ė́jo
+File name of žavėti:ėti_vi_vė́jo
+Reflexive? false :: lemma? true
+žavėti: 6
+žãvi: 4
+žavė́jo: 7
+lemma: av, nugget: ė
+ėti_vi_vė́jo
+
+avėti: žavėti, žãvi, žavė́jo
+No file for this pattern, creating a new one...
+File name of badauti:auti_áuja_ãvo
+Reflexive? false :: lemma? true
+badauti: 7
+badáuja: 7
+badãvo: 6
+lemma: bad, nugget: au
+auti_áuja_ãvo
+
+badauti: badauti, badáuja, badãvo
+No file for this pattern, creating a new one...
+File name of badyti:yti_o_ė
+Reflexive? false :: lemma? true
+badyti: 6
+bãdo: 4
+bãdė: 4
+lemma: bad, nugget: y
+yti_o_ė
+
+badyti: badyti, bãdo, bãdė
+No file for this pattern, creating a new one...
+File name of baidyti:yti_o_ė
+Reflexive? false :: lemma? true
+baidyti: 7
+baĩdo: 5
+baĩdė: 5
+lemma: baid, nugget: y
+yti_o_ė
+
+baidyti: baidyti, baĩdo, baĩdė
+Reflexive? true :: lemma? true
+baidytis: 8
+baĩdosi: 7
+baĩdėsi: 7
+lemma: baid, nugget: y
+ytis_osi_ėsi
+
+baidytis: baidytis, baĩdosi, baĩdėsi
+No file for this pattern, creating a new one...
+Reflexive? false :: lemma? false
+baigti: 6
+baĩgia: 6
+baĩgė: 5
+lemma: baig, nugget: 
+aigti_aĩgia_aĩgė
+
+baigti: baigti, baĩgia, baĩgė
+No file for this pattern, creating a new one...
+Reflexive? true :: lemma? false
+baigtis: 7
+baĩgiasi: 8
+baĩgėsi: 7
+lemma: baig, nugget: 
+aigtis_aĩgiasi_aĩgėsi
+
+baigtis: baigtis, baĩgiasi, baĩgėsi
+No file for this pattern, creating a new one...
+File name of baiminti:minti_mina_minosi
+Reflexive? false :: lemma? true
+baiminti: 8
+báimina: 7
+báiminosi: 9
+lemma: bai, nugget: min
+minti_mina_minosi
+
+baiminti: baiminti, báimina, báiminosi
+No file for this pattern, creating a new one...
+Reflexive? true :: lemma? true
+baimintis: 9
+báiminasi: 9
+báiminosi: 9
+lemma: bai, nugget: min
+mintis_minasi_minosi
+
+baimintis: baimintis, báiminasi, báiminosi
+No file for this pattern, creating a new one...
+File name of baisėti:ėti_ėja_ėjo
+Reflexive? false :: lemma? true
+baisėti: 7
+baisėja: 7
+baisėjo: 7
+lemma: bais, nugget: ė
+ėti_ėja_ėjo
+
+baisėti: baisėti, baisėja, baisėjo
+Reflexive? true :: lemma? true
+baisėtis: 8
+baĩsisi: 7
+baisė́josi: 10
+lemma: bais, nugget: ė
+ėtis_isi_ė́josi
+
+baisėtis: baisėtis, baĩsisi, baisė́josi
+No file for this pattern, creating a new one...
+File name of bakstelėti:telėti_teli_telėjo
+Reflexive? false :: lemma? true
+bakstelėti: 10
+bãksteli: 8
+bãkstelėjo: 10
+lemma: baks, nugget: telė
+telėti_teli_telėjo
+
+bakstelėti: bakstelėti, bãksteli, bãkstelėjo
+No file for this pattern, creating a new one...
+File name of balansuoti:uoti_úoja_ãvo
+Reflexive? false :: lemma? true
+balansuoti: 10
+balansúoja: 10
+balansãvo: 9
+lemma: balans, nugget: uo
+uoti_úoja_ãvo
+
+balansuoti: balansuoti, balansúoja, balansãvo
+File name of balinti:inti_ina_ino
+Reflexive? false :: lemma? true
+balinti: 7
+bãlina: 6
+bãlino: 6
+lemma: bal, nugget: in
+inti_ina_ino
+
+balinti: balinti, bãlina, bãlino
+File name of balnoti:oti_ója_ójo
+Reflexive? false :: lemma? true
+balnoti: 7
+balnója: 7
+balnójo: 7
+lemma: baln, nugget: o
+oti_ója_ójo
+
+balnoti: balnoti, balnója, balnójo
+File name of balsti:sti_sta_o
+Reflexive? false :: lemma? true
+balsti: 6
+balsta: 6
+bãlo: 4
+lemma: bal, nugget: s
+sti_sta_o
+
+balsti: balsti, balsta, bãlo
+No file for this pattern, creating a new one...
+File name of balsuoti:suoti_súoja_sãvo
+Reflexive? false :: lemma? true
+balsuoti: 8
+balsúoja: 8
+balsãvo: 7
+lemma: bal, nugget: suo
+suoti_súoja_sãvo
+
+balsuoti: balsuoti, balsúoja, balsãvo
+No file for this pattern, creating a new one...
+File name of baltėti:tėti_tėja_tėjo
+Reflexive? false :: lemma? true
+baltėti: 7
+baltėja: 7
+baltėjo: 7
+lemma: bal, nugget: tė
+tėti_tėja_tėjo
+
+baltėti: baltėti, baltėja, baltėjo
+No file for this pattern, creating a new one...
+Reflexive? false :: lemma? false
+žabalti: 7
+žabąla: 6
+žalabo: 6
+lemma: bal, nugget: 
+abalti_abąla_alabo
+
+balti: žabalti, žabąla, žalabo
+No file for this pattern, creating a new one...
+File name of baltinti:tinti_tinà_tino
+Reflexive? false :: lemma? true
+baltinti: 8
+baltinà: 7
+báltino: 7
+lemma: bal, nugget: tin
+tinti_tinà_tino
+
+baltinti: baltinti, baltinà, báltino
+No file for this pattern, creating a new one...
+File name of baltuoti:tuoti_túoja_tãvo
+Reflexive? false :: lemma? true
+baltuoti: 8
+baltúoja: 8
+baltãvo: 7
+lemma: bal, nugget: tuo
+tuoti_túoja_tãvo
+
+baltuoti: baltuoti, baltúoja, baltãvo
+No file for this pattern, creating a new one...
+File name of bandyti:yti_o_ė
+Reflexive? false :: lemma? true
+bandyti: 7
+bañdo: 5
+bañdė: 5
+lemma: band, nugget: y
+yti_o_ė
+
+bandyti: bandyti, bañdo, bañdė
+File name of banguoti:uoti_úoja_ãvo
+Reflexive? false :: lemma? true
+banguoti: 8
+bangúoja: 8
+bangãvo: 7
+lemma: bang, nugget: uo
+uoti_úoja_ãvo
+
+banguoti: banguoti, bangúoja, bangãvo
+File name of bankrutuoti:uoti_úoja_ãvo
+Reflexive? false :: lemma? true
+bankrutuoti: 11
+bankrutúoja: 11
+bankrutãvo: 10
+lemma: bankrut, nugget: uo
+uoti_úoja_ãvo
+
+bankrutuoti: bankrutuoti, bankrutúoja, bankrutãvo
+File name of barškinti:inti_ina_ino
+Reflexive? false :: lemma? true
+barškinti: 9
+bárškina: 8
+bárškino: 8
+lemma: baršk, nugget: in
+inti_ina_ino
+
+barškinti: barškinti, bárškina, bárškino
+File name of barstyti:styti_̃sto_̃stė
+Reflexive? false :: lemma? true
+barstyti: 8
+bar̃sto: 7
+bar̃stė: 7
+lemma: bar, nugget: sty
+styti_̃sto_̃stė
+
+barstyti: barstyti, bar̃sto, bar̃stė
+No file for this pattern, creating a new one...
+Reflexive? true :: lemma? true
+barstytis: 9
+bar̃stosi: 9
+bar̃stėsi: 9
+lemma: bar, nugget: sty
+stytis_̃stosi_̃stėsi
+
+barstytis: barstytis, bar̃stosi, bar̃stėsi
+No file for this pattern, creating a new one...
+Reflexive? false :: lemma? false
+barti: 5
+bãra: 4
+bãrė: 4
+lemma: bar, nugget: 
+arti_ãra_ãrė
+
+barti: barti, bãra, bãrė
+No file for this pattern, creating a new one...
+Reflexive? true :: lemma? false
+bartis: 6
+bãrasi: 6
+bãrėsi: 6
+lemma: bar, nugget: 
+artis_ãrasi_ãrėsi
+
+bartis: bartis, bãrasi, bãrėsi
+No file for this pattern, creating a new one...
+File name of bauginti:inti_ìna_ìno
+Reflexive? false :: lemma? true
+bauginti: 8
+baugìna: 7
+baugìno: 7
+lemma: baug, nugget: in
+inti_ìna_ìno
+
+bauginti: bauginti, baugìna, baugìno
+Reflexive? false :: lemma? false
+bausti: 6
+baũdžia: 7
+baũdė: 5
+lemma: baus, nugget: 
+austi_aũdžia_aũdė
+
+bausti: bausti, baũdžia, baũdė
+No file for this pattern, creating a new one...
+File name of bėginėti:inėti_inė́ja_inė́ja
+Reflexive? false :: lemma? true
+bėginėti: 8
+bėginė́ja: 9
+bėginė́ja: 9
+lemma: bėg, nugget: inė
+inėti_inė́ja_inė́ja
+
+bėginėti: bėginėti, bėginė́ja, bėginė́ja
+No file for this pattern, creating a new one...
+File name of bėgioti:ioti_iója_iójo
+Reflexive? false :: lemma? true
+bėgioti: 7
+bėgiója: 7
+bėgiójo: 7
+lemma: bėg, nugget: io
+ioti_iója_iójo
+
+bėgioti: bėgioti, bėgiója, bėgiójo
+No file for this pattern, creating a new one...
+Reflexive? false :: lemma? false
+bėgti: 5
+bė́ga: 5
+bė́go: 5
+lemma: bėg, nugget: 
+ėgti_ė́ga_ė́go
+
+bėgti: bėgti, bė́ga, bė́go
+No file for this pattern, creating a new one...
+File name of bidzenti:dzenti_zdena_zdeno
+Reflexive? false :: lemma? true
+bidzenti: 8
+bizdena: 7
+bizdeno: 7
+lemma: bi, nugget: dzen
+dzenti_zdena_zdeno
+
+bidzenti: bidzenti, bizdena, bizdeno
+No file for this pattern, creating a new one...
+File name of bijoti:oti_o_ójo
+Reflexive? false :: lemma? true
+bijoti: 6
+bìjo: 4
+bijójo: 6
+lemma: bij, nugget: o
+oti_o_ójo
+
+bijoti: bijoti, bìjo, bijójo
+No file for this pattern, creating a new one...
+Reflexive? false :: lemma? false
+birbti: 6
+bir̃bia: 7
+bir̃bė: 6
+lemma: birb, nugget: 
+irbti_ir̃bia_ir̃bė
+
+birbti: birbti, bir̃bia, bir̃bė
+No file for this pattern, creating a new one...
+Reflexive? false :: lemma? false
+birti: 5
+bỹra: 4
+bìro: 4
+lemma: bir, nugget: 
+irti_ỹra_
+
+birti: birti, bỹra, bìro
+No file for this pattern, creating a new one...
+Reflexive? true :: lemma? true
+bjaurėtis: 9
+bjaũrisi: 8
+bjaurė́josi: 11
+lemma: bjaur, nugget: ė
+ėtis_isi_ė́josi
+
+bjaurėtis: bjaurėtis, bjaũrisi, bjaurė́josi
+File name of bjurti:jurti_jursta_jùro
+Reflexive? false :: lemma? true
+bjurti: 6
+bjursta: 7
+bjùro: 5
+lemma: b, nugget: jur
+jurti_jursta_jùro
+
+bjurti: bjurti, bjursta, bjùro
+No file for this pattern, creating a new one...
+Reflexive? false :: lemma? false
+blankti: 7
+blañksta: 8
+blánko: 6
+lemma: blank, nugget: 
+ankti_añksta_ánko
+
+blankti: blankti, blañksta, blánko
+No file for this pattern, creating a new one...
+File name of blaškyti:yti_o_ė
+Reflexive? false :: lemma? true
+blaškyti: 8
+blãško: 6
+blãškė: 6
+lemma: blašk, nugget: y
+yti_o_ė
+
+blaškyti: blaškyti, blãško, blãškė
+Reflexive? true :: lemma? true
+blaškytis: 9
+blãškosi: 8
+blãškėsi: 8
+lemma: blašk, nugget: y
+ytis_osi_ėsi
+
+blaškytis: blaškytis, blãškosi, blãškėsi
+File name of blefuoti:lefuoti_lefuoja_lefavo
+Reflexive? false :: lemma? true
+blefuoti: 8
+blefuoja: 8
+blefavo: 7
+lemma: b, nugget: lefuo
+lefuoti_lefuoja_lefavo
+
+blefuoti: blefuoti, blefuoja, blefavo
+No file for this pattern, creating a new one...
+File name of blęsti:lęsti_leñdžia_leñdė
+Reflexive? false :: lemma? true
+blęsti: 6
+bleñdžia: 8
+bleñdė: 6
+lemma: b, nugget: lęs
+lęsti_leñdžia_leñdė
+
+blęsti: blęsti, bleñdžia, bleñdė
+No file for this pattern, creating a new one...
+File name of blizgėti:ėti_a_ė́jo
+Reflexive? false :: lemma? true
+blizgėti: 8
+blìzga: 6
+blizgė́jo: 9
+lemma: blizg, nugget: ė
+ėti_a_ė́jo
+
+blizgėti: blizgėti, blìzga, blizgė́jo
+No file for this pattern, creating a new one...
+File name of blizginti:inti_ina_ino
+Reflexive? false :: lemma? true
+blizginti: 9
+blìzgina: 8
+blìzgino: 8
+lemma: blizg, nugget: in
+inti_ina_ino
+
+blizginti: blizginti, blìzgina, blìzgino
+File name of blogėti:ėti_ė́ja_ė́jo
+Reflexive? false :: lemma? true
+blogėti: 7
+blogė́ja: 8
+blogė́jo: 8
+lemma: blog, nugget: ė
+ėti_ė́ja_ė́jo
+
+blogėti: blogėti, blogė́ja, blogė́jo
+File name of bloginti:inti_ina_ino
+Reflexive? false :: lemma? true
+bloginti: 8
+blõgina: 7
+blõgino: 7
+lemma: blog, nugget: in
+inti_ina_ino
+
+bloginti: bloginti, blõgina, blõgino
+Reflexive? false :: lemma? false
+blogti: 6
+blogsta: 7
+blõgo: 5
+lemma: blog, nugget: 
+i_a_
+
+blogti: blogti, blogsta, blõgo
+No file for this pattern, creating a new one...
+Reflexive? false :: lemma? false
+blokšti: 7
+blõškia: 7
+blõškė: 6
+lemma: blokš, nugget: 
+i_ia_ė
+
+blokšti: blokšti, blõškia, blõškė
+No file for this pattern, creating a new one...
+File name of blokuoti:uoti_úoja_ãvo
+Reflexive? false :: lemma? true
+blokuoti: 8
+blokúoja: 8
+blokãvo: 7
+lemma: blok, nugget: uo
+uoti_úoja_ãvo
+
+blokuoti: blokuoti, blokúoja, blokãvo
+File name of blukinti:inti_ina_ino
+Reflexive? false :: lemma? true
+blukinti: 8
+blùkina: 7
+blukino: 7
+lemma: bluk, nugget: in
+inti_ina_ino
+
+blukinti: blukinti, blùkina, blukino
+Reflexive? false :: lemma? false
+blukti: 6
+bluñka: 6
+blùko: 5
+lemma: bluk, nugget: 
+ukti_uñka_
+
+blukti: blukti, bluñka, blùko
+No file for this pattern, creating a new one...
+Reflexive? false :: lemma? false
+blykšti: 7
+blỹkšta: 7
+blỹško: 6
+lemma: blykš, nugget: 
+ykšti_ỹkšta_ỹško
+
+blykšti: blykšti, blỹkšta, blỹško
+No file for this pattern, creating a new one...
+File name of bodėti:ėti_i_ėjo
+Reflexive? false :: lemma? true
+bodėti: 6
+bõdi: 4
+bodėjo: 6
+lemma: bod, nugget: ė
+ėti_i_ėjo
+
+bodėti: bodėti, bõdi, bodėjo
+No file for this pattern, creating a new one...
+File name of boluoti:uoti_úoja_ãvo
+Reflexive? false :: lemma? true
+boluoti: 7
+bolúoja: 7
+bolãvo: 6
+lemma: bol, nugget: uo
+uoti_úoja_ãvo
+
+boluoti: boluoti, bolúoja, bolãvo
+File name of bombarduoti:uoti_úoja_ãvo
+Reflexive? false :: lemma? true
+bombarduoti: 11
+bombardúoja: 11
+bombardãvo: 10
+lemma: bombard, nugget: uo
+uoti_úoja_ãvo
+
+bombarduoti: bombarduoti, bombardúoja, bombardãvo
+File name of braidyti:yti_o_ė
+Reflexive? false :: lemma? true
+braidyti: 8
+braĩdo: 6
+braĩdė: 6
+lemma: braid, nugget: y
+yti_o_ė
+
+braidyti: braidyti, braĩdo, braĩdė
+File name of braižyti:yti_o_ė
+Reflexive? false :: lemma? true
+braižyti: 8
+braĩžo: 6
+braĩžė: 6
+lemma: braiž, nugget: y
+yti_o_ė
+
+braižyti: braižyti, braĩžo, braĩžė
+File name of brandinti:inti_ìna_ìno
+Reflexive? false :: lemma? true
+brandinti: 9
+brandìna: 8
+brandìno: 8
+lemma: brand, nugget: in
+inti_ìna_ìno
+
+brandinti: brandinti, brandìna, brandìno
+File name of branginti:inti_ìna_ìno
+Reflexive? false :: lemma? true
+branginti: 9
+brangìna: 8
+brangìno: 8
+lemma: brang, nugget: in
+inti_ìna_ìno
+
+branginti: branginti, brangìna, brangìno
+Reflexive? false :: lemma? false
+brangti: 7
+brángsta: 8
+brángo: 6
+lemma: brang, nugget: 
+angti_ángsta_ángo
+
+brangti: brangti, brángsta, brángo
+No file for this pattern, creating a new one...
+Reflexive? false :: lemma? false
+braukti: 7
+braũkia: 7
+braũkė: 6
+lemma: brauk, nugget: 
+aukti_aũkia_aũkė
+
+braukti: braukti, braũkia, braũkė
+No file for this pattern, creating a new one...
+File name of braukyti:yti_o_ė
+Reflexive? false :: lemma? true
+braukyti: 8
+braũko: 6
+braũkė: 6
+lemma: brauk, nugget: y
+yti_o_ė
+
+braukyti: braukyti, braũko, braũkė
+Reflexive? true :: lemma? false
+brautis: 7
+bráunasi: 8
+bróvėsi: 7
+lemma: brau, nugget: 
+autis_áunasi_ėsi
+
+brautis: brautis, bráunasi, bróvėsi
+No file for this pattern, creating a new one...
+File name of brazdėti:razdėti_rãzda_razdė́jo
+Reflexive? false :: lemma? true
+brazdėti: 8
+brãzda: 6
+brazdė́jo: 9
+lemma: b, nugget: razdė
+razdėti_rãzda_razdė́jo
+
+brazdėti: brazdėti, brãzda, brazdė́jo
+No file for this pattern, creating a new one...
+File name of bręsti:sti_́sta_ndo
+Reflexive? false :: lemma? true
+bręsti: 6
+brę́sta: 7
+bréndo: 6
+lemma: brę, nugget: s
+sti_́sta_ndo
+
+bręsti: bręsti, brę́sta, bréndo
+No file for this pattern, creating a new one...
+Reflexive? false :: lemma? false
+brėžti: 6
+brė́žia: 7
+brė́žė: 6
+lemma: brėž, nugget: 
+ėžti_ė́žia_ė́žė
+
+brėžti: brėžti, brė́žia, brė́žė
+No file for this pattern, creating a new one...
+Reflexive? false :: lemma? false
+brinkti: 7
+brìnksta: 8
+brìnko: 6
+lemma: brink, nugget: 
+inkti_a_
+
+brinkti: brinkti, brìnksta, brìnko
+No file for this pattern, creating a new one...
+Reflexive? false :: lemma? false
+bristi: 6
+breñda: 6
+brìdo: 5
+lemma: bris, nugget: 
+isti_eñda_
+
+bristi: bristi, breñda, brìdo
+No file for this pattern, creating a new one...
+Reflexive? false :: lemma? false
+brukti: 6
+brunka: 6
+brùko: 5
+lemma: bruk, nugget: 
+ukti_unka_
+
+brukti: brukti, brunka, brùko
+No file for this pattern, creating a new one...
+File name of brūžinti:inti_žina_žino
+Reflexive? false :: lemma? true
+brūžinti: 8
+brū́žina: 8
+brū́žino: 8
+lemma: brūž, nugget: in
+inti_žina_žino
+
+brūžinti: brūžinti, brū́žina, brū́žino
+No file for this pattern, creating a new one...
+File name of bučiuoti:iuoti_iúoja_iãvo
+Reflexive? false :: lemma? true
+bučiuoti: 8
+bučiúoja: 8
+bučiãvo: 7
+lemma: buč, nugget: iuo
+iuoti_iúoja_iãvo
+
+bučiuoti: bučiuoti, bučiúoja, bučiãvo
+Reflexive? true :: lemma? true
+bučiuotis: 9
+bučiúojasi: 10
+bučiãvosi: 9
+lemma: buč, nugget: iuo
+iuotis_iúojasi_iãvosi
+
+bučiuotis: bučiuotis, bučiúojasi, bučiãvosi
+No file for this pattern, creating a new one...
+File name of budėti:ėti_i_ė́jo
+Reflexive? false :: lemma? true
+budėti: 6
+bùdi: 4
+budė́jo: 7
+lemma: bud, nugget: ė
+ėti_i_ė́jo
+
+budėti: budėti, bùdi, budė́jo
+File name of budinti:inti_ina_ino
+Reflexive? false :: lemma? true
+budinti: 7
+bùdina: 6
+bùdino: 6
+lemma: bud, nugget: in
+inti_ina_ino
+
+budinti: budinti, bùdina, bùdino
+File name of būgštauti:štauti_gtauja_gštavo
+Reflexive? false :: lemma? true
+būgštauti: 9
+būšgtauja: 9
+bū́gštavo: 9
+lemma: būg, nugget: štau
+štauti_gtauja_gštavo
+
+būgštauti: būgštauti, būšgtauja, bū́gštavo
+No file for this pattern, creating a new one...
+File name of bujoti:oti_ója_ójo
+Reflexive? false :: lemma? true
+bujoti: 6
+bujója: 6
+bujójo: 6
+lemma: buj, nugget: o
+oti_ója_ójo
+
+bujoti: bujoti, bujója, bujójo
+File name of burbėti:ėti_a_ė́jo
+Reflexive? false :: lemma? true
+burbėti: 7
+bùrba: 5
+burbė́jo: 8
+lemma: burb, nugget: ė
+ėti_a_ė́jo
+
+burbėti: burbėti, bùrba, burbė́jo
+File name of burbuliuoti:uliuoti_uliúoja_uliãvo
+Reflexive? false :: lemma? true
+burbuliuoti: 11
+burbuliúoja: 11
+burbuliãvo: 10
+lemma: burb, nugget: uliuo
+uliuoti_uliúoja_uliãvo
+
+burbuliuoti: burbuliuoti, burbuliúoja, burbuliãvo
+No file for this pattern, creating a new one...
+File name of buriuoti:iuoti_iúoja_iãvo
+Reflexive? false :: lemma? true
+buriuoti: 8
+buriúoja: 8
+buriãvo: 7
+lemma: bur, nugget: iuo
+iuoti_iúoja_iãvo
+
+buriuoti: buriuoti, buriúoja, buriãvo
+File name of būriuoti:iuoti_iúoja_iãvo
+Reflexive? false :: lemma? true
+būriuoti: 8
+buriúoja: 8
+buriãvo: 7
+lemma: būr, nugget: iuo
+iuoti_iúoja_iãvo
+
+būriuoti: būriuoti, buriúoja, buriãvo
+Reflexive? false :: lemma? false
+burti: 5
+bùria: 5
+bū́rė: 5
+lemma: bur, nugget: 
+urti_ia_ū́rė
+
+burti: burti, bùria, bū́rė
+No file for this pattern, creating a new one...
+Reflexive? false :: lemma? false
+busti: 5
+buñda: 5
+bùdo: 4
+lemma: bus, nugget: 
+usti_uñda_
+
+busti: busti, buñda, bùdo
+No file for this pattern, creating a new one...
+Reflexive? false :: lemma? false
+tebebūti: 8
+tebebū̃na: 9
+tebebùvo: 8
+lemma: bū, nugget: 
+ebebūti_ebebū̃na_ebebùvo
+
+būti: tebebūti, tebebū̃na, tebebùvo
+No file for this pattern, creating a new one...
+File name of buvoti:oti_ója_ójo
+Reflexive? false :: lemma? true
+buvoti: 6
+buvója: 6
+buvójo: 6
+lemma: buv, nugget: o
+oti_ója_ójo
+
+buvoti: buvoti, buvója, buvójo
+Reflexive? true :: lemma? true
+bylinėtis: 9
+bylinė́jasi: 11
+bylinė́josi: 11
+lemma: byl, nugget: inė
+inėtis_inė́jasi_inė́josi
+
+bylinėtis: bylinėtis, bylinė́jasi, bylinė́josi
+No file for this pattern, creating a new one...
+File name of byloti:oti_ója_ójo
+Reflexive? false :: lemma? true
+byloti: 6
+bylója: 6
+bylójo: 6
+lemma: byl, nugget: o
+oti_ója_ójo
+
+byloti: byloti, bylója, bylójo
+File name of byrėti:ėti_a_ė́jo
+Reflexive? false :: lemma? true
+byrėti: 6
+bỹra: 4
+byrė́jo: 7
+lemma: byr, nugget: ė
+ėti_a_ė́jo
+
+byrėti: byrėti, bỹra, byrė́jo
+File name of čežėti:ėti_a_ė́jo
+Reflexive? false :: lemma? true
+čežėti: 6
+čẽža: 4
+čežė́jo: 7
+lemma: čež, nugget: ė
+ėti_a_ė́jo
+
+čežėti: čežėti, čẽža, čežė́jo
+Reflexive? false :: lemma? false
+čežti: 5
+čęžta: 5
+čežo: 4
+lemma: čež, nugget: 
+ežti_ęžta_ežo
+
+čežti: čežti, čęžta, čežo
+No file for this pattern, creating a new one...
+File name of čiaudėti:ėti_ėja_ėjo
+Reflexive? false :: lemma? true
+čiaudėti: 8
+čiáudėja: 8
+čiáudėjo: 8
+lemma: čiaud, nugget: ė
+ėti_ėja_ėjo
+
+čiaudėti: čiaudėti, čiáudėja, čiáudėjo
+File name of čiauškėti:ėti_a_ė́jo
+Reflexive? false :: lemma? true
+čiauškėti: 9
+čiáuška: 7
+čiauškė́jo: 10
+lemma: čiaušk, nugget: ė
+ėti_a_ė́jo
+
+čiauškėti: čiauškėti, čiáuška, čiauškė́jo
+File name of čiaužti:užti_užia_užė
+Reflexive? false :: lemma? true
+čiaužti: 7
+čiaužia: 7
+čiaužė: 6
+lemma: čia, nugget: už
+užti_užia_užė
+
+čiaužti: čiaužti, čiaužia, čiaužė
+No file for this pattern, creating a new one...
+File name of čirpėti:ėti_a_ėjo
+Reflexive? false :: lemma? true
+čirpėti: 7
+čirpa: 5
+čirpėjo: 7
+lemma: čirp, nugget: ė
+ėti_a_ėjo
+
+čirpėti: čirpėti, čirpa, čirpėjo
+No file for this pattern, creating a new one...
+File name of cituoti:uoti_úoja_ãvo
+Reflexive? false :: lemma? true
+cituoti: 7
+citúoja: 7
+citãvo: 6
+lemma: cit, nugget: uo
+uoti_úoja_ãvo
+
+cituoti: cituoti, citúoja, citãvo
+File name of čiulbėti:ėti_a_ė́jo
+Reflexive? false :: lemma? true
+čiulbėti: 8
+čiùlba: 6
+čiulbė́jo: 9
+lemma: čiulb, nugget: ė
+ėti_a_ė́jo
+
+čiulbėti: čiulbėti, čiùlba, čiulbė́jo
+Reflexive? false :: lemma? false
+čiulpti: 7
+čiul̃pia: 8
+čiul̃pė: 7
+lemma: čiulp, nugget: 
+iulpti_iul̃pia_iul̃pė
+
+čiulpti: čiulpti, čiul̃pia, čiul̃pė
+No file for this pattern, creating a new one...
+File name of čiuožinėti:inėti_inė́ja_inė́ja
+Reflexive? false :: lemma? true
+čiuožinėti: 10
+čiuožinė́ja: 11
+čiuožinė́ja: 11
+lemma: čiuož, nugget: inė
+inėti_inė́ja_inė́ja
+
+čiuožinėti: čiuožinėti, čiuožinė́ja, čiuožinė́ja
+Reflexive? false :: lemma? false
+čiuožti: 7
+čiuõžia: 7
+čiuõžė: 6
+lemma: čiuož, nugget: 
+iuožti_iuõžia_iuõžė
+
+čiuožti: čiuožti, čiuõžia, čiuõžė
+No file for this pattern, creating a new one...
+Reflexive? false :: lemma? false
+čiupti: 6
+čiupa: 5
+čiùpo: 5
+lemma: čiup, nugget: 
+iupti_iupa_iùpo
+
+čiupti: čiupti, čiupa, čiùpo
+No file for this pattern, creating a new one...
+File name of civilizuoti:izuoti_izuoja_izãvo
+Reflexive? false :: lemma? true
+civilizuoti: 11
+civilizuoja: 11
+civilizãvo: 10
+lemma: civil, nugget: izuo
+izuoti_izuoja_izãvo
+
+civilizuoti: civilizuoti, civilizuoja, civilizãvo
+No file for this pattern, creating a new one...
+bundler: failed to load command: exe/verbalyser (exe/verbalyser)
