@@ -72,92 +72,180 @@ module Verbalyser
 
       @verb_file_name = ""
 
-      #Something is happening that makes it find a false positive
       @verb_database.each do |line|
+        # It's finding bandyti instead of adyti
 
-        if line.include?("#{infinitive_verb},")
-
-          verb_array = line.strip.split(",")
-
+        verb_array = line.strip.split(",")
+        if verb_array[0].strip == infinitive_verb
           @infinitive_form = verb_array[0].strip
           @present3 = verb_array[1].strip
           @past3 = verb_array[2].strip
-
-          
-
-
-          if @reflexivity == false && @lemma_suffix_found == true
-
-            part1 = @infinitive_form[-(@nugget.length + "ti".length), (@nugget.length + "ti".length)]
-            #puts "This is part1 of #{@infinitive_form}: #{part1}"
-
-            if @nugget_in == true
-              part2 = @present3[@matching_lemma[0...-2].length..-1]
-            else
-              part2 = @present3[@matching_lemma.length..-1]
-            end
-
-            if @nugget_in == true
-              part3 = @past3[@matching_lemma[0...-2].length..-1]
-            else
-              part3 = @past3[@matching_lemma.length..-1]
-              #puts "This is part3 NR: #{part3}"
-            end
-
-            @file_name = "#{part1}_#{part2}_#{part3}"
-            puts "RFLT #{@infinitive_form}:#{@file_name}"
-
-          elsif @reflexivity == true && @lemma_suffix_found == true
-
-            part1 = @infinitive_form[-(@nugget.length + "tis".length), (@nugget.length + "tis".length)]
-
-            if @nugget_in == true
-              part2 = @present3[@matching_lemma[0...-2].length..-1]
-            else
-              part2 = @present3[@matching_lemma.length..-1]
-              #puts "This is part2 Ref: #{part2}"
-            end
-
-            if @nugget_in == true
-              part3 = @past3[@matching_lemma[0...-2].length..-1]
-            else
-              part3 = @past3[@matching_lemma.length..-1]
-              #puts "This is part3 Ref: #{part3}"
-            end
-
-            @file_name = "#{part1}_#{part2}_#{part3}"
-            puts "RTLT #{@infinitive_form}:#{@file_name}"
-
-          elsif @reflexivity == false && @lemma_suffix_found == false
-
-            part1 = @infinitive_form[@from_first_vowel]
-            part2 = @present3[@from_first_vowel]
-            part3 = @past3[@from_first_vowel]
-
-            @file_name = "#{part1}_#{part2}_#{part3}"
-            puts "RFLF #{@infinitive_form}:#{@file_name}"
-
-          elsif @reflexivity == true && @lemma_suffix_found == false
-
-            part1 = @infinitive_form[@from_first_vowel]
-            part2 = @present3[@from_first_vowel]
-            part3 = @past3[@from_first_vowel]
-
-            @file_name = "#{part1}_#{part2}_#{part3}"
-            puts "RTLF #{@infinitive_form}:#{@file_name}"
-
-          else
-            puts "Something has gone wrong"
-          end
-
-          puts "This is the matching file name again: #{@file_name}"
-
+          puts "verb_array[0]: #{verb_array[0]}"
         end
 
-
-
-
+        # if line.include?("#{infinitive_verb},")
+        #   puts "this is the line: #{line}"
+        #   puts "this is the first element of the line: #{line[0]}"
+        #
+        #   verb_array = line.strip.split(",")
+        #
+        #   @infinitive_form = verb_array[0].strip
+        #   @present3 = verb_array[1].strip
+        #   @past3 = verb_array[2].strip
+        #   puts "verb_array[0]: #{verb_array[0]}"
+        # end
       end
+
+      if @infinitive_form.match(infinitive_verb)
+
+        if @reflexivity == false && @lemma_suffix_found == true
+
+          part1 = @infinitive_form[-(@nugget.length + "ti".length), (@nugget.length + "ti".length)]
+          #puts "This is part1 of #{@infinitive_form}: #{part1}"
+
+          if @nugget_in == true
+            part2 = @present3[@matching_lemma[0...-2].length..-1]
+          else
+            part2 = @present3[@matching_lemma.length..-1]
+          end
+
+          if @nugget_in == true
+            part3 = @past3[@matching_lemma[0...-2].length..-1]
+          else
+            part3 = @past3[@matching_lemma.length..-1]
+            #puts "This is part3 NR: #{part3}"
+          end
+
+          @file_name = "#{part1}_#{part2}_#{part3}"
+          puts "infinitive_verb: #{infinitive_verb}"
+          puts "@infinitive_form: #{@infinitive_form}"
+          puts "RFLT #{@infinitive_form}:#{@file_name}"
+
+        elsif @reflexivity == true && @lemma_suffix_found == true
+
+          part1 = @infinitive_form[-(@nugget.length + "tis".length), (@nugget.length + "tis".length)]
+
+          if @nugget_in == true
+            part2 = @present3[@matching_lemma[0...-2].length..-1]
+          else
+            part2 = @present3[@matching_lemma.length..-1]
+            #puts "This is part2 Ref: #{part2}"
+          end
+
+          if @nugget_in == true
+            part3 = @past3[@matching_lemma[0...-2].length..-1]
+          else
+            part3 = @past3[@matching_lemma.length..-1]
+            #puts "This is part3 Ref: #{part3}"
+          end
+
+          @file_name = "#{part1}_#{part2}_#{part3}"
+          puts "RTLT #{@infinitive_form}:#{@file_name}"
+
+        elsif @reflexivity == false && @lemma_suffix_found == false
+
+          part1 = @infinitive_form[@from_first_vowel]
+          part2 = @present3[@from_first_vowel]
+          part3 = @past3[@from_first_vowel]
+
+          @file_name = "#{part1}_#{part2}_#{part3}"
+          puts "RFLF #{@infinitive_form}:#{@file_name}"
+
+        elsif @reflexivity == true && @lemma_suffix_found == false
+
+          part1 = @infinitive_form[@from_first_vowel]
+          part2 = @present3[@from_first_vowel]
+          part3 = @past3[@from_first_vowel]
+
+          @file_name = "#{part1}_#{part2}_#{part3}"
+          puts "RTLF #{@infinitive_form}:#{@file_name}"
+
+        else
+          puts "Something has gone wrong"
+        end
+      end
+
+      #Something is happening that makes it find a false positive
+      # @verb_database.each do |line|
+      #
+      #   if line.include?("#{infinitive_verb},")
+      #
+      #     verb_array = line.strip.split(",")
+      #
+      #     @infinitive_form = verb_array[0].strip
+      #     @present3 = verb_array[1].strip
+      #     @past3 = verb_array[2].strip
+      #
+      #     if @infinitive_form.match(infinitive_verb)
+      #
+      #       if @reflexivity == false && @lemma_suffix_found == true
+      #
+      #         part1 = @infinitive_form[-(@nugget.length + "ti".length), (@nugget.length + "ti".length)]
+      #         #puts "This is part1 of #{@infinitive_form}: #{part1}"
+      #
+      #         if @nugget_in == true
+      #           part2 = @present3[@matching_lemma[0...-2].length..-1]
+      #         else
+      #           part2 = @present3[@matching_lemma.length..-1]
+      #         end
+      #
+      #         if @nugget_in == true
+      #           part3 = @past3[@matching_lemma[0...-2].length..-1]
+      #         else
+      #           part3 = @past3[@matching_lemma.length..-1]
+      #           #puts "This is part3 NR: #{part3}"
+      #         end
+      #
+      #         @file_name = "#{part1}_#{part2}_#{part3}"
+      #         puts "RFLT #{@infinitive_form}:#{@file_name}"
+      #
+      #       elsif @reflexivity == true && @lemma_suffix_found == true
+      #
+      #         part1 = @infinitive_form[-(@nugget.length + "tis".length), (@nugget.length + "tis".length)]
+      #
+      #         if @nugget_in == true
+      #           part2 = @present3[@matching_lemma[0...-2].length..-1]
+      #         else
+      #           part2 = @present3[@matching_lemma.length..-1]
+      #           #puts "This is part2 Ref: #{part2}"
+      #         end
+      #
+      #         if @nugget_in == true
+      #           part3 = @past3[@matching_lemma[0...-2].length..-1]
+      #         else
+      #           part3 = @past3[@matching_lemma.length..-1]
+      #           #puts "This is part3 Ref: #{part3}"
+      #         end
+      #
+      #         @file_name = "#{part1}_#{part2}_#{part3}"
+      #         puts "RTLT #{@infinitive_form}:#{@file_name}"
+      #
+      #       elsif @reflexivity == false && @lemma_suffix_found == false
+      #
+      #         part1 = @infinitive_form[@from_first_vowel]
+      #         part2 = @present3[@from_first_vowel]
+      #         part3 = @past3[@from_first_vowel]
+      #
+      #         @file_name = "#{part1}_#{part2}_#{part3}"
+      #         puts "RFLF #{@infinitive_form}:#{@file_name}"
+      #
+      #       elsif @reflexivity == true && @lemma_suffix_found == false
+      #
+      #         part1 = @infinitive_form[@from_first_vowel]
+      #         part2 = @present3[@from_first_vowel]
+      #         part3 = @past3[@from_first_vowel]
+      #
+      #         @file_name = "#{part1}_#{part2}_#{part3}"
+      #         puts "RTLF #{@infinitive_form}:#{@file_name}"
+      #
+      #       else
+      #         puts "Something has gone wrong"
+      #       end
+      #
+      #       puts "This is the matching file name again: #{@file_name}"
+      #     end
+      #   end
+      # end
 
       puts "Reflexive? #{@reflexivity} :: lemma? #{@lemma_suffix_found}"
       puts "#{@infinitive_form}: #{@infinitive_form.length}"

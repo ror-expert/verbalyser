@@ -3,7 +3,6 @@ This is the stripped_verb from the outset: absorbuo
 This is the stripped_verb: absorbuo
 This is the matching_lemma: absorb
 RFLT absorbuoti:uoti_úoja_ãvo
-This is the matching file name again: uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 absorbuoti: 10
 absorbúoja: 10
@@ -16,7 +15,6 @@ This is the stripped_verb from the outset: abstrahuo
 This is the stripped_verb: abstrahuo
 This is the matching_lemma: abstrah
 RFLT abstrahuoti:uoti_úoja_ãvo
-This is the matching file name again: uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 abstrahuoti: 11
 abstrahúoja: 11
@@ -29,7 +27,6 @@ This is the stripped_verb from the outset: abuojė
 This is the stripped_verb: abuojė
 This is the matching_lemma: ab
 RFLT abuojėti:uojėti_uojėja_uojėjo
-This is the matching file name again: uojėti_uojėja_uojėjo
 Reflexive? false :: lemma? true
 abuojėti: 8
 abuojėja: 8
@@ -42,7 +39,6 @@ This is the stripped_verb from the outset: adaptuo
 This is the stripped_verb: adaptuo
 This is the matching_lemma: adapt
 RFLT adaptuoti:uoti_úoja_ãvo
-This is the matching file name again: uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 adaptuoti: 9
 adaptúoja: 9
@@ -55,7 +51,6 @@ This is the stripped_verb from the outset: adaptuo
 This is the stripped_verb: adaptuo
 This is the matching_lemma: adapt
 RTLT adaptuotis:uotis_úojasi_ãvosi
-This is the matching file name again: uotis_úojasi_ãvosi
 Reflexive? true :: lemma? true
 adaptuotis: 10
 adaptúojasi: 11
@@ -68,7 +63,6 @@ This is the stripped_verb from the outset: adinė
 This is the stripped_verb: adinė
 This is the matching_lemma: ad
 RFLT adinėti:inėti_inėja_inėjo
-This is the matching file name again: inėti_inėja_inėjo
 Reflexive? false :: lemma? true
 adinėti: 7
 adinėja: 7
@@ -81,7 +75,6 @@ This is the stripped_verb from the outset: administruo
 This is the stripped_verb: administruo
 This is the matching_lemma: administr
 RFLT administruoti:uoti_úoja_ãvo
-This is the matching file name again: uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 administruoti: 13
 administrúoja: 13
@@ -94,7 +87,6 @@ This is the stripped_verb from the outset: adresuo
 This is the stripped_verb: adresuo
 This is the matching_lemma: adres
 RFLT adresuoti:uoti_úoja_ãvo
-This is the matching file name again: uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 adresuoti: 9
 adresúoja: 9
@@ -106,10 +98,7 @@ This is the infinitive_verb from the outset: adyti
 This is the stripped_verb from the outset: ady
 This is the stripped_verb: ady
 This is the matching_lemma: ad
-RFLT adyti:yti_o_ė
-This is the matching file name again: yti_o_ė
 RFLT badyti:yti_do_dė
-This is the matching file name again: yti_do_dė
 Reflexive? false :: lemma? true
 badyti: 6
 bãdo: 4
@@ -122,7 +111,6 @@ This is the stripped_verb from the outset: aidė
 This is the stripped_verb: aidė
 This is the matching_lemma: aid
 RFLT aidėti:ėti_i_ė́jo
-This is the matching file name again: ėti_i_ė́jo
 Reflexive? false :: lemma? true
 aidėti: 6
 áidi: 4
@@ -135,7 +123,6 @@ This is the stripped_verb from the outset: aikčio
 This is the stripped_verb: aikčio
 This is the matching_lemma: aik
 RFLT aikčioti:čioti_čioja_čiojo
-This is the matching file name again: čioti_čioja_čiojo
 Reflexive? false :: lemma? true
 aikčioti: 8
 áikčioja: 8
@@ -148,7 +135,6 @@ This is the stripped_verb from the outset: akcentuo
 This is the stripped_verb: akcentuo
 This is the matching_lemma: akcent
 RFLT akcentuoti:uoti_úoja_ãvo
-This is the matching file name again: uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 akcentuoti: 10
 akcentúoja: 10
@@ -161,7 +147,6 @@ This is the stripped_verb from the outset: akė
 This is the stripped_verb: akė
 This is the matching_lemma: ak
 RFLT akėti:ėti_ė́ja_ė́jo
-This is the matching file name again: ėti_ė́ja_ė́jo
 Reflexive? false :: lemma? true
 akėti: 5
 akė́ja: 6
@@ -173,10 +158,7 @@ This is the infinitive_verb from the outset: akinti
 This is the stripped_verb from the outset: akin
 This is the stripped_verb: akin
 This is the matching_lemma: aki
-RFLT akinti:nti_na_no
-This is the matching file name again: nti_na_no
 RFLT rakinti:nti_ìna_ìno
-This is the matching file name again: nti_ìna_ìno
 Reflexive? false :: lemma? true
 rakinti: 7
 rakìna: 6
@@ -188,10 +170,7 @@ This is the infinitive_verb from the outset: akti
 This is the stripped_verb from the outset: ak
 This is the stripped_verb: ak
 This is the matching_lemma: ak
-RFLF akti:akti_añka_ãko
-This is the matching file name again: akti_añka_ãko
 RFLF plakti:akti_ãka_ãkė
-This is the matching file name again: akti_ãka_ãkė
 Reflexive? false :: lemma? false
 plakti: 6
 plãka: 5
@@ -204,7 +183,6 @@ This is the stripped_verb from the outset: aktyvė
 This is the stripped_verb: aktyvė
 This is the matching_lemma: aktyv
 RFLT aktyvėti:ėti_ė́ja_ė́jo
-This is the matching file name again: ėti_ė́ja_ė́jo
 Reflexive? false :: lemma? true
 aktyvėti: 8
 aktyvė́ja: 9
@@ -217,7 +195,6 @@ This is the stripped_verb from the outset: aktyvin
 This is the stripped_verb: aktyvin
 This is the matching_lemma: aktyv
 RFLT aktyvinti:inti_ina_ino
-This is the matching file name again: inti_ina_ino
 Reflexive? false :: lemma? true
 aktyvinti: 9
 aktỹvina: 8
@@ -230,7 +207,6 @@ This is the stripped_verb from the outset: aktyvuo
 This is the stripped_verb: aktyvuo
 This is the matching_lemma: aktyv
 RFLT aktyvuoti:uoti_uoja_avo
-This is the matching file name again: uoti_uoja_avo
 Reflexive? false :: lemma? true
 aktyvuoti: 9
 aktyvuoja: 9
@@ -243,7 +219,6 @@ This is the stripped_verb from the outset: alk
 This is the stripped_verb: alk
 This is the matching_lemma: alk
 RFLF alkti:alkti_álksta_al̃ko
-This is the matching file name again: alkti_álksta_al̃ko
 Reflexive? false :: lemma? false
 alkti: 5
 álksta: 6
@@ -256,7 +231,6 @@ This is the stripped_verb from the outset: alp
 This is the stripped_verb: alp
 This is the matching_lemma: alp
 RFLF alpti:alpti_al̃psta_al̃po
-This is the matching file name again: alpti_al̃psta_al̃po
 Reflexive? false :: lemma? false
 alpti: 5
 al̃psta: 7
@@ -269,7 +243,6 @@ This is the stripped_verb from the outset: alsin
 This is the stripped_verb: alsin
 This is the matching_lemma: als
 RFLT alsinti:inti_ìna_ìno
-This is the matching file name again: inti_ìna_ìno
 Reflexive? false :: lemma? true
 alsinti: 7
 alsìna: 6
@@ -282,7 +255,6 @@ This is the stripped_verb from the outset: amputuo
 This is the stripped_verb: amputuo
 This is the matching_lemma: amput
 RFLT amputuoti:uoti_uoja_ãvo
-This is the matching file name again: uoti_uoja_ãvo
 Reflexive? false :: lemma? true
 amputuoti: 9
 amputuoja: 9
@@ -294,10 +266,7 @@ This is the infinitive_verb from the outset: amsėti
 This is the stripped_verb from the outset: amsė
 This is the stripped_verb: amsė
 This is the matching_lemma: ams
-RFLT amsėti:ėti_i_ė́jo
-This is the matching file name again: ėti_i_ė́jo
 RFLT tamsėti:ėti_sė́ja_sė́jo
-This is the matching file name again: ėti_sė́ja_sė́jo
 Reflexive? false :: lemma? true
 tamsėti: 7
 tamsė́ja: 8
@@ -310,7 +279,6 @@ This is the stripped_verb from the outset: amžin
 This is the stripped_verb: amžin
 This is the matching_lemma: amž
 RFLT amžinti:inti_inà_ino
-This is the matching file name again: inti_inà_ino
 Reflexive? false :: lemma? true
 amžinti: 7
 amžinà: 6
@@ -323,7 +291,6 @@ This is the stripped_verb from the outset: analizuo
 This is the stripped_verb: analizuo
 This is the matching_lemma: analiz
 RFLT analizuoti:uoti_úoja_ãvo
-This is the matching file name again: uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 analizuoti: 10
 analizúoja: 10
@@ -336,7 +303,6 @@ This is the stripped_verb from the outset: aneksuo
 This is the stripped_verb: aneksuo
 This is the matching_lemma: an
 RFLT aneksuoti:eksuoti_eksúoja_eksãvo
-This is the matching file name again: eksuoti_eksúoja_eksãvo
 Reflexive? false :: lemma? true
 aneksuoti: 9
 aneksúoja: 9
@@ -349,7 +315,6 @@ This is the stripped_verb from the outset: antspauduo
 This is the stripped_verb: antspauduo
 This is the matching_lemma: ant
 RFLT antspauduoti:spauduoti_spaudúoja_spaudãvo
-This is the matching file name again: spauduoti_spaudúoja_spaudãvo
 Reflexive? false :: lemma? true
 antspauduoti: 12
 antspaudúoja: 12
@@ -361,16 +326,7 @@ This is the infinitive_verb from the outset: ardyti
 This is the stripped_verb from the outset: ardy
 This is the stripped_verb: ardy
 This is the matching_lemma: ar
-RFLT ardyti:dyti_̃do_̃dė
-This is the matching file name again: dyti_̃do_̃dė
-RFLT nardyti:dyti_rdo_rdė
-This is the matching file name again: dyti_rdo_rdė
-RFLT tardyti:dyti_rdo_rdė
-This is the matching file name again: dyti_rdo_rdė
-RFLT tvardyti:dyti_árdo_árdė
-This is the matching file name again: dyti_árdo_árdė
 RFLT vardyti:dyti_r̃dija_r̃dijo
-This is the matching file name again: dyti_r̃dija_r̃dijo
 Reflexive? false :: lemma? true
 vardyti: 7
 var̃dija: 8
@@ -383,7 +339,6 @@ This is the stripped_verb from the outset: areštuo
 This is the stripped_verb: areštuo
 This is the matching_lemma: arešt
 RFLT areštuoti:uoti_úoja_ãvo
-This is the matching file name again: uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 areštuoti: 9
 areštúoja: 9
@@ -396,7 +351,6 @@ This is the stripped_verb from the outset: artė
 This is the stripped_verb: artė
 This is the matching_lemma: art
 RFLT artėti:ėti_ė́ja_ė́jo
-This is the matching file name again: ėti_ė́ja_ė́jo
 Reflexive? false :: lemma? true
 artėti: 6
 artė́ja: 7
@@ -408,14 +362,7 @@ This is the infinitive_verb from the outset: arti
 This is the stripped_verb from the outset: ar
 This is the stripped_verb: ar
 This is the matching_lemma: ar
-RFLF arti:arti_ãria_ãrė
-This is the matching file name again: arti_ãria_ãrė
-RFLF barti:arti_ãra_ãrė
-This is the matching file name again: arti_ãra_ãrė
-RFLF karti:arti_ãria_ė
-This is the matching file name again: arti_ãria_ė
 RFLF tarti:arti_ãria_ãrė
-This is the matching file name again: arti_ãria_ãrė
 Reflexive? false :: lemma? false
 tarti: 5
 tãria: 5
@@ -428,7 +375,6 @@ This is the stripped_verb from the outset: artin
 This is the stripped_verb: artin
 This is the matching_lemma: art
 RFLT artinti:inti_tina_tino
-This is the matching file name again: inti_tina_tino
 Reflexive? false :: lemma? true
 artinti: 7
 ar̃tina: 7
@@ -441,7 +387,6 @@ This is the stripped_verb from the outset: artin
 This is the stripped_verb: artin
 This is the matching_lemma: art
 RTLT artintis:intis_tinasi_tinosi
-This is the matching file name again: intis_tinasi_tinosi
 Reflexive? true :: lemma? true
 artintis: 8
 ar̃tinasi: 9
@@ -454,7 +399,6 @@ This is the stripped_verb from the outset: asimiliuo
 This is the stripped_verb: asimiliuo
 This is the matching_lemma: asimil
 RFLT asimiliuoti:iuoti_iúoja_iãvo
-This is the matching file name again: iuoti_iúoja_iãvo
 Reflexive? false :: lemma? true
 asimiliuoti: 11
 asimiliúoja: 11
@@ -467,7 +411,6 @@ This is the stripped_verb from the outset: asmenuo
 This is the stripped_verb: asmenuo
 This is the matching_lemma: asm
 RFLT asmenuoti:enuoti_enúoja_enãvo
-This is the matching file name again: enuoti_enúoja_enãvo
 Reflexive? false :: lemma? true
 asmenuoti: 9
 asmenúoja: 9
@@ -480,7 +423,6 @@ This is the stripped_verb from the outset: asocijuo
 This is the stripped_verb: asocijuo
 This is the matching_lemma: asocij
 RFLT asocijuoti:uoti_úoja_avo
-This is the matching file name again: uoti_úoja_avo
 Reflexive? false :: lemma? true
 asocijuoti: 10
 asocijúoja: 10
@@ -492,14 +434,7 @@ This is the infinitive_verb from the outset: audėti
 This is the stripped_verb from the outset: audė
 This is the stripped_verb: audė
 This is the matching_lemma: aud
-RFLT audėti:ėti_a_ė́jo
-This is the matching file name again: ėti_a_ė́jo
-RFLT čiaudėti:ėti_udėja_udėjo
-This is the matching file name again: ėti_udėja_udėjo
-RFLT griaudėti:ėti_audė́ja_audė́jo
-This is the matching file name again: ėti_audė́ja_audė́jo
 RFLT skaudėti:ėti_ũda_udė́jo
-This is the matching file name again: ėti_ũda_udė́jo
 Reflexive? false :: lemma? true
 skaudėti: 8
 skaũda: 6
@@ -511,14 +446,7 @@ This is the infinitive_verb from the outset: auginti
 This is the stripped_verb from the outset: augin
 This is the stripped_verb: augin
 This is the matching_lemma: aug
-RFLT auginti:inti_ìna_ìno
-This is the matching file name again: inti_ìna_ìno
-RFLT bauginti:inti_gìna_gìno
-This is the matching file name again: inti_gìna_gìno
-RFLT dauginti:inti_gina_gino
-This is the matching file name again: inti_gina_gino
 RFLT rauginti:inti_gìna_gìno
-This is the matching file name again: inti_gìna_gìno
 Reflexive? false :: lemma? true
 rauginti: 8
 raugìna: 7
@@ -530,16 +458,7 @@ This is the infinitive_verb from the outset: augti
 This is the stripped_verb from the outset: aug
 This is the stripped_verb: aug
 This is the matching_lemma: aug
-RFLF augti:augti_áuga_áugo
-This is the matching file name again: augti_áuga_áugo
-RFLF raugti:augti_áugia_áugė
-This is the matching file name again: augti_áugia_áugė
-RFLF smaugti:augti_áugia_áugė
-This is the matching file name again: augti_áugia_áugė
-RFLF staugti:augti_áugia_áugė
-This is the matching file name again: augti_áugia_áugė
 RFLF žliaugti:iaugti_iaũgia_iaũgė
-This is the matching file name again: iaugti_iaũgia_iaũgė
 Reflexive? false :: lemma? false
 žliaugti: 8
 žliaũgia: 8
@@ -552,7 +471,6 @@ This is the stripped_verb from the outset: auklė
 This is the stripped_verb: auklė
 This is the matching_lemma: aukl
 RFLT auklėti:ėti_ėja_ėjo
-This is the matching file name again: ėti_ėja_ėjo
 Reflexive? false :: lemma? true
 auklėti: 7
 áuklėja: 7
@@ -565,7 +483,6 @@ This is the stripped_verb from the outset: auko
 This is the stripped_verb: auko
 This is the matching_lemma: auk
 RFLT aukoti:oti_ója_ójo
-This is the matching file name again: oti_ója_ójo
 Reflexive? false :: lemma? true
 aukoti: 6
 aukója: 6
@@ -578,7 +495,6 @@ This is the stripped_verb from the outset: auko
 This is the stripped_verb: auko
 This is the matching_lemma: auk
 RTLT aukotis:otis_ója_ójo
-This is the matching file name again: otis_ója_ójo
 Reflexive? true :: lemma? true
 aukotis: 7
 aukója: 6
@@ -591,7 +507,6 @@ This is the stripped_verb from the outset: aukštin
 This is the stripped_verb: aukštin
 This is the matching_lemma: aukšt
 RFLT aukštinti:inti_ina_ino
-This is the matching file name again: inti_ina_ino
 Reflexive? false :: lemma? true
 aukštinti: 9
 áukština: 8
@@ -604,7 +519,6 @@ This is the stripped_verb from the outset: auksuo
 This is the stripped_verb: auksuo
 This is the matching_lemma: auks
 RFLT auksuoti:uoti_úoja_ãvo
-This is the matching file name again: uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 auksuoti: 8
 auksúoja: 8
@@ -616,28 +530,7 @@ This is the infinitive_verb from the outset: austi
 This is the stripped_verb from the outset: aus
 This is the stripped_verb: aus
 This is the matching_lemma: aus
-RFLF austi:austi_áudžia_áudė
-This is the matching file name again: austi_áudžia_áudė
-RFLF bausti:austi_aũdžia_aũdė
-This is the matching file name again: austi_aũdžia_aũdė
-RFLF drausti:austi_aũdžia_aũdė
-This is the matching file name again: austi_aũdžia_aũdė
-RFLF glausti:austi_aũdžia_aũdė
-This is the matching file name again: austi_aũdžia_aũdė
-RFLF griausti:iausti_iáudžia_iáudė
-This is the matching file name again: iausti_iáudžia_iáudė
-RFLF jausti:austi_aũčia_aũtė
-This is the matching file name again: austi_aũčia_aũtė
-RFLF klausti:austi_áusia_áusė
-This is the matching file name again: austi_áusia_áusė
-RFLF rausti:austi_austà_aũdo
-This is the matching file name again: austi_austà_aũdo
-RFLF siausti:iausti_iaũčia_iaũtė
-This is the matching file name again: iausti_iaũčia_iaũtė
-RFLF skriausti:iausti_iaũdžia_iaũdė
-This is the matching file name again: iausti_iaũdžia_iaũdė
 RFLF snausti:austi_áudžia_áudė
-This is the matching file name again: austi_áudžia_áudė
 Reflexive? false :: lemma? false
 snausti: 7
 snáudžia: 8
@@ -649,10 +542,7 @@ This is the infinitive_verb from the outset: aušti
 This is the stripped_verb from the outset: auš
 This is the stripped_verb: auš
 This is the matching_lemma: auš
-RFLF aušti:aušti_áudžia_áudė
-This is the matching file name again: aušti_áudžia_áudė
 RFLF šiaušti:iaušti_ẽria_ėrė̃
-This is the matching file name again: iaušti_ẽria_ėrė̃
 Reflexive? false :: lemma? false
 šiaušti: 7
 šẽria: 5
@@ -664,182 +554,7 @@ This is the infinitive_verb from the outset: auti
 This is the stripped_verb from the outset: au
 This is the stripped_verb: au
 This is the matching_lemma: au
-RFLF auti:auti_aũna_ãvė
-This is the matching file name again: auti_aũna_ãvė
-RFLF badauti:adauti_adáuja_adãvo
-This is the matching file name again: adauti_adáuja_adãvo
-RFLF būgštauti:ūgštauti_ūšgtauja_ū́gštavo
-This is the matching file name again: ūgštauti_ūšgtauja_ū́gštavo
-RFLF cypauti:ypauti_ýpauja_ýpavo
-This is the matching file name again: ypauti_ýpauja_ýpavo
-RFLF dalyvauti:alyvauti_alyváuja_alyvãvo
-This is the matching file name again: alyvauti_alyváuja_alyvãvo
-RFLF direktoriauti:irektoriauti_irektoriáuja_irektoriãvo
-This is the matching file name again: irektoriauti_irektoriáuja_irektoriãvo
-RFLF draugauti:augauti_augáuja_augãvo
-This is the matching file name again: augauti_augáuja_augãvo
-RFLF dūsauti:ūsauti_ū́sauja_ūsãvo
-This is the matching file name again: ūsauti_ū́sauja_ūsãvo
-RFLF džiauti:iauti_iáuna_ióvė
-This is the matching file name again: iauti_iáuna_ióvė
-RFLF džiūgauti:iūgauti_iū́gauja_iū́gavo
-This is the matching file name again: iūgauti_iū́gauja_iū́gavo
-RFLF elgegauti:elgegauti_elgetáuja_elgetãvo
-This is the matching file name again: elgegauti_elgetáuja_elgetãvo
-RFLF elgetauti:elgetauti_elgetáuja_elgetãvo
-This is the matching file name again: elgetauti_elgetáuja_elgetãvo
-RFLF gąstauti:ąstauti_ąstauja_ąstavo
-This is the matching file name again: ąstauti_ąstauja_ąstavo
-RFLF gauti:auti_áuna_ãvo
-This is the matching file name again: auti_áuna_ãvo
-RFLF gervuogiauti:ervuogiauti_ervuogiauja_ervuogiavo
-This is the matching file name again: ervuogiauti_ervuogiauja_ervuogiavo
-RFLF girtauti:irtauti_irtáuja_irtãvo
-This is the matching file name again: irtauti_irtáuja_irtãvo
-RFLF griauti:iauti_iáuna_ióvė
-This is the matching file name again: iauti_iáuna_ióvė
-RFLF grybauti:ybauti_ybáuja_ybãvo
-This is the matching file name again: ybauti_ybáuja_ybãvo
-RFLF gudrauti:udrauti_udráuja_udrãvo
-This is the matching file name again: udrauti_udráuja_udrãvo
-RFLF juokauti:uokauti_uokáuja_uokãvo
-This is the matching file name again: uokauti_uokáuja_uokãvo
-RFLF kariauti:ariauti_ariáuja_ariãvo
-This is the matching file name again: ariauti_ariáuja_ariãvo
-RFLF kauti:auti_áuna_ė
-This is the matching file name again: auti_áuna_ė
-RFLF keliauti:eliauti_eliáuja_eliãvo
-This is the matching file name again: eliauti_eliáuja_eliãvo
-RFLF kerštauti:erštauti_erštáuja_erštãvo
-This is the matching file name again: erštauti_erštáuja_erštãvo
-RFLF krauti:auti_áuna_ė
-This is the matching file name again: auti_áuna_ė
-RFLF krykštauti:ykštauti_ýkštauja_ýkštavo
-This is the matching file name again: ykštauti_ýkštauja_ýkštavo
-RFLF lenktyniauti:enktyniauti_enktyniáuja_enktyniãvo
-This is the matching file name again: enktyniauti_enktyniáuja_enktyniãvo
-RFLF liežuvauti:iežuvauti_iežuváuja_iežuvavo
-This is the matching file name again: iežuvauti_iežuváuja_iežuvavo
-RFLF maištauti:aištauti_aištáuja_aištãvo
-This is the matching file name again: aištauti_aištáuja_aištãvo
-RFLF maldauti:aldauti_aldáuja_aldãvo
-This is the matching file name again: aldauti_aldáuja_aldãvo
-RFLF mauti:auti_áuna_ė
-This is the matching file name again: auti_áuna_ė
-RFLF meilikauti:eilikauti_eilikáuja_eilikãvo
-This is the matching file name again: eilikauti_eilikáuja_eilikãvo
-RFLF mokytojauti:ytojauti_ytojáuja_ytojãvo
-This is the matching file name again: ytojauti_ytojáuja_ytojãvo
-RFLF nebepasikiškiakopūsteliauti:ebepasikiškiakopūsteliauti_ebepasikiškiakopūsteliauja_ebepasikiškiakopūsteliavo
-This is the matching file name again: ebepasikiškiakopūsteliauti_ebepasikiškiakopūsteliauja_ebepasikiškiakopūsteliavo
-RFLF nebeprisikiškiakopūsteliauti:ebeprisikiškiakopūsteliauti_ebeprisikiškiakopūsteliauja_ebeprisikiškiakopūsteliavo
-This is the matching file name again: ebeprisikiškiakopūsteliauti_ebeprisikiškiakopūsteliauja_ebeprisikiškiakopūsteliavo
-RFLF nekantrauti:ekantrauti_ekantráuja_ekantrãvo
-This is the matching file name again: ekantrauti_ekantráuja_ekantrãvo
-RFLF nerimauti:erimauti_erimáuja_erimãvo
-This is the matching file name again: erimauti_erimáuja_erimãvo
-RFLF obuoliauti:uoliauti_uoliauja_uoliavo
-This is the matching file name again: uoliauti_uoliauja_uoliavo
-RFLF pietauti:ietauti_ietáuja_ietãvo
-This is the matching file name again: ietauti_ietáuja_ietãvo
-RFLF piktnaudžiauti:iktnaudžiauti_iktnaudžiáuja_iktnaudžiãvo
-This is the matching file name again: iktnaudžiauti_iktnaudžiáuja_iktnaudžiãvo
-RFLF piratauti:iratauti_iratáuja_iratãvo
-This is the matching file name again: iratauti_iratáuja_iratãvo
-RFLF pirmauti:irmauti_irmáuja_irmãvo
-This is the matching file name again: irmauti_irmáuja_irmãvo
-RFLF pjauti:auti_áuna_ė
-This is the matching file name again: auti_áuna_ė
-RFLF plauti:auti_áuna_ė
-This is the matching file name again: auti_áuna_ė
-RFLF plėšikauti:ėšikauti_ėšikáuja_ėšikãvo
-This is the matching file name again: ėšikauti_ėšikáuja_ėšikãvo
-RFLF poilsiauti:ilsiauti_ilsiáuja_ilsiãvo
-This is the matching file name again: ilsiauti_ilsiáuja_ilsiãvo
-RFLF pokštauti:auti_auja_avo
-This is the matching file name again: auti_auja_avo
-RFLF posėdžiauti:ėdžiauti_ėdžiáuja_ėdžiãvo
-This is the matching file name again: ėdžiauti_ėdžiáuja_ėdžiãvo
-RFLF prekiauti:ekiauti_ekiáuja_ekiãvo
-This is the matching file name again: ekiauti_ekiáuja_ekiãvo
-RFLF ragauti:agauti_agáuja_agãvo
-This is the matching file name again: agauti_agáuja_agãvo
-RFLF rauti:auti_áuna_ė
-This is the matching file name again: auti_áuna_ė
-RFLF reikalauti:eikalauti_eikaláuja_eikalãvo
-This is the matching file name again: eikalauti_eikaláuja_eikalãvo
-RFLF rėkauti:ėkauti_ė́kauja_ė́kavo
-This is the matching file name again: ėkauti_ė́kauja_ė́kavo
-RFLF rungtyniauti:ungtyniauti_ungtyniáuja_ungtyniãvo
-This is the matching file name again: ungtyniauti_ungtyniáuja_ungtyniãvo
-RFLF rūstauti:ūstauti_ū́stauja_ū́stavo
-This is the matching file name again: ūstauti_ū́stauja_ū́stavo
-RFLF santykiauti:antykiauti_antykiáuja_ántykiavo
-This is the matching file name again: antykiauti_antykiáuja_ántykiavo
-RFLF šauti:auti_áuna_ė
-This is the matching file name again: auti_áuna_ė
-RFLF šeimininkauti:eimininkauti_eimininkáuja_eimininkãvo
-This is the matching file name again: eimininkauti_eimininkáuja_eimininkãvo
-RFLF sielvartauti:ielvartauti_ielvartáuja_ielvartãvo
-This is the matching file name again: ielvartauti_ielvartáuja_ielvartãvo
-RFLF skalauti:alauti_aláuja_alãvo
-This is the matching file name again: alauti_aláuja_alãvo
-RFLF skanauti:anauti_anáuja_anãvo
-This is the matching file name again: anauti_anáuja_anãvo
-RFLF smaguriauti:aguriauti_aguriáuja_aguriãvo
-This is the matching file name again: aguriauti_aguriáuja_aguriãvo
-RFLF smaližiauti:aližiauti_aližiáuja_aližiãvo
-This is the matching file name again: aližiauti_aližiáuja_aližiãvo
-RFLF spjauti:auti_áuna_ė
-This is the matching file name again: auti_áuna_ė
-RFLF spygauti:ygauti_ýgauja_ýgavo
-This is the matching file name again: ygauti_ýgauja_ýgavo
-RFLF stovyklauti:yklauti_ykláuja_yklãvo
-This is the matching file name again: yklauti_ykláuja_yklãvo
-RFLF studentauti:udentauti_yktelėja_ýktelėjo
-This is the matching file name again: udentauti_yktelėja_ýktelėjo
-RFLF šūkauti:ūkauti_ū́kauja_ūkãvo
-This is the matching file name again: ūkauti_ū́kauja_ūkãvo
-RFLF švilpauti:ilpauti_auja_avo
-This is the matching file name again: ilpauti_auja_avo
-RFLF tarnauti:arnauti_arnáuja_arnãvo
-This is the matching file name again: arnauti_arnáuja_arnãvo
-RFLF tarpininkauti:arpininkauti_arpininkáuja_arpininkãvo
-This is the matching file name again: arpininkauti_arpininkáuja_arpininkãvo
-RFLF tinginiauti:inginiauti_inginiáuja_inginiãvo
-This is the matching file name again: inginiauti_inginiáuja_inginiãvo
-RFLF triukšmauti:iukšmauti_iumškauja_iukšmãvo
-This is the matching file name again: iukšmauti_iumškauja_iukšmãvo
-RFLF ūkininkauti:ūkininkauti_ūkininkáuja_ūkininkãvo
-This is the matching file name again: ūkininkauti_ūkininkáuja_ūkininkãvo
-RFLF uogauti:uogauti_uogáuja_uogãvo
-This is the matching file name again: uogauti_uogáuja_uogãvo
-RFLF vadovauti:adovauti_adováuja_adovãvo
-This is the matching file name again: adovauti_adováuja_adovãvo
-RFLF vagiliauti:agiliauti_agiliáuja_agiliãvo
-This is the matching file name again: agiliauti_agiliáuja_agiliãvo
-RFLF vakarienauti:akarienauti_akarieniáuja_akarieniãvo
-This is the matching file name again: akarienauti_akarieniáuja_akarieniãvo
-RFLF vakarieniauti:akarieniauti_akarienauja_akarieniãvo
-This is the matching file name again: akarieniauti_akarienauja_akarieniãvo
-RFLF valkatauti:alkatauti_alkatáuja_alkatãvo
-This is the matching file name again: alkatauti_alkatáuja_alkatãvo
-RFLF veidmaniauti:eidmaniauti_eidmainiáuja_eidmainiãvo
-This is the matching file name again: eidmaniauti_eidmainiáuja_eidmainiãvo
-RFLF vergauti:ergauti_ergáuja_ergãvo
-This is the matching file name again: ergauti_ergáuja_ergãvo
-RFLF vertėjauti:ertėjauti_ertėjáuja_ertėjãvo
-This is the matching file name again: ertėjauti_ertėjáuja_ertėjãvo
-RFLF viešpatauti:iešpatauti_iešpatáuja_iešpatãvo
-This is the matching file name again: iešpatauti_iešpatáuja_iešpatãvo
-RFLF vyrauti:yrauti_ýrauja_yrãvo
-This is the matching file name again: yrauti_ýrauja_yrãvo
-RFLF žiovauti:iovauti_ióvauja_ióvavo
-This is the matching file name again: iovauti_ióvauja_ióvavo
-RFLF žuvauti:uvauti_uváuja_uvãvo
-This is the matching file name again: uvauti_uváuja_uvãvo
 RFLF žvygauti:ygauti_ýgauja_ýgavo
-This is the matching file name again: ygauti_ýgauja_ýgavo
 Reflexive? false :: lemma? false
 žvygauti: 8
 žvýgauja: 8
@@ -851,28 +566,7 @@ This is the infinitive_verb from the outset: autis
 This is the stripped_verb from the outset: au
 This is the stripped_verb: au
 This is the matching_lemma: au
-RTLF autis:autis_aũnasi_ãvėsi
-This is the matching file name again: autis_aũnasi_ãvėsi
-RTLF brautis:autis_áunasi_ėsi
-This is the matching file name again: autis_áunasi_ėsi
-RTLF kautis:autis_áunasi_ėsi
-This is the matching file name again: autis_áunasi_ėsi
-RTLF kliautis:iautis_iaunasi_ióvėsi
-This is the matching file name again: iautis_iaunasi_ióvėsi
-RTLF krautis:autis_áunasi_ėsi
-This is the matching file name again: autis_áunasi_ėsi
-RTLF liautis:iautis_iáunasi_ióvėsi
-This is the matching file name again: iautis_iáunasi_ióvėsi
-RTLF mautis:autis_áunasi_ėsi
-This is the matching file name again: autis_áunasi_ėsi
-RTLF mėgautis:ėgautis_ė́gaujasi_ė́gavosi
-This is the matching file name again: ėgautis_ė́gaujasi_ė́gavosi
-RTLF plautis:autis_áunasi_ėsi
-This is the matching file name again: autis_áunasi_ėsi
-RTLF teirautis:eirautis_eiráujasi_eirãvosi
-This is the matching file name again: eirautis_eiráujasi_eirãvosi
 RTLF vadovautis:adovautis_adováujasi_adovãvosi
-This is the matching file name again: adovautis_adováujasi_adovãvosi
 Reflexive? true :: lemma? false
 vadovautis: 10
 vadováujasi: 11
@@ -885,7 +579,6 @@ This is the stripped_verb from the outset: automatizuo
 This is the stripped_verb: automatizuo
 This is the matching_lemma: automat
 RFLT automatizuoti:izuoti_izúoja_izavo
-This is the matching file name again: izuoti_izúoja_izavo
 Reflexive? false :: lemma? true
 automatizuoti: 13
 automatizúoja: 13
@@ -897,10 +590,7 @@ This is the infinitive_verb from the outset: avėti
 This is the stripped_verb from the outset: avė
 This is the stripped_verb: avė
 This is the matching_lemma: av
-RFLT avėti:ėti_i_ė́jo
-This is the matching file name again: ėti_i_ė́jo
 RFLT žavėti:ėti_vi_vė́jo
-This is the matching file name again: ėti_vi_vė́jo
 Reflexive? false :: lemma? true
 žavėti: 6
 žãvi: 4
@@ -913,7 +603,6 @@ This is the stripped_verb from the outset: badau
 This is the stripped_verb: badau
 This is the matching_lemma: bad
 RFLT badauti:auti_áuja_ãvo
-This is the matching file name again: auti_áuja_ãvo
 Reflexive? false :: lemma? true
 badauti: 7
 badáuja: 7
@@ -926,7 +615,6 @@ This is the stripped_verb from the outset: bady
 This is the stripped_verb: bady
 This is the matching_lemma: bad
 RFLT badyti:yti_o_ė
-This is the matching file name again: yti_o_ė
 Reflexive? false :: lemma? true
 badyti: 6
 bãdo: 4
@@ -939,7 +627,6 @@ This is the stripped_verb from the outset: baidy
 This is the stripped_verb: baidy
 This is the matching_lemma: baid
 RFLT baidyti:yti_o_ė
-This is the matching file name again: yti_o_ė
 Reflexive? false :: lemma? true
 baidyti: 7
 baĩdo: 5
@@ -952,7 +639,6 @@ This is the stripped_verb from the outset: baidy
 This is the stripped_verb: baidy
 This is the matching_lemma: baid
 RTLT baidytis:ytis_osi_ėsi
-This is the matching file name again: ytis_osi_ėsi
 Reflexive? true :: lemma? true
 baidytis: 8
 baĩdosi: 7
@@ -965,7 +651,6 @@ This is the stripped_verb from the outset: baig
 This is the stripped_verb: baig
 This is the matching_lemma: baig
 RFLF baigti:aigti_aĩgia_aĩgė
-This is the matching file name again: aigti_aĩgia_aĩgė
 Reflexive? false :: lemma? false
 baigti: 6
 baĩgia: 6
@@ -978,7 +663,6 @@ This is the stripped_verb from the outset: baig
 This is the stripped_verb: baig
 This is the matching_lemma: baig
 RTLF baigtis:aigtis_aĩgiasi_aĩgėsi
-This is the matching file name again: aigtis_aĩgiasi_aĩgėsi
 Reflexive? true :: lemma? false
 baigtis: 7
 baĩgiasi: 8
@@ -991,7 +675,6 @@ This is the stripped_verb from the outset: baimin
 This is the stripped_verb: baimin
 This is the matching_lemma: bai
 RFLT baiminti:minti_mina_minosi
-This is the matching file name again: minti_mina_minosi
 Reflexive? false :: lemma? true
 baiminti: 8
 báimina: 7
@@ -1004,7 +687,6 @@ This is the stripped_verb from the outset: baimin
 This is the stripped_verb: baimin
 This is the matching_lemma: bai
 RTLT baimintis:mintis_minasi_minosi
-This is the matching file name again: mintis_minasi_minosi
 Reflexive? true :: lemma? true
 baimintis: 9
 báiminasi: 9
@@ -1017,7 +699,6 @@ This is the stripped_verb from the outset: baisė
 This is the stripped_verb: baisė
 This is the matching_lemma: bais
 RFLT baisėti:ėti_ėja_ėjo
-This is the matching file name again: ėti_ėja_ėjo
 Reflexive? false :: lemma? true
 baisėti: 7
 baisėja: 7
@@ -1030,7 +711,6 @@ This is the stripped_verb from the outset: baisė
 This is the stripped_verb: baisė
 This is the matching_lemma: bais
 RTLT baisėtis:ėtis_isi_ė́josi
-This is the matching file name again: ėtis_isi_ė́josi
 Reflexive? true :: lemma? true
 baisėtis: 8
 baĩsisi: 7
@@ -1043,7 +723,6 @@ This is the stripped_verb from the outset: bakstelė
 This is the stripped_verb: bakstelė
 This is the matching_lemma: baks
 RFLT bakstelėti:telėti_teli_telėjo
-This is the matching file name again: telėti_teli_telėjo
 Reflexive? false :: lemma? true
 bakstelėti: 10
 bãksteli: 8
@@ -1056,7 +735,6 @@ This is the stripped_verb from the outset: balansuo
 This is the stripped_verb: balansuo
 This is the matching_lemma: balans
 RFLT balansuoti:uoti_úoja_ãvo
-This is the matching file name again: uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 balansuoti: 10
 balansúoja: 10
@@ -1069,7 +747,6 @@ This is the stripped_verb from the outset: balin
 This is the stripped_verb: balin
 This is the matching_lemma: bal
 RFLT balinti:inti_ina_ino
-This is the matching file name again: inti_ina_ino
 Reflexive? false :: lemma? true
 balinti: 7
 bãlina: 6
@@ -1082,7 +759,6 @@ This is the stripped_verb from the outset: balno
 This is the stripped_verb: balno
 This is the matching_lemma: baln
 RFLT balnoti:oti_ója_ójo
-This is the matching file name again: oti_ója_ójo
 Reflexive? false :: lemma? true
 balnoti: 7
 balnója: 7
@@ -1095,7 +771,6 @@ This is the stripped_verb from the outset: bals
 This is the stripped_verb: bals
 This is the matching_lemma: bal
 RFLT balsti:sti_sta_o
-This is the matching file name again: sti_sta_o
 Reflexive? false :: lemma? true
 balsti: 6
 balsta: 6
@@ -1108,7 +783,6 @@ This is the stripped_verb from the outset: balsuo
 This is the stripped_verb: balsuo
 This is the matching_lemma: bal
 RFLT balsuoti:suoti_súoja_sãvo
-This is the matching file name again: suoti_súoja_sãvo
 Reflexive? false :: lemma? true
 balsuoti: 8
 balsúoja: 8
@@ -1121,7 +795,6 @@ This is the stripped_verb from the outset: baltė
 This is the stripped_verb: baltė
 This is the matching_lemma: bal
 RFLT baltėti:tėti_tėja_tėjo
-This is the matching file name again: tėti_tėja_tėjo
 Reflexive? false :: lemma? true
 baltėti: 7
 baltėja: 7
@@ -1133,10 +806,7 @@ This is the infinitive_verb from the outset: balti
 This is the stripped_verb from the outset: bal
 This is the stripped_verb: bal
 This is the matching_lemma: bal
-RFLF balti:alti_ą̃la_ãlo
-This is the matching file name again: alti_ą̃la_ãlo
 RFLF žabalti:abalti_abąla_alabo
-This is the matching file name again: abalti_abąla_alabo
 Reflexive? false :: lemma? false
 žabalti: 7
 žabąla: 6
@@ -1149,7 +819,6 @@ This is the stripped_verb from the outset: baltin
 This is the stripped_verb: baltin
 This is the matching_lemma: bal
 RFLT baltinti:tinti_tinà_tino
-This is the matching file name again: tinti_tinà_tino
 Reflexive? false :: lemma? true
 baltinti: 8
 baltinà: 7
@@ -1162,7 +831,6 @@ This is the stripped_verb from the outset: baltuo
 This is the stripped_verb: baltuo
 This is the matching_lemma: bal
 RFLT baltuoti:tuoti_túoja_tãvo
-This is the matching file name again: tuoti_túoja_tãvo
 Reflexive? false :: lemma? true
 baltuoti: 8
 baltúoja: 8
@@ -1175,7 +843,6 @@ This is the stripped_verb from the outset: bandy
 This is the stripped_verb: bandy
 This is the matching_lemma: band
 RFLT bandyti:yti_o_ė
-This is the matching file name again: yti_o_ė
 Reflexive? false :: lemma? true
 bandyti: 7
 bañdo: 5
@@ -1188,7 +855,6 @@ This is the stripped_verb from the outset: banguo
 This is the stripped_verb: banguo
 This is the matching_lemma: bang
 RFLT banguoti:uoti_úoja_ãvo
-This is the matching file name again: uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 banguoti: 8
 bangúoja: 8
@@ -1201,7 +867,6 @@ This is the stripped_verb from the outset: bankrutuo
 This is the stripped_verb: bankrutuo
 This is the matching_lemma: bankrut
 RFLT bankrutuoti:uoti_úoja_ãvo
-This is the matching file name again: uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 bankrutuoti: 11
 bankrutúoja: 11
@@ -1214,7 +879,6 @@ This is the stripped_verb from the outset: barškin
 This is the stripped_verb: barškin
 This is the matching_lemma: baršk
 RFLT barškinti:inti_ina_ino
-This is the matching file name again: inti_ina_ino
 Reflexive? false :: lemma? true
 barškinti: 9
 bárškina: 8
@@ -1227,7 +891,6 @@ This is the stripped_verb from the outset: barsty
 This is the stripped_verb: barsty
 This is the matching_lemma: bar
 RFLT barstyti:styti_̃sto_̃stė
-This is the matching file name again: styti_̃sto_̃stė
 Reflexive? false :: lemma? true
 barstyti: 8
 bar̃sto: 7
@@ -1240,7 +903,6 @@ This is the stripped_verb from the outset: barsty
 This is the stripped_verb: barsty
 This is the matching_lemma: bar
 RTLT barstytis:stytis_̃stosi_̃stėsi
-This is the matching file name again: stytis_̃stosi_̃stėsi
 Reflexive? true :: lemma? true
 barstytis: 9
 bar̃stosi: 9
@@ -1253,7 +915,6 @@ This is the stripped_verb from the outset: bar
 This is the stripped_verb: bar
 This is the matching_lemma: bar
 RFLF barti:arti_ãra_ãrė
-This is the matching file name again: arti_ãra_ãrė
 Reflexive? false :: lemma? false
 barti: 5
 bãra: 4
@@ -1266,7 +927,6 @@ This is the stripped_verb from the outset: bar
 This is the stripped_verb: bar
 This is the matching_lemma: bar
 RTLF bartis:artis_ãrasi_ãrėsi
-This is the matching file name again: artis_ãrasi_ãrėsi
 Reflexive? true :: lemma? false
 bartis: 6
 bãrasi: 6
@@ -1279,7 +939,6 @@ This is the stripped_verb from the outset: baugin
 This is the stripped_verb: baugin
 This is the matching_lemma: baug
 RFLT bauginti:inti_ìna_ìno
-This is the matching file name again: inti_ìna_ìno
 Reflexive? false :: lemma? true
 bauginti: 8
 baugìna: 7
@@ -1292,7 +951,6 @@ This is the stripped_verb from the outset: baus
 This is the stripped_verb: baus
 This is the matching_lemma: baus
 RFLF bausti:austi_aũdžia_aũdė
-This is the matching file name again: austi_aũdžia_aũdė
 Reflexive? false :: lemma? false
 bausti: 6
 baũdžia: 7
@@ -1305,7 +963,6 @@ This is the stripped_verb from the outset: bėginė
 This is the stripped_verb: bėginė
 This is the matching_lemma: bėg
 RFLT bėginėti:inėti_inė́ja_inė́ja
-This is the matching file name again: inėti_inė́ja_inė́ja
 Reflexive? false :: lemma? true
 bėginėti: 8
 bėginė́ja: 9
@@ -1318,7 +975,6 @@ This is the stripped_verb from the outset: bėgio
 This is the stripped_verb: bėgio
 This is the matching_lemma: bėg
 RFLT bėgioti:ioti_iója_iójo
-This is the matching file name again: ioti_iója_iójo
 Reflexive? false :: lemma? true
 bėgioti: 7
 bėgiója: 7
@@ -1331,7 +987,6 @@ This is the stripped_verb from the outset: bėg
 This is the stripped_verb: bėg
 This is the matching_lemma: bėg
 RFLF bėgti:ėgti_ė́ga_ė́go
-This is the matching file name again: ėgti_ė́ga_ė́go
 Reflexive? false :: lemma? false
 bėgti: 5
 bė́ga: 5
@@ -1344,7 +999,6 @@ This is the stripped_verb from the outset: bidzen
 This is the stripped_verb: bidzen
 This is the matching_lemma: bi
 RFLT bidzenti:dzenti_zdena_zdeno
-This is the matching file name again: dzenti_zdena_zdeno
 Reflexive? false :: lemma? true
 bidzenti: 8
 bizdena: 7
@@ -1357,7 +1011,6 @@ This is the stripped_verb from the outset: bijo
 This is the stripped_verb: bijo
 This is the matching_lemma: bij
 RFLT bijoti:oti_o_ójo
-This is the matching file name again: oti_o_ójo
 Reflexive? false :: lemma? true
 bijoti: 6
 bìjo: 4
@@ -1370,7 +1023,6 @@ This is the stripped_verb from the outset: birb
 This is the stripped_verb: birb
 This is the matching_lemma: birb
 RFLF birbti:irbti_ir̃bia_ir̃bė
-This is the matching file name again: irbti_ir̃bia_ir̃bė
 Reflexive? false :: lemma? false
 birbti: 6
 bir̃bia: 7
@@ -1383,7 +1035,6 @@ This is the stripped_verb from the outset: bir
 This is the stripped_verb: bir
 This is the matching_lemma: bir
 RFLF birti:irti_ỹra_
-This is the matching file name again: irti_ỹra_
 Reflexive? false :: lemma? false
 birti: 5
 bỹra: 4
@@ -1396,7 +1047,6 @@ This is the stripped_verb from the outset: bjaurė
 This is the stripped_verb: bjaurė
 This is the matching_lemma: bjaur
 RTLT bjaurėtis:ėtis_isi_ė́josi
-This is the matching file name again: ėtis_isi_ė́josi
 Reflexive? true :: lemma? true
 bjaurėtis: 9
 bjaũrisi: 8
@@ -1409,7 +1059,6 @@ This is the stripped_verb from the outset: bjur
 This is the stripped_verb: bjur
 This is the matching_lemma: b
 RFLT bjurti:jurti_jursta_jùro
-This is the matching file name again: jurti_jursta_jùro
 Reflexive? false :: lemma? true
 bjurti: 6
 bjursta: 7
@@ -1422,7 +1071,6 @@ This is the stripped_verb from the outset: blank
 This is the stripped_verb: blank
 This is the matching_lemma: blank
 RFLF blankti:ankti_añksta_ánko
-This is the matching file name again: ankti_añksta_ánko
 Reflexive? false :: lemma? false
 blankti: 7
 blañksta: 8
@@ -1435,7 +1083,6 @@ This is the stripped_verb from the outset: blašky
 This is the stripped_verb: blašky
 This is the matching_lemma: blašk
 RFLT blaškyti:yti_o_ė
-This is the matching file name again: yti_o_ė
 Reflexive? false :: lemma? true
 blaškyti: 8
 blãško: 6
@@ -1448,7 +1095,6 @@ This is the stripped_verb from the outset: blašky
 This is the stripped_verb: blašky
 This is the matching_lemma: blašk
 RTLT blaškytis:ytis_osi_ėsi
-This is the matching file name again: ytis_osi_ėsi
 Reflexive? true :: lemma? true
 blaškytis: 9
 blãškosi: 8
@@ -1461,7 +1107,6 @@ This is the stripped_verb from the outset: blefuo
 This is the stripped_verb: blefuo
 This is the matching_lemma: b
 RFLT blefuoti:lefuoti_lefuoja_lefavo
-This is the matching file name again: lefuoti_lefuoja_lefavo
 Reflexive? false :: lemma? true
 blefuoti: 8
 blefuoja: 8
@@ -1474,7 +1119,6 @@ This is the stripped_verb from the outset: blęs
 This is the stripped_verb: blęs
 This is the matching_lemma: b
 RFLT blęsti:lęsti_leñdžia_leñdė
-This is the matching file name again: lęsti_leñdžia_leñdė
 Reflexive? false :: lemma? true
 blęsti: 6
 bleñdžia: 8
@@ -1487,7 +1131,6 @@ This is the stripped_verb from the outset: blizgė
 This is the stripped_verb: blizgė
 This is the matching_lemma: blizg
 RFLT blizgėti:ėti_a_ė́jo
-This is the matching file name again: ėti_a_ė́jo
 Reflexive? false :: lemma? true
 blizgėti: 8
 blìzga: 6
@@ -1500,7 +1143,6 @@ This is the stripped_verb from the outset: blizgin
 This is the stripped_verb: blizgin
 This is the matching_lemma: blizg
 RFLT blizginti:inti_ina_ino
-This is the matching file name again: inti_ina_ino
 Reflexive? false :: lemma? true
 blizginti: 9
 blìzgina: 8
@@ -1513,7 +1155,6 @@ This is the stripped_verb from the outset: blogė
 This is the stripped_verb: blogė
 This is the matching_lemma: blog
 RFLT blogėti:ėti_ė́ja_ė́jo
-This is the matching file name again: ėti_ė́ja_ė́jo
 Reflexive? false :: lemma? true
 blogėti: 7
 blogė́ja: 8
@@ -1526,7 +1167,6 @@ This is the stripped_verb from the outset: blogin
 This is the stripped_verb: blogin
 This is the matching_lemma: blog
 RFLT bloginti:inti_ina_ino
-This is the matching file name again: inti_ina_ino
 Reflexive? false :: lemma? true
 bloginti: 8
 blõgina: 7
@@ -1539,7 +1179,6 @@ This is the stripped_verb from the outset: blog
 This is the stripped_verb: blog
 This is the matching_lemma: blog
 RFLF blogti:i_a_
-This is the matching file name again: i_a_
 Reflexive? false :: lemma? false
 blogti: 6
 blogsta: 7
@@ -1552,7 +1191,6 @@ This is the stripped_verb from the outset: blokš
 This is the stripped_verb: blokš
 This is the matching_lemma: blokš
 RFLF blokšti:i_ia_ė
-This is the matching file name again: i_ia_ė
 Reflexive? false :: lemma? false
 blokšti: 7
 blõškia: 7
@@ -1565,7 +1203,6 @@ This is the stripped_verb from the outset: blokuo
 This is the stripped_verb: blokuo
 This is the matching_lemma: blok
 RFLT blokuoti:uoti_úoja_ãvo
-This is the matching file name again: uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 blokuoti: 8
 blokúoja: 8
@@ -1578,7 +1215,6 @@ This is the stripped_verb from the outset: blukin
 This is the stripped_verb: blukin
 This is the matching_lemma: bluk
 RFLT blukinti:inti_ina_ino
-This is the matching file name again: inti_ina_ino
 Reflexive? false :: lemma? true
 blukinti: 8
 blùkina: 7
@@ -1591,7 +1227,6 @@ This is the stripped_verb from the outset: bluk
 This is the stripped_verb: bluk
 This is the matching_lemma: bluk
 RFLF blukti:ukti_uñka_
-This is the matching file name again: ukti_uñka_
 Reflexive? false :: lemma? false
 blukti: 6
 bluñka: 6
@@ -1604,7 +1239,6 @@ This is the stripped_verb from the outset: blykš
 This is the stripped_verb: blykš
 This is the matching_lemma: blykš
 RFLF blykšti:ykšti_ỹkšta_ỹško
-This is the matching file name again: ykšti_ỹkšta_ỹško
 Reflexive? false :: lemma? false
 blykšti: 7
 blỹkšta: 7
@@ -1617,7 +1251,6 @@ This is the stripped_verb from the outset: bodė
 This is the stripped_verb: bodė
 This is the matching_lemma: bod
 RFLT bodėti:ėti_i_ėjo
-This is the matching file name again: ėti_i_ėjo
 Reflexive? false :: lemma? true
 bodėti: 6
 bõdi: 4
@@ -1630,7 +1263,6 @@ This is the stripped_verb from the outset: boluo
 This is the stripped_verb: boluo
 This is the matching_lemma: bol
 RFLT boluoti:uoti_úoja_ãvo
-This is the matching file name again: uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 boluoti: 7
 bolúoja: 7
@@ -1643,7 +1275,6 @@ This is the stripped_verb from the outset: bombarduo
 This is the stripped_verb: bombarduo
 This is the matching_lemma: bombard
 RFLT bombarduoti:uoti_úoja_ãvo
-This is the matching file name again: uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 bombarduoti: 11
 bombardúoja: 11
@@ -1656,7 +1287,6 @@ This is the stripped_verb from the outset: braidy
 This is the stripped_verb: braidy
 This is the matching_lemma: braid
 RFLT braidyti:yti_o_ė
-This is the matching file name again: yti_o_ė
 Reflexive? false :: lemma? true
 braidyti: 8
 braĩdo: 6
@@ -1669,7 +1299,6 @@ This is the stripped_verb from the outset: braižy
 This is the stripped_verb: braižy
 This is the matching_lemma: braiž
 RFLT braižyti:yti_o_ė
-This is the matching file name again: yti_o_ė
 Reflexive? false :: lemma? true
 braižyti: 8
 braĩžo: 6
@@ -1682,7 +1311,6 @@ This is the stripped_verb from the outset: brandin
 This is the stripped_verb: brandin
 This is the matching_lemma: brand
 RFLT brandinti:inti_ìna_ìno
-This is the matching file name again: inti_ìna_ìno
 Reflexive? false :: lemma? true
 brandinti: 9
 brandìna: 8
@@ -1695,7 +1323,6 @@ This is the stripped_verb from the outset: brangin
 This is the stripped_verb: brangin
 This is the matching_lemma: brang
 RFLT branginti:inti_ìna_ìno
-This is the matching file name again: inti_ìna_ìno
 Reflexive? false :: lemma? true
 branginti: 9
 brangìna: 8
@@ -1708,7 +1335,6 @@ This is the stripped_verb from the outset: brang
 This is the stripped_verb: brang
 This is the matching_lemma: brang
 RFLF brangti:angti_ángsta_ángo
-This is the matching file name again: angti_ángsta_ángo
 Reflexive? false :: lemma? false
 brangti: 7
 brángsta: 8
@@ -1721,7 +1347,6 @@ This is the stripped_verb from the outset: brauk
 This is the stripped_verb: brauk
 This is the matching_lemma: brauk
 RFLF braukti:aukti_aũkia_aũkė
-This is the matching file name again: aukti_aũkia_aũkė
 Reflexive? false :: lemma? false
 braukti: 7
 braũkia: 7
@@ -1734,7 +1359,6 @@ This is the stripped_verb from the outset: brauky
 This is the stripped_verb: brauky
 This is the matching_lemma: brauk
 RFLT braukyti:yti_o_ė
-This is the matching file name again: yti_o_ė
 Reflexive? false :: lemma? true
 braukyti: 8
 braũko: 6
@@ -1747,7 +1371,6 @@ This is the stripped_verb from the outset: brau
 This is the stripped_verb: brau
 This is the matching_lemma: brau
 RTLF brautis:autis_áunasi_ėsi
-This is the matching file name again: autis_áunasi_ėsi
 Reflexive? true :: lemma? false
 brautis: 7
 bráunasi: 8
@@ -1760,7 +1383,6 @@ This is the stripped_verb from the outset: brazdė
 This is the stripped_verb: brazdė
 This is the matching_lemma: b
 RFLT brazdėti:razdėti_rãzda_razdė́jo
-This is the matching file name again: razdėti_rãzda_razdė́jo
 Reflexive? false :: lemma? true
 brazdėti: 8
 brãzda: 6
@@ -1773,7 +1395,6 @@ This is the stripped_verb from the outset: bręs
 This is the stripped_verb: bręs
 This is the matching_lemma: brę
 RFLT bręsti:sti_́sta_ndo
-This is the matching file name again: sti_́sta_ndo
 Reflexive? false :: lemma? true
 bręsti: 6
 brę́sta: 7
@@ -1786,7 +1407,6 @@ This is the stripped_verb from the outset: brėž
 This is the stripped_verb: brėž
 This is the matching_lemma: brėž
 RFLF brėžti:ėžti_ė́žia_ė́žė
-This is the matching file name again: ėžti_ė́žia_ė́žė
 Reflexive? false :: lemma? false
 brėžti: 6
 brė́žia: 7
@@ -1799,7 +1419,6 @@ This is the stripped_verb from the outset: brink
 This is the stripped_verb: brink
 This is the matching_lemma: brink
 RFLF brinkti:inkti_a_
-This is the matching file name again: inkti_a_
 Reflexive? false :: lemma? false
 brinkti: 7
 brìnksta: 8
@@ -1812,7 +1431,6 @@ This is the stripped_verb from the outset: bris
 This is the stripped_verb: bris
 This is the matching_lemma: bris
 RFLF bristi:isti_eñda_
-This is the matching file name again: isti_eñda_
 Reflexive? false :: lemma? false
 bristi: 6
 breñda: 6
@@ -1825,7 +1443,6 @@ This is the stripped_verb from the outset: bruk
 This is the stripped_verb: bruk
 This is the matching_lemma: bruk
 RFLF brukti:ukti_unka_
-This is the matching file name again: ukti_unka_
 Reflexive? false :: lemma? false
 brukti: 6
 brunka: 6
@@ -1838,7 +1455,6 @@ This is the stripped_verb from the outset: brūžin
 This is the stripped_verb: brūžin
 This is the matching_lemma: brūž
 RFLT brūžinti:inti_žina_žino
-This is the matching file name again: inti_žina_žino
 Reflexive? false :: lemma? true
 brūžinti: 8
 brū́žina: 8
@@ -1851,7 +1467,6 @@ This is the stripped_verb from the outset: bučiuo
 This is the stripped_verb: bučiuo
 This is the matching_lemma: buč
 RFLT bučiuoti:iuoti_iúoja_iãvo
-This is the matching file name again: iuoti_iúoja_iãvo
 Reflexive? false :: lemma? true
 bučiuoti: 8
 bučiúoja: 8
@@ -1864,7 +1479,6 @@ This is the stripped_verb from the outset: bučiuo
 This is the stripped_verb: bučiuo
 This is the matching_lemma: buč
 RTLT bučiuotis:iuotis_iúojasi_iãvosi
-This is the matching file name again: iuotis_iúojasi_iãvosi
 Reflexive? true :: lemma? true
 bučiuotis: 9
 bučiúojasi: 10
@@ -1877,7 +1491,6 @@ This is the stripped_verb from the outset: budė
 This is the stripped_verb: budė
 This is the matching_lemma: bud
 RFLT budėti:ėti_i_ė́jo
-This is the matching file name again: ėti_i_ė́jo
 Reflexive? false :: lemma? true
 budėti: 6
 bùdi: 4
@@ -1890,7 +1503,6 @@ This is the stripped_verb from the outset: budin
 This is the stripped_verb: budin
 This is the matching_lemma: bud
 RFLT budinti:inti_ina_ino
-This is the matching file name again: inti_ina_ino
 Reflexive? false :: lemma? true
 budinti: 7
 bùdina: 6
@@ -1903,7 +1515,6 @@ This is the stripped_verb from the outset: būgštau
 This is the stripped_verb: būgštau
 This is the matching_lemma: būg
 RFLT būgštauti:štauti_gtauja_gštavo
-This is the matching file name again: štauti_gtauja_gštavo
 Reflexive? false :: lemma? true
 būgštauti: 9
 būšgtauja: 9
@@ -1916,7 +1527,6 @@ This is the stripped_verb from the outset: bujo
 This is the stripped_verb: bujo
 This is the matching_lemma: buj
 RFLT bujoti:oti_ója_ójo
-This is the matching file name again: oti_ója_ójo
 Reflexive? false :: lemma? true
 bujoti: 6
 bujója: 6
@@ -1929,7 +1539,6 @@ This is the stripped_verb from the outset: burbė
 This is the stripped_verb: burbė
 This is the matching_lemma: burb
 RFLT burbėti:ėti_a_ė́jo
-This is the matching file name again: ėti_a_ė́jo
 Reflexive? false :: lemma? true
 burbėti: 7
 bùrba: 5
@@ -1942,7 +1551,6 @@ This is the stripped_verb from the outset: burbuliuo
 This is the stripped_verb: burbuliuo
 This is the matching_lemma: burb
 RFLT burbuliuoti:uliuoti_uliúoja_uliãvo
-This is the matching file name again: uliuoti_uliúoja_uliãvo
 Reflexive? false :: lemma? true
 burbuliuoti: 11
 burbuliúoja: 11
@@ -1955,7 +1563,6 @@ This is the stripped_verb from the outset: buriuo
 This is the stripped_verb: buriuo
 This is the matching_lemma: bur
 RFLT buriuoti:iuoti_iúoja_iãvo
-This is the matching file name again: iuoti_iúoja_iãvo
 Reflexive? false :: lemma? true
 buriuoti: 8
 buriúoja: 8
@@ -1968,7 +1575,6 @@ This is the stripped_verb from the outset: būriuo
 This is the stripped_verb: būriuo
 This is the matching_lemma: būr
 RFLT būriuoti:iuoti_iúoja_iãvo
-This is the matching file name again: iuoti_iúoja_iãvo
 Reflexive? false :: lemma? true
 būriuoti: 8
 buriúoja: 8
@@ -1981,7 +1587,6 @@ This is the stripped_verb from the outset: bur
 This is the stripped_verb: bur
 This is the matching_lemma: bur
 RFLF burti:urti_ia_ū́rė
-This is the matching file name again: urti_ia_ū́rė
 Reflexive? false :: lemma? false
 burti: 5
 bùria: 5
@@ -1994,7 +1599,6 @@ This is the stripped_verb from the outset: bus
 This is the stripped_verb: bus
 This is the matching_lemma: bus
 RFLF busti:usti_uñda_
-This is the matching file name again: usti_uñda_
 Reflexive? false :: lemma? false
 busti: 5
 buñda: 5
@@ -2006,10 +1610,7 @@ This is the infinitive_verb from the outset: būti
 This is the stripped_verb from the outset: bū
 This is the stripped_verb: bū
 This is the matching_lemma: bū
-RFLF būti:ūti_yrà_
-This is the matching file name again: ūti_yrà_
 RFLF tebebūti:ebebūti_ebebū̃na_ebebùvo
-This is the matching file name again: ebebūti_ebebū̃na_ebebùvo
 Reflexive? false :: lemma? false
 tebebūti: 8
 tebebū̃na: 9
@@ -2022,7 +1623,6 @@ This is the stripped_verb from the outset: buvo
 This is the stripped_verb: buvo
 This is the matching_lemma: buv
 RFLT buvoti:oti_ója_ójo
-This is the matching file name again: oti_ója_ójo
 Reflexive? false :: lemma? true
 buvoti: 6
 buvója: 6
@@ -2035,7 +1635,6 @@ This is the stripped_verb from the outset: bylinė
 This is the stripped_verb: bylinė
 This is the matching_lemma: byl
 RTLT bylinėtis:inėtis_inė́jasi_inė́josi
-This is the matching file name again: inėtis_inė́jasi_inė́josi
 Reflexive? true :: lemma? true
 bylinėtis: 9
 bylinė́jasi: 11
@@ -2048,7 +1647,6 @@ This is the stripped_verb from the outset: bylo
 This is the stripped_verb: bylo
 This is the matching_lemma: byl
 RFLT byloti:oti_ója_ójo
-This is the matching file name again: oti_ója_ójo
 Reflexive? false :: lemma? true
 byloti: 6
 bylója: 6
@@ -2061,7 +1659,6 @@ This is the stripped_verb from the outset: byrė
 This is the stripped_verb: byrė
 This is the matching_lemma: byr
 RFLT byrėti:ėti_a_ė́jo
-This is the matching file name again: ėti_a_ė́jo
 Reflexive? false :: lemma? true
 byrėti: 6
 bỹra: 4
@@ -2074,7 +1671,6 @@ This is the stripped_verb from the outset: čežė
 This is the stripped_verb: čežė
 This is the matching_lemma: čež
 RFLT čežėti:ėti_a_ė́jo
-This is the matching file name again: ėti_a_ė́jo
 Reflexive? false :: lemma? true
 čežėti: 6
 čẽža: 4
@@ -2087,7 +1683,6 @@ This is the stripped_verb from the outset: čež
 This is the stripped_verb: čež
 This is the matching_lemma: čež
 RFLF čežti:ežti_ęžta_ežo
-This is the matching file name again: ežti_ęžta_ežo
 Reflexive? false :: lemma? false
 čežti: 5
 čęžta: 5
@@ -2100,7 +1695,6 @@ This is the stripped_verb from the outset: čiaudė
 This is the stripped_verb: čiaudė
 This is the matching_lemma: čiaud
 RFLT čiaudėti:ėti_ėja_ėjo
-This is the matching file name again: ėti_ėja_ėjo
 Reflexive? false :: lemma? true
 čiaudėti: 8
 čiáudėja: 8
@@ -2113,7 +1707,6 @@ This is the stripped_verb from the outset: čiauškė
 This is the stripped_verb: čiauškė
 This is the matching_lemma: čiaušk
 RFLT čiauškėti:ėti_a_ė́jo
-This is the matching file name again: ėti_a_ė́jo
 Reflexive? false :: lemma? true
 čiauškėti: 9
 čiáuška: 7
@@ -2126,7 +1719,6 @@ This is the stripped_verb from the outset: čiauž
 This is the stripped_verb: čiauž
 This is the matching_lemma: čia
 RFLT čiaužti:užti_užia_užė
-This is the matching file name again: užti_užia_užė
 Reflexive? false :: lemma? true
 čiaužti: 7
 čiaužia: 7
@@ -2139,7 +1731,6 @@ This is the stripped_verb from the outset: čirpė
 This is the stripped_verb: čirpė
 This is the matching_lemma: čirp
 RFLT čirpėti:ėti_a_ėjo
-This is the matching file name again: ėti_a_ėjo
 Reflexive? false :: lemma? true
 čirpėti: 7
 čirpa: 5
@@ -2152,7 +1743,6 @@ This is the stripped_verb from the outset: cituo
 This is the stripped_verb: cituo
 This is the matching_lemma: cit
 RFLT cituoti:uoti_úoja_ãvo
-This is the matching file name again: uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 cituoti: 7
 citúoja: 7
@@ -2165,7 +1755,6 @@ This is the stripped_verb from the outset: čiulbė
 This is the stripped_verb: čiulbė
 This is the matching_lemma: čiulb
 RFLT čiulbėti:ėti_a_ė́jo
-This is the matching file name again: ėti_a_ė́jo
 Reflexive? false :: lemma? true
 čiulbėti: 8
 čiùlba: 6
@@ -2178,7 +1767,6 @@ This is the stripped_verb from the outset: čiulp
 This is the stripped_verb: čiulp
 This is the matching_lemma: čiulp
 RFLF čiulpti:iulpti_iul̃pia_iul̃pė
-This is the matching file name again: iulpti_iul̃pia_iul̃pė
 Reflexive? false :: lemma? false
 čiulpti: 7
 čiul̃pia: 8
@@ -2191,7 +1779,6 @@ This is the stripped_verb from the outset: čiuožinė
 This is the stripped_verb: čiuožinė
 This is the matching_lemma: čiuož
 RFLT čiuožinėti:inėti_inė́ja_inė́ja
-This is the matching file name again: inėti_inė́ja_inė́ja
 Reflexive? false :: lemma? true
 čiuožinėti: 10
 čiuožinė́ja: 11
@@ -2204,7 +1791,6 @@ This is the stripped_verb from the outset: čiuož
 This is the stripped_verb: čiuož
 This is the matching_lemma: čiuož
 RFLF čiuožti:iuožti_iuõžia_iuõžė
-This is the matching file name again: iuožti_iuõžia_iuõžė
 Reflexive? false :: lemma? false
 čiuožti: 7
 čiuõžia: 7
@@ -2217,7 +1803,6 @@ This is the stripped_verb from the outset: čiup
 This is the stripped_verb: čiup
 This is the matching_lemma: čiup
 RFLF čiupti:iupti_iupa_iùpo
-This is the matching file name again: iupti_iupa_iùpo
 Reflexive? false :: lemma? false
 čiupti: 6
 čiupa: 5
@@ -2230,7 +1815,6 @@ This is the stripped_verb from the outset: civilizuo
 This is the stripped_verb: civilizuo
 This is the matching_lemma: civil
 RFLT civilizuoti:izuoti_izuoja_izãvo
-This is the matching file name again: izuoti_izuoja_izãvo
 Reflexive? false :: lemma? true
 civilizuoti: 11
 civilizuoja: 11
