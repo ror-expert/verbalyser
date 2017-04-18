@@ -9,6 +9,7 @@ describe Verbalyser::EndingsGrouper do
   let (:plaktis) {"aktis_ãkasi_ãkėsi"}
   let (:tamsėti) {"ėti_sė́ja_sė́jo"}
   let (:adyti) {"yti_o_ė"}
+  let (:akinti) {"inti_ina_ino"}
 
   subject {Verbalyser::EndingsGrouper.new}
 
@@ -38,6 +39,9 @@ describe Verbalyser::EndingsGrouper do
       expect(subject.create_classificatory_file_name("adyti")).to eq(adyti)
     end
 
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("akinti")).to eq(akinti)
+    end
 
 
   end
