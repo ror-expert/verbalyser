@@ -78,7 +78,6 @@ module Verbalyser
       @verb_file_name = ""
 
       @verb_database.each do |line|
-        # It's finding bandyti instead of adyti
 
         verb_array = line.strip.split(",")
         if verb_array[0].strip == infinitive_verb
@@ -95,6 +94,8 @@ module Verbalyser
       puts "past3_slice: #{@past3_slice}"
 
 
+
+
       if @infinitive_form.match(infinitive_verb)
 
 
@@ -102,14 +103,13 @@ module Verbalyser
         if @reflexivity == false && @lemma_suffix_found == true
 
           part1 = @infinitive_form[-(@nugget.length + "ti".length), (@nugget.length + "ti".length)]
-          #puts "This is part1 of #{@infinitive_form}: #{part1}"
 
           if @nugget_in == true
             part2 = @present3[@matching_lemma[0...-2].length..-1]
             puts "nugget true"
-          elsif @lemma_in == true
-            part2 = @present3_slice
-            puts "lemma true"
+          # elsif @lemma_in == true
+          #   part2 = @present3[@stripped_verb[0...-2].length..-1]
+          #   puts "lemma true"
           else
             part2 = @present3[@matching_lemma.length..-1]
             puts "neither true"
@@ -118,9 +118,9 @@ module Verbalyser
           if @nugget_in == true
             part3 = @past3[@matching_lemma[0...-2].length..-1]
             puts "nugget true"
-          elsif @lemma_in == true
-            part3 = @past3_slice
-            puts "lemma true"
+          # elsif @lemma_in == true
+          #   part3 = @past3[@stripped_verb[0...2].length..-1]
+          #   puts "lemma true"
           else
             part3 = @past3[@matching_lemma.length..-1]
             puts "neither true"
