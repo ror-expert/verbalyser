@@ -15,17 +15,22 @@ module Verbalyser
 
       @from_first_vowel = /[aãàáąą̃ą̀ą́eẽeẽèéęę̃ę̀ę́ėė̃ė̀ė́iĩìíį̃į̀įįyỹỳýũùúuųų̃ų̀ų́ūū̃ū̀ū́](.*)/
 
-      def identify_whether_verb_is_reflexive(infinitive_verb)
-        if infinitive_verb.strip[-2, 2] == "ti"
-          @reflexivity = false
-          @stripped_verb = infinitive_verb[0...-2]
-        elsif infinitive_verb.strip[-3, 3] == "tis"
-          @reflexivity = true
-          @stripped_verb = infinitive_verb[0...-3]
-        end
+    end
 
-        verb_reflexivity = @reflexivity
+    def identify_whether_verb_is_reflexive(infinitive_verb)
+      if infinitive_verb.strip[-2, 2] == "ti"
+        @reflexivity = false
+        @stripped_verb = infinitive_verb[0...-2]
       end
+
+      if infinitive_verb.strip[-3, 3] == "tis"
+        @reflexivity = true
+        @stripped_verb = infinitive_verb[0...-3]
+      end
+
+      puts "This is the infinitive_verb from the outset: #{infinitive_verb}"
+      puts "This is the stripped_verb from the outset: #{@stripped_verb}"
+      verb_reflexivity = @reflexivity
     end
 
     def check_for_lemma_suffix(stripped_verb)
@@ -43,6 +48,8 @@ module Verbalyser
 
       @matching_lemma = matching_stem_array.max
 
+      puts "This is the stripped_verb: #{stripped_verb}"
+      puts "This is the matching_lemma: #{@matching_lemma}"
       if @matching_lemma[-2,2] == "in"
         @nugget = stripped_verb[@matching_lemma[0...-2].length..-1]
         @nugget_in = true
@@ -65,6 +72,7 @@ module Verbalyser
 
       @verb_file_name = ""
 
+      #Something is happening that makes it find a false positive
       @verb_database.each do |line|
 
         if line.include?("#{infinitive_verb},")
@@ -74,6 +82,8 @@ module Verbalyser
           @infinitive_form = verb_array[0].strip
           @present3 = verb_array[1].strip
           @past3 = verb_array[2].strip
+
+          
 
 
           if @reflexivity == false && @lemma_suffix_found == true
@@ -85,7 +95,6 @@ module Verbalyser
               part2 = @present3[@matching_lemma[0...-2].length..-1]
             else
               part2 = @present3[@matching_lemma.length..-1]
-              #puts "This is part2 NR: #{part2}"
             end
 
             if @nugget_in == true
@@ -96,7 +105,7 @@ module Verbalyser
             end
 
             @file_name = "#{part1}_#{part2}_#{part3}"
-            puts "File name of #{@infinitive_form}:#{@file_name}"
+            puts "RFLT #{@infinitive_form}:#{@file_name}"
 
           elsif @reflexivity == true && @lemma_suffix_found == true
 
@@ -117,6 +126,7 @@ module Verbalyser
             end
 
             @file_name = "#{part1}_#{part2}_#{part3}"
+            puts "RTLT #{@infinitive_form}:#{@file_name}"
 
           elsif @reflexivity == false && @lemma_suffix_found == false
 
@@ -125,6 +135,7 @@ module Verbalyser
             part3 = @past3[@from_first_vowel]
 
             @file_name = "#{part1}_#{part2}_#{part3}"
+            puts "RFLF #{@infinitive_form}:#{@file_name}"
 
           elsif @reflexivity == true && @lemma_suffix_found == false
 
@@ -133,11 +144,19 @@ module Verbalyser
             part3 = @past3[@from_first_vowel]
 
             @file_name = "#{part1}_#{part2}_#{part3}"
+            puts "RTLF #{@infinitive_form}:#{@file_name}"
 
           else
             puts "Something has gone wrong"
           end
+
+          puts "This is the matching file name again: #{@file_name}"
+
         end
+
+
+
+
       end
 
       puts "Reflexive? #{@reflexivity} :: lemma? #{@lemma_suffix_found}"
@@ -161,11 +180,11 @@ module Verbalyser
       testing_output_verb_sequence = "[#{output_verb_sequence}]"
       file_path = @output_folder + @file_name + ".txt"
 
-      puts "#{infinitive_verb}: #{output_verb_sequence}"
+      # puts "#{infinitive_verb}: #{output_verb_sequence}"
 
       if File.exist?(file_path) == false
 
-        puts "No file for this pattern, creating a new one..."
+        # puts "No file for this pattern, creating a new one..."
 
         # new_verbs_array = "verbs_array = [#{output_verb_sequence}]"
 
@@ -186,88 +205,22 @@ module Verbalyser
         inspection_file = File.readlines(open_existing_file)
 
         inspection_file.map do |line|
-          puts "This is the line before the split:"
+          # puts "This is the line before the split:"
           item = line.split(",")
-          puts "This is the item: #{item}"
-          puts "This is the first element: #{item[0]}"
-          @test_for_duplicate =
-          puts "Is #{item[0]} identical to #{@infinitive_form}? #{item[0].match?(@infinitive_form)}"
+          # puts "This is the item: #{item}"
+          # puts "This is the first element: #{item[0]}"
+          @test_for_duplicate = item[0].match?(@infinitive_form)
         end
 
         if @test_for_duplicate == true
-          puts "There is a match somewhere in the file"
+          # puts "There is a match somewhere in the file"
         else
-          puts "no match found"
-          puts "Writing #{output_verb_sequence}"
+          # puts "no match found"
+          # puts "Writing #{output_verb_sequence}"
           open_existing_file.write(output_verb_sequence)
           open_existing_file.close
           # puts "Now this is what the file looks like: #{inspection_file}"
         end
-
-        # load file_path
-        # puts "This is the verbs array: #{@verbs_array}"
-        #
-        # existing_array = File.read(file_path)
-        #
-        # puts "This is the existing_array: #{existing_array}"
-        #
-        # existing_array.push(output_verb_sequence)
-        #
-        # puts "This is the existing_array now: #{existing_array}"
-
-
-        # inspect_file = File.readlines(inspection_file_open)
-        #
-        # puts "This is the inspection file: #{inspect_file}"
-        #
-        # inspect_file.push(output_verb_sequence)
-
-
-
-        # inspect_file.each do |item|
-        #   if item.include?(infinitive_verb)
-        #     puts "Found #{infinitive_verb} in #{item}"
-        #   .push(output_verb_sequence)
-        #   end
-        # end
-        #
-        # puts "This is the inspection_file"
-        # puts inspection_file
-
-        # check_for_duplicates.each do |array|
-        #   puts "This is the array: #{array}"
-        # end
-        #
-        # check_for_duplicates.each do |line|
-        #   # puts "This is the line: #{line}"
-        #   if line.include?(output_verb_sequence)
-        #     puts "sequence found: #{line} : #{output_verb_sequence}"
-        #   else
-        #     puts "sequence not found, writing #{output_verb_sequence} in #{file_path}"
-        #     output_file = File.open(file_path, "a+")
-        #     output_file.write(output_verb_sequence)
-        #     output_file.close
-        #     puts "the line now: #{line}"
-        #   end
-        # end
-
-        # inspection_file = File.open(file_path, "r")
-        # check_for_duplicates = IO.readlines(inspection_file)
-        #
-        # puts "\nFile already exists, checking for duplicates..."
-        #
-        # check_for_duplicates.each do |line|
-        #   if line.include?(output_verb_sequence)
-        #     puts "This line exists already: #{line}"
-        #     inspection_file.close
-        #     @inspection_results = output_verb_sequence.split(" ,")
-        #   elsif !line.include?(output_verb_sequence)
-        #     puts "#{output_verb_sequence} not found in #{line}"
-        #     output_file = File.open(file_path, "a+")
-        #     output_file.write(output_verb_sequence)
-        #     output_file.close
-        #   end
-        # end
       end
 
       file_check = @inspection_results

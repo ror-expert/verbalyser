@@ -1,4 +1,9 @@
-File name of absorbuoti:uoti_úoja_ãvo
+This is the infinitive_verb from the outset: absorbuoti
+This is the stripped_verb from the outset: absorbuo
+This is the stripped_verb: absorbuo
+This is the matching_lemma: absorb
+RFLT absorbuoti:uoti_úoja_ãvo
+This is the matching file name again: uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 absorbuoti: 10
 absorbúoja: 10
@@ -6,9 +11,12 @@ absorbãvo: 9
 lemma: absorb, nugget: uo
 uoti_úoja_ãvo
 
-absorbuoti: absorbuoti, absorbúoja, absorbãvo
-No file for this pattern, creating a new one...
-File name of abstrahuoti:uoti_úoja_ãvo
+This is the infinitive_verb from the outset: abstrahuoti
+This is the stripped_verb from the outset: abstrahuo
+This is the stripped_verb: abstrahuo
+This is the matching_lemma: abstrah
+RFLT abstrahuoti:uoti_úoja_ãvo
+This is the matching file name again: uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 abstrahuoti: 11
 abstrahúoja: 11
@@ -16,14 +24,12 @@ abstrahãvo: 10
 lemma: abstrah, nugget: uo
 uoti_úoja_ãvo
 
-abstrahuoti: abstrahuoti, abstrahúoja, abstrahãvo
-This is the line before the split:
-This is the item: ["absorbuoti", " absorbúoja", " absorbãvo\n"]
-This is the first element: absorbuoti
-Is absorbuoti identical to abstrahuoti? false
-no match found
-Writing abstrahuoti, abstrahúoja, abstrahãvo
-File name of abuojėti:uojėti_uojėja_uojėjo
+This is the infinitive_verb from the outset: abuojėti
+This is the stripped_verb from the outset: abuojė
+This is the stripped_verb: abuojė
+This is the matching_lemma: ab
+RFLT abuojėti:uojėti_uojėja_uojėjo
+This is the matching file name again: uojėti_uojėja_uojėjo
 Reflexive? false :: lemma? true
 abuojėti: 8
 abuojėja: 8
@@ -31,9 +37,12 @@ abuojėjo: 8
 lemma: ab, nugget: uojė
 uojėti_uojėja_uojėjo
 
-abuojėti: abuojėti, abuojėja, abuojėjo
-No file for this pattern, creating a new one...
-File name of adaptuoti:uoti_úoja_ãvo
+This is the infinitive_verb from the outset: adaptuoti
+This is the stripped_verb from the outset: adaptuo
+This is the stripped_verb: adaptuo
+This is the matching_lemma: adapt
+RFLT adaptuoti:uoti_úoja_ãvo
+This is the matching file name again: uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 adaptuoti: 9
 adaptúoja: 9
@@ -41,17 +50,12 @@ adaptãvo: 8
 lemma: adapt, nugget: uo
 uoti_úoja_ãvo
 
-adaptuoti: adaptuoti, adaptúoja, adaptãvo
-This is the line before the split:
-This is the item: ["absorbuoti", " absorbúoja", " absorbãvo\n"]
-This is the first element: absorbuoti
-Is absorbuoti identical to adaptuoti? false
-This is the line before the split:
-This is the item: ["abstrahuoti", " abstrahúoja", " abstrahãvo\n"]
-This is the first element: abstrahuoti
-Is abstrahuoti identical to adaptuoti? false
-no match found
-Writing adaptuoti, adaptúoja, adaptãvo
+This is the infinitive_verb from the outset: adaptuotis
+This is the stripped_verb from the outset: adaptuo
+This is the stripped_verb: adaptuo
+This is the matching_lemma: adapt
+RTLT adaptuotis:uotis_úojasi_ãvosi
+This is the matching file name again: uotis_úojasi_ãvosi
 Reflexive? true :: lemma? true
 adaptuotis: 10
 adaptúojasi: 11
@@ -59,9 +63,12 @@ adaptãvosi: 10
 lemma: adapt, nugget: uo
 uotis_úojasi_ãvosi
 
-adaptuotis: adaptuotis, adaptúojasi, adaptãvosi
-No file for this pattern, creating a new one...
-File name of adinėti:inėti_inėja_inėjo
+This is the infinitive_verb from the outset: adinėti
+This is the stripped_verb from the outset: adinė
+This is the stripped_verb: adinė
+This is the matching_lemma: ad
+RFLT adinėti:inėti_inėja_inėjo
+This is the matching file name again: inėti_inėja_inėjo
 Reflexive? false :: lemma? true
 adinėti: 7
 adinėja: 7
@@ -69,9 +76,12 @@ adinėjo: 7
 lemma: ad, nugget: inė
 inėti_inėja_inėjo
 
-adinėti: adinėti, adinėja, adinėjo
-No file for this pattern, creating a new one...
-File name of administruoti:uoti_úoja_ãvo
+This is the infinitive_verb from the outset: administruoti
+This is the stripped_verb from the outset: administruo
+This is the stripped_verb: administruo
+This is the matching_lemma: administr
+RFLT administruoti:uoti_úoja_ãvo
+This is the matching file name again: uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 administruoti: 13
 administrúoja: 13
@@ -79,22 +89,12 @@ administrãvo: 12
 lemma: administr, nugget: uo
 uoti_úoja_ãvo
 
-administruoti: administruoti, administrúoja, administrãvo
-This is the line before the split:
-This is the item: ["absorbuoti", " absorbúoja", " absorbãvo\n"]
-This is the first element: absorbuoti
-Is absorbuoti identical to administruoti? false
-This is the line before the split:
-This is the item: ["abstrahuoti", " abstrahúoja", " abstrahãvo\n"]
-This is the first element: abstrahuoti
-Is abstrahuoti identical to administruoti? false
-This is the line before the split:
-This is the item: ["adaptuoti", " adaptúoja", " adaptãvo\n"]
-This is the first element: adaptuoti
-Is adaptuoti identical to administruoti? false
-no match found
-Writing administruoti, administrúoja, administrãvo
-File name of adresuoti:uoti_úoja_ãvo
+This is the infinitive_verb from the outset: adresuoti
+This is the stripped_verb from the outset: adresuo
+This is the stripped_verb: adresuo
+This is the matching_lemma: adres
+RFLT adresuoti:uoti_úoja_ãvo
+This is the matching file name again: uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 adresuoti: 9
 adresúoja: 9
@@ -102,27 +102,14 @@ adresãvo: 8
 lemma: adres, nugget: uo
 uoti_úoja_ãvo
 
-adresuoti: adresuoti, adresúoja, adresãvo
-This is the line before the split:
-This is the item: ["absorbuoti", " absorbúoja", " absorbãvo\n"]
-This is the first element: absorbuoti
-Is absorbuoti identical to adresuoti? false
-This is the line before the split:
-This is the item: ["abstrahuoti", " abstrahúoja", " abstrahãvo\n"]
-This is the first element: abstrahuoti
-Is abstrahuoti identical to adresuoti? false
-This is the line before the split:
-This is the item: ["adaptuoti", " adaptúoja", " adaptãvo\n"]
-This is the first element: adaptuoti
-Is adaptuoti identical to adresuoti? false
-This is the line before the split:
-This is the item: ["administruoti", " administrúoja", " administrãvo\n"]
-This is the first element: administruoti
-Is administruoti identical to adresuoti? false
-no match found
-Writing adresuoti, adresúoja, adresãvo
-File name of adyti:yti_o_ė
-File name of badyti:yti_do_dė
+This is the infinitive_verb from the outset: adyti
+This is the stripped_verb from the outset: ady
+This is the stripped_verb: ady
+This is the matching_lemma: ad
+RFLT adyti:yti_o_ė
+This is the matching file name again: yti_o_ė
+RFLT badyti:yti_do_dė
+This is the matching file name again: yti_do_dė
 Reflexive? false :: lemma? true
 badyti: 6
 bãdo: 4
@@ -130,9 +117,12 @@ bãdė: 4
 lemma: ad, nugget: y
 yti_do_dė
 
-adyti: badyti, bãdo, bãdė
-No file for this pattern, creating a new one...
-File name of aidėti:ėti_i_ė́jo
+This is the infinitive_verb from the outset: aidėti
+This is the stripped_verb from the outset: aidė
+This is the stripped_verb: aidė
+This is the matching_lemma: aid
+RFLT aidėti:ėti_i_ė́jo
+This is the matching file name again: ėti_i_ė́jo
 Reflexive? false :: lemma? true
 aidėti: 6
 áidi: 4
@@ -140,9 +130,12 @@ aidė́jo: 7
 lemma: aid, nugget: ė
 ėti_i_ė́jo
 
-aidėti: aidėti, áidi, aidė́jo
-No file for this pattern, creating a new one...
-File name of aikčioti:čioti_čioja_čiojo
+This is the infinitive_verb from the outset: aikčioti
+This is the stripped_verb from the outset: aikčio
+This is the stripped_verb: aikčio
+This is the matching_lemma: aik
+RFLT aikčioti:čioti_čioja_čiojo
+This is the matching file name again: čioti_čioja_čiojo
 Reflexive? false :: lemma? true
 aikčioti: 8
 áikčioja: 8
@@ -150,9 +143,12 @@ aikčioti: 8
 lemma: aik, nugget: čio
 čioti_čioja_čiojo
 
-aikčioti: aikčioti, áikčioja, áikčiojo
-No file for this pattern, creating a new one...
-File name of akcentuoti:uoti_úoja_ãvo
+This is the infinitive_verb from the outset: akcentuoti
+This is the stripped_verb from the outset: akcentuo
+This is the stripped_verb: akcentuo
+This is the matching_lemma: akcent
+RFLT akcentuoti:uoti_úoja_ãvo
+This is the matching file name again: uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 akcentuoti: 10
 akcentúoja: 10
@@ -160,30 +156,12 @@ akcentãvo: 9
 lemma: akcent, nugget: uo
 uoti_úoja_ãvo
 
-akcentuoti: akcentuoti, akcentúoja, akcentãvo
-This is the line before the split:
-This is the item: ["absorbuoti", " absorbúoja", " absorbãvo\n"]
-This is the first element: absorbuoti
-Is absorbuoti identical to akcentuoti? false
-This is the line before the split:
-This is the item: ["abstrahuoti", " abstrahúoja", " abstrahãvo\n"]
-This is the first element: abstrahuoti
-Is abstrahuoti identical to akcentuoti? false
-This is the line before the split:
-This is the item: ["adaptuoti", " adaptúoja", " adaptãvo\n"]
-This is the first element: adaptuoti
-Is adaptuoti identical to akcentuoti? false
-This is the line before the split:
-This is the item: ["administruoti", " administrúoja", " administrãvo\n"]
-This is the first element: administruoti
-Is administruoti identical to akcentuoti? false
-This is the line before the split:
-This is the item: ["adresuoti", " adresúoja", " adresãvo\n"]
-This is the first element: adresuoti
-Is adresuoti identical to akcentuoti? false
-no match found
-Writing akcentuoti, akcentúoja, akcentãvo
-File name of akėti:ėti_ė́ja_ė́jo
+This is the infinitive_verb from the outset: akėti
+This is the stripped_verb from the outset: akė
+This is the stripped_verb: akė
+This is the matching_lemma: ak
+RFLT akėti:ėti_ė́ja_ė́jo
+This is the matching file name again: ėti_ė́ja_ė́jo
 Reflexive? false :: lemma? true
 akėti: 5
 akė́ja: 6
@@ -191,10 +169,14 @@ akė́jo: 6
 lemma: ak, nugget: ė
 ėti_ė́ja_ė́jo
 
-akėti: akėti, akė́ja, akė́jo
-No file for this pattern, creating a new one...
-File name of akinti:nti_na_no
-File name of rakinti:nti_ìna_ìno
+This is the infinitive_verb from the outset: akinti
+This is the stripped_verb from the outset: akin
+This is the stripped_verb: akin
+This is the matching_lemma: aki
+RFLT akinti:nti_na_no
+This is the matching file name again: nti_na_no
+RFLT rakinti:nti_ìna_ìno
+This is the matching file name again: nti_ìna_ìno
 Reflexive? false :: lemma? true
 rakinti: 7
 rakìna: 6
@@ -202,8 +184,14 @@ rakìno: 6
 lemma: aki, nugget: n
 nti_ìna_ìno
 
-akinti: rakinti, rakìna, rakìno
-No file for this pattern, creating a new one...
+This is the infinitive_verb from the outset: akti
+This is the stripped_verb from the outset: ak
+This is the stripped_verb: ak
+This is the matching_lemma: ak
+RFLF akti:akti_añka_ãko
+This is the matching file name again: akti_añka_ãko
+RFLF plakti:akti_ãka_ãkė
+This is the matching file name again: akti_ãka_ãkė
 Reflexive? false :: lemma? false
 plakti: 6
 plãka: 5
@@ -211,9 +199,12 @@ plãkė: 5
 lemma: ak, nugget: 
 akti_ãka_ãkė
 
-akti: plakti, plãka, plãkė
-No file for this pattern, creating a new one...
-File name of aktyvėti:ėti_ė́ja_ė́jo
+This is the infinitive_verb from the outset: aktyvėti
+This is the stripped_verb from the outset: aktyvė
+This is the stripped_verb: aktyvė
+This is the matching_lemma: aktyv
+RFLT aktyvėti:ėti_ė́ja_ė́jo
+This is the matching file name again: ėti_ė́ja_ė́jo
 Reflexive? false :: lemma? true
 aktyvėti: 8
 aktyvė́ja: 9
@@ -221,14 +212,12 @@ aktyvė́jo: 9
 lemma: aktyv, nugget: ė
 ėti_ė́ja_ė́jo
 
-aktyvėti: aktyvėti, aktyvė́ja, aktyvė́jo
-This is the line before the split:
-This is the item: ["akėti", " akė́ja", " akė́jo\n"]
-This is the first element: akėti
-Is akėti identical to aktyvėti? false
-no match found
-Writing aktyvėti, aktyvė́ja, aktyvė́jo
-File name of aktyvinti:inti_ina_ino
+This is the infinitive_verb from the outset: aktyvinti
+This is the stripped_verb from the outset: aktyvin
+This is the stripped_verb: aktyvin
+This is the matching_lemma: aktyv
+RFLT aktyvinti:inti_ina_ino
+This is the matching file name again: inti_ina_ino
 Reflexive? false :: lemma? true
 aktyvinti: 9
 aktỹvina: 8
@@ -236,9 +225,12 @@ aktỹvino: 8
 lemma: aktyv, nugget: in
 inti_ina_ino
 
-aktyvinti: aktyvinti, aktỹvina, aktỹvino
-No file for this pattern, creating a new one...
-File name of aktyvuoti:uoti_uoja_avo
+This is the infinitive_verb from the outset: aktyvuoti
+This is the stripped_verb from the outset: aktyvuo
+This is the stripped_verb: aktyvuo
+This is the matching_lemma: aktyv
+RFLT aktyvuoti:uoti_uoja_avo
+This is the matching file name again: uoti_uoja_avo
 Reflexive? false :: lemma? true
 aktyvuoti: 9
 aktyvuoja: 9
@@ -246,8 +238,12 @@ aktyvavo: 8
 lemma: aktyv, nugget: uo
 uoti_uoja_avo
 
-aktyvuoti: aktyvuoti, aktyvuoja, aktyvavo
-No file for this pattern, creating a new one...
+This is the infinitive_verb from the outset: alkti
+This is the stripped_verb from the outset: alk
+This is the stripped_verb: alk
+This is the matching_lemma: alk
+RFLF alkti:alkti_álksta_al̃ko
+This is the matching file name again: alkti_álksta_al̃ko
 Reflexive? false :: lemma? false
 alkti: 5
 álksta: 6
@@ -255,8 +251,12 @@ al̃ko: 5
 lemma: alk, nugget: 
 alkti_álksta_al̃ko
 
-alkti: alkti, álksta, al̃ko
-No file for this pattern, creating a new one...
+This is the infinitive_verb from the outset: alpti
+This is the stripped_verb from the outset: alp
+This is the stripped_verb: alp
+This is the matching_lemma: alp
+RFLF alpti:alpti_al̃psta_al̃po
+This is the matching file name again: alpti_al̃psta_al̃po
 Reflexive? false :: lemma? false
 alpti: 5
 al̃psta: 7
@@ -264,9 +264,12 @@ al̃po: 5
 lemma: alp, nugget: 
 alpti_al̃psta_al̃po
 
-alpti: alpti, al̃psta, al̃po
-No file for this pattern, creating a new one...
-File name of alsinti:inti_ìna_ìno
+This is the infinitive_verb from the outset: alsinti
+This is the stripped_verb from the outset: alsin
+This is the stripped_verb: alsin
+This is the matching_lemma: als
+RFLT alsinti:inti_ìna_ìno
+This is the matching file name again: inti_ìna_ìno
 Reflexive? false :: lemma? true
 alsinti: 7
 alsìna: 6
@@ -274,9 +277,12 @@ alsìno: 6
 lemma: als, nugget: in
 inti_ìna_ìno
 
-alsinti: alsinti, alsìna, alsìno
-No file for this pattern, creating a new one...
-File name of amputuoti:uoti_uoja_ãvo
+This is the infinitive_verb from the outset: amputuoti
+This is the stripped_verb from the outset: amputuo
+This is the stripped_verb: amputuo
+This is the matching_lemma: amput
+RFLT amputuoti:uoti_uoja_ãvo
+This is the matching file name again: uoti_uoja_ãvo
 Reflexive? false :: lemma? true
 amputuoti: 9
 amputuoja: 9
@@ -284,10 +290,14 @@ amputãvo: 8
 lemma: amput, nugget: uo
 uoti_uoja_ãvo
 
-amputuoti: amputuoti, amputuoja, amputãvo
-No file for this pattern, creating a new one...
-File name of amsėti:ėti_i_ė́jo
-File name of tamsėti:ėti_sė́ja_sė́jo
+This is the infinitive_verb from the outset: amsėti
+This is the stripped_verb from the outset: amsė
+This is the stripped_verb: amsė
+This is the matching_lemma: ams
+RFLT amsėti:ėti_i_ė́jo
+This is the matching file name again: ėti_i_ė́jo
+RFLT tamsėti:ėti_sė́ja_sė́jo
+This is the matching file name again: ėti_sė́ja_sė́jo
 Reflexive? false :: lemma? true
 tamsėti: 7
 tamsė́ja: 8
@@ -295,9 +305,12 @@ tamsė́jo: 8
 lemma: ams, nugget: ė
 ėti_sė́ja_sė́jo
 
-amsėti: tamsėti, tamsė́ja, tamsė́jo
-No file for this pattern, creating a new one...
-File name of amžinti:inti_inà_ino
+This is the infinitive_verb from the outset: amžinti
+This is the stripped_verb from the outset: amžin
+This is the stripped_verb: amžin
+This is the matching_lemma: amž
+RFLT amžinti:inti_inà_ino
+This is the matching file name again: inti_inà_ino
 Reflexive? false :: lemma? true
 amžinti: 7
 amžinà: 6
@@ -305,9 +318,12 @@ amžinà: 6
 lemma: amž, nugget: in
 inti_inà_ino
 
-amžinti: amžinti, amžinà, ámžino
-No file for this pattern, creating a new one...
-File name of analizuoti:uoti_úoja_ãvo
+This is the infinitive_verb from the outset: analizuoti
+This is the stripped_verb from the outset: analizuo
+This is the stripped_verb: analizuo
+This is the matching_lemma: analiz
+RFLT analizuoti:uoti_úoja_ãvo
+This is the matching file name again: uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 analizuoti: 10
 analizúoja: 10
@@ -315,34 +331,12 @@ analizãvo: 9
 lemma: analiz, nugget: uo
 uoti_úoja_ãvo
 
-analizuoti: analizuoti, analizúoja, analizãvo
-This is the line before the split:
-This is the item: ["absorbuoti", " absorbúoja", " absorbãvo\n"]
-This is the first element: absorbuoti
-Is absorbuoti identical to analizuoti? false
-This is the line before the split:
-This is the item: ["abstrahuoti", " abstrahúoja", " abstrahãvo\n"]
-This is the first element: abstrahuoti
-Is abstrahuoti identical to analizuoti? false
-This is the line before the split:
-This is the item: ["adaptuoti", " adaptúoja", " adaptãvo\n"]
-This is the first element: adaptuoti
-Is adaptuoti identical to analizuoti? false
-This is the line before the split:
-This is the item: ["administruoti", " administrúoja", " administrãvo\n"]
-This is the first element: administruoti
-Is administruoti identical to analizuoti? false
-This is the line before the split:
-This is the item: ["adresuoti", " adresúoja", " adresãvo\n"]
-This is the first element: adresuoti
-Is adresuoti identical to analizuoti? false
-This is the line before the split:
-This is the item: ["akcentuoti", " akcentúoja", " akcentãvo\n"]
-This is the first element: akcentuoti
-Is akcentuoti identical to analizuoti? false
-no match found
-Writing analizuoti, analizúoja, analizãvo
-File name of aneksuoti:eksuoti_eksúoja_eksãvo
+This is the infinitive_verb from the outset: aneksuoti
+This is the stripped_verb from the outset: aneksuo
+This is the stripped_verb: aneksuo
+This is the matching_lemma: an
+RFLT aneksuoti:eksuoti_eksúoja_eksãvo
+This is the matching file name again: eksuoti_eksúoja_eksãvo
 Reflexive? false :: lemma? true
 aneksuoti: 9
 aneksúoja: 9
@@ -350,9 +344,12 @@ aneksãvo: 8
 lemma: an, nugget: eksuo
 eksuoti_eksúoja_eksãvo
 
-aneksuoti: aneksuoti, aneksúoja, aneksãvo
-No file for this pattern, creating a new one...
-File name of antspauduoti:spauduoti_spaudúoja_spaudãvo
+This is the infinitive_verb from the outset: antspauduoti
+This is the stripped_verb from the outset: antspauduo
+This is the stripped_verb: antspauduo
+This is the matching_lemma: ant
+RFLT antspauduoti:spauduoti_spaudúoja_spaudãvo
+This is the matching file name again: spauduoti_spaudúoja_spaudãvo
 Reflexive? false :: lemma? true
 antspauduoti: 12
 antspaudúoja: 12
@@ -360,13 +357,20 @@ antspaudãvo: 11
 lemma: ant, nugget: spauduo
 spauduoti_spaudúoja_spaudãvo
 
-antspauduoti: antspauduoti, antspaudúoja, antspaudãvo
-No file for this pattern, creating a new one...
-File name of ardyti:dyti_̃do_̃dė
-File name of nardyti:dyti_rdo_rdė
-File name of tardyti:dyti_rdo_rdė
-File name of tvardyti:dyti_árdo_árdė
-File name of vardyti:dyti_r̃dija_r̃dijo
+This is the infinitive_verb from the outset: ardyti
+This is the stripped_verb from the outset: ardy
+This is the stripped_verb: ardy
+This is the matching_lemma: ar
+RFLT ardyti:dyti_̃do_̃dė
+This is the matching file name again: dyti_̃do_̃dė
+RFLT nardyti:dyti_rdo_rdė
+This is the matching file name again: dyti_rdo_rdė
+RFLT tardyti:dyti_rdo_rdė
+This is the matching file name again: dyti_rdo_rdė
+RFLT tvardyti:dyti_árdo_árdė
+This is the matching file name again: dyti_árdo_árdė
+RFLT vardyti:dyti_r̃dija_r̃dijo
+This is the matching file name again: dyti_r̃dija_r̃dijo
 Reflexive? false :: lemma? true
 vardyti: 7
 var̃dija: 8
@@ -374,9 +378,12 @@ var̃dijo: 8
 lemma: ar, nugget: dy
 dyti_r̃dija_r̃dijo
 
-ardyti: vardyti, var̃dija, var̃dijo
-No file for this pattern, creating a new one...
-File name of areštuoti:uoti_úoja_ãvo
+This is the infinitive_verb from the outset: areštuoti
+This is the stripped_verb from the outset: areštuo
+This is the stripped_verb: areštuo
+This is the matching_lemma: arešt
+RFLT areštuoti:uoti_úoja_ãvo
+This is the matching file name again: uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 areštuoti: 9
 areštúoja: 9
@@ -384,38 +391,12 @@ areštãvo: 8
 lemma: arešt, nugget: uo
 uoti_úoja_ãvo
 
-areštuoti: areštuoti, areštúoja, areštãvo
-This is the line before the split:
-This is the item: ["absorbuoti", " absorbúoja", " absorbãvo\n"]
-This is the first element: absorbuoti
-Is absorbuoti identical to areštuoti? false
-This is the line before the split:
-This is the item: ["abstrahuoti", " abstrahúoja", " abstrahãvo\n"]
-This is the first element: abstrahuoti
-Is abstrahuoti identical to areštuoti? false
-This is the line before the split:
-This is the item: ["adaptuoti", " adaptúoja", " adaptãvo\n"]
-This is the first element: adaptuoti
-Is adaptuoti identical to areštuoti? false
-This is the line before the split:
-This is the item: ["administruoti", " administrúoja", " administrãvo\n"]
-This is the first element: administruoti
-Is administruoti identical to areštuoti? false
-This is the line before the split:
-This is the item: ["adresuoti", " adresúoja", " adresãvo\n"]
-This is the first element: adresuoti
-Is adresuoti identical to areštuoti? false
-This is the line before the split:
-This is the item: ["akcentuoti", " akcentúoja", " akcentãvo\n"]
-This is the first element: akcentuoti
-Is akcentuoti identical to areštuoti? false
-This is the line before the split:
-This is the item: ["analizuoti", " analizúoja", " analizãvo\n"]
-This is the first element: analizuoti
-Is analizuoti identical to areštuoti? false
-no match found
-Writing areštuoti, areštúoja, areštãvo
-File name of artėti:ėti_ė́ja_ė́jo
+This is the infinitive_verb from the outset: artėti
+This is the stripped_verb from the outset: artė
+This is the stripped_verb: artė
+This is the matching_lemma: art
+RFLT artėti:ėti_ė́ja_ė́jo
+This is the matching file name again: ėti_ė́ja_ė́jo
 Reflexive? false :: lemma? true
 artėti: 6
 artė́ja: 7
@@ -423,17 +404,18 @@ artė́jo: 7
 lemma: art, nugget: ė
 ėti_ė́ja_ė́jo
 
-artėti: artėti, artė́ja, artė́jo
-This is the line before the split:
-This is the item: ["akėti", " akė́ja", " akė́jo\n"]
-This is the first element: akėti
-Is akėti identical to artėti? false
-This is the line before the split:
-This is the item: ["aktyvėti", " aktyvė́ja", " aktyvė́jo\n"]
-This is the first element: aktyvėti
-Is aktyvėti identical to artėti? false
-no match found
-Writing artėti, artė́ja, artė́jo
+This is the infinitive_verb from the outset: arti
+This is the stripped_verb from the outset: ar
+This is the stripped_verb: ar
+This is the matching_lemma: ar
+RFLF arti:arti_ãria_ãrė
+This is the matching file name again: arti_ãria_ãrė
+RFLF barti:arti_ãra_ãrė
+This is the matching file name again: arti_ãra_ãrė
+RFLF karti:arti_ãria_ė
+This is the matching file name again: arti_ãria_ė
+RFLF tarti:arti_ãria_ãrė
+This is the matching file name again: arti_ãria_ãrė
 Reflexive? false :: lemma? false
 tarti: 5
 tãria: 5
@@ -441,9 +423,12 @@ tãrė: 4
 lemma: ar, nugget: 
 arti_ãria_ãrė
 
-arti: tarti, tãria, tãrė
-No file for this pattern, creating a new one...
-File name of artinti:inti_tina_tino
+This is the infinitive_verb from the outset: artinti
+This is the stripped_verb from the outset: artin
+This is the stripped_verb: artin
+This is the matching_lemma: art
+RFLT artinti:inti_tina_tino
+This is the matching file name again: inti_tina_tino
 Reflexive? false :: lemma? true
 artinti: 7
 ar̃tina: 7
@@ -451,8 +436,12 @@ ar̃tino: 7
 lemma: art, nugget: in
 inti_tina_tino
 
-artinti: artinti, ar̃tina, ar̃tino
-No file for this pattern, creating a new one...
+This is the infinitive_verb from the outset: artintis
+This is the stripped_verb from the outset: artin
+This is the stripped_verb: artin
+This is the matching_lemma: art
+RTLT artintis:intis_tinasi_tinosi
+This is the matching file name again: intis_tinasi_tinosi
 Reflexive? true :: lemma? true
 artintis: 8
 ar̃tinasi: 9
@@ -460,9 +449,12 @@ ar̃tinosi: 9
 lemma: art, nugget: in
 intis_tinasi_tinosi
 
-artintis: artintis, ar̃tinasi, ar̃tinosi
-No file for this pattern, creating a new one...
-File name of asimiliuoti:iuoti_iúoja_iãvo
+This is the infinitive_verb from the outset: asimiliuoti
+This is the stripped_verb from the outset: asimiliuo
+This is the stripped_verb: asimiliuo
+This is the matching_lemma: asimil
+RFLT asimiliuoti:iuoti_iúoja_iãvo
+This is the matching file name again: iuoti_iúoja_iãvo
 Reflexive? false :: lemma? true
 asimiliuoti: 11
 asimiliúoja: 11
@@ -470,9 +462,12 @@ asimiliãvo: 10
 lemma: asimil, nugget: iuo
 iuoti_iúoja_iãvo
 
-asimiliuoti: asimiliuoti, asimiliúoja, asimiliãvo
-No file for this pattern, creating a new one...
-File name of asmenuoti:enuoti_enúoja_enãvo
+This is the infinitive_verb from the outset: asmenuoti
+This is the stripped_verb from the outset: asmenuo
+This is the stripped_verb: asmenuo
+This is the matching_lemma: asm
+RFLT asmenuoti:enuoti_enúoja_enãvo
+This is the matching file name again: enuoti_enúoja_enãvo
 Reflexive? false :: lemma? true
 asmenuoti: 9
 asmenúoja: 9
@@ -480,9 +475,12 @@ asmenãvo: 8
 lemma: asm, nugget: enuo
 enuoti_enúoja_enãvo
 
-asmenuoti: asmenuoti, asmenúoja, asmenãvo
-No file for this pattern, creating a new one...
-File name of asocijuoti:uoti_úoja_avo
+This is the infinitive_verb from the outset: asocijuoti
+This is the stripped_verb from the outset: asocijuo
+This is the stripped_verb: asocijuo
+This is the matching_lemma: asocij
+RFLT asocijuoti:uoti_úoja_avo
+This is the matching file name again: uoti_úoja_avo
 Reflexive? false :: lemma? true
 asocijuoti: 10
 asocijúoja: 10
@@ -490,12 +488,18 @@ asocijavo: 9
 lemma: asocij, nugget: uo
 uoti_úoja_avo
 
-asocijuoti: asocijuoti, asocijúoja, asocijavo
-No file for this pattern, creating a new one...
-File name of audėti:ėti_a_ė́jo
-File name of čiaudėti:ėti_udėja_udėjo
-File name of griaudėti:ėti_audė́ja_audė́jo
-File name of skaudėti:ėti_ũda_udė́jo
+This is the infinitive_verb from the outset: audėti
+This is the stripped_verb from the outset: audė
+This is the stripped_verb: audė
+This is the matching_lemma: aud
+RFLT audėti:ėti_a_ė́jo
+This is the matching file name again: ėti_a_ė́jo
+RFLT čiaudėti:ėti_udėja_udėjo
+This is the matching file name again: ėti_udėja_udėjo
+RFLT griaudėti:ėti_audė́ja_audė́jo
+This is the matching file name again: ėti_audė́ja_audė́jo
+RFLT skaudėti:ėti_ũda_udė́jo
+This is the matching file name again: ėti_ũda_udė́jo
 Reflexive? false :: lemma? true
 skaudėti: 8
 skaũda: 6
@@ -503,12 +507,18 @@ skaudė́jo: 9
 lemma: aud, nugget: ė
 ėti_ũda_udė́jo
 
-audėti: skaudėti, skaũda, skaudė́jo
-No file for this pattern, creating a new one...
-File name of auginti:inti_ìna_ìno
-File name of bauginti:inti_gìna_gìno
-File name of dauginti:inti_gina_gino
-File name of rauginti:inti_gìna_gìno
+This is the infinitive_verb from the outset: auginti
+This is the stripped_verb from the outset: augin
+This is the stripped_verb: augin
+This is the matching_lemma: aug
+RFLT auginti:inti_ìna_ìno
+This is the matching file name again: inti_ìna_ìno
+RFLT bauginti:inti_gìna_gìno
+This is the matching file name again: inti_gìna_gìno
+RFLT dauginti:inti_gina_gino
+This is the matching file name again: inti_gina_gino
+RFLT rauginti:inti_gìna_gìno
+This is the matching file name again: inti_gìna_gìno
 Reflexive? false :: lemma? true
 rauginti: 8
 raugìna: 7
@@ -516,8 +526,20 @@ raugìno: 7
 lemma: aug, nugget: in
 inti_gìna_gìno
 
-auginti: rauginti, raugìna, raugìno
-No file for this pattern, creating a new one...
+This is the infinitive_verb from the outset: augti
+This is the stripped_verb from the outset: aug
+This is the stripped_verb: aug
+This is the matching_lemma: aug
+RFLF augti:augti_áuga_áugo
+This is the matching file name again: augti_áuga_áugo
+RFLF raugti:augti_áugia_áugė
+This is the matching file name again: augti_áugia_áugė
+RFLF smaugti:augti_áugia_áugė
+This is the matching file name again: augti_áugia_áugė
+RFLF staugti:augti_áugia_áugė
+This is the matching file name again: augti_áugia_áugė
+RFLF žliaugti:iaugti_iaũgia_iaũgė
+This is the matching file name again: iaugti_iaũgia_iaũgė
 Reflexive? false :: lemma? false
 žliaugti: 8
 žliaũgia: 8
@@ -525,9 +547,12 @@ Reflexive? false :: lemma? false
 lemma: aug, nugget: 
 iaugti_iaũgia_iaũgė
 
-augti: žliaugti, žliaũgia, žliaũgė
-No file for this pattern, creating a new one...
-File name of auklėti:ėti_ėja_ėjo
+This is the infinitive_verb from the outset: auklėti
+This is the stripped_verb from the outset: auklė
+This is the stripped_verb: auklė
+This is the matching_lemma: aukl
+RFLT auklėti:ėti_ėja_ėjo
+This is the matching file name again: ėti_ėja_ėjo
 Reflexive? false :: lemma? true
 auklėti: 7
 áuklėja: 7
@@ -535,9 +560,12 @@ auklėti: 7
 lemma: aukl, nugget: ė
 ėti_ėja_ėjo
 
-auklėti: auklėti, áuklėja, áuklėjo
-No file for this pattern, creating a new one...
-File name of aukoti:oti_ója_ójo
+This is the infinitive_verb from the outset: aukoti
+This is the stripped_verb from the outset: auko
+This is the stripped_verb: auko
+This is the matching_lemma: auk
+RFLT aukoti:oti_ója_ójo
+This is the matching file name again: oti_ója_ójo
 Reflexive? false :: lemma? true
 aukoti: 6
 aukója: 6
@@ -545,8 +573,12 @@ aukójo: 6
 lemma: auk, nugget: o
 oti_ója_ójo
 
-aukoti: aukoti, aukója, aukójo
-No file for this pattern, creating a new one...
+This is the infinitive_verb from the outset: aukotis
+This is the stripped_verb from the outset: auko
+This is the stripped_verb: auko
+This is the matching_lemma: auk
+RTLT aukotis:otis_ója_ójo
+This is the matching file name again: otis_ója_ójo
 Reflexive? true :: lemma? true
 aukotis: 7
 aukója: 6
@@ -554,9 +586,12 @@ aukójo: 6
 lemma: auk, nugget: o
 otis_ója_ójo
 
-aukotis: aukotis, aukója, aukójo
-No file for this pattern, creating a new one...
-File name of aukštinti:inti_ina_ino
+This is the infinitive_verb from the outset: aukštinti
+This is the stripped_verb from the outset: aukštin
+This is the stripped_verb: aukštin
+This is the matching_lemma: aukšt
+RFLT aukštinti:inti_ina_ino
+This is the matching file name again: inti_ina_ino
 Reflexive? false :: lemma? true
 aukštinti: 9
 áukština: 8
@@ -564,14 +599,12 @@ aukštinti: 9
 lemma: aukšt, nugget: in
 inti_ina_ino
 
-aukštinti: aukštinti, áukština, áukštino
-This is the line before the split:
-This is the item: ["aktyvinti", " aktỹvina", " aktỹvino\n"]
-This is the first element: aktyvinti
-Is aktyvinti identical to aukštinti? false
-no match found
-Writing aukštinti, áukština, áukštino
-File name of auksuoti:uoti_úoja_ãvo
+This is the infinitive_verb from the outset: auksuoti
+This is the stripped_verb from the outset: auksuo
+This is the stripped_verb: auksuo
+This is the matching_lemma: auks
+RFLT auksuoti:uoti_úoja_ãvo
+This is the matching file name again: uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 auksuoti: 8
 auksúoja: 8
@@ -579,41 +612,32 @@ auksãvo: 7
 lemma: auks, nugget: uo
 uoti_úoja_ãvo
 
-auksuoti: auksuoti, auksúoja, auksãvo
-This is the line before the split:
-This is the item: ["absorbuoti", " absorbúoja", " absorbãvo\n"]
-This is the first element: absorbuoti
-Is absorbuoti identical to auksuoti? false
-This is the line before the split:
-This is the item: ["abstrahuoti", " abstrahúoja", " abstrahãvo\n"]
-This is the first element: abstrahuoti
-Is abstrahuoti identical to auksuoti? false
-This is the line before the split:
-This is the item: ["adaptuoti", " adaptúoja", " adaptãvo\n"]
-This is the first element: adaptuoti
-Is adaptuoti identical to auksuoti? false
-This is the line before the split:
-This is the item: ["administruoti", " administrúoja", " administrãvo\n"]
-This is the first element: administruoti
-Is administruoti identical to auksuoti? false
-This is the line before the split:
-This is the item: ["adresuoti", " adresúoja", " adresãvo\n"]
-This is the first element: adresuoti
-Is adresuoti identical to auksuoti? false
-This is the line before the split:
-This is the item: ["akcentuoti", " akcentúoja", " akcentãvo\n"]
-This is the first element: akcentuoti
-Is akcentuoti identical to auksuoti? false
-This is the line before the split:
-This is the item: ["analizuoti", " analizúoja", " analizãvo\n"]
-This is the first element: analizuoti
-Is analizuoti identical to auksuoti? false
-This is the line before the split:
-This is the item: ["areštuoti", " areštúoja", " areštãvo\n"]
-This is the first element: areštuoti
-Is areštuoti identical to auksuoti? false
-no match found
-Writing auksuoti, auksúoja, auksãvo
+This is the infinitive_verb from the outset: austi
+This is the stripped_verb from the outset: aus
+This is the stripped_verb: aus
+This is the matching_lemma: aus
+RFLF austi:austi_áudžia_áudė
+This is the matching file name again: austi_áudžia_áudė
+RFLF bausti:austi_aũdžia_aũdė
+This is the matching file name again: austi_aũdžia_aũdė
+RFLF drausti:austi_aũdžia_aũdė
+This is the matching file name again: austi_aũdžia_aũdė
+RFLF glausti:austi_aũdžia_aũdė
+This is the matching file name again: austi_aũdžia_aũdė
+RFLF griausti:iausti_iáudžia_iáudė
+This is the matching file name again: iausti_iáudžia_iáudė
+RFLF jausti:austi_aũčia_aũtė
+This is the matching file name again: austi_aũčia_aũtė
+RFLF klausti:austi_áusia_áusė
+This is the matching file name again: austi_áusia_áusė
+RFLF rausti:austi_austà_aũdo
+This is the matching file name again: austi_austà_aũdo
+RFLF siausti:iausti_iaũčia_iaũtė
+This is the matching file name again: iausti_iaũčia_iaũtė
+RFLF skriausti:iausti_iaũdžia_iaũdė
+This is the matching file name again: iausti_iaũdžia_iaũdė
+RFLF snausti:austi_áudžia_áudė
+This is the matching file name again: austi_áudžia_áudė
 Reflexive? false :: lemma? false
 snausti: 7
 snáudžia: 8
@@ -621,8 +645,14 @@ snáudė: 6
 lemma: aus, nugget: 
 austi_áudžia_áudė
 
-austi: snausti, snáudžia, snáudė
-No file for this pattern, creating a new one...
+This is the infinitive_verb from the outset: aušti
+This is the stripped_verb from the outset: auš
+This is the stripped_verb: auš
+This is the matching_lemma: auš
+RFLF aušti:aušti_áudžia_áudė
+This is the matching file name again: aušti_áudžia_áudė
+RFLF šiaušti:iaušti_ẽria_ėrė̃
+This is the matching file name again: iaušti_ẽria_ėrė̃
 Reflexive? false :: lemma? false
 šiaušti: 7
 šẽria: 5
@@ -630,8 +660,186 @@ Reflexive? false :: lemma? false
 lemma: auš, nugget: 
 iaušti_ẽria_ėrė̃
 
-aušti: šiaušti, šẽria, šėrė̃
-No file for this pattern, creating a new one...
+This is the infinitive_verb from the outset: auti
+This is the stripped_verb from the outset: au
+This is the stripped_verb: au
+This is the matching_lemma: au
+RFLF auti:auti_aũna_ãvė
+This is the matching file name again: auti_aũna_ãvė
+RFLF badauti:adauti_adáuja_adãvo
+This is the matching file name again: adauti_adáuja_adãvo
+RFLF būgštauti:ūgštauti_ūšgtauja_ū́gštavo
+This is the matching file name again: ūgštauti_ūšgtauja_ū́gštavo
+RFLF cypauti:ypauti_ýpauja_ýpavo
+This is the matching file name again: ypauti_ýpauja_ýpavo
+RFLF dalyvauti:alyvauti_alyváuja_alyvãvo
+This is the matching file name again: alyvauti_alyváuja_alyvãvo
+RFLF direktoriauti:irektoriauti_irektoriáuja_irektoriãvo
+This is the matching file name again: irektoriauti_irektoriáuja_irektoriãvo
+RFLF draugauti:augauti_augáuja_augãvo
+This is the matching file name again: augauti_augáuja_augãvo
+RFLF dūsauti:ūsauti_ū́sauja_ūsãvo
+This is the matching file name again: ūsauti_ū́sauja_ūsãvo
+RFLF džiauti:iauti_iáuna_ióvė
+This is the matching file name again: iauti_iáuna_ióvė
+RFLF džiūgauti:iūgauti_iū́gauja_iū́gavo
+This is the matching file name again: iūgauti_iū́gauja_iū́gavo
+RFLF elgegauti:elgegauti_elgetáuja_elgetãvo
+This is the matching file name again: elgegauti_elgetáuja_elgetãvo
+RFLF elgetauti:elgetauti_elgetáuja_elgetãvo
+This is the matching file name again: elgetauti_elgetáuja_elgetãvo
+RFLF gąstauti:ąstauti_ąstauja_ąstavo
+This is the matching file name again: ąstauti_ąstauja_ąstavo
+RFLF gauti:auti_áuna_ãvo
+This is the matching file name again: auti_áuna_ãvo
+RFLF gervuogiauti:ervuogiauti_ervuogiauja_ervuogiavo
+This is the matching file name again: ervuogiauti_ervuogiauja_ervuogiavo
+RFLF girtauti:irtauti_irtáuja_irtãvo
+This is the matching file name again: irtauti_irtáuja_irtãvo
+RFLF griauti:iauti_iáuna_ióvė
+This is the matching file name again: iauti_iáuna_ióvė
+RFLF grybauti:ybauti_ybáuja_ybãvo
+This is the matching file name again: ybauti_ybáuja_ybãvo
+RFLF gudrauti:udrauti_udráuja_udrãvo
+This is the matching file name again: udrauti_udráuja_udrãvo
+RFLF juokauti:uokauti_uokáuja_uokãvo
+This is the matching file name again: uokauti_uokáuja_uokãvo
+RFLF kariauti:ariauti_ariáuja_ariãvo
+This is the matching file name again: ariauti_ariáuja_ariãvo
+RFLF kauti:auti_áuna_ė
+This is the matching file name again: auti_áuna_ė
+RFLF keliauti:eliauti_eliáuja_eliãvo
+This is the matching file name again: eliauti_eliáuja_eliãvo
+RFLF kerštauti:erštauti_erštáuja_erštãvo
+This is the matching file name again: erštauti_erštáuja_erštãvo
+RFLF krauti:auti_áuna_ė
+This is the matching file name again: auti_áuna_ė
+RFLF krykštauti:ykštauti_ýkštauja_ýkštavo
+This is the matching file name again: ykštauti_ýkštauja_ýkštavo
+RFLF lenktyniauti:enktyniauti_enktyniáuja_enktyniãvo
+This is the matching file name again: enktyniauti_enktyniáuja_enktyniãvo
+RFLF liežuvauti:iežuvauti_iežuváuja_iežuvavo
+This is the matching file name again: iežuvauti_iežuváuja_iežuvavo
+RFLF maištauti:aištauti_aištáuja_aištãvo
+This is the matching file name again: aištauti_aištáuja_aištãvo
+RFLF maldauti:aldauti_aldáuja_aldãvo
+This is the matching file name again: aldauti_aldáuja_aldãvo
+RFLF mauti:auti_áuna_ė
+This is the matching file name again: auti_áuna_ė
+RFLF meilikauti:eilikauti_eilikáuja_eilikãvo
+This is the matching file name again: eilikauti_eilikáuja_eilikãvo
+RFLF mokytojauti:ytojauti_ytojáuja_ytojãvo
+This is the matching file name again: ytojauti_ytojáuja_ytojãvo
+RFLF nebepasikiškiakopūsteliauti:ebepasikiškiakopūsteliauti_ebepasikiškiakopūsteliauja_ebepasikiškiakopūsteliavo
+This is the matching file name again: ebepasikiškiakopūsteliauti_ebepasikiškiakopūsteliauja_ebepasikiškiakopūsteliavo
+RFLF nebeprisikiškiakopūsteliauti:ebeprisikiškiakopūsteliauti_ebeprisikiškiakopūsteliauja_ebeprisikiškiakopūsteliavo
+This is the matching file name again: ebeprisikiškiakopūsteliauti_ebeprisikiškiakopūsteliauja_ebeprisikiškiakopūsteliavo
+RFLF nekantrauti:ekantrauti_ekantráuja_ekantrãvo
+This is the matching file name again: ekantrauti_ekantráuja_ekantrãvo
+RFLF nerimauti:erimauti_erimáuja_erimãvo
+This is the matching file name again: erimauti_erimáuja_erimãvo
+RFLF obuoliauti:uoliauti_uoliauja_uoliavo
+This is the matching file name again: uoliauti_uoliauja_uoliavo
+RFLF pietauti:ietauti_ietáuja_ietãvo
+This is the matching file name again: ietauti_ietáuja_ietãvo
+RFLF piktnaudžiauti:iktnaudžiauti_iktnaudžiáuja_iktnaudžiãvo
+This is the matching file name again: iktnaudžiauti_iktnaudžiáuja_iktnaudžiãvo
+RFLF piratauti:iratauti_iratáuja_iratãvo
+This is the matching file name again: iratauti_iratáuja_iratãvo
+RFLF pirmauti:irmauti_irmáuja_irmãvo
+This is the matching file name again: irmauti_irmáuja_irmãvo
+RFLF pjauti:auti_áuna_ė
+This is the matching file name again: auti_áuna_ė
+RFLF plauti:auti_áuna_ė
+This is the matching file name again: auti_áuna_ė
+RFLF plėšikauti:ėšikauti_ėšikáuja_ėšikãvo
+This is the matching file name again: ėšikauti_ėšikáuja_ėšikãvo
+RFLF poilsiauti:ilsiauti_ilsiáuja_ilsiãvo
+This is the matching file name again: ilsiauti_ilsiáuja_ilsiãvo
+RFLF pokštauti:auti_auja_avo
+This is the matching file name again: auti_auja_avo
+RFLF posėdžiauti:ėdžiauti_ėdžiáuja_ėdžiãvo
+This is the matching file name again: ėdžiauti_ėdžiáuja_ėdžiãvo
+RFLF prekiauti:ekiauti_ekiáuja_ekiãvo
+This is the matching file name again: ekiauti_ekiáuja_ekiãvo
+RFLF ragauti:agauti_agáuja_agãvo
+This is the matching file name again: agauti_agáuja_agãvo
+RFLF rauti:auti_áuna_ė
+This is the matching file name again: auti_áuna_ė
+RFLF reikalauti:eikalauti_eikaláuja_eikalãvo
+This is the matching file name again: eikalauti_eikaláuja_eikalãvo
+RFLF rėkauti:ėkauti_ė́kauja_ė́kavo
+This is the matching file name again: ėkauti_ė́kauja_ė́kavo
+RFLF rungtyniauti:ungtyniauti_ungtyniáuja_ungtyniãvo
+This is the matching file name again: ungtyniauti_ungtyniáuja_ungtyniãvo
+RFLF rūstauti:ūstauti_ū́stauja_ū́stavo
+This is the matching file name again: ūstauti_ū́stauja_ū́stavo
+RFLF santykiauti:antykiauti_antykiáuja_ántykiavo
+This is the matching file name again: antykiauti_antykiáuja_ántykiavo
+RFLF šauti:auti_áuna_ė
+This is the matching file name again: auti_áuna_ė
+RFLF šeimininkauti:eimininkauti_eimininkáuja_eimininkãvo
+This is the matching file name again: eimininkauti_eimininkáuja_eimininkãvo
+RFLF sielvartauti:ielvartauti_ielvartáuja_ielvartãvo
+This is the matching file name again: ielvartauti_ielvartáuja_ielvartãvo
+RFLF skalauti:alauti_aláuja_alãvo
+This is the matching file name again: alauti_aláuja_alãvo
+RFLF skanauti:anauti_anáuja_anãvo
+This is the matching file name again: anauti_anáuja_anãvo
+RFLF smaguriauti:aguriauti_aguriáuja_aguriãvo
+This is the matching file name again: aguriauti_aguriáuja_aguriãvo
+RFLF smaližiauti:aližiauti_aližiáuja_aližiãvo
+This is the matching file name again: aližiauti_aližiáuja_aližiãvo
+RFLF spjauti:auti_áuna_ė
+This is the matching file name again: auti_áuna_ė
+RFLF spygauti:ygauti_ýgauja_ýgavo
+This is the matching file name again: ygauti_ýgauja_ýgavo
+RFLF stovyklauti:yklauti_ykláuja_yklãvo
+This is the matching file name again: yklauti_ykláuja_yklãvo
+RFLF studentauti:udentauti_yktelėja_ýktelėjo
+This is the matching file name again: udentauti_yktelėja_ýktelėjo
+RFLF šūkauti:ūkauti_ū́kauja_ūkãvo
+This is the matching file name again: ūkauti_ū́kauja_ūkãvo
+RFLF švilpauti:ilpauti_auja_avo
+This is the matching file name again: ilpauti_auja_avo
+RFLF tarnauti:arnauti_arnáuja_arnãvo
+This is the matching file name again: arnauti_arnáuja_arnãvo
+RFLF tarpininkauti:arpininkauti_arpininkáuja_arpininkãvo
+This is the matching file name again: arpininkauti_arpininkáuja_arpininkãvo
+RFLF tinginiauti:inginiauti_inginiáuja_inginiãvo
+This is the matching file name again: inginiauti_inginiáuja_inginiãvo
+RFLF triukšmauti:iukšmauti_iumškauja_iukšmãvo
+This is the matching file name again: iukšmauti_iumškauja_iukšmãvo
+RFLF ūkininkauti:ūkininkauti_ūkininkáuja_ūkininkãvo
+This is the matching file name again: ūkininkauti_ūkininkáuja_ūkininkãvo
+RFLF uogauti:uogauti_uogáuja_uogãvo
+This is the matching file name again: uogauti_uogáuja_uogãvo
+RFLF vadovauti:adovauti_adováuja_adovãvo
+This is the matching file name again: adovauti_adováuja_adovãvo
+RFLF vagiliauti:agiliauti_agiliáuja_agiliãvo
+This is the matching file name again: agiliauti_agiliáuja_agiliãvo
+RFLF vakarienauti:akarienauti_akarieniáuja_akarieniãvo
+This is the matching file name again: akarienauti_akarieniáuja_akarieniãvo
+RFLF vakarieniauti:akarieniauti_akarienauja_akarieniãvo
+This is the matching file name again: akarieniauti_akarienauja_akarieniãvo
+RFLF valkatauti:alkatauti_alkatáuja_alkatãvo
+This is the matching file name again: alkatauti_alkatáuja_alkatãvo
+RFLF veidmaniauti:eidmaniauti_eidmainiáuja_eidmainiãvo
+This is the matching file name again: eidmaniauti_eidmainiáuja_eidmainiãvo
+RFLF vergauti:ergauti_ergáuja_ergãvo
+This is the matching file name again: ergauti_ergáuja_ergãvo
+RFLF vertėjauti:ertėjauti_ertėjáuja_ertėjãvo
+This is the matching file name again: ertėjauti_ertėjáuja_ertėjãvo
+RFLF viešpatauti:iešpatauti_iešpatáuja_iešpatãvo
+This is the matching file name again: iešpatauti_iešpatáuja_iešpatãvo
+RFLF vyrauti:yrauti_ýrauja_yrãvo
+This is the matching file name again: yrauti_ýrauja_yrãvo
+RFLF žiovauti:iovauti_ióvauja_ióvavo
+This is the matching file name again: iovauti_ióvauja_ióvavo
+RFLF žuvauti:uvauti_uváuja_uvãvo
+This is the matching file name again: uvauti_uváuja_uvãvo
+RFLF žvygauti:ygauti_ýgauja_ýgavo
+This is the matching file name again: ygauti_ýgauja_ýgavo
 Reflexive? false :: lemma? false
 žvygauti: 8
 žvýgauja: 8
@@ -639,8 +847,32 @@ Reflexive? false :: lemma? false
 lemma: au, nugget: 
 ygauti_ýgauja_ýgavo
 
-auti: žvygauti, žvýgauja, žvýgavo
-No file for this pattern, creating a new one...
+This is the infinitive_verb from the outset: autis
+This is the stripped_verb from the outset: au
+This is the stripped_verb: au
+This is the matching_lemma: au
+RTLF autis:autis_aũnasi_ãvėsi
+This is the matching file name again: autis_aũnasi_ãvėsi
+RTLF brautis:autis_áunasi_ėsi
+This is the matching file name again: autis_áunasi_ėsi
+RTLF kautis:autis_áunasi_ėsi
+This is the matching file name again: autis_áunasi_ėsi
+RTLF kliautis:iautis_iaunasi_ióvėsi
+This is the matching file name again: iautis_iaunasi_ióvėsi
+RTLF krautis:autis_áunasi_ėsi
+This is the matching file name again: autis_áunasi_ėsi
+RTLF liautis:iautis_iáunasi_ióvėsi
+This is the matching file name again: iautis_iáunasi_ióvėsi
+RTLF mautis:autis_áunasi_ėsi
+This is the matching file name again: autis_áunasi_ėsi
+RTLF mėgautis:ėgautis_ė́gaujasi_ė́gavosi
+This is the matching file name again: ėgautis_ė́gaujasi_ė́gavosi
+RTLF plautis:autis_áunasi_ėsi
+This is the matching file name again: autis_áunasi_ėsi
+RTLF teirautis:eirautis_eiráujasi_eirãvosi
+This is the matching file name again: eirautis_eiráujasi_eirãvosi
+RTLF vadovautis:adovautis_adováujasi_adovãvosi
+This is the matching file name again: adovautis_adováujasi_adovãvosi
 Reflexive? true :: lemma? false
 vadovautis: 10
 vadováujasi: 11
@@ -648,9 +880,12 @@ vadovãvosi: 10
 lemma: au, nugget: 
 adovautis_adováujasi_adovãvosi
 
-autis: vadovautis, vadováujasi, vadovãvosi
-No file for this pattern, creating a new one...
-File name of automatizuoti:izuoti_izúoja_izavo
+This is the infinitive_verb from the outset: automatizuoti
+This is the stripped_verb from the outset: automatizuo
+This is the stripped_verb: automatizuo
+This is the matching_lemma: automat
+RFLT automatizuoti:izuoti_izúoja_izavo
+This is the matching file name again: izuoti_izúoja_izavo
 Reflexive? false :: lemma? true
 automatizuoti: 13
 automatizúoja: 13
@@ -658,10 +893,14 @@ automatizavo: 12
 lemma: automat, nugget: izuo
 izuoti_izúoja_izavo
 
-automatizuoti: automatizuoti, automatizúoja, automatizavo
-No file for this pattern, creating a new one...
-File name of avėti:ėti_i_ė́jo
-File name of žavėti:ėti_vi_vė́jo
+This is the infinitive_verb from the outset: avėti
+This is the stripped_verb from the outset: avė
+This is the stripped_verb: avė
+This is the matching_lemma: av
+RFLT avėti:ėti_i_ė́jo
+This is the matching file name again: ėti_i_ė́jo
+RFLT žavėti:ėti_vi_vė́jo
+This is the matching file name again: ėti_vi_vė́jo
 Reflexive? false :: lemma? true
 žavėti: 6
 žãvi: 4
@@ -669,9 +908,12 @@ Reflexive? false :: lemma? true
 lemma: av, nugget: ė
 ėti_vi_vė́jo
 
-avėti: žavėti, žãvi, žavė́jo
-No file for this pattern, creating a new one...
-File name of badauti:auti_áuja_ãvo
+This is the infinitive_verb from the outset: badauti
+This is the stripped_verb from the outset: badau
+This is the stripped_verb: badau
+This is the matching_lemma: bad
+RFLT badauti:auti_áuja_ãvo
+This is the matching file name again: auti_áuja_ãvo
 Reflexive? false :: lemma? true
 badauti: 7
 badáuja: 7
@@ -679,9 +921,12 @@ badãvo: 6
 lemma: bad, nugget: au
 auti_áuja_ãvo
 
-badauti: badauti, badáuja, badãvo
-No file for this pattern, creating a new one...
-File name of badyti:yti_o_ė
+This is the infinitive_verb from the outset: badyti
+This is the stripped_verb from the outset: bady
+This is the stripped_verb: bady
+This is the matching_lemma: bad
+RFLT badyti:yti_o_ė
+This is the matching file name again: yti_o_ė
 Reflexive? false :: lemma? true
 badyti: 6
 bãdo: 4
@@ -689,9 +934,12 @@ bãdė: 4
 lemma: bad, nugget: y
 yti_o_ė
 
-badyti: badyti, bãdo, bãdė
-No file for this pattern, creating a new one...
-File name of baidyti:yti_o_ė
+This is the infinitive_verb from the outset: baidyti
+This is the stripped_verb from the outset: baidy
+This is the stripped_verb: baidy
+This is the matching_lemma: baid
+RFLT baidyti:yti_o_ė
+This is the matching file name again: yti_o_ė
 Reflexive? false :: lemma? true
 baidyti: 7
 baĩdo: 5
@@ -699,13 +947,12 @@ baĩdė: 5
 lemma: baid, nugget: y
 yti_o_ė
 
-baidyti: baidyti, baĩdo, baĩdė
-This is the line before the split:
-This is the item: ["badyti", " bãdo", " bãdė\n"]
-This is the first element: badyti
-Is badyti identical to baidyti? false
-no match found
-Writing baidyti, baĩdo, baĩdė
+This is the infinitive_verb from the outset: baidytis
+This is the stripped_verb from the outset: baidy
+This is the stripped_verb: baidy
+This is the matching_lemma: baid
+RTLT baidytis:ytis_osi_ėsi
+This is the matching file name again: ytis_osi_ėsi
 Reflexive? true :: lemma? true
 baidytis: 8
 baĩdosi: 7
@@ -713,8 +960,12 @@ baĩdėsi: 7
 lemma: baid, nugget: y
 ytis_osi_ėsi
 
-baidytis: baidytis, baĩdosi, baĩdėsi
-No file for this pattern, creating a new one...
+This is the infinitive_verb from the outset: baigti
+This is the stripped_verb from the outset: baig
+This is the stripped_verb: baig
+This is the matching_lemma: baig
+RFLF baigti:aigti_aĩgia_aĩgė
+This is the matching file name again: aigti_aĩgia_aĩgė
 Reflexive? false :: lemma? false
 baigti: 6
 baĩgia: 6
@@ -722,8 +973,12 @@ baĩgė: 5
 lemma: baig, nugget: 
 aigti_aĩgia_aĩgė
 
-baigti: baigti, baĩgia, baĩgė
-No file for this pattern, creating a new one...
+This is the infinitive_verb from the outset: baigtis
+This is the stripped_verb from the outset: baig
+This is the stripped_verb: baig
+This is the matching_lemma: baig
+RTLF baigtis:aigtis_aĩgiasi_aĩgėsi
+This is the matching file name again: aigtis_aĩgiasi_aĩgėsi
 Reflexive? true :: lemma? false
 baigtis: 7
 baĩgiasi: 8
@@ -731,9 +986,12 @@ baĩgėsi: 7
 lemma: baig, nugget: 
 aigtis_aĩgiasi_aĩgėsi
 
-baigtis: baigtis, baĩgiasi, baĩgėsi
-No file for this pattern, creating a new one...
-File name of baiminti:minti_mina_minosi
+This is the infinitive_verb from the outset: baiminti
+This is the stripped_verb from the outset: baimin
+This is the stripped_verb: baimin
+This is the matching_lemma: bai
+RFLT baiminti:minti_mina_minosi
+This is the matching file name again: minti_mina_minosi
 Reflexive? false :: lemma? true
 baiminti: 8
 báimina: 7
@@ -741,8 +999,12 @@ báiminosi: 9
 lemma: bai, nugget: min
 minti_mina_minosi
 
-baiminti: baiminti, báimina, báiminosi
-No file for this pattern, creating a new one...
+This is the infinitive_verb from the outset: baimintis
+This is the stripped_verb from the outset: baimin
+This is the stripped_verb: baimin
+This is the matching_lemma: bai
+RTLT baimintis:mintis_minasi_minosi
+This is the matching file name again: mintis_minasi_minosi
 Reflexive? true :: lemma? true
 baimintis: 9
 báiminasi: 9
@@ -750,9 +1012,12 @@ báiminosi: 9
 lemma: bai, nugget: min
 mintis_minasi_minosi
 
-baimintis: baimintis, báiminasi, báiminosi
-No file for this pattern, creating a new one...
-File name of baisėti:ėti_ėja_ėjo
+This is the infinitive_verb from the outset: baisėti
+This is the stripped_verb from the outset: baisė
+This is the stripped_verb: baisė
+This is the matching_lemma: bais
+RFLT baisėti:ėti_ėja_ėjo
+This is the matching file name again: ėti_ėja_ėjo
 Reflexive? false :: lemma? true
 baisėti: 7
 baisėja: 7
@@ -760,13 +1025,12 @@ baisėjo: 7
 lemma: bais, nugget: ė
 ėti_ėja_ėjo
 
-baisėti: baisėti, baisėja, baisėjo
-This is the line before the split:
-This is the item: ["auklėti", " áuklėja", " áuklėjo\n"]
-This is the first element: auklėti
-Is auklėti identical to baisėti? false
-no match found
-Writing baisėti, baisėja, baisėjo
+This is the infinitive_verb from the outset: baisėtis
+This is the stripped_verb from the outset: baisė
+This is the stripped_verb: baisė
+This is the matching_lemma: bais
+RTLT baisėtis:ėtis_isi_ė́josi
+This is the matching file name again: ėtis_isi_ė́josi
 Reflexive? true :: lemma? true
 baisėtis: 8
 baĩsisi: 7
@@ -774,9 +1038,12 @@ baisė́josi: 10
 lemma: bais, nugget: ė
 ėtis_isi_ė́josi
 
-baisėtis: baisėtis, baĩsisi, baisė́josi
-No file for this pattern, creating a new one...
-File name of bakstelėti:telėti_teli_telėjo
+This is the infinitive_verb from the outset: bakstelėti
+This is the stripped_verb from the outset: bakstelė
+This is the stripped_verb: bakstelė
+This is the matching_lemma: baks
+RFLT bakstelėti:telėti_teli_telėjo
+This is the matching file name again: telėti_teli_telėjo
 Reflexive? false :: lemma? true
 bakstelėti: 10
 bãksteli: 8
@@ -784,9 +1051,12 @@ bãkstelėjo: 10
 lemma: baks, nugget: telė
 telėti_teli_telėjo
 
-bakstelėti: bakstelėti, bãksteli, bãkstelėjo
-No file for this pattern, creating a new one...
-File name of balansuoti:uoti_úoja_ãvo
+This is the infinitive_verb from the outset: balansuoti
+This is the stripped_verb from the outset: balansuo
+This is the stripped_verb: balansuo
+This is the matching_lemma: balans
+RFLT balansuoti:uoti_úoja_ãvo
+This is the matching file name again: uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 balansuoti: 10
 balansúoja: 10
@@ -794,46 +1064,12 @@ balansãvo: 9
 lemma: balans, nugget: uo
 uoti_úoja_ãvo
 
-balansuoti: balansuoti, balansúoja, balansãvo
-This is the line before the split:
-This is the item: ["absorbuoti", " absorbúoja", " absorbãvo\n"]
-This is the first element: absorbuoti
-Is absorbuoti identical to balansuoti? false
-This is the line before the split:
-This is the item: ["abstrahuoti", " abstrahúoja", " abstrahãvo\n"]
-This is the first element: abstrahuoti
-Is abstrahuoti identical to balansuoti? false
-This is the line before the split:
-This is the item: ["adaptuoti", " adaptúoja", " adaptãvo\n"]
-This is the first element: adaptuoti
-Is adaptuoti identical to balansuoti? false
-This is the line before the split:
-This is the item: ["administruoti", " administrúoja", " administrãvo\n"]
-This is the first element: administruoti
-Is administruoti identical to balansuoti? false
-This is the line before the split:
-This is the item: ["adresuoti", " adresúoja", " adresãvo\n"]
-This is the first element: adresuoti
-Is adresuoti identical to balansuoti? false
-This is the line before the split:
-This is the item: ["akcentuoti", " akcentúoja", " akcentãvo\n"]
-This is the first element: akcentuoti
-Is akcentuoti identical to balansuoti? false
-This is the line before the split:
-This is the item: ["analizuoti", " analizúoja", " analizãvo\n"]
-This is the first element: analizuoti
-Is analizuoti identical to balansuoti? false
-This is the line before the split:
-This is the item: ["areštuoti", " areštúoja", " areštãvo\n"]
-This is the first element: areštuoti
-Is areštuoti identical to balansuoti? false
-This is the line before the split:
-This is the item: ["auksuoti", " auksúoja", " auksãvo\n"]
-This is the first element: auksuoti
-Is auksuoti identical to balansuoti? false
-no match found
-Writing balansuoti, balansúoja, balansãvo
-File name of balinti:inti_ina_ino
+This is the infinitive_verb from the outset: balinti
+This is the stripped_verb from the outset: balin
+This is the stripped_verb: balin
+This is the matching_lemma: bal
+RFLT balinti:inti_ina_ino
+This is the matching file name again: inti_ina_ino
 Reflexive? false :: lemma? true
 balinti: 7
 bãlina: 6
@@ -841,18 +1077,12 @@ bãlino: 6
 lemma: bal, nugget: in
 inti_ina_ino
 
-balinti: balinti, bãlina, bãlino
-This is the line before the split:
-This is the item: ["aktyvinti", " aktỹvina", " aktỹvino\n"]
-This is the first element: aktyvinti
-Is aktyvinti identical to balinti? false
-This is the line before the split:
-This is the item: ["aukštinti", " áukština", " áukštino\n"]
-This is the first element: aukštinti
-Is aukštinti identical to balinti? false
-no match found
-Writing balinti, bãlina, bãlino
-File name of balnoti:oti_ója_ójo
+This is the infinitive_verb from the outset: balnoti
+This is the stripped_verb from the outset: balno
+This is the stripped_verb: balno
+This is the matching_lemma: baln
+RFLT balnoti:oti_ója_ójo
+This is the matching file name again: oti_ója_ójo
 Reflexive? false :: lemma? true
 balnoti: 7
 balnója: 7
@@ -860,14 +1090,12 @@ balnójo: 7
 lemma: baln, nugget: o
 oti_ója_ójo
 
-balnoti: balnoti, balnója, balnójo
-This is the line before the split:
-This is the item: ["aukoti", " aukója", " aukójo\n"]
-This is the first element: aukoti
-Is aukoti identical to balnoti? false
-no match found
-Writing balnoti, balnója, balnójo
-File name of balsti:sti_sta_o
+This is the infinitive_verb from the outset: balsti
+This is the stripped_verb from the outset: bals
+This is the stripped_verb: bals
+This is the matching_lemma: bal
+RFLT balsti:sti_sta_o
+This is the matching file name again: sti_sta_o
 Reflexive? false :: lemma? true
 balsti: 6
 balsta: 6
@@ -875,9 +1103,12 @@ bãlo: 4
 lemma: bal, nugget: s
 sti_sta_o
 
-balsti: balsti, balsta, bãlo
-No file for this pattern, creating a new one...
-File name of balsuoti:suoti_súoja_sãvo
+This is the infinitive_verb from the outset: balsuoti
+This is the stripped_verb from the outset: balsuo
+This is the stripped_verb: balsuo
+This is the matching_lemma: bal
+RFLT balsuoti:suoti_súoja_sãvo
+This is the matching file name again: suoti_súoja_sãvo
 Reflexive? false :: lemma? true
 balsuoti: 8
 balsúoja: 8
@@ -885,9 +1116,12 @@ balsãvo: 7
 lemma: bal, nugget: suo
 suoti_súoja_sãvo
 
-balsuoti: balsuoti, balsúoja, balsãvo
-No file for this pattern, creating a new one...
-File name of baltėti:tėti_tėja_tėjo
+This is the infinitive_verb from the outset: baltėti
+This is the stripped_verb from the outset: baltė
+This is the stripped_verb: baltė
+This is the matching_lemma: bal
+RFLT baltėti:tėti_tėja_tėjo
+This is the matching file name again: tėti_tėja_tėjo
 Reflexive? false :: lemma? true
 baltėti: 7
 baltėja: 7
@@ -895,8 +1129,14 @@ baltėjo: 7
 lemma: bal, nugget: tė
 tėti_tėja_tėjo
 
-baltėti: baltėti, baltėja, baltėjo
-No file for this pattern, creating a new one...
+This is the infinitive_verb from the outset: balti
+This is the stripped_verb from the outset: bal
+This is the stripped_verb: bal
+This is the matching_lemma: bal
+RFLF balti:alti_ą̃la_ãlo
+This is the matching file name again: alti_ą̃la_ãlo
+RFLF žabalti:abalti_abąla_alabo
+This is the matching file name again: abalti_abąla_alabo
 Reflexive? false :: lemma? false
 žabalti: 7
 žabąla: 6
@@ -904,9 +1144,12 @@ Reflexive? false :: lemma? false
 lemma: bal, nugget: 
 abalti_abąla_alabo
 
-balti: žabalti, žabąla, žalabo
-No file for this pattern, creating a new one...
-File name of baltinti:tinti_tinà_tino
+This is the infinitive_verb from the outset: baltinti
+This is the stripped_verb from the outset: baltin
+This is the stripped_verb: baltin
+This is the matching_lemma: bal
+RFLT baltinti:tinti_tinà_tino
+This is the matching file name again: tinti_tinà_tino
 Reflexive? false :: lemma? true
 baltinti: 8
 baltinà: 7
@@ -914,9 +1157,12 @@ báltino: 7
 lemma: bal, nugget: tin
 tinti_tinà_tino
 
-baltinti: baltinti, baltinà, báltino
-No file for this pattern, creating a new one...
-File name of baltuoti:tuoti_túoja_tãvo
+This is the infinitive_verb from the outset: baltuoti
+This is the stripped_verb from the outset: baltuo
+This is the stripped_verb: baltuo
+This is the matching_lemma: bal
+RFLT baltuoti:tuoti_túoja_tãvo
+This is the matching file name again: tuoti_túoja_tãvo
 Reflexive? false :: lemma? true
 baltuoti: 8
 baltúoja: 8
@@ -924,9 +1170,12 @@ baltãvo: 7
 lemma: bal, nugget: tuo
 tuoti_túoja_tãvo
 
-baltuoti: baltuoti, baltúoja, baltãvo
-No file for this pattern, creating a new one...
-File name of bandyti:yti_o_ė
+This is the infinitive_verb from the outset: bandyti
+This is the stripped_verb from the outset: bandy
+This is the stripped_verb: bandy
+This is the matching_lemma: band
+RFLT bandyti:yti_o_ė
+This is the matching file name again: yti_o_ė
 Reflexive? false :: lemma? true
 bandyti: 7
 bañdo: 5
@@ -934,18 +1183,12 @@ bañdė: 5
 lemma: band, nugget: y
 yti_o_ė
 
-bandyti: bandyti, bañdo, bañdė
-This is the line before the split:
-This is the item: ["badyti", " bãdo", " bãdė\n"]
-This is the first element: badyti
-Is badyti identical to bandyti? false
-This is the line before the split:
-This is the item: ["baidyti", " baĩdo", " baĩdė\n"]
-This is the first element: baidyti
-Is baidyti identical to bandyti? false
-no match found
-Writing bandyti, bañdo, bañdė
-File name of banguoti:uoti_úoja_ãvo
+This is the infinitive_verb from the outset: banguoti
+This is the stripped_verb from the outset: banguo
+This is the stripped_verb: banguo
+This is the matching_lemma: bang
+RFLT banguoti:uoti_úoja_ãvo
+This is the matching file name again: uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 banguoti: 8
 bangúoja: 8
@@ -953,50 +1196,12 @@ bangãvo: 7
 lemma: bang, nugget: uo
 uoti_úoja_ãvo
 
-banguoti: banguoti, bangúoja, bangãvo
-This is the line before the split:
-This is the item: ["absorbuoti", " absorbúoja", " absorbãvo\n"]
-This is the first element: absorbuoti
-Is absorbuoti identical to banguoti? false
-This is the line before the split:
-This is the item: ["abstrahuoti", " abstrahúoja", " abstrahãvo\n"]
-This is the first element: abstrahuoti
-Is abstrahuoti identical to banguoti? false
-This is the line before the split:
-This is the item: ["adaptuoti", " adaptúoja", " adaptãvo\n"]
-This is the first element: adaptuoti
-Is adaptuoti identical to banguoti? false
-This is the line before the split:
-This is the item: ["administruoti", " administrúoja", " administrãvo\n"]
-This is the first element: administruoti
-Is administruoti identical to banguoti? false
-This is the line before the split:
-This is the item: ["adresuoti", " adresúoja", " adresãvo\n"]
-This is the first element: adresuoti
-Is adresuoti identical to banguoti? false
-This is the line before the split:
-This is the item: ["akcentuoti", " akcentúoja", " akcentãvo\n"]
-This is the first element: akcentuoti
-Is akcentuoti identical to banguoti? false
-This is the line before the split:
-This is the item: ["analizuoti", " analizúoja", " analizãvo\n"]
-This is the first element: analizuoti
-Is analizuoti identical to banguoti? false
-This is the line before the split:
-This is the item: ["areštuoti", " areštúoja", " areštãvo\n"]
-This is the first element: areštuoti
-Is areštuoti identical to banguoti? false
-This is the line before the split:
-This is the item: ["auksuoti", " auksúoja", " auksãvo\n"]
-This is the first element: auksuoti
-Is auksuoti identical to banguoti? false
-This is the line before the split:
-This is the item: ["balansuoti", " balansúoja", " balansãvo\n"]
-This is the first element: balansuoti
-Is balansuoti identical to banguoti? false
-no match found
-Writing banguoti, bangúoja, bangãvo
-File name of bankrutuoti:uoti_úoja_ãvo
+This is the infinitive_verb from the outset: bankrutuoti
+This is the stripped_verb from the outset: bankrutuo
+This is the stripped_verb: bankrutuo
+This is the matching_lemma: bankrut
+RFLT bankrutuoti:uoti_úoja_ãvo
+This is the matching file name again: uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 bankrutuoti: 11
 bankrutúoja: 11
@@ -1004,54 +1209,12 @@ bankrutãvo: 10
 lemma: bankrut, nugget: uo
 uoti_úoja_ãvo
 
-bankrutuoti: bankrutuoti, bankrutúoja, bankrutãvo
-This is the line before the split:
-This is the item: ["absorbuoti", " absorbúoja", " absorbãvo\n"]
-This is the first element: absorbuoti
-Is absorbuoti identical to bankrutuoti? false
-This is the line before the split:
-This is the item: ["abstrahuoti", " abstrahúoja", " abstrahãvo\n"]
-This is the first element: abstrahuoti
-Is abstrahuoti identical to bankrutuoti? false
-This is the line before the split:
-This is the item: ["adaptuoti", " adaptúoja", " adaptãvo\n"]
-This is the first element: adaptuoti
-Is adaptuoti identical to bankrutuoti? false
-This is the line before the split:
-This is the item: ["administruoti", " administrúoja", " administrãvo\n"]
-This is the first element: administruoti
-Is administruoti identical to bankrutuoti? false
-This is the line before the split:
-This is the item: ["adresuoti", " adresúoja", " adresãvo\n"]
-This is the first element: adresuoti
-Is adresuoti identical to bankrutuoti? false
-This is the line before the split:
-This is the item: ["akcentuoti", " akcentúoja", " akcentãvo\n"]
-This is the first element: akcentuoti
-Is akcentuoti identical to bankrutuoti? false
-This is the line before the split:
-This is the item: ["analizuoti", " analizúoja", " analizãvo\n"]
-This is the first element: analizuoti
-Is analizuoti identical to bankrutuoti? false
-This is the line before the split:
-This is the item: ["areštuoti", " areštúoja", " areštãvo\n"]
-This is the first element: areštuoti
-Is areštuoti identical to bankrutuoti? false
-This is the line before the split:
-This is the item: ["auksuoti", " auksúoja", " auksãvo\n"]
-This is the first element: auksuoti
-Is auksuoti identical to bankrutuoti? false
-This is the line before the split:
-This is the item: ["balansuoti", " balansúoja", " balansãvo\n"]
-This is the first element: balansuoti
-Is balansuoti identical to bankrutuoti? false
-This is the line before the split:
-This is the item: ["banguoti", " bangúoja", " bangãvo\n"]
-This is the first element: banguoti
-Is banguoti identical to bankrutuoti? false
-no match found
-Writing bankrutuoti, bankrutúoja, bankrutãvo
-File name of barškinti:inti_ina_ino
+This is the infinitive_verb from the outset: barškinti
+This is the stripped_verb from the outset: barškin
+This is the stripped_verb: barškin
+This is the matching_lemma: baršk
+RFLT barškinti:inti_ina_ino
+This is the matching file name again: inti_ina_ino
 Reflexive? false :: lemma? true
 barškinti: 9
 bárškina: 8
@@ -1059,22 +1222,12 @@ bárškino: 8
 lemma: baršk, nugget: in
 inti_ina_ino
 
-barškinti: barškinti, bárškina, bárškino
-This is the line before the split:
-This is the item: ["aktyvinti", " aktỹvina", " aktỹvino\n"]
-This is the first element: aktyvinti
-Is aktyvinti identical to barškinti? false
-This is the line before the split:
-This is the item: ["aukštinti", " áukština", " áukštino\n"]
-This is the first element: aukštinti
-Is aukštinti identical to barškinti? false
-This is the line before the split:
-This is the item: ["balinti", " bãlina", " bãlino\n"]
-This is the first element: balinti
-Is balinti identical to barškinti? false
-no match found
-Writing barškinti, bárškina, bárškino
-File name of barstyti:styti_̃sto_̃stė
+This is the infinitive_verb from the outset: barstyti
+This is the stripped_verb from the outset: barsty
+This is the stripped_verb: barsty
+This is the matching_lemma: bar
+RFLT barstyti:styti_̃sto_̃stė
+This is the matching file name again: styti_̃sto_̃stė
 Reflexive? false :: lemma? true
 barstyti: 8
 bar̃sto: 7
@@ -1082,8 +1235,12 @@ bar̃stė: 7
 lemma: bar, nugget: sty
 styti_̃sto_̃stė
 
-barstyti: barstyti, bar̃sto, bar̃stė
-No file for this pattern, creating a new one...
+This is the infinitive_verb from the outset: barstytis
+This is the stripped_verb from the outset: barsty
+This is the stripped_verb: barsty
+This is the matching_lemma: bar
+RTLT barstytis:stytis_̃stosi_̃stėsi
+This is the matching file name again: stytis_̃stosi_̃stėsi
 Reflexive? true :: lemma? true
 barstytis: 9
 bar̃stosi: 9
@@ -1091,8 +1248,12 @@ bar̃stėsi: 9
 lemma: bar, nugget: sty
 stytis_̃stosi_̃stėsi
 
-barstytis: barstytis, bar̃stosi, bar̃stėsi
-No file for this pattern, creating a new one...
+This is the infinitive_verb from the outset: barti
+This is the stripped_verb from the outset: bar
+This is the stripped_verb: bar
+This is the matching_lemma: bar
+RFLF barti:arti_ãra_ãrė
+This is the matching file name again: arti_ãra_ãrė
 Reflexive? false :: lemma? false
 barti: 5
 bãra: 4
@@ -1100,8 +1261,12 @@ bãrė: 4
 lemma: bar, nugget: 
 arti_ãra_ãrė
 
-barti: barti, bãra, bãrė
-No file for this pattern, creating a new one...
+This is the infinitive_verb from the outset: bartis
+This is the stripped_verb from the outset: bar
+This is the stripped_verb: bar
+This is the matching_lemma: bar
+RTLF bartis:artis_ãrasi_ãrėsi
+This is the matching file name again: artis_ãrasi_ãrėsi
 Reflexive? true :: lemma? false
 bartis: 6
 bãrasi: 6
@@ -1109,9 +1274,12 @@ bãrėsi: 6
 lemma: bar, nugget: 
 artis_ãrasi_ãrėsi
 
-bartis: bartis, bãrasi, bãrėsi
-No file for this pattern, creating a new one...
-File name of bauginti:inti_ìna_ìno
+This is the infinitive_verb from the outset: bauginti
+This is the stripped_verb from the outset: baugin
+This is the stripped_verb: baugin
+This is the matching_lemma: baug
+RFLT bauginti:inti_ìna_ìno
+This is the matching file name again: inti_ìna_ìno
 Reflexive? false :: lemma? true
 bauginti: 8
 baugìna: 7
@@ -1119,13 +1287,12 @@ baugìno: 7
 lemma: baug, nugget: in
 inti_ìna_ìno
 
-bauginti: bauginti, baugìna, baugìno
-This is the line before the split:
-This is the item: ["alsinti", " alsìna", " alsìno\n"]
-This is the first element: alsinti
-Is alsinti identical to bauginti? false
-no match found
-Writing bauginti, baugìna, baugìno
+This is the infinitive_verb from the outset: bausti
+This is the stripped_verb from the outset: baus
+This is the stripped_verb: baus
+This is the matching_lemma: baus
+RFLF bausti:austi_aũdžia_aũdė
+This is the matching file name again: austi_aũdžia_aũdė
 Reflexive? false :: lemma? false
 bausti: 6
 baũdžia: 7
@@ -1133,9 +1300,12 @@ baũdė: 5
 lemma: baus, nugget: 
 austi_aũdžia_aũdė
 
-bausti: bausti, baũdžia, baũdė
-No file for this pattern, creating a new one...
-File name of bėginėti:inėti_inė́ja_inė́ja
+This is the infinitive_verb from the outset: bėginėti
+This is the stripped_verb from the outset: bėginė
+This is the stripped_verb: bėginė
+This is the matching_lemma: bėg
+RFLT bėginėti:inėti_inė́ja_inė́ja
+This is the matching file name again: inėti_inė́ja_inė́ja
 Reflexive? false :: lemma? true
 bėginėti: 8
 bėginė́ja: 9
@@ -1143,9 +1313,12 @@ bėginė́ja: 9
 lemma: bėg, nugget: inė
 inėti_inė́ja_inė́ja
 
-bėginėti: bėginėti, bėginė́ja, bėginė́ja
-No file for this pattern, creating a new one...
-File name of bėgioti:ioti_iója_iójo
+This is the infinitive_verb from the outset: bėgioti
+This is the stripped_verb from the outset: bėgio
+This is the stripped_verb: bėgio
+This is the matching_lemma: bėg
+RFLT bėgioti:ioti_iója_iójo
+This is the matching file name again: ioti_iója_iójo
 Reflexive? false :: lemma? true
 bėgioti: 7
 bėgiója: 7
@@ -1153,8 +1326,12 @@ bėgiójo: 7
 lemma: bėg, nugget: io
 ioti_iója_iójo
 
-bėgioti: bėgioti, bėgiója, bėgiójo
-No file for this pattern, creating a new one...
+This is the infinitive_verb from the outset: bėgti
+This is the stripped_verb from the outset: bėg
+This is the stripped_verb: bėg
+This is the matching_lemma: bėg
+RFLF bėgti:ėgti_ė́ga_ė́go
+This is the matching file name again: ėgti_ė́ga_ė́go
 Reflexive? false :: lemma? false
 bėgti: 5
 bė́ga: 5
@@ -1162,9 +1339,12 @@ bė́go: 5
 lemma: bėg, nugget: 
 ėgti_ė́ga_ė́go
 
-bėgti: bėgti, bė́ga, bė́go
-No file for this pattern, creating a new one...
-File name of bidzenti:dzenti_zdena_zdeno
+This is the infinitive_verb from the outset: bidzenti
+This is the stripped_verb from the outset: bidzen
+This is the stripped_verb: bidzen
+This is the matching_lemma: bi
+RFLT bidzenti:dzenti_zdena_zdeno
+This is the matching file name again: dzenti_zdena_zdeno
 Reflexive? false :: lemma? true
 bidzenti: 8
 bizdena: 7
@@ -1172,9 +1352,12 @@ bizdeno: 7
 lemma: bi, nugget: dzen
 dzenti_zdena_zdeno
 
-bidzenti: bidzenti, bizdena, bizdeno
-No file for this pattern, creating a new one...
-File name of bijoti:oti_o_ójo
+This is the infinitive_verb from the outset: bijoti
+This is the stripped_verb from the outset: bijo
+This is the stripped_verb: bijo
+This is the matching_lemma: bij
+RFLT bijoti:oti_o_ójo
+This is the matching file name again: oti_o_ójo
 Reflexive? false :: lemma? true
 bijoti: 6
 bìjo: 4
@@ -1182,8 +1365,12 @@ bijójo: 6
 lemma: bij, nugget: o
 oti_o_ójo
 
-bijoti: bijoti, bìjo, bijójo
-No file for this pattern, creating a new one...
+This is the infinitive_verb from the outset: birbti
+This is the stripped_verb from the outset: birb
+This is the stripped_verb: birb
+This is the matching_lemma: birb
+RFLF birbti:irbti_ir̃bia_ir̃bė
+This is the matching file name again: irbti_ir̃bia_ir̃bė
 Reflexive? false :: lemma? false
 birbti: 6
 bir̃bia: 7
@@ -1191,8 +1378,12 @@ bir̃bė: 6
 lemma: birb, nugget: 
 irbti_ir̃bia_ir̃bė
 
-birbti: birbti, bir̃bia, bir̃bė
-No file for this pattern, creating a new one...
+This is the infinitive_verb from the outset: birti
+This is the stripped_verb from the outset: bir
+This is the stripped_verb: bir
+This is the matching_lemma: bir
+RFLF birti:irti_ỹra_
+This is the matching file name again: irti_ỹra_
 Reflexive? false :: lemma? false
 birti: 5
 bỹra: 4
@@ -1200,8 +1391,12 @@ bìro: 4
 lemma: bir, nugget: 
 irti_ỹra_
 
-birti: birti, bỹra, bìro
-No file for this pattern, creating a new one...
+This is the infinitive_verb from the outset: bjaurėtis
+This is the stripped_verb from the outset: bjaurė
+This is the stripped_verb: bjaurė
+This is the matching_lemma: bjaur
+RTLT bjaurėtis:ėtis_isi_ė́josi
+This is the matching file name again: ėtis_isi_ė́josi
 Reflexive? true :: lemma? true
 bjaurėtis: 9
 bjaũrisi: 8
@@ -1209,14 +1404,12 @@ bjaurė́josi: 11
 lemma: bjaur, nugget: ė
 ėtis_isi_ė́josi
 
-bjaurėtis: bjaurėtis, bjaũrisi, bjaurė́josi
-This is the line before the split:
-This is the item: ["baisėtis", " baĩsisi", " baisė́josi\n"]
-This is the first element: baisėtis
-Is baisėtis identical to bjaurėtis? false
-no match found
-Writing bjaurėtis, bjaũrisi, bjaurė́josi
-File name of bjurti:jurti_jursta_jùro
+This is the infinitive_verb from the outset: bjurti
+This is the stripped_verb from the outset: bjur
+This is the stripped_verb: bjur
+This is the matching_lemma: b
+RFLT bjurti:jurti_jursta_jùro
+This is the matching file name again: jurti_jursta_jùro
 Reflexive? false :: lemma? true
 bjurti: 6
 bjursta: 7
@@ -1224,8 +1417,12 @@ bjùro: 5
 lemma: b, nugget: jur
 jurti_jursta_jùro
 
-bjurti: bjurti, bjursta, bjùro
-No file for this pattern, creating a new one...
+This is the infinitive_verb from the outset: blankti
+This is the stripped_verb from the outset: blank
+This is the stripped_verb: blank
+This is the matching_lemma: blank
+RFLF blankti:ankti_añksta_ánko
+This is the matching file name again: ankti_añksta_ánko
 Reflexive? false :: lemma? false
 blankti: 7
 blañksta: 8
@@ -1233,9 +1430,12 @@ blánko: 6
 lemma: blank, nugget: 
 ankti_añksta_ánko
 
-blankti: blankti, blañksta, blánko
-No file for this pattern, creating a new one...
-File name of blaškyti:yti_o_ė
+This is the infinitive_verb from the outset: blaškyti
+This is the stripped_verb from the outset: blašky
+This is the stripped_verb: blašky
+This is the matching_lemma: blašk
+RFLT blaškyti:yti_o_ė
+This is the matching file name again: yti_o_ė
 Reflexive? false :: lemma? true
 blaškyti: 8
 blãško: 6
@@ -1243,21 +1443,12 @@ blãškė: 6
 lemma: blašk, nugget: y
 yti_o_ė
 
-blaškyti: blaškyti, blãško, blãškė
-This is the line before the split:
-This is the item: ["badyti", " bãdo", " bãdė\n"]
-This is the first element: badyti
-Is badyti identical to blaškyti? false
-This is the line before the split:
-This is the item: ["baidyti", " baĩdo", " baĩdė\n"]
-This is the first element: baidyti
-Is baidyti identical to blaškyti? false
-This is the line before the split:
-This is the item: ["bandyti", " bañdo", " bañdė\n"]
-This is the first element: bandyti
-Is bandyti identical to blaškyti? false
-no match found
-Writing blaškyti, blãško, blãškė
+This is the infinitive_verb from the outset: blaškytis
+This is the stripped_verb from the outset: blašky
+This is the stripped_verb: blašky
+This is the matching_lemma: blašk
+RTLT blaškytis:ytis_osi_ėsi
+This is the matching file name again: ytis_osi_ėsi
 Reflexive? true :: lemma? true
 blaškytis: 9
 blãškosi: 8
@@ -1265,14 +1456,12 @@ blãškėsi: 8
 lemma: blašk, nugget: y
 ytis_osi_ėsi
 
-blaškytis: blaškytis, blãškosi, blãškėsi
-This is the line before the split:
-This is the item: ["baidytis", " baĩdosi", " baĩdėsi\n"]
-This is the first element: baidytis
-Is baidytis identical to blaškytis? false
-no match found
-Writing blaškytis, blãškosi, blãškėsi
-File name of blefuoti:lefuoti_lefuoja_lefavo
+This is the infinitive_verb from the outset: blefuoti
+This is the stripped_verb from the outset: blefuo
+This is the stripped_verb: blefuo
+This is the matching_lemma: b
+RFLT blefuoti:lefuoti_lefuoja_lefavo
+This is the matching file name again: lefuoti_lefuoja_lefavo
 Reflexive? false :: lemma? true
 blefuoti: 8
 blefuoja: 8
@@ -1280,9 +1469,12 @@ blefavo: 7
 lemma: b, nugget: lefuo
 lefuoti_lefuoja_lefavo
 
-blefuoti: blefuoti, blefuoja, blefavo
-No file for this pattern, creating a new one...
-File name of blęsti:lęsti_leñdžia_leñdė
+This is the infinitive_verb from the outset: blęsti
+This is the stripped_verb from the outset: blęs
+This is the stripped_verb: blęs
+This is the matching_lemma: b
+RFLT blęsti:lęsti_leñdžia_leñdė
+This is the matching file name again: lęsti_leñdžia_leñdė
 Reflexive? false :: lemma? true
 blęsti: 6
 bleñdžia: 8
@@ -1290,9 +1482,12 @@ bleñdė: 6
 lemma: b, nugget: lęs
 lęsti_leñdžia_leñdė
 
-blęsti: blęsti, bleñdžia, bleñdė
-No file for this pattern, creating a new one...
-File name of blizgėti:ėti_a_ė́jo
+This is the infinitive_verb from the outset: blizgėti
+This is the stripped_verb from the outset: blizgė
+This is the stripped_verb: blizgė
+This is the matching_lemma: blizg
+RFLT blizgėti:ėti_a_ė́jo
+This is the matching file name again: ėti_a_ė́jo
 Reflexive? false :: lemma? true
 blizgėti: 8
 blìzga: 6
@@ -1300,9 +1495,12 @@ blizgė́jo: 9
 lemma: blizg, nugget: ė
 ėti_a_ė́jo
 
-blizgėti: blizgėti, blìzga, blizgė́jo
-No file for this pattern, creating a new one...
-File name of blizginti:inti_ina_ino
+This is the infinitive_verb from the outset: blizginti
+This is the stripped_verb from the outset: blizgin
+This is the stripped_verb: blizgin
+This is the matching_lemma: blizg
+RFLT blizginti:inti_ina_ino
+This is the matching file name again: inti_ina_ino
 Reflexive? false :: lemma? true
 blizginti: 9
 blìzgina: 8
@@ -1310,26 +1508,12 @@ blìzgino: 8
 lemma: blizg, nugget: in
 inti_ina_ino
 
-blizginti: blizginti, blìzgina, blìzgino
-This is the line before the split:
-This is the item: ["aktyvinti", " aktỹvina", " aktỹvino\n"]
-This is the first element: aktyvinti
-Is aktyvinti identical to blizginti? false
-This is the line before the split:
-This is the item: ["aukštinti", " áukština", " áukštino\n"]
-This is the first element: aukštinti
-Is aukštinti identical to blizginti? false
-This is the line before the split:
-This is the item: ["balinti", " bãlina", " bãlino\n"]
-This is the first element: balinti
-Is balinti identical to blizginti? false
-This is the line before the split:
-This is the item: ["barškinti", " bárškina", " bárškino\n"]
-This is the first element: barškinti
-Is barškinti identical to blizginti? false
-no match found
-Writing blizginti, blìzgina, blìzgino
-File name of blogėti:ėti_ė́ja_ė́jo
+This is the infinitive_verb from the outset: blogėti
+This is the stripped_verb from the outset: blogė
+This is the stripped_verb: blogė
+This is the matching_lemma: blog
+RFLT blogėti:ėti_ė́ja_ė́jo
+This is the matching file name again: ėti_ė́ja_ė́jo
 Reflexive? false :: lemma? true
 blogėti: 7
 blogė́ja: 8
@@ -1337,22 +1521,12 @@ blogė́jo: 8
 lemma: blog, nugget: ė
 ėti_ė́ja_ė́jo
 
-blogėti: blogėti, blogė́ja, blogė́jo
-This is the line before the split:
-This is the item: ["akėti", " akė́ja", " akė́jo\n"]
-This is the first element: akėti
-Is akėti identical to blogėti? false
-This is the line before the split:
-This is the item: ["aktyvėti", " aktyvė́ja", " aktyvė́jo\n"]
-This is the first element: aktyvėti
-Is aktyvėti identical to blogėti? false
-This is the line before the split:
-This is the item: ["artėti", " artė́ja", " artė́jo\n"]
-This is the first element: artėti
-Is artėti identical to blogėti? false
-no match found
-Writing blogėti, blogė́ja, blogė́jo
-File name of bloginti:inti_ina_ino
+This is the infinitive_verb from the outset: bloginti
+This is the stripped_verb from the outset: blogin
+This is the stripped_verb: blogin
+This is the matching_lemma: blog
+RFLT bloginti:inti_ina_ino
+This is the matching file name again: inti_ina_ino
 Reflexive? false :: lemma? true
 bloginti: 8
 blõgina: 7
@@ -1360,29 +1534,12 @@ blõgino: 7
 lemma: blog, nugget: in
 inti_ina_ino
 
-bloginti: bloginti, blõgina, blõgino
-This is the line before the split:
-This is the item: ["aktyvinti", " aktỹvina", " aktỹvino\n"]
-This is the first element: aktyvinti
-Is aktyvinti identical to bloginti? false
-This is the line before the split:
-This is the item: ["aukštinti", " áukština", " áukštino\n"]
-This is the first element: aukštinti
-Is aukštinti identical to bloginti? false
-This is the line before the split:
-This is the item: ["balinti", " bãlina", " bãlino\n"]
-This is the first element: balinti
-Is balinti identical to bloginti? false
-This is the line before the split:
-This is the item: ["barškinti", " bárškina", " bárškino\n"]
-This is the first element: barškinti
-Is barškinti identical to bloginti? false
-This is the line before the split:
-This is the item: ["blizginti", " blìzgina", " blìzgino\n"]
-This is the first element: blizginti
-Is blizginti identical to bloginti? false
-no match found
-Writing bloginti, blõgina, blõgino
+This is the infinitive_verb from the outset: blogti
+This is the stripped_verb from the outset: blog
+This is the stripped_verb: blog
+This is the matching_lemma: blog
+RFLF blogti:i_a_
+This is the matching file name again: i_a_
 Reflexive? false :: lemma? false
 blogti: 6
 blogsta: 7
@@ -1390,8 +1547,12 @@ blõgo: 5
 lemma: blog, nugget: 
 i_a_
 
-blogti: blogti, blogsta, blõgo
-No file for this pattern, creating a new one...
+This is the infinitive_verb from the outset: blokšti
+This is the stripped_verb from the outset: blokš
+This is the stripped_verb: blokš
+This is the matching_lemma: blokš
+RFLF blokšti:i_ia_ė
+This is the matching file name again: i_ia_ė
 Reflexive? false :: lemma? false
 blokšti: 7
 blõškia: 7
@@ -1399,9 +1560,12 @@ blõškė: 6
 lemma: blokš, nugget: 
 i_ia_ė
 
-blokšti: blokšti, blõškia, blõškė
-No file for this pattern, creating a new one...
-File name of blokuoti:uoti_úoja_ãvo
+This is the infinitive_verb from the outset: blokuoti
+This is the stripped_verb from the outset: blokuo
+This is the stripped_verb: blokuo
+This is the matching_lemma: blok
+RFLT blokuoti:uoti_úoja_ãvo
+This is the matching file name again: uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 blokuoti: 8
 blokúoja: 8
@@ -1409,58 +1573,12 @@ blokãvo: 7
 lemma: blok, nugget: uo
 uoti_úoja_ãvo
 
-blokuoti: blokuoti, blokúoja, blokãvo
-This is the line before the split:
-This is the item: ["absorbuoti", " absorbúoja", " absorbãvo\n"]
-This is the first element: absorbuoti
-Is absorbuoti identical to blokuoti? false
-This is the line before the split:
-This is the item: ["abstrahuoti", " abstrahúoja", " abstrahãvo\n"]
-This is the first element: abstrahuoti
-Is abstrahuoti identical to blokuoti? false
-This is the line before the split:
-This is the item: ["adaptuoti", " adaptúoja", " adaptãvo\n"]
-This is the first element: adaptuoti
-Is adaptuoti identical to blokuoti? false
-This is the line before the split:
-This is the item: ["administruoti", " administrúoja", " administrãvo\n"]
-This is the first element: administruoti
-Is administruoti identical to blokuoti? false
-This is the line before the split:
-This is the item: ["adresuoti", " adresúoja", " adresãvo\n"]
-This is the first element: adresuoti
-Is adresuoti identical to blokuoti? false
-This is the line before the split:
-This is the item: ["akcentuoti", " akcentúoja", " akcentãvo\n"]
-This is the first element: akcentuoti
-Is akcentuoti identical to blokuoti? false
-This is the line before the split:
-This is the item: ["analizuoti", " analizúoja", " analizãvo\n"]
-This is the first element: analizuoti
-Is analizuoti identical to blokuoti? false
-This is the line before the split:
-This is the item: ["areštuoti", " areštúoja", " areštãvo\n"]
-This is the first element: areštuoti
-Is areštuoti identical to blokuoti? false
-This is the line before the split:
-This is the item: ["auksuoti", " auksúoja", " auksãvo\n"]
-This is the first element: auksuoti
-Is auksuoti identical to blokuoti? false
-This is the line before the split:
-This is the item: ["balansuoti", " balansúoja", " balansãvo\n"]
-This is the first element: balansuoti
-Is balansuoti identical to blokuoti? false
-This is the line before the split:
-This is the item: ["banguoti", " bangúoja", " bangãvo\n"]
-This is the first element: banguoti
-Is banguoti identical to blokuoti? false
-This is the line before the split:
-This is the item: ["bankrutuoti", " bankrutúoja", " bankrutãvo\n"]
-This is the first element: bankrutuoti
-Is bankrutuoti identical to blokuoti? false
-no match found
-Writing blokuoti, blokúoja, blokãvo
-File name of blukinti:inti_ina_ino
+This is the infinitive_verb from the outset: blukinti
+This is the stripped_verb from the outset: blukin
+This is the stripped_verb: blukin
+This is the matching_lemma: bluk
+RFLT blukinti:inti_ina_ino
+This is the matching file name again: inti_ina_ino
 Reflexive? false :: lemma? true
 blukinti: 8
 blùkina: 7
@@ -1468,33 +1586,12 @@ blukino: 7
 lemma: bluk, nugget: in
 inti_ina_ino
 
-blukinti: blukinti, blùkina, blukino
-This is the line before the split:
-This is the item: ["aktyvinti", " aktỹvina", " aktỹvino\n"]
-This is the first element: aktyvinti
-Is aktyvinti identical to blukinti? false
-This is the line before the split:
-This is the item: ["aukštinti", " áukština", " áukštino\n"]
-This is the first element: aukštinti
-Is aukštinti identical to blukinti? false
-This is the line before the split:
-This is the item: ["balinti", " bãlina", " bãlino\n"]
-This is the first element: balinti
-Is balinti identical to blukinti? false
-This is the line before the split:
-This is the item: ["barškinti", " bárškina", " bárškino\n"]
-This is the first element: barškinti
-Is barškinti identical to blukinti? false
-This is the line before the split:
-This is the item: ["blizginti", " blìzgina", " blìzgino\n"]
-This is the first element: blizginti
-Is blizginti identical to blukinti? false
-This is the line before the split:
-This is the item: ["bloginti", " blõgina", " blõgino\n"]
-This is the first element: bloginti
-Is bloginti identical to blukinti? false
-no match found
-Writing blukinti, blùkina, blukino
+This is the infinitive_verb from the outset: blukti
+This is the stripped_verb from the outset: bluk
+This is the stripped_verb: bluk
+This is the matching_lemma: bluk
+RFLF blukti:ukti_uñka_
+This is the matching file name again: ukti_uñka_
 Reflexive? false :: lemma? false
 blukti: 6
 bluñka: 6
@@ -1502,8 +1599,12 @@ blùko: 5
 lemma: bluk, nugget: 
 ukti_uñka_
 
-blukti: blukti, bluñka, blùko
-No file for this pattern, creating a new one...
+This is the infinitive_verb from the outset: blykšti
+This is the stripped_verb from the outset: blykš
+This is the stripped_verb: blykš
+This is the matching_lemma: blykš
+RFLF blykšti:ykšti_ỹkšta_ỹško
+This is the matching file name again: ykšti_ỹkšta_ỹško
 Reflexive? false :: lemma? false
 blykšti: 7
 blỹkšta: 7
@@ -1511,9 +1612,12 @@ blỹško: 6
 lemma: blykš, nugget: 
 ykšti_ỹkšta_ỹško
 
-blykšti: blykšti, blỹkšta, blỹško
-No file for this pattern, creating a new one...
-File name of bodėti:ėti_i_ėjo
+This is the infinitive_verb from the outset: bodėti
+This is the stripped_verb from the outset: bodė
+This is the stripped_verb: bodė
+This is the matching_lemma: bod
+RFLT bodėti:ėti_i_ėjo
+This is the matching file name again: ėti_i_ėjo
 Reflexive? false :: lemma? true
 bodėti: 6
 bõdi: 4
@@ -1521,9 +1625,12 @@ bodėjo: 6
 lemma: bod, nugget: ė
 ėti_i_ėjo
 
-bodėti: bodėti, bõdi, bodėjo
-No file for this pattern, creating a new one...
-File name of boluoti:uoti_úoja_ãvo
+This is the infinitive_verb from the outset: boluoti
+This is the stripped_verb from the outset: boluo
+This is the stripped_verb: boluo
+This is the matching_lemma: bol
+RFLT boluoti:uoti_úoja_ãvo
+This is the matching file name again: uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 boluoti: 7
 bolúoja: 7
@@ -1531,62 +1638,12 @@ bolãvo: 6
 lemma: bol, nugget: uo
 uoti_úoja_ãvo
 
-boluoti: boluoti, bolúoja, bolãvo
-This is the line before the split:
-This is the item: ["absorbuoti", " absorbúoja", " absorbãvo\n"]
-This is the first element: absorbuoti
-Is absorbuoti identical to boluoti? false
-This is the line before the split:
-This is the item: ["abstrahuoti", " abstrahúoja", " abstrahãvo\n"]
-This is the first element: abstrahuoti
-Is abstrahuoti identical to boluoti? false
-This is the line before the split:
-This is the item: ["adaptuoti", " adaptúoja", " adaptãvo\n"]
-This is the first element: adaptuoti
-Is adaptuoti identical to boluoti? false
-This is the line before the split:
-This is the item: ["administruoti", " administrúoja", " administrãvo\n"]
-This is the first element: administruoti
-Is administruoti identical to boluoti? false
-This is the line before the split:
-This is the item: ["adresuoti", " adresúoja", " adresãvo\n"]
-This is the first element: adresuoti
-Is adresuoti identical to boluoti? false
-This is the line before the split:
-This is the item: ["akcentuoti", " akcentúoja", " akcentãvo\n"]
-This is the first element: akcentuoti
-Is akcentuoti identical to boluoti? false
-This is the line before the split:
-This is the item: ["analizuoti", " analizúoja", " analizãvo\n"]
-This is the first element: analizuoti
-Is analizuoti identical to boluoti? false
-This is the line before the split:
-This is the item: ["areštuoti", " areštúoja", " areštãvo\n"]
-This is the first element: areštuoti
-Is areštuoti identical to boluoti? false
-This is the line before the split:
-This is the item: ["auksuoti", " auksúoja", " auksãvo\n"]
-This is the first element: auksuoti
-Is auksuoti identical to boluoti? false
-This is the line before the split:
-This is the item: ["balansuoti", " balansúoja", " balansãvo\n"]
-This is the first element: balansuoti
-Is balansuoti identical to boluoti? false
-This is the line before the split:
-This is the item: ["banguoti", " bangúoja", " bangãvo\n"]
-This is the first element: banguoti
-Is banguoti identical to boluoti? false
-This is the line before the split:
-This is the item: ["bankrutuoti", " bankrutúoja", " bankrutãvo\n"]
-This is the first element: bankrutuoti
-Is bankrutuoti identical to boluoti? false
-This is the line before the split:
-This is the item: ["blokuoti", " blokúoja", " blokãvo\n"]
-This is the first element: blokuoti
-Is blokuoti identical to boluoti? false
-no match found
-Writing boluoti, bolúoja, bolãvo
-File name of bombarduoti:uoti_úoja_ãvo
+This is the infinitive_verb from the outset: bombarduoti
+This is the stripped_verb from the outset: bombarduo
+This is the stripped_verb: bombarduo
+This is the matching_lemma: bombard
+RFLT bombarduoti:uoti_úoja_ãvo
+This is the matching file name again: uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 bombarduoti: 11
 bombardúoja: 11
@@ -1594,66 +1651,12 @@ bombardãvo: 10
 lemma: bombard, nugget: uo
 uoti_úoja_ãvo
 
-bombarduoti: bombarduoti, bombardúoja, bombardãvo
-This is the line before the split:
-This is the item: ["absorbuoti", " absorbúoja", " absorbãvo\n"]
-This is the first element: absorbuoti
-Is absorbuoti identical to bombarduoti? false
-This is the line before the split:
-This is the item: ["abstrahuoti", " abstrahúoja", " abstrahãvo\n"]
-This is the first element: abstrahuoti
-Is abstrahuoti identical to bombarduoti? false
-This is the line before the split:
-This is the item: ["adaptuoti", " adaptúoja", " adaptãvo\n"]
-This is the first element: adaptuoti
-Is adaptuoti identical to bombarduoti? false
-This is the line before the split:
-This is the item: ["administruoti", " administrúoja", " administrãvo\n"]
-This is the first element: administruoti
-Is administruoti identical to bombarduoti? false
-This is the line before the split:
-This is the item: ["adresuoti", " adresúoja", " adresãvo\n"]
-This is the first element: adresuoti
-Is adresuoti identical to bombarduoti? false
-This is the line before the split:
-This is the item: ["akcentuoti", " akcentúoja", " akcentãvo\n"]
-This is the first element: akcentuoti
-Is akcentuoti identical to bombarduoti? false
-This is the line before the split:
-This is the item: ["analizuoti", " analizúoja", " analizãvo\n"]
-This is the first element: analizuoti
-Is analizuoti identical to bombarduoti? false
-This is the line before the split:
-This is the item: ["areštuoti", " areštúoja", " areštãvo\n"]
-This is the first element: areštuoti
-Is areštuoti identical to bombarduoti? false
-This is the line before the split:
-This is the item: ["auksuoti", " auksúoja", " auksãvo\n"]
-This is the first element: auksuoti
-Is auksuoti identical to bombarduoti? false
-This is the line before the split:
-This is the item: ["balansuoti", " balansúoja", " balansãvo\n"]
-This is the first element: balansuoti
-Is balansuoti identical to bombarduoti? false
-This is the line before the split:
-This is the item: ["banguoti", " bangúoja", " bangãvo\n"]
-This is the first element: banguoti
-Is banguoti identical to bombarduoti? false
-This is the line before the split:
-This is the item: ["bankrutuoti", " bankrutúoja", " bankrutãvo\n"]
-This is the first element: bankrutuoti
-Is bankrutuoti identical to bombarduoti? false
-This is the line before the split:
-This is the item: ["blokuoti", " blokúoja", " blokãvo\n"]
-This is the first element: blokuoti
-Is blokuoti identical to bombarduoti? false
-This is the line before the split:
-This is the item: ["boluoti", " bolúoja", " bolãvo\n"]
-This is the first element: boluoti
-Is boluoti identical to bombarduoti? false
-no match found
-Writing bombarduoti, bombardúoja, bombardãvo
-File name of braidyti:yti_o_ė
+This is the infinitive_verb from the outset: braidyti
+This is the stripped_verb from the outset: braidy
+This is the stripped_verb: braidy
+This is the matching_lemma: braid
+RFLT braidyti:yti_o_ė
+This is the matching file name again: yti_o_ė
 Reflexive? false :: lemma? true
 braidyti: 8
 braĩdo: 6
@@ -1661,26 +1664,12 @@ braĩdė: 6
 lemma: braid, nugget: y
 yti_o_ė
 
-braidyti: braidyti, braĩdo, braĩdė
-This is the line before the split:
-This is the item: ["badyti", " bãdo", " bãdė\n"]
-This is the first element: badyti
-Is badyti identical to braidyti? false
-This is the line before the split:
-This is the item: ["baidyti", " baĩdo", " baĩdė\n"]
-This is the first element: baidyti
-Is baidyti identical to braidyti? false
-This is the line before the split:
-This is the item: ["bandyti", " bañdo", " bañdė\n"]
-This is the first element: bandyti
-Is bandyti identical to braidyti? false
-This is the line before the split:
-This is the item: ["blaškyti", " blãško", " blãškė\n"]
-This is the first element: blaškyti
-Is blaškyti identical to braidyti? false
-no match found
-Writing braidyti, braĩdo, braĩdė
-File name of braižyti:yti_o_ė
+This is the infinitive_verb from the outset: braižyti
+This is the stripped_verb from the outset: braižy
+This is the stripped_verb: braižy
+This is the matching_lemma: braiž
+RFLT braižyti:yti_o_ė
+This is the matching file name again: yti_o_ė
 Reflexive? false :: lemma? true
 braižyti: 8
 braĩžo: 6
@@ -1688,30 +1677,12 @@ braĩžė: 6
 lemma: braiž, nugget: y
 yti_o_ė
 
-braižyti: braižyti, braĩžo, braĩžė
-This is the line before the split:
-This is the item: ["badyti", " bãdo", " bãdė\n"]
-This is the first element: badyti
-Is badyti identical to braižyti? false
-This is the line before the split:
-This is the item: ["baidyti", " baĩdo", " baĩdė\n"]
-This is the first element: baidyti
-Is baidyti identical to braižyti? false
-This is the line before the split:
-This is the item: ["bandyti", " bañdo", " bañdė\n"]
-This is the first element: bandyti
-Is bandyti identical to braižyti? false
-This is the line before the split:
-This is the item: ["blaškyti", " blãško", " blãškė\n"]
-This is the first element: blaškyti
-Is blaškyti identical to braižyti? false
-This is the line before the split:
-This is the item: ["braidyti", " braĩdo", " braĩdė\n"]
-This is the first element: braidyti
-Is braidyti identical to braižyti? false
-no match found
-Writing braižyti, braĩžo, braĩžė
-File name of brandinti:inti_ìna_ìno
+This is the infinitive_verb from the outset: brandinti
+This is the stripped_verb from the outset: brandin
+This is the stripped_verb: brandin
+This is the matching_lemma: brand
+RFLT brandinti:inti_ìna_ìno
+This is the matching file name again: inti_ìna_ìno
 Reflexive? false :: lemma? true
 brandinti: 9
 brandìna: 8
@@ -1719,18 +1690,12 @@ brandìno: 8
 lemma: brand, nugget: in
 inti_ìna_ìno
 
-brandinti: brandinti, brandìna, brandìno
-This is the line before the split:
-This is the item: ["alsinti", " alsìna", " alsìno\n"]
-This is the first element: alsinti
-Is alsinti identical to brandinti? false
-This is the line before the split:
-This is the item: ["bauginti", " baugìna", " baugìno\n"]
-This is the first element: bauginti
-Is bauginti identical to brandinti? false
-no match found
-Writing brandinti, brandìna, brandìno
-File name of branginti:inti_ìna_ìno
+This is the infinitive_verb from the outset: branginti
+This is the stripped_verb from the outset: brangin
+This is the stripped_verb: brangin
+This is the matching_lemma: brang
+RFLT branginti:inti_ìna_ìno
+This is the matching file name again: inti_ìna_ìno
 Reflexive? false :: lemma? true
 branginti: 9
 brangìna: 8
@@ -1738,21 +1703,12 @@ brangìno: 8
 lemma: brang, nugget: in
 inti_ìna_ìno
 
-branginti: branginti, brangìna, brangìno
-This is the line before the split:
-This is the item: ["alsinti", " alsìna", " alsìno\n"]
-This is the first element: alsinti
-Is alsinti identical to branginti? false
-This is the line before the split:
-This is the item: ["bauginti", " baugìna", " baugìno\n"]
-This is the first element: bauginti
-Is bauginti identical to branginti? false
-This is the line before the split:
-This is the item: ["brandinti", " brandìna", " brandìno\n"]
-This is the first element: brandinti
-Is brandinti identical to branginti? false
-no match found
-Writing branginti, brangìna, brangìno
+This is the infinitive_verb from the outset: brangti
+This is the stripped_verb from the outset: brang
+This is the stripped_verb: brang
+This is the matching_lemma: brang
+RFLF brangti:angti_ángsta_ángo
+This is the matching file name again: angti_ángsta_ángo
 Reflexive? false :: lemma? false
 brangti: 7
 brángsta: 8
@@ -1760,8 +1716,12 @@ brángo: 6
 lemma: brang, nugget: 
 angti_ángsta_ángo
 
-brangti: brangti, brángsta, brángo
-No file for this pattern, creating a new one...
+This is the infinitive_verb from the outset: braukti
+This is the stripped_verb from the outset: brauk
+This is the stripped_verb: brauk
+This is the matching_lemma: brauk
+RFLF braukti:aukti_aũkia_aũkė
+This is the matching file name again: aukti_aũkia_aũkė
 Reflexive? false :: lemma? false
 braukti: 7
 braũkia: 7
@@ -1769,9 +1729,12 @@ braũkė: 6
 lemma: brauk, nugget: 
 aukti_aũkia_aũkė
 
-braukti: braukti, braũkia, braũkė
-No file for this pattern, creating a new one...
-File name of braukyti:yti_o_ė
+This is the infinitive_verb from the outset: braukyti
+This is the stripped_verb from the outset: brauky
+This is the stripped_verb: brauky
+This is the matching_lemma: brauk
+RFLT braukyti:yti_o_ė
+This is the matching file name again: yti_o_ė
 Reflexive? false :: lemma? true
 braukyti: 8
 braũko: 6
@@ -1779,33 +1742,12 @@ braũkė: 6
 lemma: brauk, nugget: y
 yti_o_ė
 
-braukyti: braukyti, braũko, braũkė
-This is the line before the split:
-This is the item: ["badyti", " bãdo", " bãdė\n"]
-This is the first element: badyti
-Is badyti identical to braukyti? false
-This is the line before the split:
-This is the item: ["baidyti", " baĩdo", " baĩdė\n"]
-This is the first element: baidyti
-Is baidyti identical to braukyti? false
-This is the line before the split:
-This is the item: ["bandyti", " bañdo", " bañdė\n"]
-This is the first element: bandyti
-Is bandyti identical to braukyti? false
-This is the line before the split:
-This is the item: ["blaškyti", " blãško", " blãškė\n"]
-This is the first element: blaškyti
-Is blaškyti identical to braukyti? false
-This is the line before the split:
-This is the item: ["braidyti", " braĩdo", " braĩdė\n"]
-This is the first element: braidyti
-Is braidyti identical to braukyti? false
-This is the line before the split:
-This is the item: ["braižyti", " braĩžo", " braĩžė\n"]
-This is the first element: braižyti
-Is braižyti identical to braukyti? false
-no match found
-Writing braukyti, braũko, braũkė
+This is the infinitive_verb from the outset: brautis
+This is the stripped_verb from the outset: brau
+This is the stripped_verb: brau
+This is the matching_lemma: brau
+RTLF brautis:autis_áunasi_ėsi
+This is the matching file name again: autis_áunasi_ėsi
 Reflexive? true :: lemma? false
 brautis: 7
 bráunasi: 8
@@ -1813,9 +1755,12 @@ bróvėsi: 7
 lemma: brau, nugget: 
 autis_áunasi_ėsi
 
-brautis: brautis, bráunasi, bróvėsi
-No file for this pattern, creating a new one...
-File name of brazdėti:razdėti_rãzda_razdė́jo
+This is the infinitive_verb from the outset: brazdėti
+This is the stripped_verb from the outset: brazdė
+This is the stripped_verb: brazdė
+This is the matching_lemma: b
+RFLT brazdėti:razdėti_rãzda_razdė́jo
+This is the matching file name again: razdėti_rãzda_razdė́jo
 Reflexive? false :: lemma? true
 brazdėti: 8
 brãzda: 6
@@ -1823,9 +1768,12 @@ brazdė́jo: 9
 lemma: b, nugget: razdė
 razdėti_rãzda_razdė́jo
 
-brazdėti: brazdėti, brãzda, brazdė́jo
-No file for this pattern, creating a new one...
-File name of bręsti:sti_́sta_ndo
+This is the infinitive_verb from the outset: bręsti
+This is the stripped_verb from the outset: bręs
+This is the stripped_verb: bręs
+This is the matching_lemma: brę
+RFLT bręsti:sti_́sta_ndo
+This is the matching file name again: sti_́sta_ndo
 Reflexive? false :: lemma? true
 bręsti: 6
 brę́sta: 7
@@ -1833,8 +1781,12 @@ bréndo: 6
 lemma: brę, nugget: s
 sti_́sta_ndo
 
-bręsti: bręsti, brę́sta, bréndo
-No file for this pattern, creating a new one...
+This is the infinitive_verb from the outset: brėžti
+This is the stripped_verb from the outset: brėž
+This is the stripped_verb: brėž
+This is the matching_lemma: brėž
+RFLF brėžti:ėžti_ė́žia_ė́žė
+This is the matching file name again: ėžti_ė́žia_ė́žė
 Reflexive? false :: lemma? false
 brėžti: 6
 brė́žia: 7
@@ -1842,8 +1794,12 @@ brė́žė: 6
 lemma: brėž, nugget: 
 ėžti_ė́žia_ė́žė
 
-brėžti: brėžti, brė́žia, brė́žė
-No file for this pattern, creating a new one...
+This is the infinitive_verb from the outset: brinkti
+This is the stripped_verb from the outset: brink
+This is the stripped_verb: brink
+This is the matching_lemma: brink
+RFLF brinkti:inkti_a_
+This is the matching file name again: inkti_a_
 Reflexive? false :: lemma? false
 brinkti: 7
 brìnksta: 8
@@ -1851,8 +1807,12 @@ brìnko: 6
 lemma: brink, nugget: 
 inkti_a_
 
-brinkti: brinkti, brìnksta, brìnko
-No file for this pattern, creating a new one...
+This is the infinitive_verb from the outset: bristi
+This is the stripped_verb from the outset: bris
+This is the stripped_verb: bris
+This is the matching_lemma: bris
+RFLF bristi:isti_eñda_
+This is the matching file name again: isti_eñda_
 Reflexive? false :: lemma? false
 bristi: 6
 breñda: 6
@@ -1860,8 +1820,12 @@ brìdo: 5
 lemma: bris, nugget: 
 isti_eñda_
 
-bristi: bristi, breñda, brìdo
-No file for this pattern, creating a new one...
+This is the infinitive_verb from the outset: brukti
+This is the stripped_verb from the outset: bruk
+This is the stripped_verb: bruk
+This is the matching_lemma: bruk
+RFLF brukti:ukti_unka_
+This is the matching file name again: ukti_unka_
 Reflexive? false :: lemma? false
 brukti: 6
 brunka: 6
@@ -1869,9 +1833,12 @@ brùko: 5
 lemma: bruk, nugget: 
 ukti_unka_
 
-brukti: brukti, brunka, brùko
-No file for this pattern, creating a new one...
-File name of brūžinti:inti_žina_žino
+This is the infinitive_verb from the outset: brūžinti
+This is the stripped_verb from the outset: brūžin
+This is the stripped_verb: brūžin
+This is the matching_lemma: brūž
+RFLT brūžinti:inti_žina_žino
+This is the matching file name again: inti_žina_žino
 Reflexive? false :: lemma? true
 brūžinti: 8
 brū́žina: 8
@@ -1879,9 +1846,12 @@ brū́žino: 8
 lemma: brūž, nugget: in
 inti_žina_žino
 
-brūžinti: brūžinti, brū́žina, brū́žino
-No file for this pattern, creating a new one...
-File name of bučiuoti:iuoti_iúoja_iãvo
+This is the infinitive_verb from the outset: bučiuoti
+This is the stripped_verb from the outset: bučiuo
+This is the stripped_verb: bučiuo
+This is the matching_lemma: buč
+RFLT bučiuoti:iuoti_iúoja_iãvo
+This is the matching file name again: iuoti_iúoja_iãvo
 Reflexive? false :: lemma? true
 bučiuoti: 8
 bučiúoja: 8
@@ -1889,13 +1859,12 @@ bučiãvo: 7
 lemma: buč, nugget: iuo
 iuoti_iúoja_iãvo
 
-bučiuoti: bučiuoti, bučiúoja, bučiãvo
-This is the line before the split:
-This is the item: ["asimiliuoti", " asimiliúoja", " asimiliãvo\n"]
-This is the first element: asimiliuoti
-Is asimiliuoti identical to bučiuoti? false
-no match found
-Writing bučiuoti, bučiúoja, bučiãvo
+This is the infinitive_verb from the outset: bučiuotis
+This is the stripped_verb from the outset: bučiuo
+This is the stripped_verb: bučiuo
+This is the matching_lemma: buč
+RTLT bučiuotis:iuotis_iúojasi_iãvosi
+This is the matching file name again: iuotis_iúojasi_iãvosi
 Reflexive? true :: lemma? true
 bučiuotis: 9
 bučiúojasi: 10
@@ -1903,9 +1872,12 @@ bučiãvosi: 9
 lemma: buč, nugget: iuo
 iuotis_iúojasi_iãvosi
 
-bučiuotis: bučiuotis, bučiúojasi, bučiãvosi
-No file for this pattern, creating a new one...
-File name of budėti:ėti_i_ė́jo
+This is the infinitive_verb from the outset: budėti
+This is the stripped_verb from the outset: budė
+This is the stripped_verb: budė
+This is the matching_lemma: bud
+RFLT budėti:ėti_i_ė́jo
+This is the matching file name again: ėti_i_ė́jo
 Reflexive? false :: lemma? true
 budėti: 6
 bùdi: 4
@@ -1913,14 +1885,12 @@ budė́jo: 7
 lemma: bud, nugget: ė
 ėti_i_ė́jo
 
-budėti: budėti, bùdi, budė́jo
-This is the line before the split:
-This is the item: ["aidėti", " áidi", " aidė́jo\n"]
-This is the first element: aidėti
-Is aidėti identical to budėti? false
-no match found
-Writing budėti, bùdi, budė́jo
-File name of budinti:inti_ina_ino
+This is the infinitive_verb from the outset: budinti
+This is the stripped_verb from the outset: budin
+This is the stripped_verb: budin
+This is the matching_lemma: bud
+RFLT budinti:inti_ina_ino
+This is the matching file name again: inti_ina_ino
 Reflexive? false :: lemma? true
 budinti: 7
 bùdina: 6
@@ -1928,38 +1898,12 @@ bùdino: 6
 lemma: bud, nugget: in
 inti_ina_ino
 
-budinti: budinti, bùdina, bùdino
-This is the line before the split:
-This is the item: ["aktyvinti", " aktỹvina", " aktỹvino\n"]
-This is the first element: aktyvinti
-Is aktyvinti identical to budinti? false
-This is the line before the split:
-This is the item: ["aukštinti", " áukština", " áukštino\n"]
-This is the first element: aukštinti
-Is aukštinti identical to budinti? false
-This is the line before the split:
-This is the item: ["balinti", " bãlina", " bãlino\n"]
-This is the first element: balinti
-Is balinti identical to budinti? false
-This is the line before the split:
-This is the item: ["barškinti", " bárškina", " bárškino\n"]
-This is the first element: barškinti
-Is barškinti identical to budinti? false
-This is the line before the split:
-This is the item: ["blizginti", " blìzgina", " blìzgino\n"]
-This is the first element: blizginti
-Is blizginti identical to budinti? false
-This is the line before the split:
-This is the item: ["bloginti", " blõgina", " blõgino\n"]
-This is the first element: bloginti
-Is bloginti identical to budinti? false
-This is the line before the split:
-This is the item: ["blukinti", " blùkina", " blukino\n"]
-This is the first element: blukinti
-Is blukinti identical to budinti? false
-no match found
-Writing budinti, bùdina, bùdino
-File name of būgštauti:štauti_gtauja_gštavo
+This is the infinitive_verb from the outset: būgštauti
+This is the stripped_verb from the outset: būgštau
+This is the stripped_verb: būgštau
+This is the matching_lemma: būg
+RFLT būgštauti:štauti_gtauja_gštavo
+This is the matching file name again: štauti_gtauja_gštavo
 Reflexive? false :: lemma? true
 būgštauti: 9
 būšgtauja: 9
@@ -1967,9 +1911,12 @@ bū́gštavo: 9
 lemma: būg, nugget: štau
 štauti_gtauja_gštavo
 
-būgštauti: būgštauti, būšgtauja, bū́gštavo
-No file for this pattern, creating a new one...
-File name of bujoti:oti_ója_ójo
+This is the infinitive_verb from the outset: bujoti
+This is the stripped_verb from the outset: bujo
+This is the stripped_verb: bujo
+This is the matching_lemma: buj
+RFLT bujoti:oti_ója_ójo
+This is the matching file name again: oti_ója_ójo
 Reflexive? false :: lemma? true
 bujoti: 6
 bujója: 6
@@ -1977,18 +1924,12 @@ bujójo: 6
 lemma: buj, nugget: o
 oti_ója_ójo
 
-bujoti: bujoti, bujója, bujójo
-This is the line before the split:
-This is the item: ["aukoti", " aukója", " aukójo\n"]
-This is the first element: aukoti
-Is aukoti identical to bujoti? false
-This is the line before the split:
-This is the item: ["balnoti", " balnója", " balnójo\n"]
-This is the first element: balnoti
-Is balnoti identical to bujoti? false
-no match found
-Writing bujoti, bujója, bujójo
-File name of burbėti:ėti_a_ė́jo
+This is the infinitive_verb from the outset: burbėti
+This is the stripped_verb from the outset: burbė
+This is the stripped_verb: burbė
+This is the matching_lemma: burb
+RFLT burbėti:ėti_a_ė́jo
+This is the matching file name again: ėti_a_ė́jo
 Reflexive? false :: lemma? true
 burbėti: 7
 bùrba: 5
@@ -1996,14 +1937,12 @@ burbė́jo: 8
 lemma: burb, nugget: ė
 ėti_a_ė́jo
 
-burbėti: burbėti, bùrba, burbė́jo
-This is the line before the split:
-This is the item: ["blizgėti", " blìzga", " blizgė́jo\n"]
-This is the first element: blizgėti
-Is blizgėti identical to burbėti? false
-no match found
-Writing burbėti, bùrba, burbė́jo
-File name of burbuliuoti:uliuoti_uliúoja_uliãvo
+This is the infinitive_verb from the outset: burbuliuoti
+This is the stripped_verb from the outset: burbuliuo
+This is the stripped_verb: burbuliuo
+This is the matching_lemma: burb
+RFLT burbuliuoti:uliuoti_uliúoja_uliãvo
+This is the matching file name again: uliuoti_uliúoja_uliãvo
 Reflexive? false :: lemma? true
 burbuliuoti: 11
 burbuliúoja: 11
@@ -2011,9 +1950,12 @@ burbuliãvo: 10
 lemma: burb, nugget: uliuo
 uliuoti_uliúoja_uliãvo
 
-burbuliuoti: burbuliuoti, burbuliúoja, burbuliãvo
-No file for this pattern, creating a new one...
-File name of buriuoti:iuoti_iúoja_iãvo
+This is the infinitive_verb from the outset: buriuoti
+This is the stripped_verb from the outset: buriuo
+This is the stripped_verb: buriuo
+This is the matching_lemma: bur
+RFLT buriuoti:iuoti_iúoja_iãvo
+This is the matching file name again: iuoti_iúoja_iãvo
 Reflexive? false :: lemma? true
 buriuoti: 8
 buriúoja: 8
@@ -2021,18 +1963,12 @@ buriãvo: 7
 lemma: bur, nugget: iuo
 iuoti_iúoja_iãvo
 
-buriuoti: buriuoti, buriúoja, buriãvo
-This is the line before the split:
-This is the item: ["asimiliuoti", " asimiliúoja", " asimiliãvo\n"]
-This is the first element: asimiliuoti
-Is asimiliuoti identical to buriuoti? false
-This is the line before the split:
-This is the item: ["bučiuoti", " bučiúoja", " bučiãvo\n"]
-This is the first element: bučiuoti
-Is bučiuoti identical to buriuoti? false
-no match found
-Writing buriuoti, buriúoja, buriãvo
-File name of būriuoti:iuoti_iúoja_iãvo
+This is the infinitive_verb from the outset: būriuoti
+This is the stripped_verb from the outset: būriuo
+This is the stripped_verb: būriuo
+This is the matching_lemma: būr
+RFLT būriuoti:iuoti_iúoja_iãvo
+This is the matching file name again: iuoti_iúoja_iãvo
 Reflexive? false :: lemma? true
 būriuoti: 8
 buriúoja: 8
@@ -2040,21 +1976,12 @@ buriãvo: 7
 lemma: būr, nugget: iuo
 iuoti_iúoja_iãvo
 
-būriuoti: būriuoti, buriúoja, buriãvo
-This is the line before the split:
-This is the item: ["asimiliuoti", " asimiliúoja", " asimiliãvo\n"]
-This is the first element: asimiliuoti
-Is asimiliuoti identical to būriuoti? false
-This is the line before the split:
-This is the item: ["bučiuoti", " bučiúoja", " bučiãvo\n"]
-This is the first element: bučiuoti
-Is bučiuoti identical to būriuoti? false
-This is the line before the split:
-This is the item: ["buriuoti", " buriúoja", " buriãvo\n"]
-This is the first element: buriuoti
-Is buriuoti identical to būriuoti? false
-no match found
-Writing būriuoti, buriúoja, buriãvo
+This is the infinitive_verb from the outset: burti
+This is the stripped_verb from the outset: bur
+This is the stripped_verb: bur
+This is the matching_lemma: bur
+RFLF burti:urti_ia_ū́rė
+This is the matching file name again: urti_ia_ū́rė
 Reflexive? false :: lemma? false
 burti: 5
 bùria: 5
@@ -2062,8 +1989,12 @@ bū́rė: 5
 lemma: bur, nugget: 
 urti_ia_ū́rė
 
-burti: burti, bùria, bū́rė
-No file for this pattern, creating a new one...
+This is the infinitive_verb from the outset: busti
+This is the stripped_verb from the outset: bus
+This is the stripped_verb: bus
+This is the matching_lemma: bus
+RFLF busti:usti_uñda_
+This is the matching file name again: usti_uñda_
 Reflexive? false :: lemma? false
 busti: 5
 buñda: 5
@@ -2071,8 +2002,14 @@ bùdo: 4
 lemma: bus, nugget: 
 usti_uñda_
 
-busti: busti, buñda, bùdo
-No file for this pattern, creating a new one...
+This is the infinitive_verb from the outset: būti
+This is the stripped_verb from the outset: bū
+This is the stripped_verb: bū
+This is the matching_lemma: bū
+RFLF būti:ūti_yrà_
+This is the matching file name again: ūti_yrà_
+RFLF tebebūti:ebebūti_ebebū̃na_ebebùvo
+This is the matching file name again: ebebūti_ebebū̃na_ebebùvo
 Reflexive? false :: lemma? false
 tebebūti: 8
 tebebū̃na: 9
@@ -2080,9 +2017,12 @@ tebebùvo: 8
 lemma: bū, nugget: 
 ebebūti_ebebū̃na_ebebùvo
 
-būti: tebebūti, tebebū̃na, tebebùvo
-No file for this pattern, creating a new one...
-File name of buvoti:oti_ója_ójo
+This is the infinitive_verb from the outset: buvoti
+This is the stripped_verb from the outset: buvo
+This is the stripped_verb: buvo
+This is the matching_lemma: buv
+RFLT buvoti:oti_ója_ójo
+This is the matching file name again: oti_ója_ójo
 Reflexive? false :: lemma? true
 buvoti: 6
 buvója: 6
@@ -2090,21 +2030,12 @@ buvójo: 6
 lemma: buv, nugget: o
 oti_ója_ójo
 
-buvoti: buvoti, buvója, buvójo
-This is the line before the split:
-This is the item: ["aukoti", " aukója", " aukójo\n"]
-This is the first element: aukoti
-Is aukoti identical to buvoti? false
-This is the line before the split:
-This is the item: ["balnoti", " balnója", " balnójo\n"]
-This is the first element: balnoti
-Is balnoti identical to buvoti? false
-This is the line before the split:
-This is the item: ["bujoti", " bujója", " bujójo\n"]
-This is the first element: bujoti
-Is bujoti identical to buvoti? false
-no match found
-Writing buvoti, buvója, buvójo
+This is the infinitive_verb from the outset: bylinėtis
+This is the stripped_verb from the outset: bylinė
+This is the stripped_verb: bylinė
+This is the matching_lemma: byl
+RTLT bylinėtis:inėtis_inė́jasi_inė́josi
+This is the matching file name again: inėtis_inė́jasi_inė́josi
 Reflexive? true :: lemma? true
 bylinėtis: 9
 bylinė́jasi: 11
@@ -2112,9 +2043,12 @@ bylinė́josi: 11
 lemma: byl, nugget: inė
 inėtis_inė́jasi_inė́josi
 
-bylinėtis: bylinėtis, bylinė́jasi, bylinė́josi
-No file for this pattern, creating a new one...
-File name of byloti:oti_ója_ójo
+This is the infinitive_verb from the outset: byloti
+This is the stripped_verb from the outset: bylo
+This is the stripped_verb: bylo
+This is the matching_lemma: byl
+RFLT byloti:oti_ója_ójo
+This is the matching file name again: oti_ója_ójo
 Reflexive? false :: lemma? true
 byloti: 6
 bylója: 6
@@ -2122,26 +2056,12 @@ bylójo: 6
 lemma: byl, nugget: o
 oti_ója_ójo
 
-byloti: byloti, bylója, bylójo
-This is the line before the split:
-This is the item: ["aukoti", " aukója", " aukójo\n"]
-This is the first element: aukoti
-Is aukoti identical to byloti? false
-This is the line before the split:
-This is the item: ["balnoti", " balnója", " balnójo\n"]
-This is the first element: balnoti
-Is balnoti identical to byloti? false
-This is the line before the split:
-This is the item: ["bujoti", " bujója", " bujójo\n"]
-This is the first element: bujoti
-Is bujoti identical to byloti? false
-This is the line before the split:
-This is the item: ["buvoti", " buvója", " buvójo\n"]
-This is the first element: buvoti
-Is buvoti identical to byloti? false
-no match found
-Writing byloti, bylója, bylójo
-File name of byrėti:ėti_a_ė́jo
+This is the infinitive_verb from the outset: byrėti
+This is the stripped_verb from the outset: byrė
+This is the stripped_verb: byrė
+This is the matching_lemma: byr
+RFLT byrėti:ėti_a_ė́jo
+This is the matching file name again: ėti_a_ė́jo
 Reflexive? false :: lemma? true
 byrėti: 6
 bỹra: 4
@@ -2149,18 +2069,12 @@ byrė́jo: 7
 lemma: byr, nugget: ė
 ėti_a_ė́jo
 
-byrėti: byrėti, bỹra, byrė́jo
-This is the line before the split:
-This is the item: ["blizgėti", " blìzga", " blizgė́jo\n"]
-This is the first element: blizgėti
-Is blizgėti identical to byrėti? false
-This is the line before the split:
-This is the item: ["burbėti", " bùrba", " burbė́jo\n"]
-This is the first element: burbėti
-Is burbėti identical to byrėti? false
-no match found
-Writing byrėti, bỹra, byrė́jo
-File name of čežėti:ėti_a_ė́jo
+This is the infinitive_verb from the outset: čežėti
+This is the stripped_verb from the outset: čežė
+This is the stripped_verb: čežė
+This is the matching_lemma: čež
+RFLT čežėti:ėti_a_ė́jo
+This is the matching file name again: ėti_a_ė́jo
 Reflexive? false :: lemma? true
 čežėti: 6
 čẽža: 4
@@ -2168,21 +2082,12 @@ Reflexive? false :: lemma? true
 lemma: čež, nugget: ė
 ėti_a_ė́jo
 
-čežėti: čežėti, čẽža, čežė́jo
-This is the line before the split:
-This is the item: ["blizgėti", " blìzga", " blizgė́jo\n"]
-This is the first element: blizgėti
-Is blizgėti identical to čežėti? false
-This is the line before the split:
-This is the item: ["burbėti", " bùrba", " burbė́jo\n"]
-This is the first element: burbėti
-Is burbėti identical to čežėti? false
-This is the line before the split:
-This is the item: ["byrėti", " bỹra", " byrė́jo\n"]
-This is the first element: byrėti
-Is byrėti identical to čežėti? false
-no match found
-Writing čežėti, čẽža, čežė́jo
+This is the infinitive_verb from the outset: čežti
+This is the stripped_verb from the outset: čež
+This is the stripped_verb: čež
+This is the matching_lemma: čež
+RFLF čežti:ežti_ęžta_ežo
+This is the matching file name again: ežti_ęžta_ežo
 Reflexive? false :: lemma? false
 čežti: 5
 čęžta: 5
@@ -2190,9 +2095,12 @@ Reflexive? false :: lemma? false
 lemma: čež, nugget: 
 ežti_ęžta_ežo
 
-čežti: čežti, čęžta, čežo
-No file for this pattern, creating a new one...
-File name of čiaudėti:ėti_ėja_ėjo
+This is the infinitive_verb from the outset: čiaudėti
+This is the stripped_verb from the outset: čiaudė
+This is the stripped_verb: čiaudė
+This is the matching_lemma: čiaud
+RFLT čiaudėti:ėti_ėja_ėjo
+This is the matching file name again: ėti_ėja_ėjo
 Reflexive? false :: lemma? true
 čiaudėti: 8
 čiáudėja: 8
@@ -2200,18 +2108,12 @@ Reflexive? false :: lemma? true
 lemma: čiaud, nugget: ė
 ėti_ėja_ėjo
 
-čiaudėti: čiaudėti, čiáudėja, čiáudėjo
-This is the line before the split:
-This is the item: ["auklėti", " áuklėja", " áuklėjo\n"]
-This is the first element: auklėti
-Is auklėti identical to čiaudėti? false
-This is the line before the split:
-This is the item: ["baisėti", " baisėja", " baisėjo\n"]
-This is the first element: baisėti
-Is baisėti identical to čiaudėti? false
-no match found
-Writing čiaudėti, čiáudėja, čiáudėjo
-File name of čiauškėti:ėti_a_ė́jo
+This is the infinitive_verb from the outset: čiauškėti
+This is the stripped_verb from the outset: čiauškė
+This is the stripped_verb: čiauškė
+This is the matching_lemma: čiaušk
+RFLT čiauškėti:ėti_a_ė́jo
+This is the matching file name again: ėti_a_ė́jo
 Reflexive? false :: lemma? true
 čiauškėti: 9
 čiáuška: 7
@@ -2219,26 +2121,12 @@ Reflexive? false :: lemma? true
 lemma: čiaušk, nugget: ė
 ėti_a_ė́jo
 
-čiauškėti: čiauškėti, čiáuška, čiauškė́jo
-This is the line before the split:
-This is the item: ["blizgėti", " blìzga", " blizgė́jo\n"]
-This is the first element: blizgėti
-Is blizgėti identical to čiauškėti? false
-This is the line before the split:
-This is the item: ["burbėti", " bùrba", " burbė́jo\n"]
-This is the first element: burbėti
-Is burbėti identical to čiauškėti? false
-This is the line before the split:
-This is the item: ["byrėti", " bỹra", " byrė́jo\n"]
-This is the first element: byrėti
-Is byrėti identical to čiauškėti? false
-This is the line before the split:
-This is the item: ["čežėti", " čẽža", " čežė́jo\n"]
-This is the first element: čežėti
-Is čežėti identical to čiauškėti? false
-no match found
-Writing čiauškėti, čiáuška, čiauškė́jo
-File name of čiaužti:užti_užia_užė
+This is the infinitive_verb from the outset: čiaužti
+This is the stripped_verb from the outset: čiauž
+This is the stripped_verb: čiauž
+This is the matching_lemma: čia
+RFLT čiaužti:užti_užia_užė
+This is the matching file name again: užti_užia_užė
 Reflexive? false :: lemma? true
 čiaužti: 7
 čiaužia: 7
@@ -2246,9 +2134,12 @@ Reflexive? false :: lemma? true
 lemma: čia, nugget: už
 užti_užia_užė
 
-čiaužti: čiaužti, čiaužia, čiaužė
-No file for this pattern, creating a new one...
-File name of čirpėti:ėti_a_ėjo
+This is the infinitive_verb from the outset: čirpėti
+This is the stripped_verb from the outset: čirpė
+This is the stripped_verb: čirpė
+This is the matching_lemma: čirp
+RFLT čirpėti:ėti_a_ėjo
+This is the matching file name again: ėti_a_ėjo
 Reflexive? false :: lemma? true
 čirpėti: 7
 čirpa: 5
@@ -2256,9 +2147,12 @@ Reflexive? false :: lemma? true
 lemma: čirp, nugget: ė
 ėti_a_ėjo
 
-čirpėti: čirpėti, čirpa, čirpėjo
-No file for this pattern, creating a new one...
-File name of cituoti:uoti_úoja_ãvo
+This is the infinitive_verb from the outset: cituoti
+This is the stripped_verb from the outset: cituo
+This is the stripped_verb: cituo
+This is the matching_lemma: cit
+RFLT cituoti:uoti_úoja_ãvo
+This is the matching file name again: uoti_úoja_ãvo
 Reflexive? false :: lemma? true
 cituoti: 7
 citúoja: 7
@@ -2266,70 +2160,12 @@ citãvo: 6
 lemma: cit, nugget: uo
 uoti_úoja_ãvo
 
-cituoti: cituoti, citúoja, citãvo
-This is the line before the split:
-This is the item: ["absorbuoti", " absorbúoja", " absorbãvo\n"]
-This is the first element: absorbuoti
-Is absorbuoti identical to cituoti? false
-This is the line before the split:
-This is the item: ["abstrahuoti", " abstrahúoja", " abstrahãvo\n"]
-This is the first element: abstrahuoti
-Is abstrahuoti identical to cituoti? false
-This is the line before the split:
-This is the item: ["adaptuoti", " adaptúoja", " adaptãvo\n"]
-This is the first element: adaptuoti
-Is adaptuoti identical to cituoti? false
-This is the line before the split:
-This is the item: ["administruoti", " administrúoja", " administrãvo\n"]
-This is the first element: administruoti
-Is administruoti identical to cituoti? false
-This is the line before the split:
-This is the item: ["adresuoti", " adresúoja", " adresãvo\n"]
-This is the first element: adresuoti
-Is adresuoti identical to cituoti? false
-This is the line before the split:
-This is the item: ["akcentuoti", " akcentúoja", " akcentãvo\n"]
-This is the first element: akcentuoti
-Is akcentuoti identical to cituoti? false
-This is the line before the split:
-This is the item: ["analizuoti", " analizúoja", " analizãvo\n"]
-This is the first element: analizuoti
-Is analizuoti identical to cituoti? false
-This is the line before the split:
-This is the item: ["areštuoti", " areštúoja", " areštãvo\n"]
-This is the first element: areštuoti
-Is areštuoti identical to cituoti? false
-This is the line before the split:
-This is the item: ["auksuoti", " auksúoja", " auksãvo\n"]
-This is the first element: auksuoti
-Is auksuoti identical to cituoti? false
-This is the line before the split:
-This is the item: ["balansuoti", " balansúoja", " balansãvo\n"]
-This is the first element: balansuoti
-Is balansuoti identical to cituoti? false
-This is the line before the split:
-This is the item: ["banguoti", " bangúoja", " bangãvo\n"]
-This is the first element: banguoti
-Is banguoti identical to cituoti? false
-This is the line before the split:
-This is the item: ["bankrutuoti", " bankrutúoja", " bankrutãvo\n"]
-This is the first element: bankrutuoti
-Is bankrutuoti identical to cituoti? false
-This is the line before the split:
-This is the item: ["blokuoti", " blokúoja", " blokãvo\n"]
-This is the first element: blokuoti
-Is blokuoti identical to cituoti? false
-This is the line before the split:
-This is the item: ["boluoti", " bolúoja", " bolãvo\n"]
-This is the first element: boluoti
-Is boluoti identical to cituoti? false
-This is the line before the split:
-This is the item: ["bombarduoti", " bombardúoja", " bombardãvo\n"]
-This is the first element: bombarduoti
-Is bombarduoti identical to cituoti? false
-no match found
-Writing cituoti, citúoja, citãvo
-File name of čiulbėti:ėti_a_ė́jo
+This is the infinitive_verb from the outset: čiulbėti
+This is the stripped_verb from the outset: čiulbė
+This is the stripped_verb: čiulbė
+This is the matching_lemma: čiulb
+RFLT čiulbėti:ėti_a_ė́jo
+This is the matching file name again: ėti_a_ė́jo
 Reflexive? false :: lemma? true
 čiulbėti: 8
 čiùlba: 6
@@ -2337,29 +2173,12 @@ Reflexive? false :: lemma? true
 lemma: čiulb, nugget: ė
 ėti_a_ė́jo
 
-čiulbėti: čiulbėti, čiùlba, čiulbė́jo
-This is the line before the split:
-This is the item: ["blizgėti", " blìzga", " blizgė́jo\n"]
-This is the first element: blizgėti
-Is blizgėti identical to čiulbėti? false
-This is the line before the split:
-This is the item: ["burbėti", " bùrba", " burbė́jo\n"]
-This is the first element: burbėti
-Is burbėti identical to čiulbėti? false
-This is the line before the split:
-This is the item: ["byrėti", " bỹra", " byrė́jo\n"]
-This is the first element: byrėti
-Is byrėti identical to čiulbėti? false
-This is the line before the split:
-This is the item: ["čežėti", " čẽža", " čežė́jo\n"]
-This is the first element: čežėti
-Is čežėti identical to čiulbėti? false
-This is the line before the split:
-This is the item: ["čiauškėti", " čiáuška", " čiauškė́jo\n"]
-This is the first element: čiauškėti
-Is čiauškėti identical to čiulbėti? false
-no match found
-Writing čiulbėti, čiùlba, čiulbė́jo
+This is the infinitive_verb from the outset: čiulpti
+This is the stripped_verb from the outset: čiulp
+This is the stripped_verb: čiulp
+This is the matching_lemma: čiulp
+RFLF čiulpti:iulpti_iul̃pia_iul̃pė
+This is the matching file name again: iulpti_iul̃pia_iul̃pė
 Reflexive? false :: lemma? false
 čiulpti: 7
 čiul̃pia: 8
@@ -2367,9 +2186,12 @@ Reflexive? false :: lemma? false
 lemma: čiulp, nugget: 
 iulpti_iul̃pia_iul̃pė
 
-čiulpti: čiulpti, čiul̃pia, čiul̃pė
-No file for this pattern, creating a new one...
-File name of čiuožinėti:inėti_inė́ja_inė́ja
+This is the infinitive_verb from the outset: čiuožinėti
+This is the stripped_verb from the outset: čiuožinė
+This is the stripped_verb: čiuožinė
+This is the matching_lemma: čiuož
+RFLT čiuožinėti:inėti_inė́ja_inė́ja
+This is the matching file name again: inėti_inė́ja_inė́ja
 Reflexive? false :: lemma? true
 čiuožinėti: 10
 čiuožinė́ja: 11
@@ -2377,13 +2199,12 @@ Reflexive? false :: lemma? true
 lemma: čiuož, nugget: inė
 inėti_inė́ja_inė́ja
 
-čiuožinėti: čiuožinėti, čiuožinė́ja, čiuožinė́ja
-This is the line before the split:
-This is the item: ["bėginėti", " bėginė́ja", " bėginė́ja\n"]
-This is the first element: bėginėti
-Is bėginėti identical to čiuožinėti? false
-no match found
-Writing čiuožinėti, čiuožinė́ja, čiuožinė́ja
+This is the infinitive_verb from the outset: čiuožti
+This is the stripped_verb from the outset: čiuož
+This is the stripped_verb: čiuož
+This is the matching_lemma: čiuož
+RFLF čiuožti:iuožti_iuõžia_iuõžė
+This is the matching file name again: iuožti_iuõžia_iuõžė
 Reflexive? false :: lemma? false
 čiuožti: 7
 čiuõžia: 7
@@ -2391,8 +2212,12 @@ Reflexive? false :: lemma? false
 lemma: čiuož, nugget: 
 iuožti_iuõžia_iuõžė
 
-čiuožti: čiuožti, čiuõžia, čiuõžė
-No file for this pattern, creating a new one...
+This is the infinitive_verb from the outset: čiupti
+This is the stripped_verb from the outset: čiup
+This is the stripped_verb: čiup
+This is the matching_lemma: čiup
+RFLF čiupti:iupti_iupa_iùpo
+This is the matching file name again: iupti_iupa_iùpo
 Reflexive? false :: lemma? false
 čiupti: 6
 čiupa: 5
@@ -2400,9 +2225,12 @@ Reflexive? false :: lemma? false
 lemma: čiup, nugget: 
 iupti_iupa_iùpo
 
-čiupti: čiupti, čiupa, čiùpo
-No file for this pattern, creating a new one...
-File name of civilizuoti:izuoti_izuoja_izãvo
+This is the infinitive_verb from the outset: civilizuoti
+This is the stripped_verb from the outset: civilizuo
+This is the stripped_verb: civilizuo
+This is the matching_lemma: civil
+RFLT civilizuoti:izuoti_izuoja_izãvo
+This is the matching file name again: izuoti_izuoja_izãvo
 Reflexive? false :: lemma? true
 civilizuoti: 11
 civilizuoja: 11
@@ -2410,6 +2238,8 @@ civilizãvo: 10
 lemma: civil, nugget: izuo
 izuoti_izuoja_izãvo
 
-civilizuoti: civilizuoti, civilizuoja, civilizãvo
-No file for this pattern, creating a new one...
+This is the infinitive_verb from the outset: cypauti
+This is the stripped_verb from the outset: cypau
+This is the stripped_verb: cypau
+This is the matching_lemma: 
 bundler: failed to load command: exe/verbalyser (exe/verbalyser)
