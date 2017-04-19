@@ -99,9 +99,6 @@ module Verbalyser
           if @nugget_in == true
             puts "LEMMA (#{@matching_lemma}) and NUGGET -IN- (#{@nugget})"
             @key_substring = "lemma_nugget_in"
-          elsif @nugget_n == true
-            puts "LEMMA (#{@matching_lemma}) and NUGGET -N- (#{@nugget})"
-            @key_substring = "lemma_nugget_n"
           else
             puts "LEMMA (#{@matching_lemma}) and NUGGET (#{@nugget})"
             @key_substring = "lemma_nugget_general"
@@ -133,10 +130,6 @@ module Verbalyser
         @past3_slice = @past3.removeaccents[@matching_lemma.length..-1]
         @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}"
 
-      when "lemma_nugget_n"
-        puts "CLASSIFICATION: lemma_nugget_n"
-        # @present3_slice = @present3[(@present3.count(@nugget))..-1]
-        # @past3_slice = @past3[(@past3.count(@nugget))..-1]
       when "lemma_only"
         puts "CLASSIFICATION: lemma_only"
 
@@ -144,80 +137,15 @@ module Verbalyser
         @present3_slice = @present3.removeaccents[@matching_lemma.length..-1]
         @past3_slice = @past3.removeaccents[@matching_lemma.length..-1]
         @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}"
-        # @present3_slice = @present3[@from_first_vowel]
-        # @past3_slice = @past3[@from_first_vowel]
       when "lemma_not_found"
-        puts "CLASSIFICATION: lemma_not_found"
-        # @present3_slice = @present3[@from_first_vowel]
-        # @past3_slice = @past3[@from_first_vowel]
+        puts "WARNING: lemma_not_found"
       else
-        puts "THERE IS A PROBLEM HERE"
+        puts "WARNING: THERE IS A PROBLEM HERE"
       end
 
       puts "infinitive_form: #{@infinitive_slice}"
       puts "present3_slice: #{@present3_slice}"
       puts "past3_slice: #{@past3_slice}"
-
-      # if @infinitive_form.match(infinitive_verb)
-      #
-      #   if @reflexivity == false && @lemma_suffix_found == true
-      #
-      #     part1 = @infinitive_form[-(@nugget.length + "ti".length), (@nugget.length + "ti".length)]
-      #
-      #     if @nugget_in == true
-      #       part2 = @present3[@matching_lemma[0...-2].length..-1]
-      #
-      #     else
-      #       part2 = @present3[@matching_lemma.length..-1]
-      #       #
-      #     end
-      #
-      #     if @nugget_in == true
-      #       part3 = @past3[@matching_lemma[0...-2].length..-1]
-      #     else
-      #       part3 = @past3[@matching_lemma.length..-1]
-      #     end
-      #
-      #     @file_name = "#{part1}_#{part2}_#{part3}".removeaccents
-      #
-      #   elsif @reflexivity == true && @lemma_suffix_found == true
-      #
-      #     part1 = @infinitive_form[-(@nugget.length + "tis".length), (@nugget.length + "tis".length)]
-      #
-      #     if @nugget_in == true
-      #       part2 = @present3[@matching_lemma[0...-2].length..-1]
-      #     else
-      #       part2 = @present3[@matching_lemma.length..-1]
-      #     end
-      #
-      #     if @nugget_in == true
-      #       part3 = @past3[@matching_lemma[0...-2].length..-1]
-      #     else
-      #       part3 = @past3[@matching_lemma.length..-1]
-      #     end
-      #
-      #     @file_name = "#{part1}_#{part2}_#{part3}".removeaccents
-      #
-      #   elsif @reflexivity == false && @lemma_suffix_found == false
-      #
-      #     part1 = @infinitive_form[@from_first_vowel]
-      #     part2 = @present3[@from_first_vowel]
-      #     part3 = @past3[@from_first_vowel]
-      #
-      #     @file_name = "#{part1}_#{part2}_#{part3}".removeaccents
-      #
-      #   elsif @reflexivity == true && @lemma_suffix_found == false
-      #
-      #     part1 = @infinitive_form[@from_first_vowel]
-      #     part2 = @present3[@from_first_vowel]
-      #     part3 = @past3[@from_first_vowel]
-      #
-      #     @file_name = "#{part1}_#{part2}_#{part3}".removeaccents
-      #
-      #   else
-      #   end
-      # end
-
       puts "file_name: #{@file_name}"
 
       puts "\n**************************************\n\n"
@@ -233,8 +161,6 @@ module Verbalyser
       output_verb_sequence = "#{@infinitive_form}, #{@present3}, #{@past3}\n"
       testing_output_verb_sequence = "[#{output_verb_sequence}]"
       file_path = @output_folder + @file_name + ".txt"
-
-
 
       if File.exist?(file_path) == false
 

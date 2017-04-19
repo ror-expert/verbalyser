@@ -1,3307 +1,2598 @@
-This is the stripped_verb: absorbuo
-This is the matching_lemma: absorb
 infinitive_verb: absorbuoti
 stripped_verb: absorbuo
 matching_lemma: absorb
 nugget: uo
 nugget_in: 
-nugget_n: 
 verb_array[0]: absorbuoti
-present3_slice: sorbúoja
-past3_slice: sorbãvo
-neither true
-neither true
-infinitive_verb: absorbuoti
-@infinitive_form: absorbuoti
-RFLT absorbuoti:uoti_uoja_avo
-Reflexive? false :: lemma? true
-absorbuoti: 10
-absorbúoja: 10
-absorbãvo: 9
-lemma: absorb, nugget: uo
-uoti_uoja_avo
+verb_array[1]:  absorbúoja
+verb_array[2]:  absorbãvo
+LEMMA (absorb) and NUGGET (uo)
+CLASSIFICATION: lemma_nugget_general
+NUGGET: uo
+infinitive_form: uoti
+present3_slice: uoja
+past3_slice: avo
+file_name: uoti_uoja_avo
 
-This is the stripped_verb: abstrahuo
-This is the matching_lemma: abstrah
+**************************************
+
 infinitive_verb: abstrahuoti
 stripped_verb: abstrahuo
 matching_lemma: abstrah
 nugget: uo
 nugget_in: 
-nugget_n: 
 verb_array[0]: abstrahuoti
-present3_slice: bstrahúoja
-past3_slice: bstrahãvo
-neither true
-neither true
-infinitive_verb: abstrahuoti
-@infinitive_form: abstrahuoti
-RFLT abstrahuoti:uoti_uoja_avo
-Reflexive? false :: lemma? true
-abstrahuoti: 11
-abstrahúoja: 11
-abstrahãvo: 10
-lemma: abstrah, nugget: uo
-uoti_uoja_avo
+verb_array[1]:  abstrahúoja
+verb_array[2]:  abstrahãvo
+LEMMA (abstrah) and NUGGET (uo)
+CLASSIFICATION: lemma_nugget_general
+NUGGET: uo
+infinitive_form: uoti
+present3_slice: uoja
+past3_slice: avo
+file_name: uoti_uoja_avo
 
-This is the stripped_verb: abuojė
-This is the matching_lemma: ab
+**************************************
+
 infinitive_verb: abuojėti
 stripped_verb: abuojė
 matching_lemma: ab
 nugget: uojė
 nugget_in: 
-nugget_n: 
 verb_array[0]: abuojėti
-present3_slice: ėja
-past3_slice: jo
-neither true
-neither true
-infinitive_verb: abuojėti
-@infinitive_form: abuojėti
-RFLT abuojėti:uojėti_uojėja_uojėjo
-Reflexive? false :: lemma? true
-abuojėti: 8
-abuojėja: 8
-abuojėjo: 8
-lemma: ab, nugget: uojė
-uojėti_uojėja_uojėjo
+verb_array[1]:  abuojėja
+verb_array[2]:  abuojėjo
+LEMMA (ab) and NUGGET (uojė)
+CLASSIFICATION: lemma_nugget_general
+NUGGET: uojė
+infinitive_form: uojėti
+present3_slice: uojėja
+past3_slice: uojėjo
+file_name: uojėti_uojėja_uojėjo
 
-This is the stripped_verb: adaptuo
-This is the matching_lemma: adapt
+**************************************
+
 infinitive_verb: adaptuoti
 stripped_verb: adaptuo
 matching_lemma: adapt
 nugget: uo
 nugget_in: 
-nugget_n: 
 verb_array[0]: adaptuoti
-present3_slice: daptúoja
-past3_slice: daptãvo
-neither true
-neither true
-infinitive_verb: adaptuoti
-@infinitive_form: adaptuoti
-RFLT adaptuoti:uoti_uoja_avo
-Reflexive? false :: lemma? true
-adaptuoti: 9
-adaptúoja: 9
-adaptãvo: 8
-lemma: adapt, nugget: uo
-uoti_uoja_avo
+verb_array[1]:  adaptúoja
+verb_array[2]:  adaptãvo
+LEMMA (adapt) and NUGGET (uo)
+CLASSIFICATION: lemma_nugget_general
+NUGGET: uo
+infinitive_form: uoti
+present3_slice: uoja
+past3_slice: avo
+file_name: uoti_uoja_avo
 
-This is the stripped_verb: adaptuo
-This is the matching_lemma: adapt
+**************************************
+
 infinitive_verb: adaptuotis
 stripped_verb: adaptuo
 matching_lemma: adapt
 nugget: uo
 nugget_in: 
-nugget_n: 
 verb_array[0]: adaptuotis
-present3_slice: daptúojasi
-past3_slice: daptãvosi
-RTLT adaptuotis:uotis_uojasi_avosi
-Reflexive? true :: lemma? true
-adaptuotis: 10
-adaptúojasi: 11
-adaptãvosi: 10
-lemma: adapt, nugget: uo
-uotis_uojasi_avosi
+verb_array[1]:  adaptúojasi
+verb_array[2]:  adaptãvosi
+LEMMA (adapt) and NUGGET (uo)
+CLASSIFICATION: lemma_nugget_general
+NUGGET: uo
+infinitive_form: uotis
+present3_slice: uojasi
+past3_slice: avosi
+file_name: uotis_uojasi_avosi
 
-This is the stripped_verb: adinė
-This is the matching_lemma: ad
+**************************************
+
 infinitive_verb: adinėti
 stripped_verb: adinė
 matching_lemma: ad
 nugget: inė
 nugget_in: 
-nugget_n: 
 verb_array[0]: adinėti
-present3_slice: nėja
-past3_slice: nėjo
-neither true
-neither true
-infinitive_verb: adinėti
-@infinitive_form: adinėti
-RFLT adinėti:inėti_inėja_inėjo
-Reflexive? false :: lemma? true
-adinėti: 7
-adinėja: 7
-adinėjo: 7
-lemma: ad, nugget: inė
-inėti_inėja_inėjo
+verb_array[1]:  adinėja
+verb_array[2]:  adinėjo
+LEMMA (ad) and NUGGET (inė)
+CLASSIFICATION: lemma_nugget_general
+NUGGET: inė
+infinitive_form: inėti
+present3_slice: inėja
+past3_slice: inėjo
+file_name: inėti_inėja_inėjo
 
-This is the stripped_verb: administruo
-This is the matching_lemma: administr
+**************************************
+
 infinitive_verb: administruoti
 stripped_verb: administruo
 matching_lemma: administr
 nugget: uo
 nugget_in: 
-nugget_n: 
 verb_array[0]: administruoti
-present3_slice: dministrúoja
-past3_slice: dministrãvo
-neither true
-neither true
-infinitive_verb: administruoti
-@infinitive_form: administruoti
-RFLT administruoti:uoti_uoja_avo
-Reflexive? false :: lemma? true
-administruoti: 13
-administrúoja: 13
-administrãvo: 12
-lemma: administr, nugget: uo
-uoti_uoja_avo
+verb_array[1]:  administrúoja
+verb_array[2]:  administrãvo
+LEMMA (administr) and NUGGET (uo)
+CLASSIFICATION: lemma_nugget_general
+NUGGET: uo
+infinitive_form: uoti
+present3_slice: uoja
+past3_slice: avo
+file_name: uoti_uoja_avo
 
-This is the stripped_verb: adresuo
-This is the matching_lemma: adres
+**************************************
+
 infinitive_verb: adresuoti
 stripped_verb: adresuo
 matching_lemma: adres
 nugget: uo
 nugget_in: 
-nugget_n: 
 verb_array[0]: adresuoti
-present3_slice: dresúoja
-past3_slice: dresãvo
-neither true
-neither true
-infinitive_verb: adresuoti
-@infinitive_form: adresuoti
-RFLT adresuoti:uoti_uoja_avo
-Reflexive? false :: lemma? true
-adresuoti: 9
-adresúoja: 9
-adresãvo: 8
-lemma: adres, nugget: uo
-uoti_uoja_avo
+verb_array[1]:  adresúoja
+verb_array[2]:  adresãvo
+LEMMA (adres) and NUGGET (uo)
+CLASSIFICATION: lemma_nugget_general
+NUGGET: uo
+infinitive_form: uoti
+present3_slice: uoja
+past3_slice: avo
+file_name: uoti_uoja_avo
 
-This is the stripped_verb: ady
-This is the matching_lemma: ad
+**************************************
+
 infinitive_verb: adyti
 stripped_verb: ady
 matching_lemma: ad
 nugget: y
 nugget_in: 
-nugget_n: 
 verb_array[0]: adyti
-present3_slice: ãdo
-past3_slice: ãdė
-neither true
-neither true
-infinitive_verb: adyti
-@infinitive_form: adyti
-RFLT adyti:yti_o_ė
-Reflexive? false :: lemma? true
-adyti: 5
-ãdo: 3
-ãdė: 3
-lemma: ad, nugget: y
-yti_o_ė
+verb_array[1]:  ãdo
+verb_array[2]:  ãdė
+LEMMA (ad) and NUGGET (y)
+CLASSIFICATION: lemma_nugget_general
+NUGGET: y
+infinitive_form: yti
+present3_slice: o
+past3_slice: ė
+file_name: yti_o_ė
 
-This is the stripped_verb: aidė
-This is the matching_lemma: aid
+**************************************
+
 infinitive_verb: aidėti
 stripped_verb: aidė
 matching_lemma: aid
 nugget: ė
 nugget_in: 
-nugget_n: 
 verb_array[0]: aidėti
-present3_slice: áidi
-past3_slice: idė́jo
-neither true
-neither true
-infinitive_verb: aidėti
-@infinitive_form: aidėti
-RFLT aidėti:ėti_i_ė́jo
-Reflexive? false :: lemma? true
-aidėti: 6
-áidi: 4
-aidė́jo: 7
-lemma: aid, nugget: ė
-ėti_i_ė́jo
+verb_array[1]:  áidi
+verb_array[2]:  aidė́jo
+LEMMA (aid) and NUGGET (ė)
+CLASSIFICATION: lemma_nugget_general
+NUGGET: ė
+infinitive_form: ėti
+present3_slice: i
+past3_slice: ė́jo
+file_name: ėti_i_ė́jo
 
-This is the stripped_verb: aikčio
-This is the matching_lemma: aik
+**************************************
+
 infinitive_verb: aikčioti
 stripped_verb: aikčio
 matching_lemma: aik
 nugget: čio
 nugget_in: 
-nugget_n: 
 verb_array[0]: aikčioti
-present3_slice: ioja
-past3_slice: ojo
-neither true
-neither true
-infinitive_verb: aikčioti
-@infinitive_form: aikčioti
-RFLT aikčioti:čioti_čioja_čiojo
-Reflexive? false :: lemma? true
-aikčioti: 8
-áikčioja: 8
-áikčiojo: 8
-lemma: aik, nugget: čio
-čioti_čioja_čiojo
+verb_array[1]:  áikčioja
+verb_array[2]:  áikčiojo
+LEMMA (aik) and NUGGET (čio)
+CLASSIFICATION: lemma_nugget_general
+NUGGET: čio
+infinitive_form: čioti
+present3_slice: čioja
+past3_slice: čiojo
+file_name: čioti_čioja_čiojo
 
-This is the stripped_verb: akcentuo
-This is the matching_lemma: akcent
+**************************************
+
 infinitive_verb: akcentuoti
 stripped_verb: akcentuo
 matching_lemma: akcent
 nugget: uo
 nugget_in: 
-nugget_n: 
 verb_array[0]: akcentuoti
-present3_slice: kcentúoja
-past3_slice: kcentãvo
-neither true
-neither true
-infinitive_verb: akcentuoti
-@infinitive_form: akcentuoti
-RFLT akcentuoti:uoti_uoja_avo
-Reflexive? false :: lemma? true
-akcentuoti: 10
-akcentúoja: 10
-akcentãvo: 9
-lemma: akcent, nugget: uo
-uoti_uoja_avo
+verb_array[1]:  akcentúoja
+verb_array[2]:  akcentãvo
+LEMMA (akcent) and NUGGET (uo)
+CLASSIFICATION: lemma_nugget_general
+NUGGET: uo
+infinitive_form: uoti
+present3_slice: uoja
+past3_slice: avo
+file_name: uoti_uoja_avo
 
-This is the stripped_verb: akė
-This is the matching_lemma: ak
+**************************************
+
 infinitive_verb: akėti
 stripped_verb: akė
 matching_lemma: ak
 nugget: ė
 nugget_in: 
-nugget_n: 
 verb_array[0]: akėti
-present3_slice: kė́ja
-past3_slice: kė́jo
-neither true
-neither true
-infinitive_verb: akėti
-@infinitive_form: akėti
-RFLT akėti:ėti_ė́ja_ė́jo
-Reflexive? false :: lemma? true
-akėti: 5
-akė́ja: 6
-akė́jo: 6
-lemma: ak, nugget: ė
-ėti_ė́ja_ė́jo
+verb_array[1]:  akė́ja
+verb_array[2]:  akė́jo
+LEMMA (ak) and NUGGET (ė)
+CLASSIFICATION: lemma_nugget_general
+NUGGET: ė
+infinitive_form: ėti
+present3_slice: ė́ja
+past3_slice: ė́jo
+file_name: ėti_ė́ja_ė́jo
 
-This is the stripped_verb: akin
-This is the matching_lemma: aki
+**************************************
+
 infinitive_verb: akinti
 stripped_verb: akin
-matching_lemma: aki
+matching_lemma: ak
 nugget: in
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: akinti
+verb_array[1]:  ãkina
+verb_array[2]:  ãkino
+LEMMA (ak) and NUGGET -IN- (in)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: inti
 present3_slice: ina
 past3_slice: ino
-neither true
-neither true
-infinitive_verb: akinti
-@infinitive_form: akinti
-RFLT akinti:inti_na_no
-Reflexive? false :: lemma? true
-akinti: 6
-ãkina: 5
-ãkino: 5
-lemma: aki, nugget: in
-inti_na_no
+file_name: inti_ina_ino
 
-This is the stripped_verb: ak
-This is the matching_lemma: ak
+**************************************
+
 infinitive_verb: akti
 stripped_verb: ak
 matching_lemma: ak
 nugget: 
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: akti
-present3_slice: añka
-past3_slice: ãko
-RFLF akti:akti_anka_ako
-Reflexive? false :: lemma? false
-akti: 4
-añka: 4
-ãko: 3
-lemma: ak, nugget: 
-akti_anka_ako
+verb_array[1]:  añka
+verb_array[2]:  ãko
+LEMMA (ak) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: ka
+past3_slice: o
+file_name: ti_ka_o
 
-This is the stripped_verb: aktyvė
-This is the matching_lemma: aktyv
+**************************************
+
 infinitive_verb: aktyvėti
 stripped_verb: aktyvė
 matching_lemma: aktyv
 nugget: ė
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: aktyvėti
-present3_slice: ktyvė́ja
-past3_slice: ktyvė́jo
-neither true
-neither true
-infinitive_verb: aktyvėti
-@infinitive_form: aktyvėti
-RFLT aktyvėti:ėti_ė́ja_ė́jo
-Reflexive? false :: lemma? true
-aktyvėti: 8
-aktyvė́ja: 9
-aktyvė́jo: 9
-lemma: aktyv, nugget: ė
-ėti_ė́ja_ė́jo
+verb_array[1]:  aktyvė́ja
+verb_array[2]:  aktyvė́jo
+LEMMA (aktyv) and NUGGET -IN- (ė)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: ėti
+present3_slice: ė́ja
+past3_slice: ė́jo
+file_name: ėti_ė́ja_ė́jo
 
-This is the stripped_verb: aktyvin
-This is the matching_lemma: aktyv
+**************************************
+
 infinitive_verb: aktyvinti
 stripped_verb: aktyvin
 matching_lemma: aktyv
-nugget: vin
-nugget_in: false
-nugget_n: 
+nugget: in
+nugget_in: true
 verb_array[0]: aktyvinti
-present3_slice: ỹvina
-past3_slice: ỹvino
-neither true
-neither true
-infinitive_verb: aktyvinti
-@infinitive_form: aktyvinti
-RFLT aktyvinti:vinti_ina_ino
-Reflexive? false :: lemma? true
-aktyvinti: 9
-aktỹvina: 8
-aktỹvino: 8
-lemma: aktyv, nugget: vin
-vinti_ina_ino
+verb_array[1]:  aktỹvina
+verb_array[2]:  aktỹvino
+LEMMA (aktyv) and NUGGET -IN- (in)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: inti
+present3_slice: ina
+past3_slice: ino
+file_name: inti_ina_ino
 
-This is the stripped_verb: aktyvuo
-This is the matching_lemma: aktyv
+**************************************
+
 infinitive_verb: aktyvuoti
 stripped_verb: aktyvuo
 matching_lemma: aktyv
 nugget: uo
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: aktyvuoti
-present3_slice: tyvuoja
-past3_slice: ktyvavo
-neither true
-neither true
-infinitive_verb: aktyvuoti
-@infinitive_form: aktyvuoti
-RFLT aktyvuoti:uoti_uoja_avo
-Reflexive? false :: lemma? true
-aktyvuoti: 9
-aktyvuoja: 9
-aktyvavo: 8
-lemma: aktyv, nugget: uo
-uoti_uoja_avo
+verb_array[1]:  aktyvuoja
+verb_array[2]:  aktyvavo
+LEMMA (aktyv) and NUGGET -IN- (uo)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: uoti
+present3_slice: uoja
+past3_slice: avo
+file_name: uoti_uoja_avo
 
-This is the stripped_verb: alk
-This is the matching_lemma: alk
+**************************************
+
 infinitive_verb: alkti
 stripped_verb: alk
 matching_lemma: alk
 nugget: 
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: alkti
-present3_slice: álksta
-past3_slice: al̃ko
-RFLF alkti:alkti_alksta_al̃ko
-Reflexive? false :: lemma? false
-alkti: 5
-álksta: 6
-al̃ko: 5
-lemma: alk, nugget: 
-alkti_alksta_al̃ko
+verb_array[1]:  álksta
+verb_array[2]:  al̃ko
+LEMMA (alk) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: sta
+past3_slice: ko
+file_name: ti_sta_ko
 
-This is the stripped_verb: alp
-This is the matching_lemma: alp
+**************************************
+
 infinitive_verb: alpti
 stripped_verb: alp
 matching_lemma: alp
 nugget: 
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: alpti
-present3_slice: al̃psta
-past3_slice: al̃po
-RFLF alpti:alpti_al̃psta_al̃po
-Reflexive? false :: lemma? false
-alpti: 5
-al̃psta: 7
-al̃po: 5
-lemma: alp, nugget: 
-alpti_al̃psta_al̃po
+verb_array[1]:  al̃psta
+verb_array[2]:  al̃po
+LEMMA (alp) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: psta
+past3_slice: po
+file_name: ti_psta_po
 
-This is the stripped_verb: alsin
-This is the matching_lemma: als
+**************************************
+
 infinitive_verb: alsinti
 stripped_verb: alsin
 matching_lemma: als
-nugget: sin
-nugget_in: false
-nugget_n: 
+nugget: in
+nugget_in: true
 verb_array[0]: alsinti
-present3_slice: sìna
-past3_slice: sìno
-neither true
-neither true
-infinitive_verb: alsinti
-@infinitive_form: alsinti
-RFLT alsinti:sinti_ina_ino
-Reflexive? false :: lemma? true
-alsinti: 7
-alsìna: 6
-alsìno: 6
-lemma: als, nugget: sin
-sinti_ina_ino
+verb_array[1]:  alsìna
+verb_array[2]:  alsìno
+LEMMA (als) and NUGGET -IN- (in)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: inti
+present3_slice: ina
+past3_slice: ino
+file_name: inti_ina_ino
 
-This is the stripped_verb: amputuo
-This is the matching_lemma: amput
+**************************************
+
 infinitive_verb: amputuoti
 stripped_verb: amputuo
 matching_lemma: amput
 nugget: uo
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: amputuoti
-present3_slice: utuoja
-past3_slice: putãvo
-neither true
-neither true
-infinitive_verb: amputuoti
-@infinitive_form: amputuoti
-RFLT amputuoti:uoti_uoja_avo
-Reflexive? false :: lemma? true
-amputuoti: 9
-amputuoja: 9
-amputãvo: 8
-lemma: amput, nugget: uo
-uoti_uoja_avo
+verb_array[1]:  amputuoja
+verb_array[2]:  amputãvo
+LEMMA (amput) and NUGGET -IN- (uo)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: uoti
+present3_slice: uoja
+past3_slice: avo
+file_name: uoti_uoja_avo
 
-This is the stripped_verb: amsė
-This is the matching_lemma: ams
+**************************************
+
 infinitive_verb: amsėti
 stripped_verb: amsė
 matching_lemma: ams
 nugget: ė
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: amsėti
-present3_slice: ámsi
-past3_slice: msė́jo
-neither true
-neither true
-infinitive_verb: amsėti
-@infinitive_form: amsėti
-RFLT amsėti:ėti_i_ė́jo
-Reflexive? false :: lemma? true
-amsėti: 6
-ámsi: 4
-amsė́jo: 7
-lemma: ams, nugget: ė
-ėti_i_ė́jo
+verb_array[1]:  ámsi
+verb_array[2]:  amsė́jo
+LEMMA (ams) and NUGGET -IN- (ė)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: ėti
+present3_slice: i
+past3_slice: ė́jo
+file_name: ėti_i_ė́jo
 
-This is the stripped_verb: amžin
-This is the matching_lemma: amž
+**************************************
+
 infinitive_verb: amžinti
 stripped_verb: amžin
 matching_lemma: amž
-nugget: žin
-nugget_in: false
-nugget_n: 
+nugget: in
+nugget_in: true
 verb_array[0]: amžinti
-present3_slice: inà
+verb_array[1]:  amžinà
+verb_array[2]:  ámžino
+LEMMA (amž) and NUGGET -IN- (in)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: inti
+present3_slice: ina
 past3_slice: ino
-neither true
-neither true
-infinitive_verb: amžinti
-@infinitive_form: amžinti
-RFLT amžinti:žinti_ina_ino
-Reflexive? false :: lemma? true
-amžinti: 7
-amžinà: 6
-ámžino: 6
-lemma: amž, nugget: žin
-žinti_ina_ino
+file_name: inti_ina_ino
 
-This is the stripped_verb: analizuo
-This is the matching_lemma: analiz
+**************************************
+
 infinitive_verb: analizuoti
 stripped_verb: analizuo
 matching_lemma: analiz
 nugget: uo
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: analizuoti
-present3_slice: nalizúoja
-past3_slice: nalizãvo
-neither true
-neither true
-infinitive_verb: analizuoti
-@infinitive_form: analizuoti
-RFLT analizuoti:uoti_uoja_avo
-Reflexive? false :: lemma? true
-analizuoti: 10
-analizúoja: 10
-analizãvo: 9
-lemma: analiz, nugget: uo
-uoti_uoja_avo
+verb_array[1]:  analizúoja
+verb_array[2]:  analizãvo
+LEMMA (analiz) and NUGGET -IN- (uo)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: uoti
+present3_slice: uoja
+past3_slice: avo
+file_name: uoti_uoja_avo
 
-This is the stripped_verb: aneksuo
-This is the matching_lemma: an
+**************************************
+
 infinitive_verb: aneksuoti
 stripped_verb: aneksuo
 matching_lemma: an
 nugget: eksuo
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: aneksuoti
-present3_slice: súoja
-past3_slice: sãvo
-neither true
-neither true
-infinitive_verb: aneksuoti
-@infinitive_form: aneksuoti
-RFLT aneksuoti:eksuoti_eksuoja_eksavo
-Reflexive? false :: lemma? true
-aneksuoti: 9
-aneksúoja: 9
-aneksãvo: 8
-lemma: an, nugget: eksuo
-eksuoti_eksuoja_eksavo
+verb_array[1]:  aneksúoja
+verb_array[2]:  aneksãvo
+LEMMA (an) and NUGGET -IN- (eksuo)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: eksuoti
+present3_slice: eksuoja
+past3_slice: eksavo
+file_name: eksuoti_eksuoja_eksavo
 
-This is the stripped_verb: antspauduo
-This is the matching_lemma: ant
+**************************************
+
 infinitive_verb: antspauduoti
 stripped_verb: antspauduo
 matching_lemma: ant
 nugget: spauduo
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: antspauduoti
-present3_slice: úoja
-past3_slice: dãvo
-neither true
-neither true
-infinitive_verb: antspauduoti
-@infinitive_form: antspauduoti
-RFLT antspauduoti:spauduoti_spauduoja_spaudavo
-Reflexive? false :: lemma? true
-antspauduoti: 12
-antspaudúoja: 12
-antspaudãvo: 11
-lemma: ant, nugget: spauduo
-spauduoti_spauduoja_spaudavo
+verb_array[1]:  antspaudúoja
+verb_array[2]:  antspaudãvo
+LEMMA (ant) and NUGGET -IN- (spauduo)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: spauduoti
+present3_slice: spauduoja
+past3_slice: spaudavo
+file_name: spauduoti_spauduoja_spaudavo
 
-This is the stripped_verb: ardy
-This is the matching_lemma: ar
+**************************************
+
 infinitive_verb: ardyti
 stripped_verb: ardy
 matching_lemma: ar
 nugget: dy
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: ardyti
-present3_slice: r̃do
-past3_slice: r̃dė
-neither true
-neither true
-infinitive_verb: ardyti
-@infinitive_form: ardyti
-RFLT ardyti:dyti_̃do_̃dė
-Reflexive? false :: lemma? true
-ardyti: 6
-ar̃do: 5
-ar̃dė: 5
-lemma: ar, nugget: dy
-dyti_̃do_̃dė
+verb_array[1]:  ar̃do
+verb_array[2]:  ar̃dė
+LEMMA (ar) and NUGGET -IN- (dy)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: dyti
+present3_slice: ̃do
+past3_slice: ̃dė
+file_name: dyti_̃do_̃dė
 
-This is the stripped_verb: areštuo
-This is the matching_lemma: arešt
+**************************************
+
 infinitive_verb: areštuoti
 stripped_verb: areštuo
 matching_lemma: arešt
 nugget: uo
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: areštuoti
-present3_slice: reštúoja
-past3_slice: reštãvo
-neither true
-neither true
-infinitive_verb: areštuoti
-@infinitive_form: areštuoti
-RFLT areštuoti:uoti_uoja_avo
-Reflexive? false :: lemma? true
-areštuoti: 9
-areštúoja: 9
-areštãvo: 8
-lemma: arešt, nugget: uo
-uoti_uoja_avo
+verb_array[1]:  areštúoja
+verb_array[2]:  areštãvo
+LEMMA (arešt) and NUGGET -IN- (uo)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: uoti
+present3_slice: uoja
+past3_slice: avo
+file_name: uoti_uoja_avo
 
-This is the stripped_verb: artė
-This is the matching_lemma: art
+**************************************
+
 infinitive_verb: artėti
 stripped_verb: artė
 matching_lemma: art
 nugget: ė
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: artėti
-present3_slice: rtė́ja
-past3_slice: rtė́jo
-neither true
-neither true
-infinitive_verb: artėti
-@infinitive_form: artėti
-RFLT artėti:ėti_ė́ja_ė́jo
-Reflexive? false :: lemma? true
-artėti: 6
-artė́ja: 7
-artė́jo: 7
-lemma: art, nugget: ė
-ėti_ė́ja_ė́jo
+verb_array[1]:  artė́ja
+verb_array[2]:  artė́jo
+LEMMA (art) and NUGGET -IN- (ė)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: ėti
+present3_slice: ė́ja
+past3_slice: ė́jo
+file_name: ėti_ė́ja_ė́jo
 
-This is the stripped_verb: ar
-This is the matching_lemma: ar
+**************************************
+
 infinitive_verb: arti
 stripped_verb: ar
 matching_lemma: ar
 nugget: 
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: arti
-present3_slice: ãria
-past3_slice: ãrė
-RFLF arti:arti_aria_arė
-Reflexive? false :: lemma? false
-arti: 4
-ãria: 4
-ãrė: 3
-lemma: ar, nugget: 
-arti_aria_arė
+verb_array[1]:  ãria
+verb_array[2]:  ãrė
+LEMMA (ar) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: ia
+past3_slice: ė
+file_name: ti_ia_ė
 
-This is the stripped_verb: artin
-This is the matching_lemma: art
+**************************************
+
 infinitive_verb: artinti
 stripped_verb: artin
 matching_lemma: art
-nugget: tin
-nugget_in: false
-nugget_n: 
+nugget: in
+nugget_in: true
 verb_array[0]: artinti
+verb_array[1]:  ar̃tina
+verb_array[2]:  ar̃tino
+LEMMA (art) and NUGGET -IN- (in)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: inti
 present3_slice: tina
 past3_slice: tino
-neither true
-neither true
-infinitive_verb: artinti
-@infinitive_form: artinti
-RFLT artinti:tinti_tina_tino
-Reflexive? false :: lemma? true
-artinti: 7
-ar̃tina: 7
-ar̃tino: 7
-lemma: art, nugget: tin
-tinti_tina_tino
+file_name: inti_tina_tino
 
-This is the stripped_verb: artin
-This is the matching_lemma: art
+**************************************
+
 infinitive_verb: artintis
 stripped_verb: artin
 matching_lemma: art
-nugget: tin
-nugget_in: false
-nugget_n: 
+nugget: in
+nugget_in: true
 verb_array[0]: artintis
-present3_slice: inasi
-past3_slice: inosi
-RTLT artintis:tintis_tinasi_tinosi
-Reflexive? true :: lemma? true
-artintis: 8
-ar̃tinasi: 9
-ar̃tinosi: 9
-lemma: art, nugget: tin
-tintis_tinasi_tinosi
+verb_array[1]:  ar̃tinasi
+verb_array[2]:  ar̃tinosi
+LEMMA (art) and NUGGET -IN- (in)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: intis
+present3_slice: tinasi
+past3_slice: tinosi
+file_name: intis_tinasi_tinosi
 
-This is the stripped_verb: asimiliuo
-This is the matching_lemma: asimil
+**************************************
+
 infinitive_verb: asimiliuoti
 stripped_verb: asimiliuo
 matching_lemma: asimil
 nugget: iuo
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: asimiliuoti
-present3_slice: iliúoja
-past3_slice: iliãvo
-neither true
-neither true
-infinitive_verb: asimiliuoti
-@infinitive_form: asimiliuoti
-RFLT asimiliuoti:iuoti_iuoja_iavo
-Reflexive? false :: lemma? true
-asimiliuoti: 11
-asimiliúoja: 11
-asimiliãvo: 10
-lemma: asimil, nugget: iuo
-iuoti_iuoja_iavo
+verb_array[1]:  asimiliúoja
+verb_array[2]:  asimiliãvo
+LEMMA (asimil) and NUGGET -IN- (iuo)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: iuoti
+present3_slice: iuoja
+past3_slice: iavo
+file_name: iuoti_iuoja_iavo
 
-This is the stripped_verb: asmenuo
-This is the matching_lemma: asm
+**************************************
+
 infinitive_verb: asmenuoti
 stripped_verb: asmenuo
 matching_lemma: asm
 nugget: enuo
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: asmenuoti
-present3_slice: enúoja
-past3_slice: enãvo
-neither true
-neither true
-infinitive_verb: asmenuoti
-@infinitive_form: asmenuoti
-RFLT asmenuoti:enuoti_enuoja_enavo
-Reflexive? false :: lemma? true
-asmenuoti: 9
-asmenúoja: 9
-asmenãvo: 8
-lemma: asm, nugget: enuo
-enuoti_enuoja_enavo
+verb_array[1]:  asmenúoja
+verb_array[2]:  asmenãvo
+LEMMA (asm) and NUGGET -IN- (enuo)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: enuoti
+present3_slice: enuoja
+past3_slice: enavo
+file_name: enuoti_enuoja_enavo
 
-This is the stripped_verb: asocijuo
-This is the matching_lemma: asocij
+**************************************
+
 infinitive_verb: asocijuoti
 stripped_verb: asocijuo
 matching_lemma: asocij
 nugget: uo
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: asocijuoti
-present3_slice: ocijúoja
-past3_slice: ocijavo
-neither true
-neither true
-infinitive_verb: asocijuoti
-@infinitive_form: asocijuoti
-RFLT asocijuoti:uoti_uoja_avo
-Reflexive? false :: lemma? true
-asocijuoti: 10
-asocijúoja: 10
-asocijavo: 9
-lemma: asocij, nugget: uo
-uoti_uoja_avo
+verb_array[1]:  asocijúoja
+verb_array[2]:  asocijavo
+LEMMA (asocij) and NUGGET -IN- (uo)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: uoti
+present3_slice: uoja
+past3_slice: avo
+file_name: uoti_uoja_avo
 
-This is the stripped_verb: audė
-This is the matching_lemma: aud
+**************************************
+
 infinitive_verb: audėti
 stripped_verb: audė
 matching_lemma: aud
 nugget: ė
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: audėti
-present3_slice: auda
-past3_slice: udė́jo
-neither true
-neither true
-infinitive_verb: audėti
-@infinitive_form: audėti
-RFLT audėti:ėti_a_ė́jo
-Reflexive? false :: lemma? true
-audėti: 6
-auda: 4
-audė́jo: 7
-lemma: aud, nugget: ė
-ėti_a_ė́jo
+verb_array[1]:  auda
+verb_array[2]:  audė́jo
+LEMMA (aud) and NUGGET -IN- (ė)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: ėti
+present3_slice: a
+past3_slice: ė́jo
+file_name: ėti_a_ė́jo
 
-This is the stripped_verb: augin
-This is the matching_lemma: aug
+**************************************
+
 infinitive_verb: auginti
 stripped_verb: augin
 matching_lemma: aug
-nugget: gin
-nugget_in: false
-nugget_n: 
+nugget: in
+nugget_in: true
 verb_array[0]: auginti
-present3_slice: gìna
-past3_slice: gìno
-neither true
-neither true
-infinitive_verb: auginti
-@infinitive_form: auginti
-RFLT auginti:ginti_ina_ino
-Reflexive? false :: lemma? true
-auginti: 7
-augìna: 6
-augìno: 6
-lemma: aug, nugget: gin
-ginti_ina_ino
+verb_array[1]:  augìna
+verb_array[2]:  augìno
+LEMMA (aug) and NUGGET -IN- (in)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: inti
+present3_slice: ina
+past3_slice: ino
+file_name: inti_ina_ino
 
-This is the stripped_verb: aug
-This is the matching_lemma: aug
+**************************************
+
 infinitive_verb: augti
 stripped_verb: aug
 matching_lemma: aug
 nugget: 
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: augti
-present3_slice: áuga
-past3_slice: áugo
-RFLF augti:augti_auga_augo
-Reflexive? false :: lemma? false
-augti: 5
-áuga: 4
-áugo: 4
-lemma: aug, nugget: 
-augti_auga_augo
+verb_array[1]:  áuga
+verb_array[2]:  áugo
+LEMMA (aug) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: a
+past3_slice: o
+file_name: ti_a_o
 
-This is the stripped_verb: auklė
-This is the matching_lemma: aukl
+**************************************
+
 infinitive_verb: auklėti
 stripped_verb: auklė
 matching_lemma: aukl
 nugget: ė
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: auklėti
-present3_slice: uklėja
-past3_slice: uklėjo
-neither true
-neither true
-infinitive_verb: auklėti
-@infinitive_form: auklėti
-RFLT auklėti:ėti_ėja_ėjo
-Reflexive? false :: lemma? true
-auklėti: 7
-áuklėja: 7
-áuklėjo: 7
-lemma: aukl, nugget: ė
-ėti_ėja_ėjo
+verb_array[1]:  áuklėja
+verb_array[2]:  áuklėjo
+LEMMA (aukl) and NUGGET -IN- (ė)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: ėti
+present3_slice: ėja
+past3_slice: ėjo
+file_name: ėti_ėja_ėjo
 
-This is the stripped_verb: auko
-This is the matching_lemma: auk
+**************************************
+
 infinitive_verb: aukoti
 stripped_verb: auko
 matching_lemma: auk
 nugget: o
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: aukoti
-present3_slice: aukója
-past3_slice: ukójo
-neither true
-neither true
-infinitive_verb: aukoti
-@infinitive_form: aukoti
-RFLT aukoti:oti_oja_ojo
-Reflexive? false :: lemma? true
-aukoti: 6
-aukója: 6
-aukójo: 6
-lemma: auk, nugget: o
-oti_oja_ojo
+verb_array[1]:  aukója
+verb_array[2]:  aukójo
+LEMMA (auk) and NUGGET -IN- (o)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: oti
+present3_slice: oja
+past3_slice: ojo
+file_name: oti_oja_ojo
 
-This is the stripped_verb: auko
-This is the matching_lemma: auk
+**************************************
+
 infinitive_verb: aukotis
 stripped_verb: auko
 matching_lemma: auk
 nugget: o
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: aukotis
-present3_slice: aukója
-past3_slice: ukójo
-RTLT aukotis:otis_oja_ojo
-Reflexive? true :: lemma? true
-aukotis: 7
-aukója: 6
-aukójo: 6
-lemma: auk, nugget: o
-otis_oja_ojo
+verb_array[1]:  aukója
+verb_array[2]:  aukójo
+LEMMA (auk) and NUGGET -IN- (o)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: otis
+present3_slice: oja
+past3_slice: ojo
+file_name: otis_oja_ojo
 
-This is the stripped_verb: aukštin
-This is the matching_lemma: aukšt
+**************************************
+
 infinitive_verb: aukštinti
 stripped_verb: aukštin
 matching_lemma: aukšt
-nugget: tin
-nugget_in: false
-nugget_n: 
+nugget: in
+nugget_in: true
 verb_array[0]: aukštinti
-present3_slice: ština
-past3_slice: štino
-neither true
-neither true
-infinitive_verb: aukštinti
-@infinitive_form: aukštinti
-RFLT aukštinti:tinti_ina_ino
-Reflexive? false :: lemma? true
-aukštinti: 9
-áukština: 8
-áukštino: 8
-lemma: aukšt, nugget: tin
-tinti_ina_ino
+verb_array[1]:  áukština
+verb_array[2]:  áukštino
+LEMMA (aukšt) and NUGGET -IN- (in)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: inti
+present3_slice: ina
+past3_slice: ino
+file_name: inti_ina_ino
 
-This is the stripped_verb: auksuo
-This is the matching_lemma: auks
+**************************************
+
 infinitive_verb: auksuoti
 stripped_verb: auksuo
 matching_lemma: auks
 nugget: uo
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: auksuoti
-present3_slice: ksúoja
-past3_slice: ksãvo
-neither true
-neither true
-infinitive_verb: auksuoti
-@infinitive_form: auksuoti
-RFLT auksuoti:uoti_uoja_avo
-Reflexive? false :: lemma? true
-auksuoti: 8
-auksúoja: 8
-auksãvo: 7
-lemma: auks, nugget: uo
-uoti_uoja_avo
+verb_array[1]:  auksúoja
+verb_array[2]:  auksãvo
+LEMMA (auks) and NUGGET -IN- (uo)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: uoti
+present3_slice: uoja
+past3_slice: avo
+file_name: uoti_uoja_avo
 
-This is the stripped_verb: aus
-This is the matching_lemma: aus
+**************************************
+
 infinitive_verb: austi
 stripped_verb: aus
 matching_lemma: aus
 nugget: 
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: austi
-present3_slice: áudžia
-past3_slice: áudė
-RFLF austi:austi_audžia_audė
-Reflexive? false :: lemma? false
-austi: 5
-áudžia: 6
-áudė: 4
-lemma: aus, nugget: 
-austi_audžia_audė
+verb_array[1]:  áudžia
+verb_array[2]:  áudė
+LEMMA (aus) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: žia
+past3_slice: ė
+file_name: ti_žia_ė
 
-This is the stripped_verb: auš
-This is the matching_lemma: auš
+**************************************
+
 infinitive_verb: aušti
 stripped_verb: auš
 matching_lemma: auš
 nugget: 
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: aušti
-present3_slice: áudžia
-past3_slice: áudė
-RFLF aušti:aušti_audžia_audė
-Reflexive? false :: lemma? false
-aušti: 5
-áudžia: 6
-áudė: 4
-lemma: auš, nugget: 
-aušti_audžia_audė
+verb_array[1]:  áudžia
+verb_array[2]:  áudė
+LEMMA (auš) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: žia
+past3_slice: ė
+file_name: ti_žia_ė
 
-This is the stripped_verb: au
-This is the matching_lemma: au
+**************************************
+
 infinitive_verb: auti
 stripped_verb: au
 matching_lemma: au
 nugget: 
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: auti
-present3_slice: aũna
-past3_slice: ãvė
-RFLF auti:auti_aũna_avė
-Reflexive? false :: lemma? false
-auti: 4
-aũna: 4
-ãvė: 3
-lemma: au, nugget: 
-auti_aũna_avė
+verb_array[1]:  aũna
+verb_array[2]:  ãvė
+LEMMA (au) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: na
+past3_slice: ė
+file_name: ti_na_ė
 
-This is the stripped_verb: au
-This is the matching_lemma: au
+**************************************
+
 infinitive_verb: autis
 stripped_verb: au
 matching_lemma: au
 nugget: 
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: autis
-present3_slice: aũnasi
-past3_slice: ãvėsi
-RTLF autis:autis_aũnasi_avėsi
-Reflexive? true :: lemma? false
-autis: 5
-aũnasi: 6
-ãvėsi: 5
-lemma: au, nugget: 
-autis_aũnasi_avėsi
+verb_array[1]:  aũnasi
+verb_array[2]:  ãvėsi
+LEMMA (au) only
+CLASSIFICATION: lemma_only
+infinitive_form: tis
+present3_slice: nasi
+past3_slice: ėsi
+file_name: tis_nasi_ėsi
 
-This is the stripped_verb: automatizuo
-This is the matching_lemma: automat
+**************************************
+
 infinitive_verb: automatizuoti
 stripped_verb: automatizuo
 matching_lemma: automat
 nugget: izuo
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: automatizuoti
-present3_slice: atizúoja
-past3_slice: atizavo
-neither true
-neither true
-infinitive_verb: automatizuoti
-@infinitive_form: automatizuoti
-RFLT automatizuoti:izuoti_izuoja_izavo
-Reflexive? false :: lemma? true
-automatizuoti: 13
-automatizúoja: 13
-automatizavo: 12
-lemma: automat, nugget: izuo
-izuoti_izuoja_izavo
+verb_array[1]:  automatizúoja
+verb_array[2]:  automatizavo
+LEMMA (automat) and NUGGET -IN- (izuo)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: izuoti
+present3_slice: izuoja
+past3_slice: izavo
+file_name: izuoti_izuoja_izavo
 
-This is the stripped_verb: avė
-This is the matching_lemma: av
+**************************************
+
 infinitive_verb: avėti
 stripped_verb: avė
 matching_lemma: av
 nugget: ė
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: avėti
-present3_slice: ãvi
-past3_slice: vė́jo
-neither true
-neither true
-infinitive_verb: avėti
-@infinitive_form: avėti
-RFLT avėti:ėti_i_ė́jo
-Reflexive? false :: lemma? true
-avėti: 5
-ãvi: 3
-avė́jo: 6
-lemma: av, nugget: ė
-ėti_i_ė́jo
+verb_array[1]:  ãvi
+verb_array[2]:  avė́jo
+LEMMA (av) and NUGGET -IN- (ė)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: ėti
+present3_slice: i
+past3_slice: ė́jo
+file_name: ėti_i_ė́jo
 
-This is the stripped_verb: badau
-This is the matching_lemma: bad
+**************************************
+
 infinitive_verb: badauti
 stripped_verb: badau
 matching_lemma: bad
 nugget: au
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: badauti
-present3_slice: áuja
-past3_slice: adãvo
-neither true
-neither true
-infinitive_verb: badauti
-@infinitive_form: badauti
-RFLT badauti:auti_auja_avo
-Reflexive? false :: lemma? true
-badauti: 7
-badáuja: 7
-badãvo: 6
-lemma: bad, nugget: au
-auti_auja_avo
+verb_array[1]:  badáuja
+verb_array[2]:  badãvo
+LEMMA (bad) and NUGGET -IN- (au)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: auti
+present3_slice: auja
+past3_slice: avo
+file_name: auti_auja_avo
 
-This is the stripped_verb: bady
-This is the matching_lemma: bad
+**************************************
+
 infinitive_verb: badyti
 stripped_verb: bady
 matching_lemma: bad
 nugget: y
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: badyti
-present3_slice: bãdo
-past3_slice: bãdė
-neither true
-neither true
-infinitive_verb: badyti
-@infinitive_form: badyti
-RFLT badyti:yti_o_ė
-Reflexive? false :: lemma? true
-badyti: 6
-bãdo: 4
-bãdė: 4
-lemma: bad, nugget: y
-yti_o_ė
+verb_array[1]:  bãdo
+verb_array[2]:  bãdė
+LEMMA (bad) and NUGGET -IN- (y)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: yti
+present3_slice: o
+past3_slice: ė
+file_name: yti_o_ė
 
-This is the stripped_verb: baidy
-This is the matching_lemma: baid
+**************************************
+
 infinitive_verb: baidyti
 stripped_verb: baidy
 matching_lemma: baid
 nugget: y
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: baidyti
-present3_slice: baĩdo
-past3_slice: baĩdė
-neither true
-neither true
-infinitive_verb: baidyti
-@infinitive_form: baidyti
-RFLT baidyti:yti_o_ė
-Reflexive? false :: lemma? true
-baidyti: 7
-baĩdo: 5
-baĩdė: 5
-lemma: baid, nugget: y
-yti_o_ė
+verb_array[1]:  baĩdo
+verb_array[2]:  baĩdė
+LEMMA (baid) and NUGGET -IN- (y)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: yti
+present3_slice: o
+past3_slice: ė
+file_name: yti_o_ė
 
-This is the stripped_verb: baidy
-This is the matching_lemma: baid
+**************************************
+
 infinitive_verb: baidytis
 stripped_verb: baidy
 matching_lemma: baid
 nugget: y
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: baidytis
-present3_slice: baĩdosi
-past3_slice: baĩdėsi
-RTLT baidytis:ytis_osi_ėsi
-Reflexive? true :: lemma? true
-baidytis: 8
-baĩdosi: 7
-baĩdėsi: 7
-lemma: baid, nugget: y
-ytis_osi_ėsi
+verb_array[1]:  baĩdosi
+verb_array[2]:  baĩdėsi
+LEMMA (baid) and NUGGET -IN- (y)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: ytis
+present3_slice: osi
+past3_slice: ėsi
+file_name: ytis_osi_ėsi
 
-This is the stripped_verb: baig
-This is the matching_lemma: baig
+**************************************
+
 infinitive_verb: baigti
 stripped_verb: baig
 matching_lemma: baig
 nugget: 
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: baigti
-present3_slice: baĩgia
-past3_slice: baĩgė
-RFLF baigti:aigti_aĩgia_aĩgė
-Reflexive? false :: lemma? false
-baigti: 6
-baĩgia: 6
-baĩgė: 5
-lemma: baig, nugget: 
-aigti_aĩgia_aĩgė
+verb_array[1]:  baĩgia
+verb_array[2]:  baĩgė
+LEMMA (baig) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: ia
+past3_slice: ė
+file_name: ti_ia_ė
 
-This is the stripped_verb: baig
-This is the matching_lemma: baig
+**************************************
+
 infinitive_verb: baigtis
 stripped_verb: baig
 matching_lemma: baig
 nugget: 
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: baigtis
-present3_slice: baĩgiasi
-past3_slice: baĩgėsi
-RTLF baigtis:aigtis_aĩgiasi_aĩgėsi
-Reflexive? true :: lemma? false
-baigtis: 7
-baĩgiasi: 8
-baĩgėsi: 7
-lemma: baig, nugget: 
-aigtis_aĩgiasi_aĩgėsi
+verb_array[1]:  baĩgiasi
+verb_array[2]:  baĩgėsi
+LEMMA (baig) only
+CLASSIFICATION: lemma_only
+infinitive_form: tis
+present3_slice: iasi
+past3_slice: ėsi
+file_name: tis_iasi_ėsi
 
-This is the stripped_verb: baimin
-This is the matching_lemma: bai
+**************************************
+
 infinitive_verb: baiminti
 stripped_verb: baimin
-matching_lemma: bai
-nugget: imin
-nugget_in: false
-nugget_n: 
+matching_lemma: baim
+nugget: in
+nugget_in: true
 verb_array[0]: baiminti
+verb_array[1]:  báimina
+verb_array[2]:  báiminosi
+LEMMA (baim) and NUGGET -IN- (in)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: inti
 present3_slice: ina
-past3_slice: nosi
-neither true
-neither true
-infinitive_verb: baiminti
-@infinitive_form: baiminti
-RFLT baiminti:iminti_mina_minosi
-Reflexive? false :: lemma? true
-baiminti: 8
-báimina: 7
-báiminosi: 9
-lemma: bai, nugget: imin
-iminti_mina_minosi
+past3_slice: inosi
+file_name: inti_ina_inosi
 
-This is the stripped_verb: baimin
-This is the matching_lemma: bai
+**************************************
+
 infinitive_verb: baimintis
 stripped_verb: baimin
-matching_lemma: bai
-nugget: imin
-nugget_in: false
-nugget_n: 
+matching_lemma: baim
+nugget: in
+nugget_in: true
 verb_array[0]: baimintis
-present3_slice: nasi
-past3_slice: nosi
-RTLT baimintis:imintis_minasi_minosi
-Reflexive? true :: lemma? true
-baimintis: 9
-báiminasi: 9
-báiminosi: 9
-lemma: bai, nugget: imin
-imintis_minasi_minosi
+verb_array[1]:  báiminasi
+verb_array[2]:  báiminosi
+LEMMA (baim) and NUGGET -IN- (in)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: intis
+present3_slice: inasi
+past3_slice: inosi
+file_name: intis_inasi_inosi
 
-This is the stripped_verb: baisė
-This is the matching_lemma: bais
+**************************************
+
 infinitive_verb: baisėti
 stripped_verb: baisė
 matching_lemma: bais
 nugget: ė
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: baisėti
-present3_slice: aisėja
-past3_slice: aisėjo
-neither true
-neither true
-infinitive_verb: baisėti
-@infinitive_form: baisėti
-RFLT baisėti:ėti_ėja_ėjo
-Reflexive? false :: lemma? true
-baisėti: 7
-baisėja: 7
-baisėjo: 7
-lemma: bais, nugget: ė
-ėti_ėja_ėjo
+verb_array[1]:  baisėja
+verb_array[2]:  baisėjo
+LEMMA (bais) and NUGGET -IN- (ė)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: ėti
+present3_slice: ėja
+past3_slice: ėjo
+file_name: ėti_ėja_ėjo
 
-This is the stripped_verb: baisė
-This is the matching_lemma: bais
+**************************************
+
 infinitive_verb: baisėtis
 stripped_verb: baisė
 matching_lemma: bais
 nugget: ė
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: baisėtis
-present3_slice: baĩsisi
-past3_slice: aisė́josi
-RTLT baisėtis:ėtis_isi_ė́josi
-Reflexive? true :: lemma? true
-baisėtis: 8
-baĩsisi: 7
-baisė́josi: 10
-lemma: bais, nugget: ė
-ėtis_isi_ė́josi
+verb_array[1]:  baĩsisi
+verb_array[2]:  baisė́josi
+LEMMA (bais) and NUGGET -IN- (ė)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: ėtis
+present3_slice: isi
+past3_slice: ė́josi
+file_name: ėtis_isi_ė́josi
 
-This is the stripped_verb: bakstelė
-This is the matching_lemma: baks
+**************************************
+
 infinitive_verb: bakstelėti
 stripped_verb: bakstelė
 matching_lemma: baks
 nugget: telė
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: bakstelėti
-present3_slice: steli
+verb_array[1]:  bãksteli
+verb_array[2]:  bãkstelėjo
+LEMMA (baks) and NUGGET -IN- (telė)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: telėti
+present3_slice: teli
 past3_slice: telėjo
-neither true
-neither true
-infinitive_verb: bakstelėti
-@infinitive_form: bakstelėti
-RFLT bakstelėti:telėti_teli_telėjo
-Reflexive? false :: lemma? true
-bakstelėti: 10
-bãksteli: 8
-bãkstelėjo: 10
-lemma: baks, nugget: telė
-telėti_teli_telėjo
+file_name: telėti_teli_telėjo
 
-This is the stripped_verb: balansuo
-This is the matching_lemma: balans
+**************************************
+
 infinitive_verb: balansuoti
 stripped_verb: balansuo
 matching_lemma: balans
 nugget: uo
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: balansuoti
-present3_slice: alansúoja
-past3_slice: alansãvo
-neither true
-neither true
-infinitive_verb: balansuoti
-@infinitive_form: balansuoti
-RFLT balansuoti:uoti_uoja_avo
-Reflexive? false :: lemma? true
-balansuoti: 10
-balansúoja: 10
-balansãvo: 9
-lemma: balans, nugget: uo
-uoti_uoja_avo
+verb_array[1]:  balansúoja
+verb_array[2]:  balansãvo
+LEMMA (balans) and NUGGET -IN- (uo)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: uoti
+present3_slice: uoja
+past3_slice: avo
+file_name: uoti_uoja_avo
 
-This is the stripped_verb: balin
-This is the matching_lemma: bal
+**************************************
+
 infinitive_verb: balinti
 stripped_verb: balin
 matching_lemma: bal
-nugget: lin
-nugget_in: false
-nugget_n: 
+nugget: in
+nugget_in: true
 verb_array[0]: balinti
+verb_array[1]:  bãlina
+verb_array[2]:  bãlino
+LEMMA (bal) and NUGGET -IN- (in)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: inti
 present3_slice: ina
 past3_slice: ino
-neither true
-neither true
-infinitive_verb: balinti
-@infinitive_form: balinti
-RFLT balinti:linti_ina_ino
-Reflexive? false :: lemma? true
-balinti: 7
-bãlina: 6
-bãlino: 6
-lemma: bal, nugget: lin
-linti_ina_ino
+file_name: inti_ina_ino
 
-This is the stripped_verb: balno
-This is the matching_lemma: baln
+**************************************
+
 infinitive_verb: balnoti
 stripped_verb: balno
 matching_lemma: baln
 nugget: o
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: balnoti
-present3_slice: balnója
-past3_slice: alnójo
-neither true
-neither true
-infinitive_verb: balnoti
-@infinitive_form: balnoti
-RFLT balnoti:oti_oja_ojo
-Reflexive? false :: lemma? true
-balnoti: 7
-balnója: 7
-balnójo: 7
-lemma: baln, nugget: o
-oti_oja_ojo
+verb_array[1]:  balnója
+verb_array[2]:  balnójo
+LEMMA (baln) and NUGGET -IN- (o)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: oti
+present3_slice: oja
+past3_slice: ojo
+file_name: oti_oja_ojo
 
-This is the stripped_verb: bals
-This is the matching_lemma: bal
+**************************************
+
 infinitive_verb: balsti
 stripped_verb: bals
 matching_lemma: bal
 nugget: s
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: balsti
-present3_slice: alsta
-past3_slice: bãlo
-neither true
-neither true
-infinitive_verb: balsti
-@infinitive_form: balsti
-RFLT balsti:sti_sta_o
-Reflexive? false :: lemma? true
-balsti: 6
-balsta: 6
-bãlo: 4
-lemma: bal, nugget: s
-sti_sta_o
+verb_array[1]:  balsta
+verb_array[2]:  bãlo
+LEMMA (bal) and NUGGET -IN- (s)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: sti
+present3_slice: sta
+past3_slice: o
+file_name: sti_sta_o
 
-This is the stripped_verb: balsuo
-This is the matching_lemma: bal
+**************************************
+
 infinitive_verb: balsuoti
 stripped_verb: balsuo
 matching_lemma: bal
 nugget: suo
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: balsuoti
-present3_slice: lsúoja
-past3_slice: lsãvo
-neither true
-neither true
-infinitive_verb: balsuoti
-@infinitive_form: balsuoti
-RFLT balsuoti:suoti_suoja_savo
-Reflexive? false :: lemma? true
-balsuoti: 8
-balsúoja: 8
-balsãvo: 7
-lemma: bal, nugget: suo
-suoti_suoja_savo
+verb_array[1]:  balsúoja
+verb_array[2]:  balsãvo
+LEMMA (bal) and NUGGET -IN- (suo)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: suoti
+present3_slice: suoja
+past3_slice: savo
+file_name: suoti_suoja_savo
 
-This is the stripped_verb: baltė
-This is the matching_lemma: bal
+**************************************
+
 infinitive_verb: baltėti
 stripped_verb: baltė
 matching_lemma: bal
 nugget: tė
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: baltėti
-present3_slice: ltėja
-past3_slice: ltėjo
-neither true
-neither true
-infinitive_verb: baltėti
-@infinitive_form: baltėti
-RFLT baltėti:tėti_tėja_tėjo
-Reflexive? false :: lemma? true
-baltėti: 7
-baltėja: 7
-baltėjo: 7
-lemma: bal, nugget: tė
-tėti_tėja_tėjo
+verb_array[1]:  baltėja
+verb_array[2]:  baltėjo
+LEMMA (bal) and NUGGET -IN- (tė)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: tėti
+present3_slice: tėja
+past3_slice: tėjo
+file_name: tėti_tėja_tėjo
 
-This is the stripped_verb: bal
-This is the matching_lemma: bal
+**************************************
+
 infinitive_verb: balti
 stripped_verb: bal
 matching_lemma: bal
 nugget: 
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: balti
-present3_slice: bą̃la
-past3_slice: bãlo
-RFLF balti:alti_ą̃la_alo
-Reflexive? false :: lemma? false
-balti: 5
-bą̃la: 5
-bãlo: 4
-lemma: bal, nugget: 
-alti_ą̃la_alo
+verb_array[1]:  bą̃la
+verb_array[2]:  bãlo
+LEMMA (bal) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: la
+past3_slice: o
+file_name: ti_la_o
 
-This is the stripped_verb: baltin
-This is the matching_lemma: bal
+**************************************
+
 infinitive_verb: baltinti
 stripped_verb: baltin
-matching_lemma: bal
-nugget: ltin
-nugget_in: false
-nugget_n: 
+matching_lemma: balt
+nugget: in
+nugget_in: true
 verb_array[0]: baltinti
-present3_slice: inà
+verb_array[1]:  baltinà
+verb_array[2]:  báltino
+LEMMA (balt) and NUGGET -IN- (in)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: inti
+present3_slice: ina
 past3_slice: ino
-neither true
-neither true
-infinitive_verb: baltinti
-@infinitive_form: baltinti
-RFLT baltinti:ltinti_tina_tino
-Reflexive? false :: lemma? true
-baltinti: 8
-baltinà: 7
-báltino: 7
-lemma: bal, nugget: ltin
-ltinti_tina_tino
+file_name: inti_ina_ino
 
-This is the stripped_verb: baltuo
-This is the matching_lemma: bal
+**************************************
+
 infinitive_verb: baltuoti
 stripped_verb: baltuo
 matching_lemma: bal
 nugget: tuo
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: baltuoti
-present3_slice: ltúoja
-past3_slice: ltãvo
-neither true
-neither true
-infinitive_verb: baltuoti
-@infinitive_form: baltuoti
-RFLT baltuoti:tuoti_tuoja_tavo
-Reflexive? false :: lemma? true
-baltuoti: 8
-baltúoja: 8
-baltãvo: 7
-lemma: bal, nugget: tuo
-tuoti_tuoja_tavo
+verb_array[1]:  baltúoja
+verb_array[2]:  baltãvo
+LEMMA (bal) and NUGGET -IN- (tuo)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: tuoti
+present3_slice: tuoja
+past3_slice: tavo
+file_name: tuoti_tuoja_tavo
 
-This is the stripped_verb: bandy
-This is the matching_lemma: band
+**************************************
+
 infinitive_verb: bandyti
 stripped_verb: bandy
 matching_lemma: band
 nugget: y
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: bandyti
-present3_slice: bañdo
-past3_slice: bañdė
-neither true
-neither true
-infinitive_verb: bandyti
-@infinitive_form: bandyti
-RFLT bandyti:yti_o_ė
-Reflexive? false :: lemma? true
-bandyti: 7
-bañdo: 5
-bañdė: 5
-lemma: band, nugget: y
-yti_o_ė
+verb_array[1]:  bañdo
+verb_array[2]:  bañdė
+LEMMA (band) and NUGGET -IN- (y)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: yti
+present3_slice: o
+past3_slice: ė
+file_name: yti_o_ė
 
-This is the stripped_verb: banguo
-This is the matching_lemma: bang
+**************************************
+
 infinitive_verb: banguoti
 stripped_verb: banguo
 matching_lemma: bang
 nugget: uo
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: banguoti
-present3_slice: angúoja
-past3_slice: angãvo
-neither true
-neither true
-infinitive_verb: banguoti
-@infinitive_form: banguoti
-RFLT banguoti:uoti_uoja_avo
-Reflexive? false :: lemma? true
-banguoti: 8
-bangúoja: 8
-bangãvo: 7
-lemma: bang, nugget: uo
-uoti_uoja_avo
+verb_array[1]:  bangúoja
+verb_array[2]:  bangãvo
+LEMMA (bang) and NUGGET -IN- (uo)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: uoti
+present3_slice: uoja
+past3_slice: avo
+file_name: uoti_uoja_avo
 
-This is the stripped_verb: bankrutuo
-This is the matching_lemma: bankrut
+**************************************
+
 infinitive_verb: bankrutuoti
 stripped_verb: bankrutuo
 matching_lemma: bankrut
 nugget: uo
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: bankrutuoti
-present3_slice: nkrutúoja
-past3_slice: nkrutãvo
-neither true
-neither true
-infinitive_verb: bankrutuoti
-@infinitive_form: bankrutuoti
-RFLT bankrutuoti:uoti_uoja_avo
-Reflexive? false :: lemma? true
-bankrutuoti: 11
-bankrutúoja: 11
-bankrutãvo: 10
-lemma: bankrut, nugget: uo
-uoti_uoja_avo
+verb_array[1]:  bankrutúoja
+verb_array[2]:  bankrutãvo
+LEMMA (bankrut) and NUGGET -IN- (uo)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: uoti
+present3_slice: uoja
+past3_slice: avo
+file_name: uoti_uoja_avo
 
-This is the stripped_verb: barškin
-This is the matching_lemma: baršk
+**************************************
+
 infinitive_verb: barškinti
 stripped_verb: barškin
 matching_lemma: baršk
-nugget: kin
-nugget_in: false
-nugget_n: 
+nugget: in
+nugget_in: true
 verb_array[0]: barškinti
-present3_slice: škina
-past3_slice: škino
-neither true
-neither true
-infinitive_verb: barškinti
-@infinitive_form: barškinti
-RFLT barškinti:kinti_ina_ino
-Reflexive? false :: lemma? true
-barškinti: 9
-bárškina: 8
-bárškino: 8
-lemma: baršk, nugget: kin
-kinti_ina_ino
+verb_array[1]:  bárškina
+verb_array[2]:  bárškino
+LEMMA (baršk) and NUGGET -IN- (in)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: inti
+present3_slice: ina
+past3_slice: ino
+file_name: inti_ina_ino
 
-This is the stripped_verb: barsty
-This is the matching_lemma: bar
+**************************************
+
 infinitive_verb: barstyti
 stripped_verb: barsty
 matching_lemma: bar
 nugget: sty
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: barstyti
-present3_slice: r̃sto
-past3_slice: r̃stė
-neither true
-neither true
-infinitive_verb: barstyti
-@infinitive_form: barstyti
-RFLT barstyti:styti_̃sto_̃stė
-Reflexive? false :: lemma? true
-barstyti: 8
-bar̃sto: 7
-bar̃stė: 7
-lemma: bar, nugget: sty
-styti_̃sto_̃stė
+verb_array[1]:  bar̃sto
+verb_array[2]:  bar̃stė
+LEMMA (bar) and NUGGET -IN- (sty)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: styti
+present3_slice: ̃sto
+past3_slice: ̃stė
+file_name: styti_̃sto_̃stė
 
-This is the stripped_verb: barsty
-This is the matching_lemma: bar
+**************************************
+
 infinitive_verb: barstytis
 stripped_verb: barsty
 matching_lemma: bar
 nugget: sty
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: barstytis
+verb_array[1]:  bar̃stosi
+verb_array[2]:  bar̃stėsi
+LEMMA (bar) and NUGGET -IN- (sty)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: stytis
 present3_slice: ̃stosi
 past3_slice: ̃stėsi
-RTLT barstytis:stytis_̃stosi_̃stėsi
-Reflexive? true :: lemma? true
-barstytis: 9
-bar̃stosi: 9
-bar̃stėsi: 9
-lemma: bar, nugget: sty
-stytis_̃stosi_̃stėsi
+file_name: stytis_̃stosi_̃stėsi
 
-This is the stripped_verb: bar
-This is the matching_lemma: bar
+**************************************
+
 infinitive_verb: barti
 stripped_verb: bar
 matching_lemma: bar
 nugget: 
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: barti
-present3_slice: bãra
-past3_slice: bãrė
-RFLF barti:arti_ara_arė
-Reflexive? false :: lemma? false
-barti: 5
-bãra: 4
-bãrė: 4
-lemma: bar, nugget: 
-arti_ara_arė
+verb_array[1]:  bãra
+verb_array[2]:  bãrė
+LEMMA (bar) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: a
+past3_slice: ė
+file_name: ti_a_ė
 
-This is the stripped_verb: bar
-This is the matching_lemma: bar
+**************************************
+
 infinitive_verb: bartis
 stripped_verb: bar
 matching_lemma: bar
 nugget: 
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: bartis
-present3_slice: bãrasi
-past3_slice: bãrėsi
-RTLF bartis:artis_arasi_arėsi
-Reflexive? true :: lemma? false
-bartis: 6
-bãrasi: 6
-bãrėsi: 6
-lemma: bar, nugget: 
-artis_arasi_arėsi
+verb_array[1]:  bãrasi
+verb_array[2]:  bãrėsi
+LEMMA (bar) only
+CLASSIFICATION: lemma_only
+infinitive_form: tis
+present3_slice: asi
+past3_slice: ėsi
+file_name: tis_asi_ėsi
 
-This is the stripped_verb: baugin
-This is the matching_lemma: baug
+**************************************
+
 infinitive_verb: bauginti
 stripped_verb: baugin
 matching_lemma: baug
-nugget: gin
-nugget_in: false
-nugget_n: 
+nugget: in
+nugget_in: true
 verb_array[0]: bauginti
-present3_slice: ugìna
-past3_slice: ugìno
-neither true
-neither true
-infinitive_verb: bauginti
-@infinitive_form: bauginti
-RFLT bauginti:ginti_ina_ino
-Reflexive? false :: lemma? true
-bauginti: 8
-baugìna: 7
-baugìno: 7
-lemma: baug, nugget: gin
-ginti_ina_ino
+verb_array[1]:  baugìna
+verb_array[2]:  baugìno
+LEMMA (baug) and NUGGET -IN- (in)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: inti
+present3_slice: ina
+past3_slice: ino
+file_name: inti_ina_ino
 
-This is the stripped_verb: baus
-This is the matching_lemma: baus
+**************************************
+
 infinitive_verb: bausti
 stripped_verb: baus
 matching_lemma: baus
 nugget: 
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: bausti
-present3_slice: baũdžia
-past3_slice: baũdė
-RFLF bausti:austi_aũdžia_aũdė
-Reflexive? false :: lemma? false
-bausti: 6
-baũdžia: 7
-baũdė: 5
-lemma: baus, nugget: 
-austi_aũdžia_aũdė
+verb_array[1]:  baũdžia
+verb_array[2]:  baũdė
+LEMMA (baus) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: žia
+past3_slice: ė
+file_name: ti_žia_ė
 
-This is the stripped_verb: bėginė
-This is the matching_lemma: bėg
+**************************************
+
 infinitive_verb: bėginėti
 stripped_verb: bėginė
 matching_lemma: bėg
 nugget: inė
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: bėginėti
-present3_slice: nė́ja
-past3_slice: nė́ja
-neither true
-neither true
-infinitive_verb: bėginėti
-@infinitive_form: bėginėti
-RFLT bėginėti:inėti_inė́ja_inė́ja
-Reflexive? false :: lemma? true
-bėginėti: 8
-bėginė́ja: 9
-bėginė́ja: 9
-lemma: bėg, nugget: inė
-inėti_inė́ja_inė́ja
+verb_array[1]:  bėginė́ja
+verb_array[2]:  bėginė́ja
+LEMMA (bėg) and NUGGET -IN- (inė)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: inėti
+present3_slice: inė́ja
+past3_slice: inė́ja
+file_name: inėti_inė́ja_inė́ja
 
-This is the stripped_verb: bėgio
-This is the matching_lemma: bėg
+**************************************
+
 infinitive_verb: bėgioti
 stripped_verb: bėgio
 matching_lemma: bėg
 nugget: io
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: bėgioti
-present3_slice: ėgiója
-past3_slice: giójo
-neither true
-neither true
-infinitive_verb: bėgioti
-@infinitive_form: bėgioti
-RFLT bėgioti:ioti_ioja_iojo
-Reflexive? false :: lemma? true
-bėgioti: 7
-bėgiója: 7
-bėgiójo: 7
-lemma: bėg, nugget: io
-ioti_ioja_iojo
+verb_array[1]:  bėgiója
+verb_array[2]:  bėgiójo
+LEMMA (bėg) and NUGGET -IN- (io)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: ioti
+present3_slice: ioja
+past3_slice: iojo
+file_name: ioti_ioja_iojo
 
-This is the stripped_verb: bėg
-This is the matching_lemma: bėg
+**************************************
+
 infinitive_verb: bėgti
 stripped_verb: bėg
 matching_lemma: bėg
 nugget: 
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: bėgti
-present3_slice: bė́ga
-past3_slice: bė́go
-RFLF bėgti:ėgti_ė́ga_ė́go
-Reflexive? false :: lemma? false
-bėgti: 5
-bė́ga: 5
-bė́go: 5
-lemma: bėg, nugget: 
-ėgti_ė́ga_ė́go
+verb_array[1]:  bė́ga
+verb_array[2]:  bė́go
+LEMMA (bėg) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: ga
+past3_slice: go
+file_name: ti_ga_go
 
-This is the stripped_verb: bidzen
-This is the matching_lemma: bi
+**************************************
+
 infinitive_verb: bidzenti
 stripped_verb: bidzen
 matching_lemma: bi
 nugget: dzen
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: bidzenti
-present3_slice: ena
-past3_slice: eno
-neither true
-neither true
-infinitive_verb: bidzenti
-@infinitive_form: bidzenti
-RFLT bidzenti:dzenti_zdena_zdeno
-Reflexive? false :: lemma? true
-bidzenti: 8
-bizdena: 7
-bizdeno: 7
-lemma: bi, nugget: dzen
-dzenti_zdena_zdeno
+verb_array[1]:  bizdena
+verb_array[2]:  bizdeno
+LEMMA (bi) and NUGGET -IN- (dzen)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: dzenti
+present3_slice: zdena
+past3_slice: zdeno
+file_name: dzenti_zdena_zdeno
 
-This is the stripped_verb: bijo
-This is the matching_lemma: bij
+**************************************
+
 infinitive_verb: bijoti
 stripped_verb: bijo
 matching_lemma: bij
 nugget: o
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: bijoti
-present3_slice: ìjo
-past3_slice: ijójo
-neither true
-neither true
-infinitive_verb: bijoti
-@infinitive_form: bijoti
-RFLT bijoti:oti_o_ojo
-Reflexive? false :: lemma? true
-bijoti: 6
-bìjo: 4
-bijójo: 6
-lemma: bij, nugget: o
-oti_o_ojo
+verb_array[1]:  bìjo
+verb_array[2]:  bijójo
+LEMMA (bij) and NUGGET -IN- (o)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: oti
+present3_slice: o
+past3_slice: ojo
+file_name: oti_o_ojo
 
-This is the stripped_verb: birb
-This is the matching_lemma: birb
+**************************************
+
 infinitive_verb: birbti
 stripped_verb: birb
 matching_lemma: birb
 nugget: 
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: birbti
-present3_slice: bir̃bia
-past3_slice: bir̃bė
-RFLF birbti:irbti_ir̃bia_ir̃bė
-Reflexive? false :: lemma? false
-birbti: 6
-bir̃bia: 7
-bir̃bė: 6
-lemma: birb, nugget: 
-irbti_ir̃bia_ir̃bė
+verb_array[1]:  bir̃bia
+verb_array[2]:  bir̃bė
+LEMMA (birb) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: bia
+past3_slice: bė
+file_name: ti_bia_bė
 
-This is the stripped_verb: bir
-This is the matching_lemma: bir
+**************************************
+
 infinitive_verb: birti
 stripped_verb: bir
 matching_lemma: bir
 nugget: 
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: birti
-present3_slice: bỹra
-past3_slice: bìro
-RFLF birti:irti_ỹra_iro
-Reflexive? false :: lemma? false
-birti: 5
-bỹra: 4
-bìro: 4
-lemma: bir, nugget: 
-irti_ỹra_iro
+verb_array[1]:  bỹra
+verb_array[2]:  bìro
+LEMMA (bir) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: a
+past3_slice: o
+file_name: ti_a_o
 
-This is the stripped_verb: bjaurė
-This is the matching_lemma: bjaur
+**************************************
+
 infinitive_verb: bjaurėtis
 stripped_verb: bjaurė
 matching_lemma: bjaur
 nugget: ė
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: bjaurėtis
-present3_slice: bjaũrisi
-past3_slice: jaurė́josi
-RTLT bjaurėtis:ėtis_isi_ė́josi
-Reflexive? true :: lemma? true
-bjaurėtis: 9
-bjaũrisi: 8
-bjaurė́josi: 11
-lemma: bjaur, nugget: ė
-ėtis_isi_ė́josi
+verb_array[1]:  bjaũrisi
+verb_array[2]:  bjaurė́josi
+LEMMA (bjaur) and NUGGET -IN- (ė)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: ėtis
+present3_slice: isi
+past3_slice: ė́josi
+file_name: ėtis_isi_ė́josi
 
-This is the stripped_verb: bjur
-This is the matching_lemma: b
+**************************************
+
 infinitive_verb: bjurti
 stripped_verb: bjur
 matching_lemma: b
 nugget: jur
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: bjurti
-present3_slice: rsta
-past3_slice: ùro
-neither true
-neither true
-infinitive_verb: bjurti
-@infinitive_form: bjurti
-RFLT bjurti:jurti_jursta_juro
-Reflexive? false :: lemma? true
-bjurti: 6
-bjursta: 7
-bjùro: 5
-lemma: b, nugget: jur
-jurti_jursta_juro
+verb_array[1]:  bjursta
+verb_array[2]:  bjùro
+LEMMA (b) and NUGGET -IN- (jur)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: jurti
+present3_slice: jursta
+past3_slice: juro
+file_name: jurti_jursta_juro
 
-This is the stripped_verb: blank
-This is the matching_lemma: blank
+**************************************
+
 infinitive_verb: blankti
 stripped_verb: blank
 matching_lemma: blank
 nugget: 
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: blankti
-present3_slice: blañksta
-past3_slice: blánko
-RFLF blankti:ankti_anksta_anko
-Reflexive? false :: lemma? false
-blankti: 7
-blañksta: 8
-blánko: 6
-lemma: blank, nugget: 
-ankti_anksta_anko
+verb_array[1]:  blañksta
+verb_array[2]:  blánko
+LEMMA (blank) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: sta
+past3_slice: o
+file_name: ti_sta_o
 
-This is the stripped_verb: blašky
-This is the matching_lemma: blašk
+**************************************
+
 infinitive_verb: blaškyti
 stripped_verb: blašky
 matching_lemma: blašk
 nugget: y
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: blaškyti
-present3_slice: blãško
-past3_slice: blãškė
-neither true
-neither true
-infinitive_verb: blaškyti
-@infinitive_form: blaškyti
-RFLT blaškyti:yti_o_ė
-Reflexive? false :: lemma? true
-blaškyti: 8
-blãško: 6
-blãškė: 6
-lemma: blašk, nugget: y
-yti_o_ė
+verb_array[1]:  blãško
+verb_array[2]:  blãškė
+LEMMA (blašk) and NUGGET -IN- (y)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: yti
+present3_slice: o
+past3_slice: ė
+file_name: yti_o_ė
 
-This is the stripped_verb: blašky
-This is the matching_lemma: blašk
+**************************************
+
 infinitive_verb: blaškytis
 stripped_verb: blašky
 matching_lemma: blašk
 nugget: y
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: blaškytis
-present3_slice: blãškosi
-past3_slice: blãškėsi
-RTLT blaškytis:ytis_osi_ėsi
-Reflexive? true :: lemma? true
-blaškytis: 9
-blãškosi: 8
-blãškėsi: 8
-lemma: blašk, nugget: y
-ytis_osi_ėsi
+verb_array[1]:  blãškosi
+verb_array[2]:  blãškėsi
+LEMMA (blašk) and NUGGET -IN- (y)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: ytis
+present3_slice: osi
+past3_slice: ėsi
+file_name: ytis_osi_ėsi
 
-This is the stripped_verb: blefuo
-This is the matching_lemma: b
+**************************************
+
 infinitive_verb: blefuoti
 stripped_verb: blefuo
 matching_lemma: b
 nugget: lefuo
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: blefuoti
-present3_slice: oja
-past3_slice: avo
-neither true
-neither true
-infinitive_verb: blefuoti
-@infinitive_form: blefuoti
-RFLT blefuoti:lefuoti_lefuoja_lefavo
-Reflexive? false :: lemma? true
-blefuoti: 8
-blefuoja: 8
-blefavo: 7
-lemma: b, nugget: lefuo
-lefuoti_lefuoja_lefavo
+verb_array[1]:  blefuoja
+verb_array[2]:  blefavo
+LEMMA (b) and NUGGET -IN- (lefuo)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: lefuoti
+present3_slice: lefuoja
+past3_slice: lefavo
+file_name: lefuoti_lefuoja_lefavo
 
-This is the stripped_verb: blęs
-This is the matching_lemma: b
+**************************************
+
 infinitive_verb: blęsti
 stripped_verb: blęs
 matching_lemma: b
 nugget: lęs
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: blęsti
-present3_slice: leñdžia
-past3_slice: leñdė
-neither true
-neither true
-infinitive_verb: blęsti
-@infinitive_form: blęsti
-RFLT blęsti:lęsti_lendžia_lendė
-Reflexive? false :: lemma? true
-blęsti: 6
-bleñdžia: 8
-bleñdė: 6
-lemma: b, nugget: lęs
-lęsti_lendžia_lendė
+verb_array[1]:  bleñdžia
+verb_array[2]:  bleñdė
+LEMMA (b) and NUGGET -IN- (lęs)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: lęsti
+present3_slice: lendžia
+past3_slice: lendė
+file_name: lęsti_lendžia_lendė
 
-This is the stripped_verb: blizgė
-This is the matching_lemma: blizg
+**************************************
+
 infinitive_verb: blizgėti
 stripped_verb: blizgė
 matching_lemma: blizg
 nugget: ė
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: blizgėti
-present3_slice: blìzga
-past3_slice: lizgė́jo
-neither true
-neither true
-infinitive_verb: blizgėti
-@infinitive_form: blizgėti
-RFLT blizgėti:ėti_a_ė́jo
-Reflexive? false :: lemma? true
-blizgėti: 8
-blìzga: 6
-blizgė́jo: 9
-lemma: blizg, nugget: ė
-ėti_a_ė́jo
+verb_array[1]:  blìzga
+verb_array[2]:  blizgė́jo
+LEMMA (blizg) and NUGGET -IN- (ė)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: ėti
+present3_slice: a
+past3_slice: ė́jo
+file_name: ėti_a_ė́jo
 
-This is the stripped_verb: blizgin
-This is the matching_lemma: blizg
+**************************************
+
 infinitive_verb: blizginti
 stripped_verb: blizgin
 matching_lemma: blizg
-nugget: gin
-nugget_in: false
-nugget_n: 
+nugget: in
+nugget_in: true
 verb_array[0]: blizginti
-present3_slice: zgina
-past3_slice: zgino
-neither true
-neither true
-infinitive_verb: blizginti
-@infinitive_form: blizginti
-RFLT blizginti:ginti_ina_ino
-Reflexive? false :: lemma? true
-blizginti: 9
-blìzgina: 8
-blìzgino: 8
-lemma: blizg, nugget: gin
-ginti_ina_ino
+verb_array[1]:  blìzgina
+verb_array[2]:  blìzgino
+LEMMA (blizg) and NUGGET -IN- (in)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: inti
+present3_slice: ina
+past3_slice: ino
+file_name: inti_ina_ino
 
-This is the stripped_verb: blogė
-This is the matching_lemma: blog
+**************************************
+
 infinitive_verb: blogėti
 stripped_verb: blogė
 matching_lemma: blog
 nugget: ė
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: blogėti
-present3_slice: logė́ja
-past3_slice: logė́jo
-neither true
-neither true
-infinitive_verb: blogėti
-@infinitive_form: blogėti
-RFLT blogėti:ėti_ė́ja_ė́jo
-Reflexive? false :: lemma? true
-blogėti: 7
-blogė́ja: 8
-blogė́jo: 8
-lemma: blog, nugget: ė
-ėti_ė́ja_ė́jo
+verb_array[1]:  blogė́ja
+verb_array[2]:  blogė́jo
+LEMMA (blog) and NUGGET -IN- (ė)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: ėti
+present3_slice: ė́ja
+past3_slice: ė́jo
+file_name: ėti_ė́ja_ė́jo
 
-This is the stripped_verb: blogin
-This is the matching_lemma: blog
+**************************************
+
 infinitive_verb: bloginti
 stripped_verb: blogin
 matching_lemma: blog
-nugget: gin
-nugget_in: false
-nugget_n: 
+nugget: in
+nugget_in: true
 verb_array[0]: bloginti
-present3_slice: gina
-past3_slice: gino
-neither true
-neither true
-infinitive_verb: bloginti
-@infinitive_form: bloginti
-RFLT bloginti:ginti_ina_ino
-Reflexive? false :: lemma? true
-bloginti: 8
-blõgina: 7
-blõgino: 7
-lemma: blog, nugget: gin
-ginti_ina_ino
+verb_array[1]:  blõgina
+verb_array[2]:  blõgino
+LEMMA (blog) and NUGGET -IN- (in)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: inti
+present3_slice: ina
+past3_slice: ino
+file_name: inti_ina_ino
 
-This is the stripped_verb: blog
-This is the matching_lemma: blog
+**************************************
+
 infinitive_verb: blogti
 stripped_verb: blog
 matching_lemma: blog
 nugget: 
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: blogti
-present3_slice: blogsta
-past3_slice: blõgo
-RFLF blogti:ogti_ogsta_ogo
-Reflexive? false :: lemma? false
-blogti: 6
-blogsta: 7
-blõgo: 5
-lemma: blog, nugget: 
-ogti_ogsta_ogo
+verb_array[1]:  blogsta
+verb_array[2]:  blõgo
+LEMMA (blog) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: sta
+past3_slice: o
+file_name: ti_sta_o
 
-This is the stripped_verb: blokš
-This is the matching_lemma: blokš
+**************************************
+
 infinitive_verb: blokšti
 stripped_verb: blokš
 matching_lemma: blokš
 nugget: 
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: blokšti
-present3_slice: blõškia
-past3_slice: blõškė
-RFLF blokšti:okšti_oškia_oškė
-Reflexive? false :: lemma? false
-blokšti: 7
-blõškia: 7
-blõškė: 6
-lemma: blokš, nugget: 
-okšti_oškia_oškė
+verb_array[1]:  blõškia
+verb_array[2]:  blõškė
+LEMMA (blokš) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: ia
+past3_slice: ė
+file_name: ti_ia_ė
 
-This is the stripped_verb: blokuo
-This is the matching_lemma: blok
+**************************************
+
 infinitive_verb: blokuoti
 stripped_verb: blokuo
 matching_lemma: blok
 nugget: uo
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: blokuoti
-present3_slice: okúoja
-past3_slice: okãvo
-neither true
-neither true
-infinitive_verb: blokuoti
-@infinitive_form: blokuoti
-RFLT blokuoti:uoti_uoja_avo
-Reflexive? false :: lemma? true
-blokuoti: 8
-blokúoja: 8
-blokãvo: 7
-lemma: blok, nugget: uo
-uoti_uoja_avo
+verb_array[1]:  blokúoja
+verb_array[2]:  blokãvo
+LEMMA (blok) and NUGGET -IN- (uo)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: uoti
+present3_slice: uoja
+past3_slice: avo
+file_name: uoti_uoja_avo
 
-This is the stripped_verb: blukin
-This is the matching_lemma: bluk
+**************************************
+
 infinitive_verb: blukinti
 stripped_verb: blukin
 matching_lemma: bluk
-nugget: kin
-nugget_in: false
-nugget_n: 
+nugget: in
+nugget_in: true
 verb_array[0]: blukinti
-present3_slice: kina
-past3_slice: kino
-neither true
-neither true
-infinitive_verb: blukinti
-@infinitive_form: blukinti
-RFLT blukinti:kinti_ina_ino
-Reflexive? false :: lemma? true
-blukinti: 8
-blùkina: 7
-blukino: 7
-lemma: bluk, nugget: kin
-kinti_ina_ino
+verb_array[1]:  blùkina
+verb_array[2]:  blukino
+LEMMA (bluk) and NUGGET -IN- (in)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: inti
+present3_slice: ina
+past3_slice: ino
+file_name: inti_ina_ino
 
-This is the stripped_verb: bluk
-This is the matching_lemma: bluk
+**************************************
+
 infinitive_verb: blukti
 stripped_verb: bluk
 matching_lemma: bluk
 nugget: 
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: blukti
-present3_slice: bluñka
-past3_slice: blùko
-RFLF blukti:ukti_unka_o
-Reflexive? false :: lemma? false
-blukti: 6
-bluñka: 6
-blùko: 5
-lemma: bluk, nugget: 
-ukti_unka_o
+verb_array[1]:  bluñka
+verb_array[2]:  blùko
+LEMMA (bluk) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: ka
+past3_slice: o
+file_name: ti_ka_o
 
-This is the stripped_verb: blykš
-This is the matching_lemma: blykš
+**************************************
+
 infinitive_verb: blykšti
 stripped_verb: blykš
 matching_lemma: blykš
 nugget: 
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: blykšti
-present3_slice: blỹkšta
-past3_slice: blỹško
-RFLF blykšti:ykšti_ỹkšta_ỹško
-Reflexive? false :: lemma? false
-blykšti: 7
-blỹkšta: 7
-blỹško: 6
-lemma: blykš, nugget: 
-ykšti_ỹkšta_ỹško
+verb_array[1]:  blỹkšta
+verb_array[2]:  blỹško
+LEMMA (blykš) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: ta
+past3_slice: o
+file_name: ti_ta_o
 
-This is the stripped_verb: bodė
-This is the matching_lemma: bod
+**************************************
+
 infinitive_verb: bodėti
 stripped_verb: bodė
 matching_lemma: bod
 nugget: ė
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: bodėti
-present3_slice: bõdi
-past3_slice: odėjo
-neither true
-neither true
-infinitive_verb: bodėti
-@infinitive_form: bodėti
-RFLT bodėti:ėti_i_ėjo
-Reflexive? false :: lemma? true
-bodėti: 6
-bõdi: 4
-bodėjo: 6
-lemma: bod, nugget: ė
-ėti_i_ėjo
+verb_array[1]:  bõdi
+verb_array[2]:  bodėjo
+LEMMA (bod) and NUGGET -IN- (ė)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: ėti
+present3_slice: i
+past3_slice: ėjo
+file_name: ėti_i_ėjo
 
-This is the stripped_verb: boluo
-This is the matching_lemma: bol
+**************************************
+
 infinitive_verb: boluoti
 stripped_verb: boluo
 matching_lemma: bol
 nugget: uo
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: boluoti
-present3_slice: lúoja
-past3_slice: lãvo
-neither true
-neither true
-infinitive_verb: boluoti
-@infinitive_form: boluoti
-RFLT boluoti:uoti_uoja_avo
-Reflexive? false :: lemma? true
-boluoti: 7
-bolúoja: 7
-bolãvo: 6
-lemma: bol, nugget: uo
-uoti_uoja_avo
+verb_array[1]:  bolúoja
+verb_array[2]:  bolãvo
+LEMMA (bol) and NUGGET -IN- (uo)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: uoti
+present3_slice: uoja
+past3_slice: avo
+file_name: uoti_uoja_avo
 
-This is the stripped_verb: bombarduo
-This is the matching_lemma: bombard
+**************************************
+
 infinitive_verb: bombarduoti
 stripped_verb: bombarduo
 matching_lemma: bombard
 nugget: uo
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: bombarduoti
-present3_slice: mbardúoja
-past3_slice: mbardãvo
-neither true
-neither true
-infinitive_verb: bombarduoti
-@infinitive_form: bombarduoti
-RFLT bombarduoti:uoti_uoja_avo
-Reflexive? false :: lemma? true
-bombarduoti: 11
-bombardúoja: 11
-bombardãvo: 10
-lemma: bombard, nugget: uo
-uoti_uoja_avo
+verb_array[1]:  bombardúoja
+verb_array[2]:  bombardãvo
+LEMMA (bombard) and NUGGET -IN- (uo)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: uoti
+present3_slice: uoja
+past3_slice: avo
+file_name: uoti_uoja_avo
 
-This is the stripped_verb: braidy
-This is the matching_lemma: braid
+**************************************
+
 infinitive_verb: braidyti
 stripped_verb: braidy
 matching_lemma: braid
 nugget: y
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: braidyti
-present3_slice: braĩdo
-past3_slice: braĩdė
-neither true
-neither true
-infinitive_verb: braidyti
-@infinitive_form: braidyti
-RFLT braidyti:yti_o_ė
-Reflexive? false :: lemma? true
-braidyti: 8
-braĩdo: 6
-braĩdė: 6
-lemma: braid, nugget: y
-yti_o_ė
+verb_array[1]:  braĩdo
+verb_array[2]:  braĩdė
+LEMMA (braid) and NUGGET -IN- (y)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: yti
+present3_slice: o
+past3_slice: ė
+file_name: yti_o_ė
 
-This is the stripped_verb: braižy
-This is the matching_lemma: braiž
+**************************************
+
 infinitive_verb: braižyti
 stripped_verb: braižy
 matching_lemma: braiž
 nugget: y
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: braižyti
-present3_slice: braĩžo
-past3_slice: braĩžė
-neither true
-neither true
-infinitive_verb: braižyti
-@infinitive_form: braižyti
-RFLT braižyti:yti_o_ė
-Reflexive? false :: lemma? true
-braižyti: 8
-braĩžo: 6
-braĩžė: 6
-lemma: braiž, nugget: y
-yti_o_ė
+verb_array[1]:  braĩžo
+verb_array[2]:  braĩžė
+LEMMA (braiž) and NUGGET -IN- (y)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: yti
+present3_slice: o
+past3_slice: ė
+file_name: yti_o_ė
 
-This is the stripped_verb: brandin
-This is the matching_lemma: brand
+**************************************
+
 infinitive_verb: brandinti
 stripped_verb: brandin
 matching_lemma: brand
-nugget: din
-nugget_in: false
-nugget_n: 
+nugget: in
+nugget_in: true
 verb_array[0]: brandinti
-present3_slice: ndìna
-past3_slice: ndìno
-neither true
-neither true
-infinitive_verb: brandinti
-@infinitive_form: brandinti
-RFLT brandinti:dinti_ina_ino
-Reflexive? false :: lemma? true
-brandinti: 9
-brandìna: 8
-brandìno: 8
-lemma: brand, nugget: din
-dinti_ina_ino
+verb_array[1]:  brandìna
+verb_array[2]:  brandìno
+LEMMA (brand) and NUGGET -IN- (in)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: inti
+present3_slice: ina
+past3_slice: ino
+file_name: inti_ina_ino
 
-This is the stripped_verb: brangin
-This is the matching_lemma: brang
+**************************************
+
 infinitive_verb: branginti
 stripped_verb: brangin
 matching_lemma: brang
-nugget: gin
-nugget_in: false
-nugget_n: 
+nugget: in
+nugget_in: true
 verb_array[0]: branginti
-present3_slice: ngìna
-past3_slice: ngìno
-neither true
-neither true
-infinitive_verb: branginti
-@infinitive_form: branginti
-RFLT branginti:ginti_ina_ino
-Reflexive? false :: lemma? true
-branginti: 9
-brangìna: 8
-brangìno: 8
-lemma: brang, nugget: gin
-ginti_ina_ino
+verb_array[1]:  brangìna
+verb_array[2]:  brangìno
+LEMMA (brang) and NUGGET -IN- (in)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: inti
+present3_slice: ina
+past3_slice: ino
+file_name: inti_ina_ino
 
-This is the stripped_verb: brang
-This is the matching_lemma: brang
+**************************************
+
 infinitive_verb: brangti
 stripped_verb: brang
 matching_lemma: brang
 nugget: 
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: brangti
-present3_slice: brángsta
-past3_slice: brángo
-RFLF brangti:angti_angsta_ango
-Reflexive? false :: lemma? false
-brangti: 7
-brángsta: 8
-brángo: 6
-lemma: brang, nugget: 
-angti_angsta_ango
+verb_array[1]:  brángsta
+verb_array[2]:  brángo
+LEMMA (brang) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: sta
+past3_slice: o
+file_name: ti_sta_o
 
-This is the stripped_verb: brauk
-This is the matching_lemma: brauk
+**************************************
+
 infinitive_verb: braukti
 stripped_verb: brauk
 matching_lemma: brauk
 nugget: 
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: braukti
-present3_slice: braũkia
-past3_slice: braũkė
-RFLF braukti:aukti_aũkia_aũkė
-Reflexive? false :: lemma? false
-braukti: 7
-braũkia: 7
-braũkė: 6
-lemma: brauk, nugget: 
-aukti_aũkia_aũkė
+verb_array[1]:  braũkia
+verb_array[2]:  braũkė
+LEMMA (brauk) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: ia
+past3_slice: ė
+file_name: ti_ia_ė
 
-This is the stripped_verb: brauky
-This is the matching_lemma: brauk
+**************************************
+
 infinitive_verb: braukyti
 stripped_verb: brauky
 matching_lemma: brauk
 nugget: y
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: braukyti
-present3_slice: braũko
-past3_slice: braũkė
-neither true
-neither true
-infinitive_verb: braukyti
-@infinitive_form: braukyti
-RFLT braukyti:yti_o_ė
-Reflexive? false :: lemma? true
-braukyti: 8
-braũko: 6
-braũkė: 6
-lemma: brauk, nugget: y
-yti_o_ė
+verb_array[1]:  braũko
+verb_array[2]:  braũkė
+LEMMA (brauk) and NUGGET -IN- (y)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: yti
+present3_slice: o
+past3_slice: ė
+file_name: yti_o_ė
 
-This is the stripped_verb: brau
-This is the matching_lemma: brau
+**************************************
+
 infinitive_verb: brautis
 stripped_verb: brau
 matching_lemma: brau
 nugget: 
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: brautis
-present3_slice: bráunasi
-past3_slice: bróvėsi
-RTLF brautis:autis_aunasi_ovėsi
-Reflexive? true :: lemma? false
-brautis: 7
-bráunasi: 8
-bróvėsi: 7
-lemma: brau, nugget: 
-autis_aunasi_ovėsi
+verb_array[1]:  bráunasi
+verb_array[2]:  bróvėsi
+LEMMA (brau) only
+CLASSIFICATION: lemma_only
+infinitive_form: tis
+present3_slice: nasi
+past3_slice: ėsi
+file_name: tis_nasi_ėsi
 
-This is the stripped_verb: brazdė
-This is the matching_lemma: b
+**************************************
+
 infinitive_verb: brazdėti
 stripped_verb: brazdė
 matching_lemma: b
 nugget: razdė
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: brazdėti
-present3_slice: da
-past3_slice: ė́jo
-neither true
-neither true
-infinitive_verb: brazdėti
-@infinitive_form: brazdėti
-RFLT brazdėti:razdėti_razda_razdė́jo
-Reflexive? false :: lemma? true
-brazdėti: 8
-brãzda: 6
-brazdė́jo: 9
-lemma: b, nugget: razdė
-razdėti_razda_razdė́jo
+verb_array[1]:  brãzda
+verb_array[2]:  brazdė́jo
+LEMMA (b) and NUGGET -IN- (razdė)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: razdėti
+present3_slice: razda
+past3_slice: razdė́jo
+file_name: razdėti_razda_razdė́jo
 
-This is the stripped_verb: bręs
-This is the matching_lemma: brę
+**************************************
+
 infinitive_verb: bręsti
 stripped_verb: bręs
 matching_lemma: brę
 nugget: s
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: bręsti
-present3_slice: rę́sta
-past3_slice: bréndo
-neither true
-neither true
-infinitive_verb: bręsti
-@infinitive_form: bręsti
-RFLT bręsti:sti_́sta_ndo
-Reflexive? false :: lemma? true
-bręsti: 6
-brę́sta: 7
-bréndo: 6
-lemma: brę, nugget: s
-sti_́sta_ndo
+verb_array[1]:  brę́sta
+verb_array[2]:  bréndo
+LEMMA (brę) and NUGGET -IN- (s)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: sti
+present3_slice: ́sta
+past3_slice: ndo
+file_name: sti_́sta_ndo
 
-This is the stripped_verb: brėž
-This is the matching_lemma: brėž
+**************************************
+
 infinitive_verb: brėžti
 stripped_verb: brėž
 matching_lemma: brėž
 nugget: 
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: brėžti
-present3_slice: brė́žia
-past3_slice: brė́žė
-RFLF brėžti:ėžti_ė́žia_ė́žė
-Reflexive? false :: lemma? false
-brėžti: 6
-brė́žia: 7
-brė́žė: 6
-lemma: brėž, nugget: 
-ėžti_ė́žia_ė́žė
+verb_array[1]:  brė́žia
+verb_array[2]:  brė́žė
+LEMMA (brėž) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: žia
+past3_slice: žė
+file_name: ti_žia_žė
 
-This is the stripped_verb: brink
-This is the matching_lemma: brink
+**************************************
+
 infinitive_verb: brinkti
 stripped_verb: brink
 matching_lemma: brink
 nugget: 
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: brinkti
-present3_slice: brìnksta
-past3_slice: brìnko
-RFLF brinkti:inkti_inksta_inko
-Reflexive? false :: lemma? false
-brinkti: 7
-brìnksta: 8
-brìnko: 6
-lemma: brink, nugget: 
-inkti_inksta_inko
+verb_array[1]:  brìnksta
+verb_array[2]:  brìnko
+LEMMA (brink) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: sta
+past3_slice: o
+file_name: ti_sta_o
 
-This is the stripped_verb: bris
-This is the matching_lemma: bris
+**************************************
+
 infinitive_verb: bristi
 stripped_verb: bris
 matching_lemma: bris
 nugget: 
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: bristi
-present3_slice: breñda
-past3_slice: brìdo
-RFLF bristi:isti_enda_ido
-Reflexive? false :: lemma? false
-bristi: 6
-breñda: 6
-brìdo: 5
-lemma: bris, nugget: 
-isti_enda_ido
+verb_array[1]:  breñda
+verb_array[2]:  brìdo
+LEMMA (bris) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: da
+past3_slice: o
+file_name: ti_da_o
 
-This is the stripped_verb: bruk
-This is the matching_lemma: bruk
+**************************************
+
 infinitive_verb: brukti
 stripped_verb: bruk
 matching_lemma: bruk
 nugget: 
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: brukti
-present3_slice: brunka
-past3_slice: brùko
-RFLF brukti:ukti_unka_o
-Reflexive? false :: lemma? false
-brukti: 6
-brunka: 6
-brùko: 5
-lemma: bruk, nugget: 
-ukti_unka_o
+verb_array[1]:  brunka
+verb_array[2]:  brùko
+LEMMA (bruk) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: ka
+past3_slice: o
+file_name: ti_ka_o
 
-This is the stripped_verb: brūžin
-This is the matching_lemma: brūž
+**************************************
+
 infinitive_verb: brūžinti
 stripped_verb: brūžin
 matching_lemma: brūž
-nugget: žin
-nugget_in: false
-nugget_n: 
+nugget: in
+nugget_in: true
 verb_array[0]: brūžinti
-present3_slice: ́žina
-past3_slice: ́žino
-neither true
-neither true
-infinitive_verb: brūžinti
-@infinitive_form: brūžinti
-RFLT brūžinti:žinti_žina_žino
-Reflexive? false :: lemma? true
-brūžinti: 8
-brū́žina: 8
-brū́žino: 8
-lemma: brūž, nugget: žin
-žinti_žina_žino
+verb_array[1]:  brū́žina
+verb_array[2]:  brū́žino
+LEMMA (brūž) and NUGGET -IN- (in)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: inti
+present3_slice: žina
+past3_slice: žino
+file_name: inti_žina_žino
 
-This is the stripped_verb: bučiuo
-This is the matching_lemma: buč
+**************************************
+
 infinitive_verb: bučiuoti
 stripped_verb: bučiuo
 matching_lemma: buč
 nugget: iuo
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: bučiuoti
-present3_slice: iúoja
-past3_slice: iãvo
-neither true
-neither true
-infinitive_verb: bučiuoti
-@infinitive_form: bučiuoti
-RFLT bučiuoti:iuoti_iuoja_iavo
-Reflexive? false :: lemma? true
-bučiuoti: 8
-bučiúoja: 8
-bučiãvo: 7
-lemma: buč, nugget: iuo
-iuoti_iuoja_iavo
+verb_array[1]:  bučiúoja
+verb_array[2]:  bučiãvo
+LEMMA (buč) and NUGGET -IN- (iuo)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: iuoti
+present3_slice: iuoja
+past3_slice: iavo
+file_name: iuoti_iuoja_iavo
 
-This is the stripped_verb: bučiuo
-This is the matching_lemma: buč
+**************************************
+
 infinitive_verb: bučiuotis
 stripped_verb: bučiuo
 matching_lemma: buč
 nugget: iuo
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: bučiuotis
-present3_slice: úojasi
-past3_slice: ãvosi
-RTLT bučiuotis:iuotis_iuojasi_iavosi
-Reflexive? true :: lemma? true
-bučiuotis: 9
-bučiúojasi: 10
-bučiãvosi: 9
-lemma: buč, nugget: iuo
-iuotis_iuojasi_iavosi
+verb_array[1]:  bučiúojasi
+verb_array[2]:  bučiãvosi
+LEMMA (buč) and NUGGET -IN- (iuo)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: iuotis
+present3_slice: iuojasi
+past3_slice: iavosi
+file_name: iuotis_iuojasi_iavosi
 
-This is the stripped_verb: budė
-This is the matching_lemma: bud
+**************************************
+
 infinitive_verb: budėti
 stripped_verb: budė
 matching_lemma: bud
 nugget: ė
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: budėti
-present3_slice: bùdi
-past3_slice: udė́jo
-neither true
-neither true
-infinitive_verb: budėti
-@infinitive_form: budėti
-RFLT budėti:ėti_i_ė́jo
-Reflexive? false :: lemma? true
-budėti: 6
-bùdi: 4
-budė́jo: 7
-lemma: bud, nugget: ė
-ėti_i_ė́jo
+verb_array[1]:  bùdi
+verb_array[2]:  budė́jo
+LEMMA (bud) and NUGGET -IN- (ė)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: ėti
+present3_slice: i
+past3_slice: ė́jo
+file_name: ėti_i_ė́jo
 
-This is the stripped_verb: budin
-This is the matching_lemma: bud
+**************************************
+
 infinitive_verb: budinti
 stripped_verb: budin
 matching_lemma: bud
-nugget: din
-nugget_in: false
-nugget_n: 
+nugget: in
+nugget_in: true
 verb_array[0]: budinti
+verb_array[1]:  bùdina
+verb_array[2]:  bùdino
+LEMMA (bud) and NUGGET -IN- (in)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: inti
 present3_slice: ina
 past3_slice: ino
-neither true
-neither true
-infinitive_verb: budinti
-@infinitive_form: budinti
-RFLT budinti:dinti_ina_ino
-Reflexive? false :: lemma? true
-budinti: 7
-bùdina: 6
-bùdino: 6
-lemma: bud, nugget: din
-dinti_ina_ino
+file_name: inti_ina_ino
 
-This is the stripped_verb: būgštau
-This is the matching_lemma: būg
+**************************************
+
 infinitive_verb: būgštauti
 stripped_verb: būgštau
 matching_lemma: būg
 nugget: štau
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: būgštauti
-present3_slice: auja
+verb_array[1]:  būšgtauja
+verb_array[2]:  bū́gštavo
+LEMMA (būg) and NUGGET -IN- (štau)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: štauti
+present3_slice: gtauja
 past3_slice: gštavo
-neither true
-neither true
-infinitive_verb: būgštauti
-@infinitive_form: būgštauti
-RFLT būgštauti:štauti_gtauja_gštavo
-Reflexive? false :: lemma? true
-būgštauti: 9
-būšgtauja: 9
-bū́gštavo: 9
-lemma: būg, nugget: štau
-štauti_gtauja_gštavo
+file_name: štauti_gtauja_gštavo
 
-This is the stripped_verb: bujo
-This is the matching_lemma: buj
+**************************************
+
 infinitive_verb: bujoti
 stripped_verb: bujo
 matching_lemma: buj
 nugget: o
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: bujoti
-present3_slice: bujója
-past3_slice: ujójo
-neither true
-neither true
-infinitive_verb: bujoti
-@infinitive_form: bujoti
-RFLT bujoti:oti_oja_ojo
-Reflexive? false :: lemma? true
-bujoti: 6
-bujója: 6
-bujójo: 6
-lemma: buj, nugget: o
-oti_oja_ojo
+verb_array[1]:  bujója
+verb_array[2]:  bujójo
+LEMMA (buj) and NUGGET -IN- (o)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: oti
+present3_slice: oja
+past3_slice: ojo
+file_name: oti_oja_ojo
 
-This is the stripped_verb: burbė
-This is the matching_lemma: burb
+**************************************
+
 infinitive_verb: burbėti
 stripped_verb: burbė
 matching_lemma: burb
 nugget: ė
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: burbėti
-present3_slice: bùrba
-past3_slice: urbė́jo
-neither true
-neither true
-infinitive_verb: burbėti
-@infinitive_form: burbėti
-RFLT burbėti:ėti_a_ė́jo
-Reflexive? false :: lemma? true
-burbėti: 7
-bùrba: 5
-burbė́jo: 8
-lemma: burb, nugget: ė
-ėti_a_ė́jo
+verb_array[1]:  bùrba
+verb_array[2]:  burbė́jo
+LEMMA (burb) and NUGGET -IN- (ė)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: ėti
+present3_slice: a
+past3_slice: ė́jo
+file_name: ėti_a_ė́jo
 
-This is the stripped_verb: burbuliuo
-This is the matching_lemma: burb
+**************************************
+
 infinitive_verb: burbuliuoti
 stripped_verb: burbuliuo
 matching_lemma: burb
 nugget: uliuo
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: burbuliuoti
-present3_slice: liúoja
-past3_slice: liãvo
-neither true
-neither true
-infinitive_verb: burbuliuoti
-@infinitive_form: burbuliuoti
-RFLT burbuliuoti:uliuoti_uliuoja_uliavo
-Reflexive? false :: lemma? true
-burbuliuoti: 11
-burbuliúoja: 11
-burbuliãvo: 10
-lemma: burb, nugget: uliuo
-uliuoti_uliuoja_uliavo
+verb_array[1]:  burbuliúoja
+verb_array[2]:  burbuliãvo
+LEMMA (burb) and NUGGET -IN- (uliuo)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: uliuoti
+present3_slice: uliuoja
+past3_slice: uliavo
+file_name: uliuoti_uliuoja_uliavo
 
-This is the stripped_verb: buriuo
-This is the matching_lemma: bur
+**************************************
+
 infinitive_verb: buriuoti
 stripped_verb: buriuo
 matching_lemma: bur
 nugget: iuo
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: buriuoti
-present3_slice: iúoja
-past3_slice: iãvo
-neither true
-neither true
-infinitive_verb: buriuoti
-@infinitive_form: buriuoti
-RFLT buriuoti:iuoti_iuoja_iavo
-Reflexive? false :: lemma? true
-buriuoti: 8
-buriúoja: 8
-buriãvo: 7
-lemma: bur, nugget: iuo
-iuoti_iuoja_iavo
+verb_array[1]:  buriúoja
+verb_array[2]:  buriãvo
+LEMMA (bur) and NUGGET -IN- (iuo)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: iuoti
+present3_slice: iuoja
+past3_slice: iavo
+file_name: iuoti_iuoja_iavo
 
-This is the stripped_verb: būriuo
-This is the matching_lemma: būr
+**************************************
+
 infinitive_verb: būriuoti
 stripped_verb: būriuo
 matching_lemma: būr
 nugget: iuo
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: būriuoti
-present3_slice: iúoja
-past3_slice: iãvo
-neither true
-neither true
-infinitive_verb: būriuoti
-@infinitive_form: būriuoti
-RFLT būriuoti:iuoti_iuoja_iavo
-Reflexive? false :: lemma? true
-būriuoti: 8
-buriúoja: 8
-buriãvo: 7
-lemma: būr, nugget: iuo
-iuoti_iuoja_iavo
+verb_array[1]:  buriúoja
+verb_array[2]:  buriãvo
+LEMMA (būr) and NUGGET -IN- (iuo)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: iuoti
+present3_slice: iuoja
+past3_slice: iavo
+file_name: iuoti_iuoja_iavo
 
-This is the stripped_verb: bur
-This is the matching_lemma: bur
+**************************************
+
 infinitive_verb: burti
 stripped_verb: bur
 matching_lemma: bur
 nugget: 
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: burti
-present3_slice: bùria
-past3_slice: bū́rė
-RFLF burti:urti_ia_ū́rė
-Reflexive? false :: lemma? false
-burti: 5
-bùria: 5
-bū́rė: 5
-lemma: bur, nugget: 
-urti_ia_ū́rė
+verb_array[1]:  bùria
+verb_array[2]:  bū́rė
+LEMMA (bur) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: ia
+past3_slice: rė
+file_name: ti_ia_rė
 
-This is the stripped_verb: bus
-This is the matching_lemma: bus
+**************************************
+
 infinitive_verb: busti
 stripped_verb: bus
 matching_lemma: bus
 nugget: 
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: busti
-present3_slice: buñda
-past3_slice: bùdo
-RFLF busti:usti_unda_o
-Reflexive? false :: lemma? false
-busti: 5
-buñda: 5
-bùdo: 4
-lemma: bus, nugget: 
-usti_unda_o
+verb_array[1]:  buñda
+verb_array[2]:  bùdo
+LEMMA (bus) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: da
+past3_slice: o
+file_name: ti_da_o
 
-This is the stripped_verb: bū
-This is the matching_lemma: bū
+**************************************
+
 infinitive_verb: būti
 stripped_verb: bū
 matching_lemma: bū
 nugget: 
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: būti
-present3_slice: yrà
-past3_slice: bùvo
-RFLF būti:ūti_yra_o
-Reflexive? false :: lemma? false
-būti: 4
-yrà: 3
-bùvo: 4
-lemma: bū, nugget: 
-ūti_yra_o
+verb_array[1]:  yrà
+verb_array[2]:  bùvo
+LEMMA (bū) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: a
+past3_slice: vo
+file_name: ti_a_vo
 
-This is the stripped_verb: buvo
-This is the matching_lemma: buv
+**************************************
+
 infinitive_verb: buvoti
 stripped_verb: buvo
 matching_lemma: buv
 nugget: o
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: buvoti
-present3_slice: buvója
-past3_slice: uvójo
-neither true
-neither true
-infinitive_verb: buvoti
-@infinitive_form: buvoti
-RFLT buvoti:oti_oja_ojo
-Reflexive? false :: lemma? true
-buvoti: 6
-buvója: 6
-buvójo: 6
-lemma: buv, nugget: o
-oti_oja_ojo
+verb_array[1]:  buvója
+verb_array[2]:  buvójo
+LEMMA (buv) and NUGGET -IN- (o)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: oti
+present3_slice: oja
+past3_slice: ojo
+file_name: oti_oja_ojo
 
-This is the stripped_verb: bylinė
-This is the matching_lemma: byl
+**************************************
+
 infinitive_verb: bylinėtis
 stripped_verb: bylinė
 matching_lemma: byl
 nugget: inė
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: bylinėtis
-present3_slice: nė́jasi
-past3_slice: nė́josi
-RTLT bylinėtis:inėtis_inė́jasi_inė́josi
-Reflexive? true :: lemma? true
-bylinėtis: 9
-bylinė́jasi: 11
-bylinė́josi: 11
-lemma: byl, nugget: inė
-inėtis_inė́jasi_inė́josi
+verb_array[1]:  bylinė́jasi
+verb_array[2]:  bylinė́josi
+LEMMA (byl) and NUGGET -IN- (inė)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: inėtis
+present3_slice: inė́jasi
+past3_slice: inė́josi
+file_name: inėtis_inė́jasi_inė́josi
 
-This is the stripped_verb: bylo
-This is the matching_lemma: byl
+**************************************
+
 infinitive_verb: byloti
 stripped_verb: bylo
 matching_lemma: byl
 nugget: o
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: byloti
-present3_slice: bylója
-past3_slice: ylójo
-neither true
-neither true
-infinitive_verb: byloti
-@infinitive_form: byloti
-RFLT byloti:oti_oja_ojo
-Reflexive? false :: lemma? true
-byloti: 6
-bylója: 6
-bylójo: 6
-lemma: byl, nugget: o
-oti_oja_ojo
+verb_array[1]:  bylója
+verb_array[2]:  bylójo
+LEMMA (byl) and NUGGET -IN- (o)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: oti
+present3_slice: oja
+past3_slice: ojo
+file_name: oti_oja_ojo
 
-This is the stripped_verb: byrė
-This is the matching_lemma: byr
+**************************************
+
 infinitive_verb: byrėti
 stripped_verb: byrė
 matching_lemma: byr
 nugget: ė
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: byrėti
-present3_slice: bỹra
-past3_slice: yrė́jo
-neither true
-neither true
-infinitive_verb: byrėti
-@infinitive_form: byrėti
-RFLT byrėti:ėti_a_ė́jo
-Reflexive? false :: lemma? true
-byrėti: 6
-bỹra: 4
-byrė́jo: 7
-lemma: byr, nugget: ė
-ėti_a_ė́jo
+verb_array[1]:  bỹra
+verb_array[2]:  byrė́jo
+LEMMA (byr) and NUGGET -IN- (ė)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: ėti
+present3_slice: a
+past3_slice: ė́jo
+file_name: ėti_a_ė́jo
 
-This is the stripped_verb: čežė
-This is the matching_lemma: čež
+**************************************
+
 infinitive_verb: čežėti
 stripped_verb: čežė
 matching_lemma: čež
 nugget: ė
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: čežėti
-present3_slice: čẽža
-past3_slice: ežė́jo
-neither true
-neither true
-infinitive_verb: čežėti
-@infinitive_form: čežėti
-RFLT čežėti:ėti_a_ė́jo
-Reflexive? false :: lemma? true
-čežėti: 6
-čẽža: 4
-čežė́jo: 7
-lemma: čež, nugget: ė
-ėti_a_ė́jo
+verb_array[1]:  čẽža
+verb_array[2]:  čežė́jo
+LEMMA (čež) and NUGGET -IN- (ė)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: ėti
+present3_slice: a
+past3_slice: ė́jo
+file_name: ėti_a_ė́jo
 
-This is the stripped_verb: čež
-This is the matching_lemma: čež
+**************************************
+
 infinitive_verb: čežti
 stripped_verb: čež
 matching_lemma: čež
 nugget: 
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: čežti
-present3_slice: čęžta
-past3_slice: čežo
-RFLF čežti:ežti_ęžta_ežo
-Reflexive? false :: lemma? false
-čežti: 5
-čęžta: 5
-čežo: 4
-lemma: čež, nugget: 
-ežti_ęžta_ežo
+verb_array[1]:  čęžta
+verb_array[2]:  čežo
+LEMMA (čež) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: ta
+past3_slice: o
+file_name: ti_ta_o
 
-This is the stripped_verb: čiaudė
-This is the matching_lemma: čiaud
+**************************************
+
 infinitive_verb: čiaudėti
 stripped_verb: čiaudė
 matching_lemma: čiaud
 nugget: ė
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: čiaudėti
-present3_slice: iáudėja
-past3_slice: iáudėjo
-neither true
-neither true
-infinitive_verb: čiaudėti
-@infinitive_form: čiaudėti
-RFLT čiaudėti:ėti_ėja_ėjo
-Reflexive? false :: lemma? true
-čiaudėti: 8
-čiáudėja: 8
-čiáudėjo: 8
-lemma: čiaud, nugget: ė
-ėti_ėja_ėjo
+verb_array[1]:  čiáudėja
+verb_array[2]:  čiáudėjo
+LEMMA (čiaud) and NUGGET -IN- (ė)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: ėti
+present3_slice: ėja
+past3_slice: ėjo
+file_name: ėti_ėja_ėjo
 
-This is the stripped_verb: čiauškė
-This is the matching_lemma: čiaušk
+**************************************
+
 infinitive_verb: čiauškėti
 stripped_verb: čiauškė
 matching_lemma: čiaušk
 nugget: ė
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: čiauškėti
-present3_slice: čiáuška
-past3_slice: iauškė́jo
-neither true
-neither true
-infinitive_verb: čiauškėti
-@infinitive_form: čiauškėti
-RFLT čiauškėti:ėti_a_ė́jo
-Reflexive? false :: lemma? true
-čiauškėti: 9
-čiáuška: 7
-čiauškė́jo: 10
-lemma: čiaušk, nugget: ė
-ėti_a_ė́jo
+verb_array[1]:  čiáuška
+verb_array[2]:  čiauškė́jo
+LEMMA (čiaušk) and NUGGET -IN- (ė)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: ėti
+present3_slice: a
+past3_slice: ė́jo
+file_name: ėti_a_ė́jo
 
-This is the stripped_verb: čiauž
-This is the matching_lemma: čia
+**************************************
+
 infinitive_verb: čiaužti
 stripped_verb: čiauž
 matching_lemma: čia
 nugget: už
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: čiaužti
-present3_slice: aužia
-past3_slice: aužė
-neither true
-neither true
-infinitive_verb: čiaužti
-@infinitive_form: čiaužti
-RFLT čiaužti:užti_užia_užė
-Reflexive? false :: lemma? true
-čiaužti: 7
-čiaužia: 7
-čiaužė: 6
-lemma: čia, nugget: už
-užti_užia_užė
+verb_array[1]:  čiaužia
+verb_array[2]:  čiaužė
+LEMMA (čia) and NUGGET -IN- (už)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: užti
+present3_slice: užia
+past3_slice: užė
+file_name: užti_užia_užė
 
-This is the stripped_verb: čirpė
-This is the matching_lemma: čirp
+**************************************
+
 infinitive_verb: čirpėti
 stripped_verb: čirpė
 matching_lemma: čirp
 nugget: ė
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: čirpėti
-present3_slice: čirpa
-past3_slice: irpėjo
-neither true
-neither true
-infinitive_verb: čirpėti
-@infinitive_form: čirpėti
-RFLT čirpėti:ėti_a_ėjo
-Reflexive? false :: lemma? true
-čirpėti: 7
-čirpa: 5
-čirpėjo: 7
-lemma: čirp, nugget: ė
-ėti_a_ėjo
+verb_array[1]:  čirpa
+verb_array[2]:  čirpėjo
+LEMMA (čirp) and NUGGET -IN- (ė)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: ėti
+present3_slice: a
+past3_slice: ėjo
+file_name: ėti_a_ėjo
 
-This is the stripped_verb: cituo
-This is the matching_lemma: cit
+**************************************
+
 infinitive_verb: cituoti
 stripped_verb: cituo
 matching_lemma: cit
 nugget: uo
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: cituoti
-present3_slice: itúoja
-past3_slice: itãvo
-neither true
-neither true
-infinitive_verb: cituoti
-@infinitive_form: cituoti
-RFLT cituoti:uoti_uoja_avo
-Reflexive? false :: lemma? true
-cituoti: 7
-citúoja: 7
-citãvo: 6
-lemma: cit, nugget: uo
-uoti_uoja_avo
+verb_array[1]:  citúoja
+verb_array[2]:  citãvo
+LEMMA (cit) and NUGGET -IN- (uo)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: uoti
+present3_slice: uoja
+past3_slice: avo
+file_name: uoti_uoja_avo
 
-This is the stripped_verb: čiulbė
-This is the matching_lemma: čiulb
+**************************************
+
 infinitive_verb: čiulbėti
 stripped_verb: čiulbė
 matching_lemma: čiulb
 nugget: ė
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: čiulbėti
-present3_slice: čiùlba
-past3_slice: iulbė́jo
-neither true
-neither true
-infinitive_verb: čiulbėti
-@infinitive_form: čiulbėti
-RFLT čiulbėti:ėti_a_ė́jo
-Reflexive? false :: lemma? true
-čiulbėti: 8
-čiùlba: 6
-čiulbė́jo: 9
-lemma: čiulb, nugget: ė
-ėti_a_ė́jo
+verb_array[1]:  čiùlba
+verb_array[2]:  čiulbė́jo
+LEMMA (čiulb) and NUGGET -IN- (ė)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: ėti
+present3_slice: a
+past3_slice: ė́jo
+file_name: ėti_a_ė́jo
 
-This is the stripped_verb: čiulp
-This is the matching_lemma: čiulp
+**************************************
+
 infinitive_verb: čiulpti
 stripped_verb: čiulp
 matching_lemma: čiulp
 nugget: 
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: čiulpti
-present3_slice: čiul̃pia
-past3_slice: čiul̃pė
-RFLF čiulpti:iulpti_iul̃pia_iul̃pė
-Reflexive? false :: lemma? false
-čiulpti: 7
-čiul̃pia: 8
-čiul̃pė: 7
-lemma: čiulp, nugget: 
-iulpti_iul̃pia_iul̃pė
+verb_array[1]:  čiul̃pia
+verb_array[2]:  čiul̃pė
+LEMMA (čiulp) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: pia
+past3_slice: pė
+file_name: ti_pia_pė
 
-This is the stripped_verb: čiuožinė
-This is the matching_lemma: čiuož
+**************************************
+
 infinitive_verb: čiuožinėti
 stripped_verb: čiuožinė
 matching_lemma: čiuož
 nugget: inė
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: čiuožinėti
-present3_slice: žinė́ja
-past3_slice: žinė́ja
-neither true
-neither true
-infinitive_verb: čiuožinėti
-@infinitive_form: čiuožinėti
-RFLT čiuožinėti:inėti_inė́ja_inė́ja
-Reflexive? false :: lemma? true
-čiuožinėti: 10
-čiuožinė́ja: 11
-čiuožinė́ja: 11
-lemma: čiuož, nugget: inė
-inėti_inė́ja_inė́ja
+verb_array[1]:  čiuožinė́ja
+verb_array[2]:  čiuožinė́ja
+LEMMA (čiuož) and NUGGET -IN- (inė)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: inėti
+present3_slice: inė́ja
+past3_slice: inė́ja
+file_name: inėti_inė́ja_inė́ja
 
-This is the stripped_verb: čiuož
-This is the matching_lemma: čiuož
+**************************************
+
 infinitive_verb: čiuožti
 stripped_verb: čiuož
 matching_lemma: čiuož
 nugget: 
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: čiuožti
-present3_slice: čiuõžia
-past3_slice: čiuõžė
-RFLF čiuožti:iuožti_iuožia_iuožė
-Reflexive? false :: lemma? false
-čiuožti: 7
-čiuõžia: 7
-čiuõžė: 6
-lemma: čiuož, nugget: 
-iuožti_iuožia_iuožė
+verb_array[1]:  čiuõžia
+verb_array[2]:  čiuõžė
+LEMMA (čiuož) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: ia
+past3_slice: ė
+file_name: ti_ia_ė
 
-This is the stripped_verb: čiup
-This is the matching_lemma: čiup
+**************************************
+
 infinitive_verb: čiupti
 stripped_verb: čiup
 matching_lemma: čiup
 nugget: 
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: čiupti
-present3_slice: čiupa
-past3_slice: čiùpo
-RFLF čiupti:iupti_iupa_iupo
-Reflexive? false :: lemma? false
-čiupti: 6
-čiupa: 5
-čiùpo: 5
-lemma: čiup, nugget: 
-iupti_iupa_iupo
+verb_array[1]:  čiupa
+verb_array[2]:  čiùpo
+LEMMA (čiup) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: a
+past3_slice: o
+file_name: ti_a_o
 
-This is the stripped_verb: civilizuo
-This is the matching_lemma: civil
+**************************************
+
 infinitive_verb: civilizuoti
 stripped_verb: civilizuo
 matching_lemma: civil
 nugget: izuo
-nugget_in: false
-nugget_n: 
+nugget_in: true
 verb_array[0]: civilizuoti
-present3_slice: zuoja
-past3_slice: izãvo
-neither true
-neither true
-infinitive_verb: civilizuoti
-@infinitive_form: civilizuoti
-RFLT civilizuoti:izuoti_izuoja_izavo
-Reflexive? false :: lemma? true
-civilizuoti: 11
-civilizuoja: 11
-civilizãvo: 10
-lemma: civil, nugget: izuo
-izuoti_izuoja_izavo
+verb_array[1]:  civilizuoja
+verb_array[2]:  civilizãvo
+LEMMA (civil) and NUGGET -IN- (izuo)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: izuoti
+present3_slice: izuoja
+past3_slice: izavo
+file_name: izuoti_izuoja_izavo
 
-This is the stripped_verb: cypau
-This is the matching_lemma: 
+**************************************
+
 bundler: failed to load command: exe/verbalyser (exe/verbalyser)
