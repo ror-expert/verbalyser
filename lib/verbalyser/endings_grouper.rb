@@ -47,8 +47,14 @@ module Verbalyser
 
       @matching_lemma = matching_stem_array.max
 
-      if stripped_verb[-2,2] == "in" || @matching_lemma[-2,2] == "in"
+      if stripped_verb[-2,2] == "in"
         @nugget = "in"
+        @nugget_in = true
+        @matching_lemma = stripped_verb[0...-2]
+      elsif @matching_lemma[-2,2] == "in"
+        @nugget = "in"
+        @nugget_in = true
+        @matching_lemma = @matching_lemma[0...-2]
       else
         @nugget = stripped_verb[@matching_lemma.length..-1]
       end
@@ -70,7 +76,7 @@ module Verbalyser
       puts "stripped_verb: #{@stripped_verb}"
       puts "matching_lemma: #{@matching_lemma}"
       puts "nugget: #{@nugget}"
-      # puts "nugget_in: #{@nugget_in}"
+      puts "nugget_in: #{@nugget_in}"
       # puts "nugget_n: #{@nugget_n}"
       # puts "lemma_in: #{@lemma_in}"
       # puts "lemma_n: #{@lemma_n}"
@@ -91,41 +97,23 @@ module Verbalyser
       if @matching_lemma.length > 0
         if @nugget.length > 0
           if @nugget_in == true
-
             puts "LEMMA (#{@matching_lemma}) and NUGGET -IN- (#{@nugget})"
-
             @key_substring = "lemma_nugget_in"
-
-
-
           elsif @nugget_n == true
             puts "LEMMA (#{@matching_lemma}) and NUGGET -N- (#{@nugget})"
-
             @key_substring = "lemma_nugget_n"
-
-
-
           else
             puts "LEMMA (#{@matching_lemma}) and NUGGET (#{@nugget})"
-
             @key_substring = "lemma_nugget_general"
-
-            # puts "This is where #{@nugget} is located in #{@present3}: #{@present3.removeaccents.index(@nugget)}"
-
-
           end
         else
           puts "LEMMA (#{@matching_lemma}) only"
-
           @key_substring = "lemma_only"
-
         end
       else
         puts "THERE IS A PROBLEM HERE"
-
         @key_substring = "lemma_not_found"
       end
-
 
       case @key_substring
       when "lemma_nugget_general"
@@ -139,14 +127,23 @@ module Verbalyser
 
       when "lemma_nugget_in"
         puts "CLASSIFICATION: lemma_nugget_in"
-        # @present3_slice = @present3[(@present3.count(@nugget))..-1]
-        # @past3_slice = @past3[(@past3.count(@nugget))..-1]
+
+        @infinitive_slice = @infinitive_form.removeaccents[@matching_lemma.length..-1]
+        @present3_slice = @present3.removeaccents[@matching_lemma.length..-1]
+        @past3_slice = @past3.removeaccents[@matching_lemma.length..-1]
+        @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}"
+
       when "lemma_nugget_n"
         puts "CLASSIFICATION: lemma_nugget_n"
         # @present3_slice = @present3[(@present3.count(@nugget))..-1]
         # @past3_slice = @past3[(@past3.count(@nugget))..-1]
       when "lemma_only"
         puts "CLASSIFICATION: lemma_only"
+
+        @infinitive_slice = @infinitive_form.removeaccents[@matching_lemma.length..-1]
+        @present3_slice = @present3.removeaccents[@matching_lemma.length..-1]
+        @past3_slice = @past3.removeaccents[@matching_lemma.length..-1]
+        @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}"
         # @present3_slice = @present3[@from_first_vowel]
         # @past3_slice = @past3[@from_first_vowel]
       when "lemma_not_found"
