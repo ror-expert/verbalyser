@@ -164,7 +164,7 @@ module Verbalyser
 
       if File.exist?(file_path) == false
 
-         "No file for this pattern, creating a new one..."
+         "No file for this pagitttern, creating a new one..."
 
         output_file = File.open(file_path, "w")
         output_file.write(output_verb_sequence)
