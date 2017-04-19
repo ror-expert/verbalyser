@@ -617,6 +617,7 @@ kirptis, ker̃pa, kir̃po
 kiršinti, kìršina, kir̃šino
 kirsti, ker̃ta, kir̃to
 kirstis, ker̃tasi, kir̃tosi
+kiškiakopūsteliauti, kiškiakopūsteliauja, kiškiakopūsteliavo
 kisti, kiñta, kìto
 kiurdyti, kiùrdo, kiurdė
 klaidinti, klaidìna, klaidìno
@@ -948,15 +949,10 @@ naudoti, naudója, naudójo
 naudotis, naudójasi, naudójosi
 naujinti, naũjina, naujino
 neabejoti, neabejója, neabejójo
-neapkęsti, neapkeñčia, neàpkentė
-nebepasikiškiakopūsteliauti, nebepasikiškiakopūsteliauja, nebepasikiškiakopūsteliavo
-nebeprisikiškiakopūsteliauti, nebeprisikiškiakopūsteliauja, nebeprisikiškiakopūsteliavo
 neigti, neĩgia, neĩgė
 nekantrauti, nekantráuja, nekantrãvo
 nekęsti, nekeñčia, nèkentė
-nenuvilti, nenùvilia, nenuvýlė
-nepaisyti, nepaĩso, nepaĩsė
-neraminti, neramìna, neramìno
+paisyti, paĩso, paĩsė
 nerimauti, nerimáuja, nerimãvo
 neršti, ner̃šia, ner̃šė
 nerti, nẽria, nė́rė
@@ -970,8 +966,6 @@ nešiotis, nešiójasi, nešiójosi
 nešiotis, nešiójasi, nešiójosi
 nešti, nẽša, nẽšė
 neštis, nẽšasi, nẽšėsi
-netekti, neteñka, netẽko
-neužmigti, neužmiẽga, neužmìgo
 niekinti, niẽkina, niẽkino
 niežėti, niẽžti, niežė́jo
 niokti, niokia, niokė

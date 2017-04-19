@@ -11,9 +11,20 @@ describe Verbalyser::EndingsGrouper do
   let (:tamsėti) {"ėti_sė́ja_sė́jo".removeaccents}
   let (:adyti) {"yti_o_ė".removeaccents}
   let (:akinti) {"inti_ina_ino".removeaccents}
+
+  # Solved by adding missing lemmas to database
   let (:cypauti) {"auti_auja_avo".removeaccents}
   let (:cypti) {"ti_ia_ė".removeaccents}
   let (:flirtuoti) {"uoti_úoja_ãvo".removeaccents}
+  let (:pisti) {"ti_a_o".removeaccents}
+  let (:žnybti) {"ti_ia_ė".removeaccents}
+  let (:žvarbėti) {"ėti_à_ėjo".removeaccents}
+
+  # Added because the file name includes too many characters
+  let (:svaidyti) {"yti_o_ė".removeaccents}
+  let (:neabejoti) {"oti_ója_ójo".removeaccents}
+  let (:nekęsti) {"ęsti_eñčia_entė".removeaccents}
+  let (:nebepasikiškiakopūsteliauti) {"auti_auja_avo"}
 
   subject {Verbalyser::EndingsGrouper.new}
 
@@ -59,6 +70,29 @@ describe Verbalyser::EndingsGrouper do
       expect(subject.create_classificatory_file_name("flirtuoti")).to eq(flirtuoti)
     end
 
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("pisti")).to eq(pisti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("žnybti")).to eq(žnybti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("žvarbėti")).to eq(žvarbėti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("svaidyti")).to eq(svaidyti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("neabejoti")).to eq(neabejoti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("nekęsti")).to eq(nekęsti)
+    end
 
   end
 end

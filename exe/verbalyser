@@ -1,5 +1,7 @@
 #!/usr/bin/env ruby
 require 'verbalyser'
+require 'time'
+
 
 @group_generator = Verbalyser::EndingsGrouper.new
 

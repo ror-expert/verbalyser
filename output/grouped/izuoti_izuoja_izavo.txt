@@ -1,2 +1,6 @@
 automatizuoti, automatizúoja, automatizavo
 civilizuoti, civilizuoja, civilizãvo
+hipnotizuoti, hipnotizúoja, hipnotizãvo
+kolonizuoti, konolizuoja, kolonizãvo
+kompiuterizuoti, kompiuterizuoja, kompiuterizavo
+realizuoti, realizúoja, realizãvo

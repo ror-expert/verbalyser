@@ -1,2 +1,6 @@
 burbuliuoti, burbuliúoja, burbuliãvo
 emuliuoti, emuliuoja, emuliavo
+marguliuoti, marguliúoja, marguliavo
+mirguliuoti, mirguliúoja, mirguliãvo
+spinduliuoti, spinduliúoja, spinduliãvo
+šurmuliuoti, šurmuliúoja, šurmuliãvo

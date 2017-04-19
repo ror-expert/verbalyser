@@ -1,4 +1,5 @@
 require 'remove_accents'
+require 'time'
 
 module Verbalyser
   class EndingsGrouper
@@ -11,10 +12,13 @@ module Verbalyser
 
       @lithuanian_consonants = %w[b c č d f g h j k l m n p q r s š t v z ž]
 
-
       @lithuanian_vowels = %w[a ã à á ą ą̃ ą̀ ą́ e ẽ è é ę ę̃ ę̀ ę́ ė ė̃  ė̀  ė́  i ĩ ì í į̃  į̀ į į y ỹ ỳ ý o õ ò ó ũ ù ú u ų ų̃ ų̀ ų́ ū ū̃  ū̀  ū́]
 
       @from_first_vowel = /[aãàáąą̃ą̀ą́eẽeẽèéęę̃ę̀ę́ėė̃ė̀ė́iĩìíį̃į̀įįoõòóyỹỳýũùúuųų̃ų̀ų́ūū̃ū̀ū́](.*)/
+
+      @suspect_path = File.open("spec/review/suspicious_filenames_#{Time.now}.txt", "a+")
+
+
 
     end
 
@@ -161,10 +165,17 @@ module Verbalyser
       output_verb_sequence = "#{@infinitive_form}, #{@present3}, #{@past3}\n"
       testing_output_verb_sequence = "[#{output_verb_sequence}]"
       file_path = @output_folder + @file_name + ".txt"
+      # suspect_path = File.open("spec/review/suspicious_filenames_#{Time.now}.txt", "a+")
+
+      if @reflexivity == false && @infinitive_slice.length > 4
+        @suspect_path.write("#{infinitive_verb}, #{@file_name}\n")
+      elsif @reflexivity == true && @infinitive_slice.length > 5
+        @suspect_path.write("#{infinitive_verb}, #{@file_name}\n")
+      end
 
       if File.exist?(file_path) == false
 
-         "No file for this pagitttern, creating a new one..."
+         puts "No file for this pattern (#{infinitive_verb}), creating a new one..."
 
         output_file = File.open(file_path, "w")
         output_file.write(output_verb_sequence)
@@ -192,6 +203,7 @@ module Verbalyser
       if file_review.include?(output_verb_sequence)
         @inspection_results = output_verb_sequence.split(", ")
       end
+
 
       file_check = @inspection_results
 

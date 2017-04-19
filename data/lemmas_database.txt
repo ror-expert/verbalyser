@@ -1548,6 +1548,7 @@ filtr
 fin
 final
 finans
+flirt
 finik
 finiš
 fino
@@ -3853,7 +3854,6 @@ myk
 myl
 myn
 myš
-n
 nabašnink
 nac
 nacional
@@ -3890,12 +3890,13 @@ naut
 navah
 navig
 navik
-ne
 nė
+neabej
 nefro
 negatyv
 negr
 neig
+nek
 nekro
 nektar
 nemun
@@ -4327,6 +4328,7 @@ pirm
 pirš
 piršč
 piršt
+pis
 pistolet
 pižam
 pizid
@@ -5970,8 +5972,9 @@ suveren
 sv
 šv
 svahil
-švai
+švaid
 svaič
+svaid
 svaidž
 svaig
 svaigst
@@ -6959,6 +6962,7 @@ zirz
 žlung
 žmog
 žmon
+žnyb
 žnyp
 žod
 žodž
@@ -6989,6 +6993,7 @@ zul
 žval
 žvalg
 žvang
+žvarb
 žvej
 žvel
 žvelg
@@ -7016,3 +7021,5 @@ zyl
 žyn
 žyr
 žys
+kiškiakopūsteli
+nekantr
