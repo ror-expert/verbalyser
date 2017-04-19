@@ -47,14 +47,8 @@ module Verbalyser
 
       @matching_lemma = matching_stem_array.max
 
-      if @matching_lemma[-2,2] == "in"
-        @nugget = stripped_verb[@matching_lemma[0...-2].length..-1]
-        @nugget_in = true
-        @lemma_in = false
-      elsif stripped_verb[-2,2] == "in"
-        @nugget = stripped_verb[@matching_lemma[0...-1].length..-1]
-        @nugget_in = false
-        @lemma_in = true
+      if stripped_verb[-2,2] == "in" || @matching_lemma[-2,2] == "in"
+        @nugget = "in"
       else
         @nugget = stripped_verb[@matching_lemma.length..-1]
       end
@@ -76,10 +70,10 @@ module Verbalyser
       puts "stripped_verb: #{@stripped_verb}"
       puts "matching_lemma: #{@matching_lemma}"
       puts "nugget: #{@nugget}"
-      puts "nugget_in: #{@nugget_in}"
-      puts "nugget_n: #{@nugget_n}"
-      puts "lemma_in: #{@lemma_in}"
-      puts "lemma_n: #{@lemma_n}"
+      # puts "nugget_in: #{@nugget_in}"
+      # puts "nugget_n: #{@nugget_n}"
+      # puts "lemma_in: #{@lemma_in}"
+      # puts "lemma_n: #{@lemma_n}"
 
       @verb_database.each do |line|
 
@@ -95,75 +89,139 @@ module Verbalyser
       end
 
       if @matching_lemma.length > 0
-        puts "lemma match!"
-      end
-
-      @present3_slice = @present3[(@present3.count(@nugget))..-1]
-      @past3_slice = @past3[(@past3.count(@nugget))..-1]
-      # puts "present3_slice: #{@present3_slice}"
-      # puts "past3_slice: #{@past3_slice}"
-
-
-
-      if @infinitive_form.match(infinitive_verb)
-
-        if @reflexivity == false && @lemma_suffix_found == true
-
-          part1 = @infinitive_form[-(@nugget.length + "ti".length), (@nugget.length + "ti".length)]
-
+        if @nugget.length > 0
           if @nugget_in == true
-            part2 = @present3[@matching_lemma[0...-2].length..-1]
+
+            puts "LEMMA (#{@matching_lemma}) and NUGGET -IN- (#{@nugget})"
+
+            @key_substring = "lemma_nugget_in"
+
+
+
+          elsif @nugget_n == true
+            puts "LEMMA (#{@matching_lemma}) and NUGGET -N- (#{@nugget})"
+
+            @key_substring = "lemma_nugget_n"
+
+
 
           else
-            part2 = @present3[@matching_lemma.length..-1]
-            #
+            puts "LEMMA (#{@matching_lemma}) and NUGGET (#{@nugget})"
+
+            @key_substring = "lemma_nugget_general"
+
+            # puts "This is where #{@nugget} is located in #{@present3}: #{@present3.removeaccents.index(@nugget)}"
+
+
           end
-
-          if @nugget_in == true
-            part3 = @past3[@matching_lemma[0...-2].length..-1]
-          else
-            part3 = @past3[@matching_lemma.length..-1]
-          end
-
-          @file_name = "#{part1}_#{part2}_#{part3}".removeaccents
-
-        elsif @reflexivity == true && @lemma_suffix_found == true
-
-          part1 = @infinitive_form[-(@nugget.length + "tis".length), (@nugget.length + "tis".length)]
-
-          if @nugget_in == true
-            part2 = @present3[@matching_lemma[0...-2].length..-1]
-          else
-            part2 = @present3[@matching_lemma.length..-1]
-          end
-
-          if @nugget_in == true
-            part3 = @past3[@matching_lemma[0...-2].length..-1]
-          else
-            part3 = @past3[@matching_lemma.length..-1]
-          end
-
-          @file_name = "#{part1}_#{part2}_#{part3}".removeaccents
-
-        elsif @reflexivity == false && @lemma_suffix_found == false
-
-          part1 = @infinitive_form[@from_first_vowel]
-          part2 = @present3[@from_first_vowel]
-          part3 = @past3[@from_first_vowel]
-
-          @file_name = "#{part1}_#{part2}_#{part3}".removeaccents
-
-        elsif @reflexivity == true && @lemma_suffix_found == false
-
-          part1 = @infinitive_form[@from_first_vowel]
-          part2 = @present3[@from_first_vowel]
-          part3 = @past3[@from_first_vowel]
-
-          @file_name = "#{part1}_#{part2}_#{part3}".removeaccents
-
         else
+          puts "LEMMA (#{@matching_lemma}) only"
+
+          @key_substring = "lemma_only"
+
         end
+      else
+        puts "THERE IS A PROBLEM HERE"
+
+        @key_substring = "lemma_not_found"
       end
+
+
+      case @key_substring
+      when "lemma_nugget_general"
+        puts "CLASSIFICATION: lemma_nugget_general"
+        puts "NUGGET: #{@nugget}"
+
+        @infinitive_slice = @infinitive_form.removeaccents[@matching_lemma.length..-1]
+        @present3_slice = @present3.removeaccents[@matching_lemma.length..-1]
+        @past3_slice = @past3.removeaccents[@matching_lemma.length..-1]
+        @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}"
+
+      when "lemma_nugget_in"
+        puts "CLASSIFICATION: lemma_nugget_in"
+        # @present3_slice = @present3[(@present3.count(@nugget))..-1]
+        # @past3_slice = @past3[(@past3.count(@nugget))..-1]
+      when "lemma_nugget_n"
+        puts "CLASSIFICATION: lemma_nugget_n"
+        # @present3_slice = @present3[(@present3.count(@nugget))..-1]
+        # @past3_slice = @past3[(@past3.count(@nugget))..-1]
+      when "lemma_only"
+        puts "CLASSIFICATION: lemma_only"
+        # @present3_slice = @present3[@from_first_vowel]
+        # @past3_slice = @past3[@from_first_vowel]
+      when "lemma_not_found"
+        puts "CLASSIFICATION: lemma_not_found"
+        # @present3_slice = @present3[@from_first_vowel]
+        # @past3_slice = @past3[@from_first_vowel]
+      else
+        puts "THERE IS A PROBLEM HERE"
+      end
+
+      puts "infinitive_form: #{@infinitive_slice}"
+      puts "present3_slice: #{@present3_slice}"
+      puts "past3_slice: #{@past3_slice}"
+
+      # if @infinitive_form.match(infinitive_verb)
+      #
+      #   if @reflexivity == false && @lemma_suffix_found == true
+      #
+      #     part1 = @infinitive_form[-(@nugget.length + "ti".length), (@nugget.length + "ti".length)]
+      #
+      #     if @nugget_in == true
+      #       part2 = @present3[@matching_lemma[0...-2].length..-1]
+      #
+      #     else
+      #       part2 = @present3[@matching_lemma.length..-1]
+      #       #
+      #     end
+      #
+      #     if @nugget_in == true
+      #       part3 = @past3[@matching_lemma[0...-2].length..-1]
+      #     else
+      #       part3 = @past3[@matching_lemma.length..-1]
+      #     end
+      #
+      #     @file_name = "#{part1}_#{part2}_#{part3}".removeaccents
+      #
+      #   elsif @reflexivity == true && @lemma_suffix_found == true
+      #
+      #     part1 = @infinitive_form[-(@nugget.length + "tis".length), (@nugget.length + "tis".length)]
+      #
+      #     if @nugget_in == true
+      #       part2 = @present3[@matching_lemma[0...-2].length..-1]
+      #     else
+      #       part2 = @present3[@matching_lemma.length..-1]
+      #     end
+      #
+      #     if @nugget_in == true
+      #       part3 = @past3[@matching_lemma[0...-2].length..-1]
+      #     else
+      #       part3 = @past3[@matching_lemma.length..-1]
+      #     end
+      #
+      #     @file_name = "#{part1}_#{part2}_#{part3}".removeaccents
+      #
+      #   elsif @reflexivity == false && @lemma_suffix_found == false
+      #
+      #     part1 = @infinitive_form[@from_first_vowel]
+      #     part2 = @present3[@from_first_vowel]
+      #     part3 = @past3[@from_first_vowel]
+      #
+      #     @file_name = "#{part1}_#{part2}_#{part3}".removeaccents
+      #
+      #   elsif @reflexivity == true && @lemma_suffix_found == false
+      #
+      #     part1 = @infinitive_form[@from_first_vowel]
+      #     part2 = @present3[@from_first_vowel]
+      #     part3 = @past3[@from_first_vowel]
+      #
+      #     @file_name = "#{part1}_#{part2}_#{part3}".removeaccents
+      #
+      #   else
+      #   end
+      # end
+
+      puts "file_name: #{@file_name}"
 
       puts "\n**************************************\n\n"
 
