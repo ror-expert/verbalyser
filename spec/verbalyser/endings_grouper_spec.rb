@@ -22,10 +22,10 @@ describe Verbalyser::EndingsGrouper do
   let (:file_name_conjugated_reflexive_verb_with_lemma_suffix) {"uotis_úojasi_ãvosi"}
   let (:file_name_conjugated_reflexive_verb_stem_extract) {"engtis_eñgiasi_eñgėsi"}
 
-  let (:verb_forms_non_reflexive_with_lemma) {["aktyvuoti, aktyvuoja, aktyvavo\n"]}
-  let (:verb_forms_non_reflexive_no_lemma) {["gverti, gvęra, gvẽro\n"]}
-  let (:verb_forms_reflexive_with_lemma) {["darbuotis, darbúojasi, darbãvosi\n"]}
-  let (:verb_forms_reflexive_no_lemma) {["rengtis, reñgiasi, reñgėsi\n"]}
+  let (:verb_forms_non_reflexive_with_lemma) {["aktyvuoti", "aktyvuoja", "aktyvavo\n"]}
+  let (:verb_forms_non_reflexive_no_lemma) {["gverti", "gvęra", "gvẽro\n"]}
+  let (:verb_forms_reflexive_with_lemma) {["darbuotis", "darbúojasi", "darbãvosi\n"]}
+  let (:verb_forms_reflexive_no_lemma) {["rengtis", "reñgiasi", "reñgėsi\n"]}
 
   subject {Verbalyser::EndingsGrouper.new}
 

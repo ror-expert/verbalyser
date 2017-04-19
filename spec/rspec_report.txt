@@ -1,0 +1,50 @@
+FF.FF..
+
+Failures:
+
+  1) Verbalyser::EndingsGrouper Testing for correct filename outputs a file name from an infinitive_verb input
+     Failure/Error: expect(subject.create_classificatory_file_name("adaptuoti")).to eq(adaptuoti)
+
+       expected: "uoti_úoja_ãvo"
+            got: "uoti_uoja_avo"
+
+       (compared using ==)
+     # ./spec/verbalyser/verbalyser_integration_testing_spec.rb:19:in `block (3 levels) in <top (required)>'
+
+  2) Verbalyser::EndingsGrouper Testing for correct filename outputs a file name from an infinitive_verb input
+     Failure/Error: expect(subject.create_classificatory_file_name("adaptuotis")).to eq(adaptuotis)
+
+       expected: "uotis_úojasi_ãvosi"
+            got: "uotis_uojasi_avosi"
+
+       (compared using ==)
+     # ./spec/verbalyser/verbalyser_integration_testing_spec.rb:23:in `block (3 levels) in <top (required)>'
+
+  3) Verbalyser::EndingsGrouper Testing for correct filename outputs a file name from an infinitive_verb input
+     Failure/Error: expect(subject.create_classificatory_file_name("rakinti")).to eq(rakinti)
+
+       expected: "inti_ìna_ìno"
+            got: "inti_ina_ino"
+
+       (compared using ==)
+     # ./spec/verbalyser/verbalyser_integration_testing_spec.rb:31:in `block (3 levels) in <top (required)>'
+
+  4) Verbalyser::EndingsGrouper Testing for correct filename outputs a file name from an infinitive_verb input
+     Failure/Error: expect(subject.create_classificatory_file_name("plaktis")).to eq(plaktis)
+
+       expected: "aktis_ãkasi_ãkėsi"
+            got: "aktis_akasi_akėsi"
+
+       (compared using ==)
+     # ./spec/verbalyser/verbalyser_integration_testing_spec.rb:35:in `block (3 levels) in <top (required)>'
+
+Finished in 0.13997 seconds (files took 0.34042 seconds to load)
+7 examples, 4 failures
+
+Failed examples:
+
+rspec ./spec/verbalyser/verbalyser_integration_testing_spec.rb:18 # Verbalyser::EndingsGrouper Testing for correct filename outputs a file name from an infinitive_verb input
+rspec ./spec/verbalyser/verbalyser_integration_testing_spec.rb:22 # Verbalyser::EndingsGrouper Testing for correct filename outputs a file name from an infinitive_verb input
+rspec ./spec/verbalyser/verbalyser_integration_testing_spec.rb:30 # Verbalyser::EndingsGrouper Testing for correct filename outputs a file name from an infinitive_verb input
+rspec ./spec/verbalyser/verbalyser_integration_testing_spec.rb:34 # Verbalyser::EndingsGrouper Testing for correct filename outputs a file name from an infinitive_verb input
+

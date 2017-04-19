@@ -1,7 +1,11 @@
-This is the infinitive_verb from the outset: absorbuoti
-This is the stripped_verb from the outset: absorbuo
 This is the stripped_verb: absorbuo
 This is the matching_lemma: absorb
+infinitive_verb: absorbuoti
+stripped_verb: absorbuo
+matching_lemma: absorb
+nugget: uo
+nugget_in: 
+nugget_n: 
 verb_array[0]: absorbuoti
 present3_slice: sorbúoja
 past3_slice: sorbãvo
@@ -9,18 +13,22 @@ neither true
 neither true
 infinitive_verb: absorbuoti
 @infinitive_form: absorbuoti
-RFLT absorbuoti:uoti_úoja_ãvo
+RFLT absorbuoti:uoti_uoja_avo
 Reflexive? false :: lemma? true
 absorbuoti: 10
 absorbúoja: 10
 absorbãvo: 9
 lemma: absorb, nugget: uo
-uoti_úoja_ãvo
+uoti_uoja_avo
 
-This is the infinitive_verb from the outset: abstrahuoti
-This is the stripped_verb from the outset: abstrahuo
 This is the stripped_verb: abstrahuo
 This is the matching_lemma: abstrah
+infinitive_verb: abstrahuoti
+stripped_verb: abstrahuo
+matching_lemma: abstrah
+nugget: uo
+nugget_in: 
+nugget_n: 
 verb_array[0]: abstrahuoti
 present3_slice: bstrahúoja
 past3_slice: bstrahãvo
@@ -28,18 +36,22 @@ neither true
 neither true
 infinitive_verb: abstrahuoti
 @infinitive_form: abstrahuoti
-RFLT abstrahuoti:uoti_úoja_ãvo
+RFLT abstrahuoti:uoti_uoja_avo
 Reflexive? false :: lemma? true
 abstrahuoti: 11
 abstrahúoja: 11
 abstrahãvo: 10
 lemma: abstrah, nugget: uo
-uoti_úoja_ãvo
+uoti_uoja_avo
 
-This is the infinitive_verb from the outset: abuojėti
-This is the stripped_verb from the outset: abuojė
 This is the stripped_verb: abuojė
 This is the matching_lemma: ab
+infinitive_verb: abuojėti
+stripped_verb: abuojė
+matching_lemma: ab
+nugget: uojė
+nugget_in: 
+nugget_n: 
 verb_array[0]: abuojėti
 present3_slice: ėja
 past3_slice: jo
@@ -55,10 +67,14 @@ abuojėjo: 8
 lemma: ab, nugget: uojė
 uojėti_uojėja_uojėjo
 
-This is the infinitive_verb from the outset: adaptuoti
-This is the stripped_verb from the outset: adaptuo
 This is the stripped_verb: adaptuo
 This is the matching_lemma: adapt
+infinitive_verb: adaptuoti
+stripped_verb: adaptuo
+matching_lemma: adapt
+nugget: uo
+nugget_in: 
+nugget_n: 
 verb_array[0]: adaptuoti
 present3_slice: daptúoja
 past3_slice: daptãvo
@@ -66,33 +82,41 @@ neither true
 neither true
 infinitive_verb: adaptuoti
 @infinitive_form: adaptuoti
-RFLT adaptuoti:uoti_úoja_ãvo
+RFLT adaptuoti:uoti_uoja_avo
 Reflexive? false :: lemma? true
 adaptuoti: 9
 adaptúoja: 9
 adaptãvo: 8
 lemma: adapt, nugget: uo
-uoti_úoja_ãvo
+uoti_uoja_avo
 
-This is the infinitive_verb from the outset: adaptuotis
-This is the stripped_verb from the outset: adaptuo
 This is the stripped_verb: adaptuo
 This is the matching_lemma: adapt
+infinitive_verb: adaptuotis
+stripped_verb: adaptuo
+matching_lemma: adapt
+nugget: uo
+nugget_in: 
+nugget_n: 
 verb_array[0]: adaptuotis
 present3_slice: daptúojasi
 past3_slice: daptãvosi
-RTLT adaptuotis:uotis_úojasi_ãvosi
+RTLT adaptuotis:uotis_uojasi_avosi
 Reflexive? true :: lemma? true
 adaptuotis: 10
 adaptúojasi: 11
 adaptãvosi: 10
 lemma: adapt, nugget: uo
-uotis_úojasi_ãvosi
+uotis_uojasi_avosi
 
-This is the infinitive_verb from the outset: adinėti
-This is the stripped_verb from the outset: adinė
 This is the stripped_verb: adinė
 This is the matching_lemma: ad
+infinitive_verb: adinėti
+stripped_verb: adinė
+matching_lemma: ad
+nugget: inė
+nugget_in: 
+nugget_n: 
 verb_array[0]: adinėti
 present3_slice: nėja
 past3_slice: nėjo
@@ -108,10 +132,14 @@ adinėjo: 7
 lemma: ad, nugget: inė
 inėti_inėja_inėjo
 
-This is the infinitive_verb from the outset: administruoti
-This is the stripped_verb from the outset: administruo
 This is the stripped_verb: administruo
 This is the matching_lemma: administr
+infinitive_verb: administruoti
+stripped_verb: administruo
+matching_lemma: administr
+nugget: uo
+nugget_in: 
+nugget_n: 
 verb_array[0]: administruoti
 present3_slice: dministrúoja
 past3_slice: dministrãvo
@@ -119,18 +147,22 @@ neither true
 neither true
 infinitive_verb: administruoti
 @infinitive_form: administruoti
-RFLT administruoti:uoti_úoja_ãvo
+RFLT administruoti:uoti_uoja_avo
 Reflexive? false :: lemma? true
 administruoti: 13
 administrúoja: 13
 administrãvo: 12
 lemma: administr, nugget: uo
-uoti_úoja_ãvo
+uoti_uoja_avo
 
-This is the infinitive_verb from the outset: adresuoti
-This is the stripped_verb from the outset: adresuo
 This is the stripped_verb: adresuo
 This is the matching_lemma: adres
+infinitive_verb: adresuoti
+stripped_verb: adresuo
+matching_lemma: adres
+nugget: uo
+nugget_in: 
+nugget_n: 
 verb_array[0]: adresuoti
 present3_slice: dresúoja
 past3_slice: dresãvo
@@ -138,18 +170,22 @@ neither true
 neither true
 infinitive_verb: adresuoti
 @infinitive_form: adresuoti
-RFLT adresuoti:uoti_úoja_ãvo
+RFLT adresuoti:uoti_uoja_avo
 Reflexive? false :: lemma? true
 adresuoti: 9
 adresúoja: 9
 adresãvo: 8
 lemma: adres, nugget: uo
-uoti_úoja_ãvo
+uoti_uoja_avo
 
-This is the infinitive_verb from the outset: adyti
-This is the stripped_verb from the outset: ady
 This is the stripped_verb: ady
 This is the matching_lemma: ad
+infinitive_verb: adyti
+stripped_verb: ady
+matching_lemma: ad
+nugget: y
+nugget_in: 
+nugget_n: 
 verb_array[0]: adyti
 present3_slice: ãdo
 past3_slice: ãdė
@@ -165,10 +201,14 @@ adyti: 5
 lemma: ad, nugget: y
 yti_o_ė
 
-This is the infinitive_verb from the outset: aidėti
-This is the stripped_verb from the outset: aidė
 This is the stripped_verb: aidė
 This is the matching_lemma: aid
+infinitive_verb: aidėti
+stripped_verb: aidė
+matching_lemma: aid
+nugget: ė
+nugget_in: 
+nugget_n: 
 verb_array[0]: aidėti
 present3_slice: áidi
 past3_slice: idė́jo
@@ -184,10 +224,14 @@ aidė́jo: 7
 lemma: aid, nugget: ė
 ėti_i_ė́jo
 
-This is the infinitive_verb from the outset: aikčioti
-This is the stripped_verb from the outset: aikčio
 This is the stripped_verb: aikčio
 This is the matching_lemma: aik
+infinitive_verb: aikčioti
+stripped_verb: aikčio
+matching_lemma: aik
+nugget: čio
+nugget_in: 
+nugget_n: 
 verb_array[0]: aikčioti
 present3_slice: ioja
 past3_slice: ojo
@@ -203,10 +247,14 @@ aikčioti: 8
 lemma: aik, nugget: čio
 čioti_čioja_čiojo
 
-This is the infinitive_verb from the outset: akcentuoti
-This is the stripped_verb from the outset: akcentuo
 This is the stripped_verb: akcentuo
 This is the matching_lemma: akcent
+infinitive_verb: akcentuoti
+stripped_verb: akcentuo
+matching_lemma: akcent
+nugget: uo
+nugget_in: 
+nugget_n: 
 verb_array[0]: akcentuoti
 present3_slice: kcentúoja
 past3_slice: kcentãvo
@@ -214,18 +262,22 @@ neither true
 neither true
 infinitive_verb: akcentuoti
 @infinitive_form: akcentuoti
-RFLT akcentuoti:uoti_úoja_ãvo
+RFLT akcentuoti:uoti_uoja_avo
 Reflexive? false :: lemma? true
 akcentuoti: 10
 akcentúoja: 10
 akcentãvo: 9
 lemma: akcent, nugget: uo
-uoti_úoja_ãvo
+uoti_uoja_avo
 
-This is the infinitive_verb from the outset: akėti
-This is the stripped_verb from the outset: akė
 This is the stripped_verb: akė
 This is the matching_lemma: ak
+infinitive_verb: akėti
+stripped_verb: akė
+matching_lemma: ak
+nugget: ė
+nugget_in: 
+nugget_n: 
 verb_array[0]: akėti
 present3_slice: kė́ja
 past3_slice: kė́jo
@@ -241,10 +293,14 @@ akė́jo: 6
 lemma: ak, nugget: ė
 ėti_ė́ja_ė́jo
 
-This is the infinitive_verb from the outset: akinti
-This is the stripped_verb from the outset: akin
 This is the stripped_verb: akin
 This is the matching_lemma: aki
+infinitive_verb: akinti
+stripped_verb: akin
+matching_lemma: aki
+nugget: in
+nugget_in: false
+nugget_n: 
 verb_array[0]: akinti
 present3_slice: ina
 past3_slice: ino
@@ -260,25 +316,33 @@ akinti: 6
 lemma: aki, nugget: in
 inti_na_no
 
-This is the infinitive_verb from the outset: akti
-This is the stripped_verb from the outset: ak
 This is the stripped_verb: ak
 This is the matching_lemma: ak
+infinitive_verb: akti
+stripped_verb: ak
+matching_lemma: ak
+nugget: 
+nugget_in: false
+nugget_n: 
 verb_array[0]: akti
 present3_slice: añka
 past3_slice: ãko
-RFLF akti:akti_añka_ãko
+RFLF akti:akti_anka_ako
 Reflexive? false :: lemma? false
 akti: 4
 añka: 4
 ãko: 3
 lemma: ak, nugget: 
-akti_añka_ãko
+akti_anka_ako
 
-This is the infinitive_verb from the outset: aktyvėti
-This is the stripped_verb from the outset: aktyvė
 This is the stripped_verb: aktyvė
 This is the matching_lemma: aktyv
+infinitive_verb: aktyvėti
+stripped_verb: aktyvė
+matching_lemma: aktyv
+nugget: ė
+nugget_in: false
+nugget_n: 
 verb_array[0]: aktyvėti
 present3_slice: ktyvė́ja
 past3_slice: ktyvė́jo
@@ -294,10 +358,14 @@ aktyvė́jo: 9
 lemma: aktyv, nugget: ė
 ėti_ė́ja_ė́jo
 
-This is the infinitive_verb from the outset: aktyvinti
-This is the stripped_verb from the outset: aktyvin
 This is the stripped_verb: aktyvin
 This is the matching_lemma: aktyv
+infinitive_verb: aktyvinti
+stripped_verb: aktyvin
+matching_lemma: aktyv
+nugget: vin
+nugget_in: false
+nugget_n: 
 verb_array[0]: aktyvinti
 present3_slice: ỹvina
 past3_slice: ỹvino
@@ -313,10 +381,14 @@ aktỹvino: 8
 lemma: aktyv, nugget: vin
 vinti_ina_ino
 
-This is the infinitive_verb from the outset: aktyvuoti
-This is the stripped_verb from the outset: aktyvuo
 This is the stripped_verb: aktyvuo
 This is the matching_lemma: aktyv
+infinitive_verb: aktyvuoti
+stripped_verb: aktyvuo
+matching_lemma: aktyv
+nugget: uo
+nugget_in: false
+nugget_n: 
 verb_array[0]: aktyvuoti
 present3_slice: tyvuoja
 past3_slice: ktyvavo
@@ -332,25 +404,33 @@ aktyvavo: 8
 lemma: aktyv, nugget: uo
 uoti_uoja_avo
 
-This is the infinitive_verb from the outset: alkti
-This is the stripped_verb from the outset: alk
 This is the stripped_verb: alk
 This is the matching_lemma: alk
+infinitive_verb: alkti
+stripped_verb: alk
+matching_lemma: alk
+nugget: 
+nugget_in: false
+nugget_n: 
 verb_array[0]: alkti
 present3_slice: álksta
 past3_slice: al̃ko
-RFLF alkti:alkti_álksta_al̃ko
+RFLF alkti:alkti_alksta_al̃ko
 Reflexive? false :: lemma? false
 alkti: 5
 álksta: 6
 al̃ko: 5
 lemma: alk, nugget: 
-alkti_álksta_al̃ko
+alkti_alksta_al̃ko
 
-This is the infinitive_verb from the outset: alpti
-This is the stripped_verb from the outset: alp
 This is the stripped_verb: alp
 This is the matching_lemma: alp
+infinitive_verb: alpti
+stripped_verb: alp
+matching_lemma: alp
+nugget: 
+nugget_in: false
+nugget_n: 
 verb_array[0]: alpti
 present3_slice: al̃psta
 past3_slice: al̃po
@@ -362,10 +442,14 @@ al̃po: 5
 lemma: alp, nugget: 
 alpti_al̃psta_al̃po
 
-This is the infinitive_verb from the outset: alsinti
-This is the stripped_verb from the outset: alsin
 This is the stripped_verb: alsin
 This is the matching_lemma: als
+infinitive_verb: alsinti
+stripped_verb: alsin
+matching_lemma: als
+nugget: sin
+nugget_in: false
+nugget_n: 
 verb_array[0]: alsinti
 present3_slice: sìna
 past3_slice: sìno
@@ -373,18 +457,22 @@ neither true
 neither true
 infinitive_verb: alsinti
 @infinitive_form: alsinti
-RFLT alsinti:sinti_ìna_ìno
+RFLT alsinti:sinti_ina_ino
 Reflexive? false :: lemma? true
 alsinti: 7
 alsìna: 6
 alsìno: 6
 lemma: als, nugget: sin
-sinti_ìna_ìno
+sinti_ina_ino
 
-This is the infinitive_verb from the outset: amputuoti
-This is the stripped_verb from the outset: amputuo
 This is the stripped_verb: amputuo
 This is the matching_lemma: amput
+infinitive_verb: amputuoti
+stripped_verb: amputuo
+matching_lemma: amput
+nugget: uo
+nugget_in: false
+nugget_n: 
 verb_array[0]: amputuoti
 present3_slice: utuoja
 past3_slice: putãvo
@@ -392,18 +480,22 @@ neither true
 neither true
 infinitive_verb: amputuoti
 @infinitive_form: amputuoti
-RFLT amputuoti:uoti_uoja_ãvo
+RFLT amputuoti:uoti_uoja_avo
 Reflexive? false :: lemma? true
 amputuoti: 9
 amputuoja: 9
 amputãvo: 8
 lemma: amput, nugget: uo
-uoti_uoja_ãvo
+uoti_uoja_avo
 
-This is the infinitive_verb from the outset: amsėti
-This is the stripped_verb from the outset: amsė
 This is the stripped_verb: amsė
 This is the matching_lemma: ams
+infinitive_verb: amsėti
+stripped_verb: amsė
+matching_lemma: ams
+nugget: ė
+nugget_in: false
+nugget_n: 
 verb_array[0]: amsėti
 present3_slice: ámsi
 past3_slice: msė́jo
@@ -419,10 +511,14 @@ amsė́jo: 7
 lemma: ams, nugget: ė
 ėti_i_ė́jo
 
-This is the infinitive_verb from the outset: amžinti
-This is the stripped_verb from the outset: amžin
 This is the stripped_verb: amžin
 This is the matching_lemma: amž
+infinitive_verb: amžinti
+stripped_verb: amžin
+matching_lemma: amž
+nugget: žin
+nugget_in: false
+nugget_n: 
 verb_array[0]: amžinti
 present3_slice: inà
 past3_slice: ino
@@ -430,18 +526,22 @@ neither true
 neither true
 infinitive_verb: amžinti
 @infinitive_form: amžinti
-RFLT amžinti:žinti_inà_ino
+RFLT amžinti:žinti_ina_ino
 Reflexive? false :: lemma? true
 amžinti: 7
 amžinà: 6
 ámžino: 6
 lemma: amž, nugget: žin
-žinti_inà_ino
+žinti_ina_ino
 
-This is the infinitive_verb from the outset: analizuoti
-This is the stripped_verb from the outset: analizuo
 This is the stripped_verb: analizuo
 This is the matching_lemma: analiz
+infinitive_verb: analizuoti
+stripped_verb: analizuo
+matching_lemma: analiz
+nugget: uo
+nugget_in: false
+nugget_n: 
 verb_array[0]: analizuoti
 present3_slice: nalizúoja
 past3_slice: nalizãvo
@@ -449,18 +549,22 @@ neither true
 neither true
 infinitive_verb: analizuoti
 @infinitive_form: analizuoti
-RFLT analizuoti:uoti_úoja_ãvo
+RFLT analizuoti:uoti_uoja_avo
 Reflexive? false :: lemma? true
 analizuoti: 10
 analizúoja: 10
 analizãvo: 9
 lemma: analiz, nugget: uo
-uoti_úoja_ãvo
+uoti_uoja_avo
 
-This is the infinitive_verb from the outset: aneksuoti
-This is the stripped_verb from the outset: aneksuo
 This is the stripped_verb: aneksuo
 This is the matching_lemma: an
+infinitive_verb: aneksuoti
+stripped_verb: aneksuo
+matching_lemma: an
+nugget: eksuo
+nugget_in: false
+nugget_n: 
 verb_array[0]: aneksuoti
 present3_slice: súoja
 past3_slice: sãvo
@@ -468,18 +572,22 @@ neither true
 neither true
 infinitive_verb: aneksuoti
 @infinitive_form: aneksuoti
-RFLT aneksuoti:eksuoti_eksúoja_eksãvo
+RFLT aneksuoti:eksuoti_eksuoja_eksavo
 Reflexive? false :: lemma? true
 aneksuoti: 9
 aneksúoja: 9
 aneksãvo: 8
 lemma: an, nugget: eksuo
-eksuoti_eksúoja_eksãvo
+eksuoti_eksuoja_eksavo
 
-This is the infinitive_verb from the outset: antspauduoti
-This is the stripped_verb from the outset: antspauduo
 This is the stripped_verb: antspauduo
 This is the matching_lemma: ant
+infinitive_verb: antspauduoti
+stripped_verb: antspauduo
+matching_lemma: ant
+nugget: spauduo
+nugget_in: false
+nugget_n: 
 verb_array[0]: antspauduoti
 present3_slice: úoja
 past3_slice: dãvo
@@ -487,18 +595,22 @@ neither true
 neither true
 infinitive_verb: antspauduoti
 @infinitive_form: antspauduoti
-RFLT antspauduoti:spauduoti_spaudúoja_spaudãvo
+RFLT antspauduoti:spauduoti_spauduoja_spaudavo
 Reflexive? false :: lemma? true
 antspauduoti: 12
 antspaudúoja: 12
 antspaudãvo: 11
 lemma: ant, nugget: spauduo
-spauduoti_spaudúoja_spaudãvo
+spauduoti_spauduoja_spaudavo
 
-This is the infinitive_verb from the outset: ardyti
-This is the stripped_verb from the outset: ardy
 This is the stripped_verb: ardy
 This is the matching_lemma: ar
+infinitive_verb: ardyti
+stripped_verb: ardy
+matching_lemma: ar
+nugget: dy
+nugget_in: false
+nugget_n: 
 verb_array[0]: ardyti
 present3_slice: r̃do
 past3_slice: r̃dė
@@ -514,10 +626,14 @@ ar̃dė: 5
 lemma: ar, nugget: dy
 dyti_̃do_̃dė
 
-This is the infinitive_verb from the outset: areštuoti
-This is the stripped_verb from the outset: areštuo
 This is the stripped_verb: areštuo
 This is the matching_lemma: arešt
+infinitive_verb: areštuoti
+stripped_verb: areštuo
+matching_lemma: arešt
+nugget: uo
+nugget_in: false
+nugget_n: 
 verb_array[0]: areštuoti
 present3_slice: reštúoja
 past3_slice: reštãvo
@@ -525,18 +641,22 @@ neither true
 neither true
 infinitive_verb: areštuoti
 @infinitive_form: areštuoti
-RFLT areštuoti:uoti_úoja_ãvo
+RFLT areštuoti:uoti_uoja_avo
 Reflexive? false :: lemma? true
 areštuoti: 9
 areštúoja: 9
 areštãvo: 8
 lemma: arešt, nugget: uo
-uoti_úoja_ãvo
+uoti_uoja_avo
 
-This is the infinitive_verb from the outset: artėti
-This is the stripped_verb from the outset: artė
 This is the stripped_verb: artė
 This is the matching_lemma: art
+infinitive_verb: artėti
+stripped_verb: artė
+matching_lemma: art
+nugget: ė
+nugget_in: false
+nugget_n: 
 verb_array[0]: artėti
 present3_slice: rtė́ja
 past3_slice: rtė́jo
@@ -552,25 +672,33 @@ artė́jo: 7
 lemma: art, nugget: ė
 ėti_ė́ja_ė́jo
 
-This is the infinitive_verb from the outset: arti
-This is the stripped_verb from the outset: ar
 This is the stripped_verb: ar
 This is the matching_lemma: ar
+infinitive_verb: arti
+stripped_verb: ar
+matching_lemma: ar
+nugget: 
+nugget_in: false
+nugget_n: 
 verb_array[0]: arti
 present3_slice: ãria
 past3_slice: ãrė
-RFLF arti:arti_ãria_ãrė
+RFLF arti:arti_aria_arė
 Reflexive? false :: lemma? false
 arti: 4
 ãria: 4
 ãrė: 3
 lemma: ar, nugget: 
-arti_ãria_ãrė
+arti_aria_arė
 
-This is the infinitive_verb from the outset: artinti
-This is the stripped_verb from the outset: artin
 This is the stripped_verb: artin
 This is the matching_lemma: art
+infinitive_verb: artinti
+stripped_verb: artin
+matching_lemma: art
+nugget: tin
+nugget_in: false
+nugget_n: 
 verb_array[0]: artinti
 present3_slice: tina
 past3_slice: tino
@@ -586,10 +714,14 @@ ar̃tino: 7
 lemma: art, nugget: tin
 tinti_tina_tino
 
-This is the infinitive_verb from the outset: artintis
-This is the stripped_verb from the outset: artin
 This is the stripped_verb: artin
 This is the matching_lemma: art
+infinitive_verb: artintis
+stripped_verb: artin
+matching_lemma: art
+nugget: tin
+nugget_in: false
+nugget_n: 
 verb_array[0]: artintis
 present3_slice: inasi
 past3_slice: inosi
@@ -601,10 +733,14 @@ ar̃tinosi: 9
 lemma: art, nugget: tin
 tintis_tinasi_tinosi
 
-This is the infinitive_verb from the outset: asimiliuoti
-This is the stripped_verb from the outset: asimiliuo
 This is the stripped_verb: asimiliuo
 This is the matching_lemma: asimil
+infinitive_verb: asimiliuoti
+stripped_verb: asimiliuo
+matching_lemma: asimil
+nugget: iuo
+nugget_in: false
+nugget_n: 
 verb_array[0]: asimiliuoti
 present3_slice: iliúoja
 past3_slice: iliãvo
@@ -612,18 +748,22 @@ neither true
 neither true
 infinitive_verb: asimiliuoti
 @infinitive_form: asimiliuoti
-RFLT asimiliuoti:iuoti_iúoja_iãvo
+RFLT asimiliuoti:iuoti_iuoja_iavo
 Reflexive? false :: lemma? true
 asimiliuoti: 11
 asimiliúoja: 11
 asimiliãvo: 10
 lemma: asimil, nugget: iuo
-iuoti_iúoja_iãvo
+iuoti_iuoja_iavo
 
-This is the infinitive_verb from the outset: asmenuoti
-This is the stripped_verb from the outset: asmenuo
 This is the stripped_verb: asmenuo
 This is the matching_lemma: asm
+infinitive_verb: asmenuoti
+stripped_verb: asmenuo
+matching_lemma: asm
+nugget: enuo
+nugget_in: false
+nugget_n: 
 verb_array[0]: asmenuoti
 present3_slice: enúoja
 past3_slice: enãvo
@@ -631,18 +771,22 @@ neither true
 neither true
 infinitive_verb: asmenuoti
 @infinitive_form: asmenuoti
-RFLT asmenuoti:enuoti_enúoja_enãvo
+RFLT asmenuoti:enuoti_enuoja_enavo
 Reflexive? false :: lemma? true
 asmenuoti: 9
 asmenúoja: 9
 asmenãvo: 8
 lemma: asm, nugget: enuo
-enuoti_enúoja_enãvo
+enuoti_enuoja_enavo
 
-This is the infinitive_verb from the outset: asocijuoti
-This is the stripped_verb from the outset: asocijuo
 This is the stripped_verb: asocijuo
 This is the matching_lemma: asocij
+infinitive_verb: asocijuoti
+stripped_verb: asocijuo
+matching_lemma: asocij
+nugget: uo
+nugget_in: false
+nugget_n: 
 verb_array[0]: asocijuoti
 present3_slice: ocijúoja
 past3_slice: ocijavo
@@ -650,18 +794,22 @@ neither true
 neither true
 infinitive_verb: asocijuoti
 @infinitive_form: asocijuoti
-RFLT asocijuoti:uoti_úoja_avo
+RFLT asocijuoti:uoti_uoja_avo
 Reflexive? false :: lemma? true
 asocijuoti: 10
 asocijúoja: 10
 asocijavo: 9
 lemma: asocij, nugget: uo
-uoti_úoja_avo
+uoti_uoja_avo
 
-This is the infinitive_verb from the outset: audėti
-This is the stripped_verb from the outset: audė
 This is the stripped_verb: audė
 This is the matching_lemma: aud
+infinitive_verb: audėti
+stripped_verb: audė
+matching_lemma: aud
+nugget: ė
+nugget_in: false
+nugget_n: 
 verb_array[0]: audėti
 present3_slice: auda
 past3_slice: udė́jo
@@ -677,10 +825,14 @@ audė́jo: 7
 lemma: aud, nugget: ė
 ėti_a_ė́jo
 
-This is the infinitive_verb from the outset: auginti
-This is the stripped_verb from the outset: augin
 This is the stripped_verb: augin
 This is the matching_lemma: aug
+infinitive_verb: auginti
+stripped_verb: augin
+matching_lemma: aug
+nugget: gin
+nugget_in: false
+nugget_n: 
 verb_array[0]: auginti
 present3_slice: gìna
 past3_slice: gìno
@@ -688,33 +840,41 @@ neither true
 neither true
 infinitive_verb: auginti
 @infinitive_form: auginti
-RFLT auginti:ginti_ìna_ìno
+RFLT auginti:ginti_ina_ino
 Reflexive? false :: lemma? true
 auginti: 7
 augìna: 6
 augìno: 6
 lemma: aug, nugget: gin
-ginti_ìna_ìno
+ginti_ina_ino
 
-This is the infinitive_verb from the outset: augti
-This is the stripped_verb from the outset: aug
 This is the stripped_verb: aug
 This is the matching_lemma: aug
+infinitive_verb: augti
+stripped_verb: aug
+matching_lemma: aug
+nugget: 
+nugget_in: false
+nugget_n: 
 verb_array[0]: augti
 present3_slice: áuga
 past3_slice: áugo
-RFLF augti:augti_áuga_áugo
+RFLF augti:augti_auga_augo
 Reflexive? false :: lemma? false
 augti: 5
 áuga: 4
 áugo: 4
 lemma: aug, nugget: 
-augti_áuga_áugo
+augti_auga_augo
 
-This is the infinitive_verb from the outset: auklėti
-This is the stripped_verb from the outset: auklė
 This is the stripped_verb: auklė
 This is the matching_lemma: aukl
+infinitive_verb: auklėti
+stripped_verb: auklė
+matching_lemma: aukl
+nugget: ė
+nugget_in: false
+nugget_n: 
 verb_array[0]: auklėti
 present3_slice: uklėja
 past3_slice: uklėjo
@@ -730,10 +890,14 @@ auklėti: 7
 lemma: aukl, nugget: ė
 ėti_ėja_ėjo
 
-This is the infinitive_verb from the outset: aukoti
-This is the stripped_verb from the outset: auko
 This is the stripped_verb: auko
 This is the matching_lemma: auk
+infinitive_verb: aukoti
+stripped_verb: auko
+matching_lemma: auk
+nugget: o
+nugget_in: false
+nugget_n: 
 verb_array[0]: aukoti
 present3_slice: aukója
 past3_slice: ukójo
@@ -741,33 +905,41 @@ neither true
 neither true
 infinitive_verb: aukoti
 @infinitive_form: aukoti
-RFLT aukoti:oti_ója_ójo
+RFLT aukoti:oti_oja_ojo
 Reflexive? false :: lemma? true
 aukoti: 6
 aukója: 6
 aukójo: 6
 lemma: auk, nugget: o
-oti_ója_ójo
+oti_oja_ojo
 
-This is the infinitive_verb from the outset: aukotis
-This is the stripped_verb from the outset: auko
 This is the stripped_verb: auko
 This is the matching_lemma: auk
+infinitive_verb: aukotis
+stripped_verb: auko
+matching_lemma: auk
+nugget: o
+nugget_in: false
+nugget_n: 
 verb_array[0]: aukotis
 present3_slice: aukója
 past3_slice: ukójo
-RTLT aukotis:otis_ója_ójo
+RTLT aukotis:otis_oja_ojo
 Reflexive? true :: lemma? true
 aukotis: 7
 aukója: 6
 aukójo: 6
 lemma: auk, nugget: o
-otis_ója_ójo
+otis_oja_ojo
 
-This is the infinitive_verb from the outset: aukštinti
-This is the stripped_verb from the outset: aukštin
 This is the stripped_verb: aukštin
 This is the matching_lemma: aukšt
+infinitive_verb: aukštinti
+stripped_verb: aukštin
+matching_lemma: aukšt
+nugget: tin
+nugget_in: false
+nugget_n: 
 verb_array[0]: aukštinti
 present3_slice: ština
 past3_slice: štino
@@ -783,10 +955,14 @@ aukštinti: 9
 lemma: aukšt, nugget: tin
 tinti_ina_ino
 
-This is the infinitive_verb from the outset: auksuoti
-This is the stripped_verb from the outset: auksuo
 This is the stripped_verb: auksuo
 This is the matching_lemma: auks
+infinitive_verb: auksuoti
+stripped_verb: auksuo
+matching_lemma: auks
+nugget: uo
+nugget_in: false
+nugget_n: 
 verb_array[0]: auksuoti
 present3_slice: ksúoja
 past3_slice: ksãvo
@@ -794,78 +970,98 @@ neither true
 neither true
 infinitive_verb: auksuoti
 @infinitive_form: auksuoti
-RFLT auksuoti:uoti_úoja_ãvo
+RFLT auksuoti:uoti_uoja_avo
 Reflexive? false :: lemma? true
 auksuoti: 8
 auksúoja: 8
 auksãvo: 7
 lemma: auks, nugget: uo
-uoti_úoja_ãvo
+uoti_uoja_avo
 
-This is the infinitive_verb from the outset: austi
-This is the stripped_verb from the outset: aus
 This is the stripped_verb: aus
 This is the matching_lemma: aus
+infinitive_verb: austi
+stripped_verb: aus
+matching_lemma: aus
+nugget: 
+nugget_in: false
+nugget_n: 
 verb_array[0]: austi
 present3_slice: áudžia
 past3_slice: áudė
-RFLF austi:austi_áudžia_áudė
+RFLF austi:austi_audžia_audė
 Reflexive? false :: lemma? false
 austi: 5
 áudžia: 6
 áudė: 4
 lemma: aus, nugget: 
-austi_áudžia_áudė
+austi_audžia_audė
 
-This is the infinitive_verb from the outset: aušti
-This is the stripped_verb from the outset: auš
 This is the stripped_verb: auš
 This is the matching_lemma: auš
+infinitive_verb: aušti
+stripped_verb: auš
+matching_lemma: auš
+nugget: 
+nugget_in: false
+nugget_n: 
 verb_array[0]: aušti
 present3_slice: áudžia
 past3_slice: áudė
-RFLF aušti:aušti_áudžia_áudė
+RFLF aušti:aušti_audžia_audė
 Reflexive? false :: lemma? false
 aušti: 5
 áudžia: 6
 áudė: 4
 lemma: auš, nugget: 
-aušti_áudžia_áudė
+aušti_audžia_audė
 
-This is the infinitive_verb from the outset: auti
-This is the stripped_verb from the outset: au
 This is the stripped_verb: au
 This is the matching_lemma: au
+infinitive_verb: auti
+stripped_verb: au
+matching_lemma: au
+nugget: 
+nugget_in: false
+nugget_n: 
 verb_array[0]: auti
 present3_slice: aũna
 past3_slice: ãvė
-RFLF auti:auti_aũna_ãvė
+RFLF auti:auti_aũna_avė
 Reflexive? false :: lemma? false
 auti: 4
 aũna: 4
 ãvė: 3
 lemma: au, nugget: 
-auti_aũna_ãvė
+auti_aũna_avė
 
-This is the infinitive_verb from the outset: autis
-This is the stripped_verb from the outset: au
 This is the stripped_verb: au
 This is the matching_lemma: au
+infinitive_verb: autis
+stripped_verb: au
+matching_lemma: au
+nugget: 
+nugget_in: false
+nugget_n: 
 verb_array[0]: autis
 present3_slice: aũnasi
 past3_slice: ãvėsi
-RTLF autis:autis_aũnasi_ãvėsi
+RTLF autis:autis_aũnasi_avėsi
 Reflexive? true :: lemma? false
 autis: 5
 aũnasi: 6
 ãvėsi: 5
 lemma: au, nugget: 
-autis_aũnasi_ãvėsi
+autis_aũnasi_avėsi
 
-This is the infinitive_verb from the outset: automatizuoti
-This is the stripped_verb from the outset: automatizuo
 This is the stripped_verb: automatizuo
 This is the matching_lemma: automat
+infinitive_verb: automatizuoti
+stripped_verb: automatizuo
+matching_lemma: automat
+nugget: izuo
+nugget_in: false
+nugget_n: 
 verb_array[0]: automatizuoti
 present3_slice: atizúoja
 past3_slice: atizavo
@@ -873,18 +1069,22 @@ neither true
 neither true
 infinitive_verb: automatizuoti
 @infinitive_form: automatizuoti
-RFLT automatizuoti:izuoti_izúoja_izavo
+RFLT automatizuoti:izuoti_izuoja_izavo
 Reflexive? false :: lemma? true
 automatizuoti: 13
 automatizúoja: 13
 automatizavo: 12
 lemma: automat, nugget: izuo
-izuoti_izúoja_izavo
+izuoti_izuoja_izavo
 
-This is the infinitive_verb from the outset: avėti
-This is the stripped_verb from the outset: avė
 This is the stripped_verb: avė
 This is the matching_lemma: av
+infinitive_verb: avėti
+stripped_verb: avė
+matching_lemma: av
+nugget: ė
+nugget_in: false
+nugget_n: 
 verb_array[0]: avėti
 present3_slice: ãvi
 past3_slice: vė́jo
@@ -900,10 +1100,14 @@ avė́jo: 6
 lemma: av, nugget: ė
 ėti_i_ė́jo
 
-This is the infinitive_verb from the outset: badauti
-This is the stripped_verb from the outset: badau
 This is the stripped_verb: badau
 This is the matching_lemma: bad
+infinitive_verb: badauti
+stripped_verb: badau
+matching_lemma: bad
+nugget: au
+nugget_in: false
+nugget_n: 
 verb_array[0]: badauti
 present3_slice: áuja
 past3_slice: adãvo
@@ -911,18 +1115,22 @@ neither true
 neither true
 infinitive_verb: badauti
 @infinitive_form: badauti
-RFLT badauti:auti_áuja_ãvo
+RFLT badauti:auti_auja_avo
 Reflexive? false :: lemma? true
 badauti: 7
 badáuja: 7
 badãvo: 6
 lemma: bad, nugget: au
-auti_áuja_ãvo
+auti_auja_avo
 
-This is the infinitive_verb from the outset: badyti
-This is the stripped_verb from the outset: bady
 This is the stripped_verb: bady
 This is the matching_lemma: bad
+infinitive_verb: badyti
+stripped_verb: bady
+matching_lemma: bad
+nugget: y
+nugget_in: false
+nugget_n: 
 verb_array[0]: badyti
 present3_slice: bãdo
 past3_slice: bãdė
@@ -938,10 +1146,14 @@ bãdė: 4
 lemma: bad, nugget: y
 yti_o_ė
 
-This is the infinitive_verb from the outset: baidyti
-This is the stripped_verb from the outset: baidy
 This is the stripped_verb: baidy
 This is the matching_lemma: baid
+infinitive_verb: baidyti
+stripped_verb: baidy
+matching_lemma: baid
+nugget: y
+nugget_in: false
+nugget_n: 
 verb_array[0]: baidyti
 present3_slice: baĩdo
 past3_slice: baĩdė
@@ -957,10 +1169,14 @@ baĩdė: 5
 lemma: baid, nugget: y
 yti_o_ė
 
-This is the infinitive_verb from the outset: baidytis
-This is the stripped_verb from the outset: baidy
 This is the stripped_verb: baidy
 This is the matching_lemma: baid
+infinitive_verb: baidytis
+stripped_verb: baidy
+matching_lemma: baid
+nugget: y
+nugget_in: false
+nugget_n: 
 verb_array[0]: baidytis
 present3_slice: baĩdosi
 past3_slice: baĩdėsi
@@ -972,10 +1188,14 @@ baĩdėsi: 7
 lemma: baid, nugget: y
 ytis_osi_ėsi
 
-This is the infinitive_verb from the outset: baigti
-This is the stripped_verb from the outset: baig
 This is the stripped_verb: baig
 This is the matching_lemma: baig
+infinitive_verb: baigti
+stripped_verb: baig
+matching_lemma: baig
+nugget: 
+nugget_in: false
+nugget_n: 
 verb_array[0]: baigti
 present3_slice: baĩgia
 past3_slice: baĩgė
@@ -987,10 +1207,14 @@ baĩgė: 5
 lemma: baig, nugget: 
 aigti_aĩgia_aĩgė
 
-This is the infinitive_verb from the outset: baigtis
-This is the stripped_verb from the outset: baig
 This is the stripped_verb: baig
 This is the matching_lemma: baig
+infinitive_verb: baigtis
+stripped_verb: baig
+matching_lemma: baig
+nugget: 
+nugget_in: false
+nugget_n: 
 verb_array[0]: baigtis
 present3_slice: baĩgiasi
 past3_slice: baĩgėsi
@@ -1002,10 +1226,14 @@ baĩgėsi: 7
 lemma: baig, nugget: 
 aigtis_aĩgiasi_aĩgėsi
 
-This is the infinitive_verb from the outset: baiminti
-This is the stripped_verb from the outset: baimin
 This is the stripped_verb: baimin
 This is the matching_lemma: bai
+infinitive_verb: baiminti
+stripped_verb: baimin
+matching_lemma: bai
+nugget: imin
+nugget_in: false
+nugget_n: 
 verb_array[0]: baiminti
 present3_slice: ina
 past3_slice: nosi
@@ -1021,10 +1249,14 @@ báiminosi: 9
 lemma: bai, nugget: imin
 iminti_mina_minosi
 
-This is the infinitive_verb from the outset: baimintis
-This is the stripped_verb from the outset: baimin
 This is the stripped_verb: baimin
 This is the matching_lemma: bai
+infinitive_verb: baimintis
+stripped_verb: baimin
+matching_lemma: bai
+nugget: imin
+nugget_in: false
+nugget_n: 
 verb_array[0]: baimintis
 present3_slice: nasi
 past3_slice: nosi
@@ -1036,10 +1268,14 @@ báiminosi: 9
 lemma: bai, nugget: imin
 imintis_minasi_minosi
 
-This is the infinitive_verb from the outset: baisėti
-This is the stripped_verb from the outset: baisė
 This is the stripped_verb: baisė
 This is the matching_lemma: bais
+infinitive_verb: baisėti
+stripped_verb: baisė
+matching_lemma: bais
+nugget: ė
+nugget_in: false
+nugget_n: 
 verb_array[0]: baisėti
 present3_slice: aisėja
 past3_slice: aisėjo
@@ -1055,10 +1291,14 @@ baisėjo: 7
 lemma: bais, nugget: ė
 ėti_ėja_ėjo
 
-This is the infinitive_verb from the outset: baisėtis
-This is the stripped_verb from the outset: baisė
 This is the stripped_verb: baisė
 This is the matching_lemma: bais
+infinitive_verb: baisėtis
+stripped_verb: baisė
+matching_lemma: bais
+nugget: ė
+nugget_in: false
+nugget_n: 
 verb_array[0]: baisėtis
 present3_slice: baĩsisi
 past3_slice: aisė́josi
@@ -1070,10 +1310,14 @@ baisė́josi: 10
 lemma: bais, nugget: ė
 ėtis_isi_ė́josi
 
-This is the infinitive_verb from the outset: bakstelėti
-This is the stripped_verb from the outset: bakstelė
 This is the stripped_verb: bakstelė
 This is the matching_lemma: baks
+infinitive_verb: bakstelėti
+stripped_verb: bakstelė
+matching_lemma: baks
+nugget: telė
+nugget_in: false
+nugget_n: 
 verb_array[0]: bakstelėti
 present3_slice: steli
 past3_slice: telėjo
@@ -1089,10 +1333,14 @@ bãkstelėjo: 10
 lemma: baks, nugget: telė
 telėti_teli_telėjo
 
-This is the infinitive_verb from the outset: balansuoti
-This is the stripped_verb from the outset: balansuo
 This is the stripped_verb: balansuo
 This is the matching_lemma: balans
+infinitive_verb: balansuoti
+stripped_verb: balansuo
+matching_lemma: balans
+nugget: uo
+nugget_in: false
+nugget_n: 
 verb_array[0]: balansuoti
 present3_slice: alansúoja
 past3_slice: alansãvo
@@ -1100,18 +1348,22 @@ neither true
 neither true
 infinitive_verb: balansuoti
 @infinitive_form: balansuoti
-RFLT balansuoti:uoti_úoja_ãvo
+RFLT balansuoti:uoti_uoja_avo
 Reflexive? false :: lemma? true
 balansuoti: 10
 balansúoja: 10
 balansãvo: 9
 lemma: balans, nugget: uo
-uoti_úoja_ãvo
+uoti_uoja_avo
 
-This is the infinitive_verb from the outset: balinti
-This is the stripped_verb from the outset: balin
 This is the stripped_verb: balin
 This is the matching_lemma: bal
+infinitive_verb: balinti
+stripped_verb: balin
+matching_lemma: bal
+nugget: lin
+nugget_in: false
+nugget_n: 
 verb_array[0]: balinti
 present3_slice: ina
 past3_slice: ino
@@ -1127,10 +1379,14 @@ bãlino: 6
 lemma: bal, nugget: lin
 linti_ina_ino
 
-This is the infinitive_verb from the outset: balnoti
-This is the stripped_verb from the outset: balno
 This is the stripped_verb: balno
 This is the matching_lemma: baln
+infinitive_verb: balnoti
+stripped_verb: balno
+matching_lemma: baln
+nugget: o
+nugget_in: false
+nugget_n: 
 verb_array[0]: balnoti
 present3_slice: balnója
 past3_slice: alnójo
@@ -1138,18 +1394,22 @@ neither true
 neither true
 infinitive_verb: balnoti
 @infinitive_form: balnoti
-RFLT balnoti:oti_ója_ójo
+RFLT balnoti:oti_oja_ojo
 Reflexive? false :: lemma? true
 balnoti: 7
 balnója: 7
 balnójo: 7
 lemma: baln, nugget: o
-oti_ója_ójo
+oti_oja_ojo
 
-This is the infinitive_verb from the outset: balsti
-This is the stripped_verb from the outset: bals
 This is the stripped_verb: bals
 This is the matching_lemma: bal
+infinitive_verb: balsti
+stripped_verb: bals
+matching_lemma: bal
+nugget: s
+nugget_in: false
+nugget_n: 
 verb_array[0]: balsti
 present3_slice: alsta
 past3_slice: bãlo
@@ -1165,10 +1425,14 @@ bãlo: 4
 lemma: bal, nugget: s
 sti_sta_o
 
-This is the infinitive_verb from the outset: balsuoti
-This is the stripped_verb from the outset: balsuo
 This is the stripped_verb: balsuo
 This is the matching_lemma: bal
+infinitive_verb: balsuoti
+stripped_verb: balsuo
+matching_lemma: bal
+nugget: suo
+nugget_in: false
+nugget_n: 
 verb_array[0]: balsuoti
 present3_slice: lsúoja
 past3_slice: lsãvo
@@ -1176,18 +1440,22 @@ neither true
 neither true
 infinitive_verb: balsuoti
 @infinitive_form: balsuoti
-RFLT balsuoti:suoti_súoja_sãvo
+RFLT balsuoti:suoti_suoja_savo
 Reflexive? false :: lemma? true
 balsuoti: 8
 balsúoja: 8
 balsãvo: 7
 lemma: bal, nugget: suo
-suoti_súoja_sãvo
+suoti_suoja_savo
 
-This is the infinitive_verb from the outset: baltėti
-This is the stripped_verb from the outset: baltė
 This is the stripped_verb: baltė
 This is the matching_lemma: bal
+infinitive_verb: baltėti
+stripped_verb: baltė
+matching_lemma: bal
+nugget: tė
+nugget_in: false
+nugget_n: 
 verb_array[0]: baltėti
 present3_slice: ltėja
 past3_slice: ltėjo
@@ -1203,25 +1471,33 @@ baltėjo: 7
 lemma: bal, nugget: tė
 tėti_tėja_tėjo
 
-This is the infinitive_verb from the outset: balti
-This is the stripped_verb from the outset: bal
 This is the stripped_verb: bal
 This is the matching_lemma: bal
+infinitive_verb: balti
+stripped_verb: bal
+matching_lemma: bal
+nugget: 
+nugget_in: false
+nugget_n: 
 verb_array[0]: balti
 present3_slice: bą̃la
 past3_slice: bãlo
-RFLF balti:alti_ą̃la_ãlo
+RFLF balti:alti_ą̃la_alo
 Reflexive? false :: lemma? false
 balti: 5
 bą̃la: 5
 bãlo: 4
 lemma: bal, nugget: 
-alti_ą̃la_ãlo
+alti_ą̃la_alo
 
-This is the infinitive_verb from the outset: baltinti
-This is the stripped_verb from the outset: baltin
 This is the stripped_verb: baltin
 This is the matching_lemma: bal
+infinitive_verb: baltinti
+stripped_verb: baltin
+matching_lemma: bal
+nugget: ltin
+nugget_in: false
+nugget_n: 
 verb_array[0]: baltinti
 present3_slice: inà
 past3_slice: ino
@@ -1229,18 +1505,22 @@ neither true
 neither true
 infinitive_verb: baltinti
 @infinitive_form: baltinti
-RFLT baltinti:ltinti_tinà_tino
+RFLT baltinti:ltinti_tina_tino
 Reflexive? false :: lemma? true
 baltinti: 8
 baltinà: 7
 báltino: 7
 lemma: bal, nugget: ltin
-ltinti_tinà_tino
+ltinti_tina_tino
 
-This is the infinitive_verb from the outset: baltuoti
-This is the stripped_verb from the outset: baltuo
 This is the stripped_verb: baltuo
 This is the matching_lemma: bal
+infinitive_verb: baltuoti
+stripped_verb: baltuo
+matching_lemma: bal
+nugget: tuo
+nugget_in: false
+nugget_n: 
 verb_array[0]: baltuoti
 present3_slice: ltúoja
 past3_slice: ltãvo
@@ -1248,18 +1528,22 @@ neither true
 neither true
 infinitive_verb: baltuoti
 @infinitive_form: baltuoti
-RFLT baltuoti:tuoti_túoja_tãvo
+RFLT baltuoti:tuoti_tuoja_tavo
 Reflexive? false :: lemma? true
 baltuoti: 8
 baltúoja: 8
 baltãvo: 7
 lemma: bal, nugget: tuo
-tuoti_túoja_tãvo
+tuoti_tuoja_tavo
 
-This is the infinitive_verb from the outset: bandyti
-This is the stripped_verb from the outset: bandy
 This is the stripped_verb: bandy
 This is the matching_lemma: band
+infinitive_verb: bandyti
+stripped_verb: bandy
+matching_lemma: band
+nugget: y
+nugget_in: false
+nugget_n: 
 verb_array[0]: bandyti
 present3_slice: bañdo
 past3_slice: bañdė
@@ -1275,10 +1559,14 @@ bañdė: 5
 lemma: band, nugget: y
 yti_o_ė
 
-This is the infinitive_verb from the outset: banguoti
-This is the stripped_verb from the outset: banguo
 This is the stripped_verb: banguo
 This is the matching_lemma: bang
+infinitive_verb: banguoti
+stripped_verb: banguo
+matching_lemma: bang
+nugget: uo
+nugget_in: false
+nugget_n: 
 verb_array[0]: banguoti
 present3_slice: angúoja
 past3_slice: angãvo
@@ -1286,18 +1574,22 @@ neither true
 neither true
 infinitive_verb: banguoti
 @infinitive_form: banguoti
-RFLT banguoti:uoti_úoja_ãvo
+RFLT banguoti:uoti_uoja_avo
 Reflexive? false :: lemma? true
 banguoti: 8
 bangúoja: 8
 bangãvo: 7
 lemma: bang, nugget: uo
-uoti_úoja_ãvo
+uoti_uoja_avo
 
-This is the infinitive_verb from the outset: bankrutuoti
-This is the stripped_verb from the outset: bankrutuo
 This is the stripped_verb: bankrutuo
 This is the matching_lemma: bankrut
+infinitive_verb: bankrutuoti
+stripped_verb: bankrutuo
+matching_lemma: bankrut
+nugget: uo
+nugget_in: false
+nugget_n: 
 verb_array[0]: bankrutuoti
 present3_slice: nkrutúoja
 past3_slice: nkrutãvo
@@ -1305,18 +1597,22 @@ neither true
 neither true
 infinitive_verb: bankrutuoti
 @infinitive_form: bankrutuoti
-RFLT bankrutuoti:uoti_úoja_ãvo
+RFLT bankrutuoti:uoti_uoja_avo
 Reflexive? false :: lemma? true
 bankrutuoti: 11
 bankrutúoja: 11
 bankrutãvo: 10
 lemma: bankrut, nugget: uo
-uoti_úoja_ãvo
+uoti_uoja_avo
 
-This is the infinitive_verb from the outset: barškinti
-This is the stripped_verb from the outset: barškin
 This is the stripped_verb: barškin
 This is the matching_lemma: baršk
+infinitive_verb: barškinti
+stripped_verb: barškin
+matching_lemma: baršk
+nugget: kin
+nugget_in: false
+nugget_n: 
 verb_array[0]: barškinti
 present3_slice: škina
 past3_slice: škino
@@ -1332,10 +1628,14 @@ bárškino: 8
 lemma: baršk, nugget: kin
 kinti_ina_ino
 
-This is the infinitive_verb from the outset: barstyti
-This is the stripped_verb from the outset: barsty
 This is the stripped_verb: barsty
 This is the matching_lemma: bar
+infinitive_verb: barstyti
+stripped_verb: barsty
+matching_lemma: bar
+nugget: sty
+nugget_in: false
+nugget_n: 
 verb_array[0]: barstyti
 present3_slice: r̃sto
 past3_slice: r̃stė
@@ -1351,10 +1651,14 @@ bar̃stė: 7
 lemma: bar, nugget: sty
 styti_̃sto_̃stė
 
-This is the infinitive_verb from the outset: barstytis
-This is the stripped_verb from the outset: barsty
 This is the stripped_verb: barsty
 This is the matching_lemma: bar
+infinitive_verb: barstytis
+stripped_verb: barsty
+matching_lemma: bar
+nugget: sty
+nugget_in: false
+nugget_n: 
 verb_array[0]: barstytis
 present3_slice: ̃stosi
 past3_slice: ̃stėsi
@@ -1366,40 +1670,52 @@ bar̃stėsi: 9
 lemma: bar, nugget: sty
 stytis_̃stosi_̃stėsi
 
-This is the infinitive_verb from the outset: barti
-This is the stripped_verb from the outset: bar
 This is the stripped_verb: bar
 This is the matching_lemma: bar
+infinitive_verb: barti
+stripped_verb: bar
+matching_lemma: bar
+nugget: 
+nugget_in: false
+nugget_n: 
 verb_array[0]: barti
 present3_slice: bãra
 past3_slice: bãrė
-RFLF barti:arti_ãra_ãrė
+RFLF barti:arti_ara_arė
 Reflexive? false :: lemma? false
 barti: 5
 bãra: 4
 bãrė: 4
 lemma: bar, nugget: 
-arti_ãra_ãrė
+arti_ara_arė
 
-This is the infinitive_verb from the outset: bartis
-This is the stripped_verb from the outset: bar
 This is the stripped_verb: bar
 This is the matching_lemma: bar
+infinitive_verb: bartis
+stripped_verb: bar
+matching_lemma: bar
+nugget: 
+nugget_in: false
+nugget_n: 
 verb_array[0]: bartis
 present3_slice: bãrasi
 past3_slice: bãrėsi
-RTLF bartis:artis_ãrasi_ãrėsi
+RTLF bartis:artis_arasi_arėsi
 Reflexive? true :: lemma? false
 bartis: 6
 bãrasi: 6
 bãrėsi: 6
 lemma: bar, nugget: 
-artis_ãrasi_ãrėsi
+artis_arasi_arėsi
 
-This is the infinitive_verb from the outset: bauginti
-This is the stripped_verb from the outset: baugin
 This is the stripped_verb: baugin
 This is the matching_lemma: baug
+infinitive_verb: bauginti
+stripped_verb: baugin
+matching_lemma: baug
+nugget: gin
+nugget_in: false
+nugget_n: 
 verb_array[0]: bauginti
 present3_slice: ugìna
 past3_slice: ugìno
@@ -1407,18 +1723,22 @@ neither true
 neither true
 infinitive_verb: bauginti
 @infinitive_form: bauginti
-RFLT bauginti:ginti_ìna_ìno
+RFLT bauginti:ginti_ina_ino
 Reflexive? false :: lemma? true
 bauginti: 8
 baugìna: 7
 baugìno: 7
 lemma: baug, nugget: gin
-ginti_ìna_ìno
+ginti_ina_ino
 
-This is the infinitive_verb from the outset: bausti
-This is the stripped_verb from the outset: baus
 This is the stripped_verb: baus
 This is the matching_lemma: baus
+infinitive_verb: bausti
+stripped_verb: baus
+matching_lemma: baus
+nugget: 
+nugget_in: false
+nugget_n: 
 verb_array[0]: bausti
 present3_slice: baũdžia
 past3_slice: baũdė
@@ -1430,10 +1750,14 @@ baũdė: 5
 lemma: baus, nugget: 
 austi_aũdžia_aũdė
 
-This is the infinitive_verb from the outset: bėginėti
-This is the stripped_verb from the outset: bėginė
 This is the stripped_verb: bėginė
 This is the matching_lemma: bėg
+infinitive_verb: bėginėti
+stripped_verb: bėginė
+matching_lemma: bėg
+nugget: inė
+nugget_in: false
+nugget_n: 
 verb_array[0]: bėginėti
 present3_slice: nė́ja
 past3_slice: nė́ja
@@ -1449,10 +1773,14 @@ bėginė́ja: 9
 lemma: bėg, nugget: inė
 inėti_inė́ja_inė́ja
 
-This is the infinitive_verb from the outset: bėgioti
-This is the stripped_verb from the outset: bėgio
 This is the stripped_verb: bėgio
 This is the matching_lemma: bėg
+infinitive_verb: bėgioti
+stripped_verb: bėgio
+matching_lemma: bėg
+nugget: io
+nugget_in: false
+nugget_n: 
 verb_array[0]: bėgioti
 present3_slice: ėgiója
 past3_slice: giójo
@@ -1460,18 +1788,22 @@ neither true
 neither true
 infinitive_verb: bėgioti
 @infinitive_form: bėgioti
-RFLT bėgioti:ioti_iója_iójo
+RFLT bėgioti:ioti_ioja_iojo
 Reflexive? false :: lemma? true
 bėgioti: 7
 bėgiója: 7
 bėgiójo: 7
 lemma: bėg, nugget: io
-ioti_iója_iójo
+ioti_ioja_iojo
 
-This is the infinitive_verb from the outset: bėgti
-This is the stripped_verb from the outset: bėg
 This is the stripped_verb: bėg
 This is the matching_lemma: bėg
+infinitive_verb: bėgti
+stripped_verb: bėg
+matching_lemma: bėg
+nugget: 
+nugget_in: false
+nugget_n: 
 verb_array[0]: bėgti
 present3_slice: bė́ga
 past3_slice: bė́go
@@ -1483,10 +1815,14 @@ bė́go: 5
 lemma: bėg, nugget: 
 ėgti_ė́ga_ė́go
 
-This is the infinitive_verb from the outset: bidzenti
-This is the stripped_verb from the outset: bidzen
 This is the stripped_verb: bidzen
 This is the matching_lemma: bi
+infinitive_verb: bidzenti
+stripped_verb: bidzen
+matching_lemma: bi
+nugget: dzen
+nugget_in: false
+nugget_n: 
 verb_array[0]: bidzenti
 present3_slice: ena
 past3_slice: eno
@@ -1502,10 +1838,14 @@ bizdeno: 7
 lemma: bi, nugget: dzen
 dzenti_zdena_zdeno
 
-This is the infinitive_verb from the outset: bijoti
-This is the stripped_verb from the outset: bijo
 This is the stripped_verb: bijo
 This is the matching_lemma: bij
+infinitive_verb: bijoti
+stripped_verb: bijo
+matching_lemma: bij
+nugget: o
+nugget_in: false
+nugget_n: 
 verb_array[0]: bijoti
 present3_slice: ìjo
 past3_slice: ijójo
@@ -1513,18 +1853,22 @@ neither true
 neither true
 infinitive_verb: bijoti
 @infinitive_form: bijoti
-RFLT bijoti:oti_o_ójo
+RFLT bijoti:oti_o_ojo
 Reflexive? false :: lemma? true
 bijoti: 6
 bìjo: 4
 bijójo: 6
 lemma: bij, nugget: o
-oti_o_ójo
+oti_o_ojo
 
-This is the infinitive_verb from the outset: birbti
-This is the stripped_verb from the outset: birb
 This is the stripped_verb: birb
 This is the matching_lemma: birb
+infinitive_verb: birbti
+stripped_verb: birb
+matching_lemma: birb
+nugget: 
+nugget_in: false
+nugget_n: 
 verb_array[0]: birbti
 present3_slice: bir̃bia
 past3_slice: bir̃bė
@@ -1536,25 +1880,33 @@ bir̃bė: 6
 lemma: birb, nugget: 
 irbti_ir̃bia_ir̃bė
 
-This is the infinitive_verb from the outset: birti
-This is the stripped_verb from the outset: bir
 This is the stripped_verb: bir
 This is the matching_lemma: bir
+infinitive_verb: birti
+stripped_verb: bir
+matching_lemma: bir
+nugget: 
+nugget_in: false
+nugget_n: 
 verb_array[0]: birti
 present3_slice: bỹra
 past3_slice: bìro
-RFLF birti:irti_ỹra_ìro
+RFLF birti:irti_ỹra_iro
 Reflexive? false :: lemma? false
 birti: 5
 bỹra: 4
 bìro: 4
 lemma: bir, nugget: 
-irti_ỹra_ìro
+irti_ỹra_iro
 
-This is the infinitive_verb from the outset: bjaurėtis
-This is the stripped_verb from the outset: bjaurė
 This is the stripped_verb: bjaurė
 This is the matching_lemma: bjaur
+infinitive_verb: bjaurėtis
+stripped_verb: bjaurė
+matching_lemma: bjaur
+nugget: ė
+nugget_in: false
+nugget_n: 
 verb_array[0]: bjaurėtis
 present3_slice: bjaũrisi
 past3_slice: jaurė́josi
@@ -1566,10 +1918,14 @@ bjaurė́josi: 11
 lemma: bjaur, nugget: ė
 ėtis_isi_ė́josi
 
-This is the infinitive_verb from the outset: bjurti
-This is the stripped_verb from the outset: bjur
 This is the stripped_verb: bjur
 This is the matching_lemma: b
+infinitive_verb: bjurti
+stripped_verb: bjur
+matching_lemma: b
+nugget: jur
+nugget_in: false
+nugget_n: 
 verb_array[0]: bjurti
 present3_slice: rsta
 past3_slice: ùro
@@ -1577,33 +1933,41 @@ neither true
 neither true
 infinitive_verb: bjurti
 @infinitive_form: bjurti
-RFLT bjurti:jurti_jursta_jùro
+RFLT bjurti:jurti_jursta_juro
 Reflexive? false :: lemma? true
 bjurti: 6
 bjursta: 7
 bjùro: 5
 lemma: b, nugget: jur
-jurti_jursta_jùro
+jurti_jursta_juro
 
-This is the infinitive_verb from the outset: blankti
-This is the stripped_verb from the outset: blank
 This is the stripped_verb: blank
 This is the matching_lemma: blank
+infinitive_verb: blankti
+stripped_verb: blank
+matching_lemma: blank
+nugget: 
+nugget_in: false
+nugget_n: 
 verb_array[0]: blankti
 present3_slice: blañksta
 past3_slice: blánko
-RFLF blankti:ankti_añksta_ánko
+RFLF blankti:ankti_anksta_anko
 Reflexive? false :: lemma? false
 blankti: 7
 blañksta: 8
 blánko: 6
 lemma: blank, nugget: 
-ankti_añksta_ánko
+ankti_anksta_anko
 
-This is the infinitive_verb from the outset: blaškyti
-This is the stripped_verb from the outset: blašky
 This is the stripped_verb: blašky
 This is the matching_lemma: blašk
+infinitive_verb: blaškyti
+stripped_verb: blašky
+matching_lemma: blašk
+nugget: y
+nugget_in: false
+nugget_n: 
 verb_array[0]: blaškyti
 present3_slice: blãško
 past3_slice: blãškė
@@ -1619,10 +1983,14 @@ blãškė: 6
 lemma: blašk, nugget: y
 yti_o_ė
 
-This is the infinitive_verb from the outset: blaškytis
-This is the stripped_verb from the outset: blašky
 This is the stripped_verb: blašky
 This is the matching_lemma: blašk
+infinitive_verb: blaškytis
+stripped_verb: blašky
+matching_lemma: blašk
+nugget: y
+nugget_in: false
+nugget_n: 
 verb_array[0]: blaškytis
 present3_slice: blãškosi
 past3_slice: blãškėsi
@@ -1634,10 +2002,14 @@ blãškėsi: 8
 lemma: blašk, nugget: y
 ytis_osi_ėsi
 
-This is the infinitive_verb from the outset: blefuoti
-This is the stripped_verb from the outset: blefuo
 This is the stripped_verb: blefuo
 This is the matching_lemma: b
+infinitive_verb: blefuoti
+stripped_verb: blefuo
+matching_lemma: b
+nugget: lefuo
+nugget_in: false
+nugget_n: 
 verb_array[0]: blefuoti
 present3_slice: oja
 past3_slice: avo
@@ -1653,10 +2025,14 @@ blefavo: 7
 lemma: b, nugget: lefuo
 lefuoti_lefuoja_lefavo
 
-This is the infinitive_verb from the outset: blęsti
-This is the stripped_verb from the outset: blęs
 This is the stripped_verb: blęs
 This is the matching_lemma: b
+infinitive_verb: blęsti
+stripped_verb: blęs
+matching_lemma: b
+nugget: lęs
+nugget_in: false
+nugget_n: 
 verb_array[0]: blęsti
 present3_slice: leñdžia
 past3_slice: leñdė
@@ -1664,18 +2040,22 @@ neither true
 neither true
 infinitive_verb: blęsti
 @infinitive_form: blęsti
-RFLT blęsti:lęsti_leñdžia_leñdė
+RFLT blęsti:lęsti_lendžia_lendė
 Reflexive? false :: lemma? true
 blęsti: 6
 bleñdžia: 8
 bleñdė: 6
 lemma: b, nugget: lęs
-lęsti_leñdžia_leñdė
+lęsti_lendžia_lendė
 
-This is the infinitive_verb from the outset: blizgėti
-This is the stripped_verb from the outset: blizgė
 This is the stripped_verb: blizgė
 This is the matching_lemma: blizg
+infinitive_verb: blizgėti
+stripped_verb: blizgė
+matching_lemma: blizg
+nugget: ė
+nugget_in: false
+nugget_n: 
 verb_array[0]: blizgėti
 present3_slice: blìzga
 past3_slice: lizgė́jo
@@ -1691,10 +2071,14 @@ blizgė́jo: 9
 lemma: blizg, nugget: ė
 ėti_a_ė́jo
 
-This is the infinitive_verb from the outset: blizginti
-This is the stripped_verb from the outset: blizgin
 This is the stripped_verb: blizgin
 This is the matching_lemma: blizg
+infinitive_verb: blizginti
+stripped_verb: blizgin
+matching_lemma: blizg
+nugget: gin
+nugget_in: false
+nugget_n: 
 verb_array[0]: blizginti
 present3_slice: zgina
 past3_slice: zgino
@@ -1710,10 +2094,14 @@ blìzgino: 8
 lemma: blizg, nugget: gin
 ginti_ina_ino
 
-This is the infinitive_verb from the outset: blogėti
-This is the stripped_verb from the outset: blogė
 This is the stripped_verb: blogė
 This is the matching_lemma: blog
+infinitive_verb: blogėti
+stripped_verb: blogė
+matching_lemma: blog
+nugget: ė
+nugget_in: false
+nugget_n: 
 verb_array[0]: blogėti
 present3_slice: logė́ja
 past3_slice: logė́jo
@@ -1729,10 +2117,14 @@ blogė́jo: 8
 lemma: blog, nugget: ė
 ėti_ė́ja_ė́jo
 
-This is the infinitive_verb from the outset: bloginti
-This is the stripped_verb from the outset: blogin
 This is the stripped_verb: blogin
 This is the matching_lemma: blog
+infinitive_verb: bloginti
+stripped_verb: blogin
+matching_lemma: blog
+nugget: gin
+nugget_in: false
+nugget_n: 
 verb_array[0]: bloginti
 present3_slice: gina
 past3_slice: gino
@@ -1748,40 +2140,52 @@ blõgino: 7
 lemma: blog, nugget: gin
 ginti_ina_ino
 
-This is the infinitive_verb from the outset: blogti
-This is the stripped_verb from the outset: blog
 This is the stripped_verb: blog
 This is the matching_lemma: blog
+infinitive_verb: blogti
+stripped_verb: blog
+matching_lemma: blog
+nugget: 
+nugget_in: false
+nugget_n: 
 verb_array[0]: blogti
 present3_slice: blogsta
 past3_slice: blõgo
-RFLF blogti:ogti_ogsta_õgo
+RFLF blogti:ogti_ogsta_ogo
 Reflexive? false :: lemma? false
 blogti: 6
 blogsta: 7
 blõgo: 5
 lemma: blog, nugget: 
-ogti_ogsta_õgo
+ogti_ogsta_ogo
 
-This is the infinitive_verb from the outset: blokšti
-This is the stripped_verb from the outset: blokš
 This is the stripped_verb: blokš
 This is the matching_lemma: blokš
+infinitive_verb: blokšti
+stripped_verb: blokš
+matching_lemma: blokš
+nugget: 
+nugget_in: false
+nugget_n: 
 verb_array[0]: blokšti
 present3_slice: blõškia
 past3_slice: blõškė
-RFLF blokšti:okšti_õškia_õškė
+RFLF blokšti:okšti_oškia_oškė
 Reflexive? false :: lemma? false
 blokšti: 7
 blõškia: 7
 blõškė: 6
 lemma: blokš, nugget: 
-okšti_õškia_õškė
+okšti_oškia_oškė
 
-This is the infinitive_verb from the outset: blokuoti
-This is the stripped_verb from the outset: blokuo
 This is the stripped_verb: blokuo
 This is the matching_lemma: blok
+infinitive_verb: blokuoti
+stripped_verb: blokuo
+matching_lemma: blok
+nugget: uo
+nugget_in: false
+nugget_n: 
 verb_array[0]: blokuoti
 present3_slice: okúoja
 past3_slice: okãvo
@@ -1789,18 +2193,22 @@ neither true
 neither true
 infinitive_verb: blokuoti
 @infinitive_form: blokuoti
-RFLT blokuoti:uoti_úoja_ãvo
+RFLT blokuoti:uoti_uoja_avo
 Reflexive? false :: lemma? true
 blokuoti: 8
 blokúoja: 8
 blokãvo: 7
 lemma: blok, nugget: uo
-uoti_úoja_ãvo
+uoti_uoja_avo
 
-This is the infinitive_verb from the outset: blukinti
-This is the stripped_verb from the outset: blukin
 This is the stripped_verb: blukin
 This is the matching_lemma: bluk
+infinitive_verb: blukinti
+stripped_verb: blukin
+matching_lemma: bluk
+nugget: kin
+nugget_in: false
+nugget_n: 
 verb_array[0]: blukinti
 present3_slice: kina
 past3_slice: kino
@@ -1816,25 +2224,33 @@ blukino: 7
 lemma: bluk, nugget: kin
 kinti_ina_ino
 
-This is the infinitive_verb from the outset: blukti
-This is the stripped_verb from the outset: bluk
 This is the stripped_verb: bluk
 This is the matching_lemma: bluk
+infinitive_verb: blukti
+stripped_verb: bluk
+matching_lemma: bluk
+nugget: 
+nugget_in: false
+nugget_n: 
 verb_array[0]: blukti
 present3_slice: bluñka
 past3_slice: blùko
-RFLF blukti:ukti_uñka_o
+RFLF blukti:ukti_unka_o
 Reflexive? false :: lemma? false
 blukti: 6
 bluñka: 6
 blùko: 5
 lemma: bluk, nugget: 
-ukti_uñka_o
+ukti_unka_o
 
-This is the infinitive_verb from the outset: blykšti
-This is the stripped_verb from the outset: blykš
 This is the stripped_verb: blykš
 This is the matching_lemma: blykš
+infinitive_verb: blykšti
+stripped_verb: blykš
+matching_lemma: blykš
+nugget: 
+nugget_in: false
+nugget_n: 
 verb_array[0]: blykšti
 present3_slice: blỹkšta
 past3_slice: blỹško
@@ -1846,10 +2262,14 @@ blỹško: 6
 lemma: blykš, nugget: 
 ykšti_ỹkšta_ỹško
 
-This is the infinitive_verb from the outset: bodėti
-This is the stripped_verb from the outset: bodė
 This is the stripped_verb: bodė
 This is the matching_lemma: bod
+infinitive_verb: bodėti
+stripped_verb: bodė
+matching_lemma: bod
+nugget: ė
+nugget_in: false
+nugget_n: 
 verb_array[0]: bodėti
 present3_slice: bõdi
 past3_slice: odėjo
@@ -1865,10 +2285,14 @@ bodėjo: 6
 lemma: bod, nugget: ė
 ėti_i_ėjo
 
-This is the infinitive_verb from the outset: boluoti
-This is the stripped_verb from the outset: boluo
 This is the stripped_verb: boluo
 This is the matching_lemma: bol
+infinitive_verb: boluoti
+stripped_verb: boluo
+matching_lemma: bol
+nugget: uo
+nugget_in: false
+nugget_n: 
 verb_array[0]: boluoti
 present3_slice: lúoja
 past3_slice: lãvo
@@ -1876,18 +2300,22 @@ neither true
 neither true
 infinitive_verb: boluoti
 @infinitive_form: boluoti
-RFLT boluoti:uoti_úoja_ãvo
+RFLT boluoti:uoti_uoja_avo
 Reflexive? false :: lemma? true
 boluoti: 7
 bolúoja: 7
 bolãvo: 6
 lemma: bol, nugget: uo
-uoti_úoja_ãvo
+uoti_uoja_avo
 
-This is the infinitive_verb from the outset: bombarduoti
-This is the stripped_verb from the outset: bombarduo
 This is the stripped_verb: bombarduo
 This is the matching_lemma: bombard
+infinitive_verb: bombarduoti
+stripped_verb: bombarduo
+matching_lemma: bombard
+nugget: uo
+nugget_in: false
+nugget_n: 
 verb_array[0]: bombarduoti
 present3_slice: mbardúoja
 past3_slice: mbardãvo
@@ -1895,18 +2323,22 @@ neither true
 neither true
 infinitive_verb: bombarduoti
 @infinitive_form: bombarduoti
-RFLT bombarduoti:uoti_úoja_ãvo
+RFLT bombarduoti:uoti_uoja_avo
 Reflexive? false :: lemma? true
 bombarduoti: 11
 bombardúoja: 11
 bombardãvo: 10
 lemma: bombard, nugget: uo
-uoti_úoja_ãvo
+uoti_uoja_avo
 
-This is the infinitive_verb from the outset: braidyti
-This is the stripped_verb from the outset: braidy
 This is the stripped_verb: braidy
 This is the matching_lemma: braid
+infinitive_verb: braidyti
+stripped_verb: braidy
+matching_lemma: braid
+nugget: y
+nugget_in: false
+nugget_n: 
 verb_array[0]: braidyti
 present3_slice: braĩdo
 past3_slice: braĩdė
@@ -1922,10 +2354,14 @@ braĩdė: 6
 lemma: braid, nugget: y
 yti_o_ė
 
-This is the infinitive_verb from the outset: braižyti
-This is the stripped_verb from the outset: braižy
 This is the stripped_verb: braižy
 This is the matching_lemma: braiž
+infinitive_verb: braižyti
+stripped_verb: braižy
+matching_lemma: braiž
+nugget: y
+nugget_in: false
+nugget_n: 
 verb_array[0]: braižyti
 present3_slice: braĩžo
 past3_slice: braĩžė
@@ -1941,10 +2377,14 @@ braĩžė: 6
 lemma: braiž, nugget: y
 yti_o_ė
 
-This is the infinitive_verb from the outset: brandinti
-This is the stripped_verb from the outset: brandin
 This is the stripped_verb: brandin
 This is the matching_lemma: brand
+infinitive_verb: brandinti
+stripped_verb: brandin
+matching_lemma: brand
+nugget: din
+nugget_in: false
+nugget_n: 
 verb_array[0]: brandinti
 present3_slice: ndìna
 past3_slice: ndìno
@@ -1952,18 +2392,22 @@ neither true
 neither true
 infinitive_verb: brandinti
 @infinitive_form: brandinti
-RFLT brandinti:dinti_ìna_ìno
+RFLT brandinti:dinti_ina_ino
 Reflexive? false :: lemma? true
 brandinti: 9
 brandìna: 8
 brandìno: 8
 lemma: brand, nugget: din
-dinti_ìna_ìno
+dinti_ina_ino
 
-This is the infinitive_verb from the outset: branginti
-This is the stripped_verb from the outset: brangin
 This is the stripped_verb: brangin
 This is the matching_lemma: brang
+infinitive_verb: branginti
+stripped_verb: brangin
+matching_lemma: brang
+nugget: gin
+nugget_in: false
+nugget_n: 
 verb_array[0]: branginti
 present3_slice: ngìna
 past3_slice: ngìno
@@ -1971,33 +2415,41 @@ neither true
 neither true
 infinitive_verb: branginti
 @infinitive_form: branginti
-RFLT branginti:ginti_ìna_ìno
+RFLT branginti:ginti_ina_ino
 Reflexive? false :: lemma? true
 branginti: 9
 brangìna: 8
 brangìno: 8
 lemma: brang, nugget: gin
-ginti_ìna_ìno
+ginti_ina_ino
 
-This is the infinitive_verb from the outset: brangti
-This is the stripped_verb from the outset: brang
 This is the stripped_verb: brang
 This is the matching_lemma: brang
+infinitive_verb: brangti
+stripped_verb: brang
+matching_lemma: brang
+nugget: 
+nugget_in: false
+nugget_n: 
 verb_array[0]: brangti
 present3_slice: brángsta
 past3_slice: brángo
-RFLF brangti:angti_ángsta_ángo
+RFLF brangti:angti_angsta_ango
 Reflexive? false :: lemma? false
 brangti: 7
 brángsta: 8
 brángo: 6
 lemma: brang, nugget: 
-angti_ángsta_ángo
+angti_angsta_ango
 
-This is the infinitive_verb from the outset: braukti
-This is the stripped_verb from the outset: brauk
 This is the stripped_verb: brauk
 This is the matching_lemma: brauk
+infinitive_verb: braukti
+stripped_verb: brauk
+matching_lemma: brauk
+nugget: 
+nugget_in: false
+nugget_n: 
 verb_array[0]: braukti
 present3_slice: braũkia
 past3_slice: braũkė
@@ -2009,10 +2461,14 @@ braũkė: 6
 lemma: brauk, nugget: 
 aukti_aũkia_aũkė
 
-This is the infinitive_verb from the outset: braukyti
-This is the stripped_verb from the outset: brauky
 This is the stripped_verb: brauky
 This is the matching_lemma: brauk
+infinitive_verb: braukyti
+stripped_verb: brauky
+matching_lemma: brauk
+nugget: y
+nugget_in: false
+nugget_n: 
 verb_array[0]: braukyti
 present3_slice: braũko
 past3_slice: braũkė
@@ -2028,25 +2484,33 @@ braũkė: 6
 lemma: brauk, nugget: y
 yti_o_ė
 
-This is the infinitive_verb from the outset: brautis
-This is the stripped_verb from the outset: brau
 This is the stripped_verb: brau
 This is the matching_lemma: brau
+infinitive_verb: brautis
+stripped_verb: brau
+matching_lemma: brau
+nugget: 
+nugget_in: false
+nugget_n: 
 verb_array[0]: brautis
 present3_slice: bráunasi
 past3_slice: bróvėsi
-RTLF brautis:autis_áunasi_óvėsi
+RTLF brautis:autis_aunasi_ovėsi
 Reflexive? true :: lemma? false
 brautis: 7
 bráunasi: 8
 bróvėsi: 7
 lemma: brau, nugget: 
-autis_áunasi_óvėsi
+autis_aunasi_ovėsi
 
-This is the infinitive_verb from the outset: brazdėti
-This is the stripped_verb from the outset: brazdė
 This is the stripped_verb: brazdė
 This is the matching_lemma: b
+infinitive_verb: brazdėti
+stripped_verb: brazdė
+matching_lemma: b
+nugget: razdė
+nugget_in: false
+nugget_n: 
 verb_array[0]: brazdėti
 present3_slice: da
 past3_slice: ė́jo
@@ -2054,18 +2518,22 @@ neither true
 neither true
 infinitive_verb: brazdėti
 @infinitive_form: brazdėti
-RFLT brazdėti:razdėti_rãzda_razdė́jo
+RFLT brazdėti:razdėti_razda_razdė́jo
 Reflexive? false :: lemma? true
 brazdėti: 8
 brãzda: 6
 brazdė́jo: 9
 lemma: b, nugget: razdė
-razdėti_rãzda_razdė́jo
+razdėti_razda_razdė́jo
 
-This is the infinitive_verb from the outset: bręsti
-This is the stripped_verb from the outset: bręs
 This is the stripped_verb: bręs
 This is the matching_lemma: brę
+infinitive_verb: bręsti
+stripped_verb: bręs
+matching_lemma: brę
+nugget: s
+nugget_in: false
+nugget_n: 
 verb_array[0]: bręsti
 present3_slice: rę́sta
 past3_slice: bréndo
@@ -2081,10 +2549,14 @@ bréndo: 6
 lemma: brę, nugget: s
 sti_́sta_ndo
 
-This is the infinitive_verb from the outset: brėžti
-This is the stripped_verb from the outset: brėž
 This is the stripped_verb: brėž
 This is the matching_lemma: brėž
+infinitive_verb: brėžti
+stripped_verb: brėž
+matching_lemma: brėž
+nugget: 
+nugget_in: false
+nugget_n: 
 verb_array[0]: brėžti
 present3_slice: brė́žia
 past3_slice: brė́žė
@@ -2096,40 +2568,52 @@ brė́žė: 6
 lemma: brėž, nugget: 
 ėžti_ė́žia_ė́žė
 
-This is the infinitive_verb from the outset: brinkti
-This is the stripped_verb from the outset: brink
 This is the stripped_verb: brink
 This is the matching_lemma: brink
+infinitive_verb: brinkti
+stripped_verb: brink
+matching_lemma: brink
+nugget: 
+nugget_in: false
+nugget_n: 
 verb_array[0]: brinkti
 present3_slice: brìnksta
 past3_slice: brìnko
-RFLF brinkti:inkti_ìnksta_ìnko
+RFLF brinkti:inkti_inksta_inko
 Reflexive? false :: lemma? false
 brinkti: 7
 brìnksta: 8
 brìnko: 6
 lemma: brink, nugget: 
-inkti_ìnksta_ìnko
+inkti_inksta_inko
 
-This is the infinitive_verb from the outset: bristi
-This is the stripped_verb from the outset: bris
 This is the stripped_verb: bris
 This is the matching_lemma: bris
+infinitive_verb: bristi
+stripped_verb: bris
+matching_lemma: bris
+nugget: 
+nugget_in: false
+nugget_n: 
 verb_array[0]: bristi
 present3_slice: breñda
 past3_slice: brìdo
-RFLF bristi:isti_eñda_ìdo
+RFLF bristi:isti_enda_ido
 Reflexive? false :: lemma? false
 bristi: 6
 breñda: 6
 brìdo: 5
 lemma: bris, nugget: 
-isti_eñda_ìdo
+isti_enda_ido
 
-This is the infinitive_verb from the outset: brukti
-This is the stripped_verb from the outset: bruk
 This is the stripped_verb: bruk
 This is the matching_lemma: bruk
+infinitive_verb: brukti
+stripped_verb: bruk
+matching_lemma: bruk
+nugget: 
+nugget_in: false
+nugget_n: 
 verb_array[0]: brukti
 present3_slice: brunka
 past3_slice: brùko
@@ -2141,10 +2625,14 @@ brùko: 5
 lemma: bruk, nugget: 
 ukti_unka_o
 
-This is the infinitive_verb from the outset: brūžinti
-This is the stripped_verb from the outset: brūžin
 This is the stripped_verb: brūžin
 This is the matching_lemma: brūž
+infinitive_verb: brūžinti
+stripped_verb: brūžin
+matching_lemma: brūž
+nugget: žin
+nugget_in: false
+nugget_n: 
 verb_array[0]: brūžinti
 present3_slice: ́žina
 past3_slice: ́žino
@@ -2160,10 +2648,14 @@ brū́žino: 8
 lemma: brūž, nugget: žin
 žinti_žina_žino
 
-This is the infinitive_verb from the outset: bučiuoti
-This is the stripped_verb from the outset: bučiuo
 This is the stripped_verb: bučiuo
 This is the matching_lemma: buč
+infinitive_verb: bučiuoti
+stripped_verb: bučiuo
+matching_lemma: buč
+nugget: iuo
+nugget_in: false
+nugget_n: 
 verb_array[0]: bučiuoti
 present3_slice: iúoja
 past3_slice: iãvo
@@ -2171,33 +2663,41 @@ neither true
 neither true
 infinitive_verb: bučiuoti
 @infinitive_form: bučiuoti
-RFLT bučiuoti:iuoti_iúoja_iãvo
+RFLT bučiuoti:iuoti_iuoja_iavo
 Reflexive? false :: lemma? true
 bučiuoti: 8
 bučiúoja: 8
 bučiãvo: 7
 lemma: buč, nugget: iuo
-iuoti_iúoja_iãvo
+iuoti_iuoja_iavo
 
-This is the infinitive_verb from the outset: bučiuotis
-This is the stripped_verb from the outset: bučiuo
 This is the stripped_verb: bučiuo
 This is the matching_lemma: buč
+infinitive_verb: bučiuotis
+stripped_verb: bučiuo
+matching_lemma: buč
+nugget: iuo
+nugget_in: false
+nugget_n: 
 verb_array[0]: bučiuotis
 present3_slice: úojasi
 past3_slice: ãvosi
-RTLT bučiuotis:iuotis_iúojasi_iãvosi
+RTLT bučiuotis:iuotis_iuojasi_iavosi
 Reflexive? true :: lemma? true
 bučiuotis: 9
 bučiúojasi: 10
 bučiãvosi: 9
 lemma: buč, nugget: iuo
-iuotis_iúojasi_iãvosi
+iuotis_iuojasi_iavosi
 
-This is the infinitive_verb from the outset: budėti
-This is the stripped_verb from the outset: budė
 This is the stripped_verb: budė
 This is the matching_lemma: bud
+infinitive_verb: budėti
+stripped_verb: budė
+matching_lemma: bud
+nugget: ė
+nugget_in: false
+nugget_n: 
 verb_array[0]: budėti
 present3_slice: bùdi
 past3_slice: udė́jo
@@ -2213,10 +2713,14 @@ budė́jo: 7
 lemma: bud, nugget: ė
 ėti_i_ė́jo
 
-This is the infinitive_verb from the outset: budinti
-This is the stripped_verb from the outset: budin
 This is the stripped_verb: budin
 This is the matching_lemma: bud
+infinitive_verb: budinti
+stripped_verb: budin
+matching_lemma: bud
+nugget: din
+nugget_in: false
+nugget_n: 
 verb_array[0]: budinti
 present3_slice: ina
 past3_slice: ino
@@ -2232,10 +2736,14 @@ bùdino: 6
 lemma: bud, nugget: din
 dinti_ina_ino
 
-This is the infinitive_verb from the outset: būgštauti
-This is the stripped_verb from the outset: būgštau
 This is the stripped_verb: būgštau
 This is the matching_lemma: būg
+infinitive_verb: būgštauti
+stripped_verb: būgštau
+matching_lemma: būg
+nugget: štau
+nugget_in: false
+nugget_n: 
 verb_array[0]: būgštauti
 present3_slice: auja
 past3_slice: gštavo
@@ -2251,10 +2759,14 @@ bū́gštavo: 9
 lemma: būg, nugget: štau
 štauti_gtauja_gštavo
 
-This is the infinitive_verb from the outset: bujoti
-This is the stripped_verb from the outset: bujo
 This is the stripped_verb: bujo
 This is the matching_lemma: buj
+infinitive_verb: bujoti
+stripped_verb: bujo
+matching_lemma: buj
+nugget: o
+nugget_in: false
+nugget_n: 
 verb_array[0]: bujoti
 present3_slice: bujója
 past3_slice: ujójo
@@ -2262,18 +2774,22 @@ neither true
 neither true
 infinitive_verb: bujoti
 @infinitive_form: bujoti
-RFLT bujoti:oti_ója_ójo
+RFLT bujoti:oti_oja_ojo
 Reflexive? false :: lemma? true
 bujoti: 6
 bujója: 6
 bujójo: 6
 lemma: buj, nugget: o
-oti_ója_ójo
+oti_oja_ojo
 
-This is the infinitive_verb from the outset: burbėti
-This is the stripped_verb from the outset: burbė
 This is the stripped_verb: burbė
 This is the matching_lemma: burb
+infinitive_verb: burbėti
+stripped_verb: burbė
+matching_lemma: burb
+nugget: ė
+nugget_in: false
+nugget_n: 
 verb_array[0]: burbėti
 present3_slice: bùrba
 past3_slice: urbė́jo
@@ -2289,10 +2805,14 @@ burbė́jo: 8
 lemma: burb, nugget: ė
 ėti_a_ė́jo
 
-This is the infinitive_verb from the outset: burbuliuoti
-This is the stripped_verb from the outset: burbuliuo
 This is the stripped_verb: burbuliuo
 This is the matching_lemma: burb
+infinitive_verb: burbuliuoti
+stripped_verb: burbuliuo
+matching_lemma: burb
+nugget: uliuo
+nugget_in: false
+nugget_n: 
 verb_array[0]: burbuliuoti
 present3_slice: liúoja
 past3_slice: liãvo
@@ -2300,18 +2820,22 @@ neither true
 neither true
 infinitive_verb: burbuliuoti
 @infinitive_form: burbuliuoti
-RFLT burbuliuoti:uliuoti_uliúoja_uliãvo
+RFLT burbuliuoti:uliuoti_uliuoja_uliavo
 Reflexive? false :: lemma? true
 burbuliuoti: 11
 burbuliúoja: 11
 burbuliãvo: 10
 lemma: burb, nugget: uliuo
-uliuoti_uliúoja_uliãvo
+uliuoti_uliuoja_uliavo
 
-This is the infinitive_verb from the outset: buriuoti
-This is the stripped_verb from the outset: buriuo
 This is the stripped_verb: buriuo
 This is the matching_lemma: bur
+infinitive_verb: buriuoti
+stripped_verb: buriuo
+matching_lemma: bur
+nugget: iuo
+nugget_in: false
+nugget_n: 
 verb_array[0]: buriuoti
 present3_slice: iúoja
 past3_slice: iãvo
@@ -2319,18 +2843,22 @@ neither true
 neither true
 infinitive_verb: buriuoti
 @infinitive_form: buriuoti
-RFLT buriuoti:iuoti_iúoja_iãvo
+RFLT buriuoti:iuoti_iuoja_iavo
 Reflexive? false :: lemma? true
 buriuoti: 8
 buriúoja: 8
 buriãvo: 7
 lemma: bur, nugget: iuo
-iuoti_iúoja_iãvo
+iuoti_iuoja_iavo
 
-This is the infinitive_verb from the outset: būriuoti
-This is the stripped_verb from the outset: būriuo
 This is the stripped_verb: būriuo
 This is the matching_lemma: būr
+infinitive_verb: būriuoti
+stripped_verb: būriuo
+matching_lemma: būr
+nugget: iuo
+nugget_in: false
+nugget_n: 
 verb_array[0]: būriuoti
 present3_slice: iúoja
 past3_slice: iãvo
@@ -2338,18 +2866,22 @@ neither true
 neither true
 infinitive_verb: būriuoti
 @infinitive_form: būriuoti
-RFLT būriuoti:iuoti_iúoja_iãvo
+RFLT būriuoti:iuoti_iuoja_iavo
 Reflexive? false :: lemma? true
 būriuoti: 8
 buriúoja: 8
 buriãvo: 7
 lemma: būr, nugget: iuo
-iuoti_iúoja_iãvo
+iuoti_iuoja_iavo
 
-This is the infinitive_verb from the outset: burti
-This is the stripped_verb from the outset: bur
 This is the stripped_verb: bur
 This is the matching_lemma: bur
+infinitive_verb: burti
+stripped_verb: bur
+matching_lemma: bur
+nugget: 
+nugget_in: false
+nugget_n: 
 verb_array[0]: burti
 present3_slice: bùria
 past3_slice: bū́rė
@@ -2361,40 +2893,52 @@ bū́rė: 5
 lemma: bur, nugget: 
 urti_ia_ū́rė
 
-This is the infinitive_verb from the outset: busti
-This is the stripped_verb from the outset: bus
 This is the stripped_verb: bus
 This is the matching_lemma: bus
+infinitive_verb: busti
+stripped_verb: bus
+matching_lemma: bus
+nugget: 
+nugget_in: false
+nugget_n: 
 verb_array[0]: busti
 present3_slice: buñda
 past3_slice: bùdo
-RFLF busti:usti_uñda_o
+RFLF busti:usti_unda_o
 Reflexive? false :: lemma? false
 busti: 5
 buñda: 5
 bùdo: 4
 lemma: bus, nugget: 
-usti_uñda_o
+usti_unda_o
 
-This is the infinitive_verb from the outset: būti
-This is the stripped_verb from the outset: bū
 This is the stripped_verb: bū
 This is the matching_lemma: bū
+infinitive_verb: būti
+stripped_verb: bū
+matching_lemma: bū
+nugget: 
+nugget_in: false
+nugget_n: 
 verb_array[0]: būti
 present3_slice: yrà
 past3_slice: bùvo
-RFLF būti:ūti_yrà_o
+RFLF būti:ūti_yra_o
 Reflexive? false :: lemma? false
 būti: 4
 yrà: 3
 bùvo: 4
 lemma: bū, nugget: 
-ūti_yrà_o
+ūti_yra_o
 
-This is the infinitive_verb from the outset: buvoti
-This is the stripped_verb from the outset: buvo
 This is the stripped_verb: buvo
 This is the matching_lemma: buv
+infinitive_verb: buvoti
+stripped_verb: buvo
+matching_lemma: buv
+nugget: o
+nugget_in: false
+nugget_n: 
 verb_array[0]: buvoti
 present3_slice: buvója
 past3_slice: uvójo
@@ -2402,18 +2946,22 @@ neither true
 neither true
 infinitive_verb: buvoti
 @infinitive_form: buvoti
-RFLT buvoti:oti_ója_ójo
+RFLT buvoti:oti_oja_ojo
 Reflexive? false :: lemma? true
 buvoti: 6
 buvója: 6
 buvójo: 6
 lemma: buv, nugget: o
-oti_ója_ójo
+oti_oja_ojo
 
-This is the infinitive_verb from the outset: bylinėtis
-This is the stripped_verb from the outset: bylinė
 This is the stripped_verb: bylinė
 This is the matching_lemma: byl
+infinitive_verb: bylinėtis
+stripped_verb: bylinė
+matching_lemma: byl
+nugget: inė
+nugget_in: false
+nugget_n: 
 verb_array[0]: bylinėtis
 present3_slice: nė́jasi
 past3_slice: nė́josi
@@ -2425,10 +2973,14 @@ bylinė́josi: 11
 lemma: byl, nugget: inė
 inėtis_inė́jasi_inė́josi
 
-This is the infinitive_verb from the outset: byloti
-This is the stripped_verb from the outset: bylo
 This is the stripped_verb: bylo
 This is the matching_lemma: byl
+infinitive_verb: byloti
+stripped_verb: bylo
+matching_lemma: byl
+nugget: o
+nugget_in: false
+nugget_n: 
 verb_array[0]: byloti
 present3_slice: bylója
 past3_slice: ylójo
@@ -2436,18 +2988,22 @@ neither true
 neither true
 infinitive_verb: byloti
 @infinitive_form: byloti
-RFLT byloti:oti_ója_ójo
+RFLT byloti:oti_oja_ojo
 Reflexive? false :: lemma? true
 byloti: 6
 bylója: 6
 bylójo: 6
 lemma: byl, nugget: o
-oti_ója_ójo
+oti_oja_ojo
 
-This is the infinitive_verb from the outset: byrėti
-This is the stripped_verb from the outset: byrė
 This is the stripped_verb: byrė
 This is the matching_lemma: byr
+infinitive_verb: byrėti
+stripped_verb: byrė
+matching_lemma: byr
+nugget: ė
+nugget_in: false
+nugget_n: 
 verb_array[0]: byrėti
 present3_slice: bỹra
 past3_slice: yrė́jo
@@ -2463,10 +3019,14 @@ byrė́jo: 7
 lemma: byr, nugget: ė
 ėti_a_ė́jo
 
-This is the infinitive_verb from the outset: čežėti
-This is the stripped_verb from the outset: čežė
 This is the stripped_verb: čežė
 This is the matching_lemma: čež
+infinitive_verb: čežėti
+stripped_verb: čežė
+matching_lemma: čež
+nugget: ė
+nugget_in: false
+nugget_n: 
 verb_array[0]: čežėti
 present3_slice: čẽža
 past3_slice: ežė́jo
@@ -2482,10 +3042,14 @@ Reflexive? false :: lemma? true
 lemma: čež, nugget: ė
 ėti_a_ė́jo
 
-This is the infinitive_verb from the outset: čežti
-This is the stripped_verb from the outset: čež
 This is the stripped_verb: čež
 This is the matching_lemma: čež
+infinitive_verb: čežti
+stripped_verb: čež
+matching_lemma: čež
+nugget: 
+nugget_in: false
+nugget_n: 
 verb_array[0]: čežti
 present3_slice: čęžta
 past3_slice: čežo
@@ -2497,10 +3061,14 @@ Reflexive? false :: lemma? false
 lemma: čež, nugget: 
 ežti_ęžta_ežo
 
-This is the infinitive_verb from the outset: čiaudėti
-This is the stripped_verb from the outset: čiaudė
 This is the stripped_verb: čiaudė
 This is the matching_lemma: čiaud
+infinitive_verb: čiaudėti
+stripped_verb: čiaudė
+matching_lemma: čiaud
+nugget: ė
+nugget_in: false
+nugget_n: 
 verb_array[0]: čiaudėti
 present3_slice: iáudėja
 past3_slice: iáudėjo
@@ -2516,10 +3084,14 @@ Reflexive? false :: lemma? true
 lemma: čiaud, nugget: ė
 ėti_ėja_ėjo
 
-This is the infinitive_verb from the outset: čiauškėti
-This is the stripped_verb from the outset: čiauškė
 This is the stripped_verb: čiauškė
 This is the matching_lemma: čiaušk
+infinitive_verb: čiauškėti
+stripped_verb: čiauškė
+matching_lemma: čiaušk
+nugget: ė
+nugget_in: false
+nugget_n: 
 verb_array[0]: čiauškėti
 present3_slice: čiáuška
 past3_slice: iauškė́jo
@@ -2535,10 +3107,14 @@ Reflexive? false :: lemma? true
 lemma: čiaušk, nugget: ė
 ėti_a_ė́jo
 
-This is the infinitive_verb from the outset: čiaužti
-This is the stripped_verb from the outset: čiauž
 This is the stripped_verb: čiauž
 This is the matching_lemma: čia
+infinitive_verb: čiaužti
+stripped_verb: čiauž
+matching_lemma: čia
+nugget: už
+nugget_in: false
+nugget_n: 
 verb_array[0]: čiaužti
 present3_slice: aužia
 past3_slice: aužė
@@ -2554,10 +3130,14 @@ Reflexive? false :: lemma? true
 lemma: čia, nugget: už
 užti_užia_užė
 
-This is the infinitive_verb from the outset: čirpėti
-This is the stripped_verb from the outset: čirpė
 This is the stripped_verb: čirpė
 This is the matching_lemma: čirp
+infinitive_verb: čirpėti
+stripped_verb: čirpė
+matching_lemma: čirp
+nugget: ė
+nugget_in: false
+nugget_n: 
 verb_array[0]: čirpėti
 present3_slice: čirpa
 past3_slice: irpėjo
@@ -2573,10 +3153,14 @@ Reflexive? false :: lemma? true
 lemma: čirp, nugget: ė
 ėti_a_ėjo
 
-This is the infinitive_verb from the outset: cituoti
-This is the stripped_verb from the outset: cituo
 This is the stripped_verb: cituo
 This is the matching_lemma: cit
+infinitive_verb: cituoti
+stripped_verb: cituo
+matching_lemma: cit
+nugget: uo
+nugget_in: false
+nugget_n: 
 verb_array[0]: cituoti
 present3_slice: itúoja
 past3_slice: itãvo
@@ -2584,18 +3168,22 @@ neither true
 neither true
 infinitive_verb: cituoti
 @infinitive_form: cituoti
-RFLT cituoti:uoti_úoja_ãvo
+RFLT cituoti:uoti_uoja_avo
 Reflexive? false :: lemma? true
 cituoti: 7
 citúoja: 7
 citãvo: 6
 lemma: cit, nugget: uo
-uoti_úoja_ãvo
+uoti_uoja_avo
 
-This is the infinitive_verb from the outset: čiulbėti
-This is the stripped_verb from the outset: čiulbė
 This is the stripped_verb: čiulbė
 This is the matching_lemma: čiulb
+infinitive_verb: čiulbėti
+stripped_verb: čiulbė
+matching_lemma: čiulb
+nugget: ė
+nugget_in: false
+nugget_n: 
 verb_array[0]: čiulbėti
 present3_slice: čiùlba
 past3_slice: iulbė́jo
@@ -2611,10 +3199,14 @@ Reflexive? false :: lemma? true
 lemma: čiulb, nugget: ė
 ėti_a_ė́jo
 
-This is the infinitive_verb from the outset: čiulpti
-This is the stripped_verb from the outset: čiulp
 This is the stripped_verb: čiulp
 This is the matching_lemma: čiulp
+infinitive_verb: čiulpti
+stripped_verb: čiulp
+matching_lemma: čiulp
+nugget: 
+nugget_in: false
+nugget_n: 
 verb_array[0]: čiulpti
 present3_slice: čiul̃pia
 past3_slice: čiul̃pė
@@ -2626,10 +3218,14 @@ Reflexive? false :: lemma? false
 lemma: čiulp, nugget: 
 iulpti_iul̃pia_iul̃pė
 
-This is the infinitive_verb from the outset: čiuožinėti
-This is the stripped_verb from the outset: čiuožinė
 This is the stripped_verb: čiuožinė
 This is the matching_lemma: čiuož
+infinitive_verb: čiuožinėti
+stripped_verb: čiuožinė
+matching_lemma: čiuož
+nugget: inė
+nugget_in: false
+nugget_n: 
 verb_array[0]: čiuožinėti
 present3_slice: žinė́ja
 past3_slice: žinė́ja
@@ -2645,40 +3241,52 @@ Reflexive? false :: lemma? true
 lemma: čiuož, nugget: inė
 inėti_inė́ja_inė́ja
 
-This is the infinitive_verb from the outset: čiuožti
-This is the stripped_verb from the outset: čiuož
 This is the stripped_verb: čiuož
 This is the matching_lemma: čiuož
+infinitive_verb: čiuožti
+stripped_verb: čiuož
+matching_lemma: čiuož
+nugget: 
+nugget_in: false
+nugget_n: 
 verb_array[0]: čiuožti
 present3_slice: čiuõžia
 past3_slice: čiuõžė
-RFLF čiuožti:iuožti_iuõžia_iuõžė
+RFLF čiuožti:iuožti_iuožia_iuožė
 Reflexive? false :: lemma? false
 čiuožti: 7
 čiuõžia: 7
 čiuõžė: 6
 lemma: čiuož, nugget: 
-iuožti_iuõžia_iuõžė
+iuožti_iuožia_iuožė
 
-This is the infinitive_verb from the outset: čiupti
-This is the stripped_verb from the outset: čiup
 This is the stripped_verb: čiup
 This is the matching_lemma: čiup
+infinitive_verb: čiupti
+stripped_verb: čiup
+matching_lemma: čiup
+nugget: 
+nugget_in: false
+nugget_n: 
 verb_array[0]: čiupti
 present3_slice: čiupa
 past3_slice: čiùpo
-RFLF čiupti:iupti_iupa_iùpo
+RFLF čiupti:iupti_iupa_iupo
 Reflexive? false :: lemma? false
 čiupti: 6
 čiupa: 5
 čiùpo: 5
 lemma: čiup, nugget: 
-iupti_iupa_iùpo
+iupti_iupa_iupo
 
-This is the infinitive_verb from the outset: civilizuoti
-This is the stripped_verb from the outset: civilizuo
 This is the stripped_verb: civilizuo
 This is the matching_lemma: civil
+infinitive_verb: civilizuoti
+stripped_verb: civilizuo
+matching_lemma: civil
+nugget: izuo
+nugget_in: false
+nugget_n: 
 verb_array[0]: civilizuoti
 present3_slice: zuoja
 past3_slice: izãvo
@@ -2686,16 +3294,14 @@ neither true
 neither true
 infinitive_verb: civilizuoti
 @infinitive_form: civilizuoti
-RFLT civilizuoti:izuoti_izuoja_izãvo
+RFLT civilizuoti:izuoti_izuoja_izavo
 Reflexive? false :: lemma? true
 civilizuoti: 11
 civilizuoja: 11
 civilizãvo: 10
 lemma: civil, nugget: izuo
-izuoti_izuoja_izãvo
+izuoti_izuoja_izavo
 
-This is the infinitive_verb from the outset: cypauti
-This is the stripped_verb from the outset: cypau
 This is the stripped_verb: cypau
 This is the matching_lemma: 
 bundler: failed to load command: exe/verbalyser (exe/verbalyser)

@@ -11,6 +11,7 @@ GEM
     nokogiri (1.7.1)
       mini_portile2 (~> 2.1.0)
     rake (10.5.0)
+    remove_accents (0.0.2)
     rspec (3.5.0)
       rspec-core (~> 3.5.0)
       rspec-expectations (~> 3.5.0)
@@ -32,6 +33,7 @@ DEPENDENCIES
   bundler (~> 1.14)
   nokogiri
   rake (~> 10.0)
+  remove_accents (~> 0.0.2)
   rspec (~> 3.0)
   verbalyser!
 

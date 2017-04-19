@@ -1,1435 +1,1825 @@
-File name of absorbuoti:uoti_úoja_ãvo
-Reflexive? false :: lemma? true
-absorbuoti: 10
-absorbúoja: 10
-absorbãvo: 9
-lemma: absorb, nugget: uo
-uoti_úoja_ãvo
-
-absorbuoti: absorbuoti, absorbúoja, absorbãvo
-No file for this pattern, creating a new one...
-File name of abstrahuoti:uoti_úoja_ãvo
-Reflexive? false :: lemma? true
-abstrahuoti: 11
-abstrahúoja: 11
-abstrahãvo: 10
-lemma: abstrah, nugget: uo
-uoti_úoja_ãvo
-
-abstrahuoti: abstrahuoti, abstrahúoja, abstrahãvo
-File name of abuojėti:uojėti_uojėja_uojėjo
-Reflexive? false :: lemma? true
-abuojėti: 8
-abuojėja: 8
-abuojėjo: 8
-lemma: ab, nugget: uojė
-uojėti_uojėja_uojėjo
-
-abuojėti: abuojėti, abuojėja, abuojėjo
-No file for this pattern, creating a new one...
-File name of adaptuoti:uoti_úoja_ãvo
-Reflexive? false :: lemma? true
-adaptuoti: 9
-adaptúoja: 9
-adaptãvo: 8
-lemma: adapt, nugget: uo
-uoti_úoja_ãvo
-
-adaptuoti: adaptuoti, adaptúoja, adaptãvo
-Reflexive? true :: lemma? true
-adaptuotis: 10
-adaptúojasi: 11
-adaptãvosi: 10
-lemma: adapt, nugget: uo
-uotis_úojasi_ãvosi
-
-adaptuotis: adaptuotis, adaptúojasi, adaptãvosi
-No file for this pattern, creating a new one...
-File name of adinėti:inėti_inėja_inėjo
-Reflexive? false :: lemma? true
-adinėti: 7
-adinėja: 7
-adinėjo: 7
-lemma: ad, nugget: inė
-inėti_inėja_inėjo
-
-adinėti: adinėti, adinėja, adinėjo
-No file for this pattern, creating a new one...
-File name of administruoti:uoti_úoja_ãvo
-Reflexive? false :: lemma? true
-administruoti: 13
-administrúoja: 13
-administrãvo: 12
-lemma: administr, nugget: uo
-uoti_úoja_ãvo
-
-administruoti: administruoti, administrúoja, administrãvo
-File name of adresuoti:uoti_úoja_ãvo
-Reflexive? false :: lemma? true
-adresuoti: 9
-adresúoja: 9
-adresãvo: 8
-lemma: adres, nugget: uo
-uoti_úoja_ãvo
-
-adresuoti: adresuoti, adresúoja, adresãvo
-File name of adyti:yti_o_ė
-File name of badyti:yti_do_dė
-Reflexive? false :: lemma? true
-badyti: 6
-bãdo: 4
-bãdė: 4
-lemma: ad, nugget: y
-yti_do_dė
-
-adyti: badyti, bãdo, bãdė
-No file for this pattern, creating a new one...
-File name of aidėti:ėti_i_ė́jo
-Reflexive? false :: lemma? true
-aidėti: 6
-áidi: 4
-aidė́jo: 7
-lemma: aid, nugget: ė
-ėti_i_ė́jo
-
-aidėti: aidėti, áidi, aidė́jo
-No file for this pattern, creating a new one...
-File name of aikčioti:čioti_čioja_čiojo
-Reflexive? false :: lemma? true
-aikčioti: 8
-áikčioja: 8
-áikčiojo: 8
-lemma: aik, nugget: čio
-čioti_čioja_čiojo
-
-aikčioti: aikčioti, áikčioja, áikčiojo
-No file for this pattern, creating a new one...
-File name of akcentuoti:uoti_úoja_ãvo
-Reflexive? false :: lemma? true
-akcentuoti: 10
-akcentúoja: 10
-akcentãvo: 9
-lemma: akcent, nugget: uo
-uoti_úoja_ãvo
-
-akcentuoti: akcentuoti, akcentúoja, akcentãvo
-File name of akėti:ėti_ė́ja_ė́jo
-Reflexive? false :: lemma? true
-akėti: 5
-akė́ja: 6
-akė́jo: 6
-lemma: ak, nugget: ė
-ėti_ė́ja_ė́jo
-
-akėti: akėti, akė́ja, akė́jo
-No file for this pattern, creating a new one...
-File name of akinti:nti_na_no
-File name of rakinti:nti_ìna_ìno
-Reflexive? false :: lemma? true
-rakinti: 7
-rakìna: 6
-rakìno: 6
-lemma: aki, nugget: n
-nti_ìna_ìno
-
-akinti: rakinti, rakìna, rakìno
-No file for this pattern, creating a new one...
-Reflexive? false :: lemma? false
-plakti: 6
-plãka: 5
-plãkė: 5
-lemma: ak, nugget: 
-akti_ãka_ãkė
-
-akti: plakti, plãka, plãkė
-No file for this pattern, creating a new one...
-File name of aktyvėti:ėti_ė́ja_ė́jo
-Reflexive? false :: lemma? true
-aktyvėti: 8
-aktyvė́ja: 9
-aktyvė́jo: 9
-lemma: aktyv, nugget: ė
-ėti_ė́ja_ė́jo
-
-aktyvėti: aktyvėti, aktyvė́ja, aktyvė́jo
-File name of aktyvinti:inti_ina_ino
-Reflexive? false :: lemma? true
-aktyvinti: 9
-aktỹvina: 8
-aktỹvino: 8
-lemma: aktyv, nugget: in
-inti_ina_ino
-
-aktyvinti: aktyvinti, aktỹvina, aktỹvino
-No file for this pattern, creating a new one...
-File name of aktyvuoti:uoti_uoja_avo
-Reflexive? false :: lemma? true
-aktyvuoti: 9
-aktyvuoja: 9
-aktyvavo: 8
-lemma: aktyv, nugget: uo
-uoti_uoja_avo
-
-aktyvuoti: aktyvuoti, aktyvuoja, aktyvavo
-No file for this pattern, creating a new one...
-Reflexive? false :: lemma? false
-alkti: 5
-álksta: 6
-al̃ko: 5
-lemma: alk, nugget: 
-alkti_álksta_al̃ko
-
-alkti: alkti, álksta, al̃ko
-No file for this pattern, creating a new one...
-Reflexive? false :: lemma? false
-alpti: 5
-al̃psta: 7
-al̃po: 5
-lemma: alp, nugget: 
-alpti_al̃psta_al̃po
-
-alpti: alpti, al̃psta, al̃po
-No file for this pattern, creating a new one...
-File name of alsinti:inti_ìna_ìno
-Reflexive? false :: lemma? true
-alsinti: 7
-alsìna: 6
-alsìno: 6
-lemma: als, nugget: in
-inti_ìna_ìno
-
-alsinti: alsinti, alsìna, alsìno
-No file for this pattern, creating a new one...
-File name of amputuoti:uoti_uoja_ãvo
-Reflexive? false :: lemma? true
-amputuoti: 9
-amputuoja: 9
-amputãvo: 8
-lemma: amput, nugget: uo
-uoti_uoja_ãvo
-
-amputuoti: amputuoti, amputuoja, amputãvo
-No file for this pattern, creating a new one...
-File name of amsėti:ėti_i_ė́jo
-File name of tamsėti:ėti_sė́ja_sė́jo
-Reflexive? false :: lemma? true
-tamsėti: 7
-tamsė́ja: 8
-tamsė́jo: 8
-lemma: ams, nugget: ė
-ėti_sė́ja_sė́jo
-
-amsėti: tamsėti, tamsė́ja, tamsė́jo
-No file for this pattern, creating a new one...
-File name of amžinti:inti_inà_ino
-Reflexive? false :: lemma? true
-amžinti: 7
-amžinà: 6
-ámžino: 6
-lemma: amž, nugget: in
-inti_inà_ino
-
-amžinti: amžinti, amžinà, ámžino
-No file for this pattern, creating a new one...
-File name of analizuoti:uoti_úoja_ãvo
-Reflexive? false :: lemma? true
-analizuoti: 10
-analizúoja: 10
-analizãvo: 9
-lemma: analiz, nugget: uo
-uoti_úoja_ãvo
-
-analizuoti: analizuoti, analizúoja, analizãvo
-File name of aneksuoti:eksuoti_eksúoja_eksãvo
-Reflexive? false :: lemma? true
-aneksuoti: 9
-aneksúoja: 9
-aneksãvo: 8
-lemma: an, nugget: eksuo
-eksuoti_eksúoja_eksãvo
-
-aneksuoti: aneksuoti, aneksúoja, aneksãvo
-No file for this pattern, creating a new one...
-File name of antspauduoti:spauduoti_spaudúoja_spaudãvo
-Reflexive? false :: lemma? true
-antspauduoti: 12
-antspaudúoja: 12
-antspaudãvo: 11
-lemma: ant, nugget: spauduo
-spauduoti_spaudúoja_spaudãvo
-
-antspauduoti: antspauduoti, antspaudúoja, antspaudãvo
-No file for this pattern, creating a new one...
-File name of ardyti:dyti_̃do_̃dė
-File name of nardyti:dyti_rdo_rdė
-File name of tardyti:dyti_rdo_rdė
-File name of tvardyti:dyti_árdo_árdė
-File name of vardyti:dyti_r̃dija_r̃dijo
-Reflexive? false :: lemma? true
-vardyti: 7
-var̃dija: 8
-var̃dijo: 8
-lemma: ar, nugget: dy
-dyti_r̃dija_r̃dijo
-
-ardyti: vardyti, var̃dija, var̃dijo
-No file for this pattern, creating a new one...
-File name of areštuoti:uoti_úoja_ãvo
-Reflexive? false :: lemma? true
-areštuoti: 9
-areštúoja: 9
-areštãvo: 8
-lemma: arešt, nugget: uo
-uoti_úoja_ãvo
-
-areštuoti: areštuoti, areštúoja, areštãvo
-File name of artėti:ėti_ė́ja_ė́jo
-Reflexive? false :: lemma? true
-artėti: 6
-artė́ja: 7
-artė́jo: 7
-lemma: art, nugget: ė
-ėti_ė́ja_ė́jo
-
-artėti: artėti, artė́ja, artė́jo
-Reflexive? false :: lemma? false
-tarti: 5
-tãria: 5
-tãrė: 4
-lemma: ar, nugget: 
-arti_ãria_ãrė
-
-arti: tarti, tãria, tãrė
-No file for this pattern, creating a new one...
-File name of artinti:inti_tina_tino
-Reflexive? false :: lemma? true
-artinti: 7
-ar̃tina: 7
-ar̃tino: 7
-lemma: art, nugget: in
-inti_tina_tino
-
-artinti: artinti, ar̃tina, ar̃tino
-No file for this pattern, creating a new one...
-Reflexive? true :: lemma? true
-artintis: 8
-ar̃tinasi: 9
-ar̃tinosi: 9
-lemma: art, nugget: in
-intis_tinasi_tinosi
-
-artintis: artintis, ar̃tinasi, ar̃tinosi
-No file for this pattern, creating a new one...
-File name of asimiliuoti:iuoti_iúoja_iãvo
-Reflexive? false :: lemma? true
-asimiliuoti: 11
-asimiliúoja: 11
-asimiliãvo: 10
-lemma: asimil, nugget: iuo
-iuoti_iúoja_iãvo
-
-asimiliuoti: asimiliuoti, asimiliúoja, asimiliãvo
-No file for this pattern, creating a new one...
-File name of asmenuoti:enuoti_enúoja_enãvo
-Reflexive? false :: lemma? true
-asmenuoti: 9
-asmenúoja: 9
-asmenãvo: 8
-lemma: asm, nugget: enuo
-enuoti_enúoja_enãvo
-
-asmenuoti: asmenuoti, asmenúoja, asmenãvo
-No file for this pattern, creating a new one...
-File name of asocijuoti:uoti_úoja_avo
-Reflexive? false :: lemma? true
-asocijuoti: 10
-asocijúoja: 10
-asocijavo: 9
-lemma: asocij, nugget: uo
-uoti_úoja_avo
-
-asocijuoti: asocijuoti, asocijúoja, asocijavo
-No file for this pattern, creating a new one...
-File name of audėti:ėti_a_ė́jo
-File name of čiaudėti:ėti_udėja_udėjo
-File name of griaudėti:ėti_audė́ja_audė́jo
-File name of skaudėti:ėti_ũda_udė́jo
-Reflexive? false :: lemma? true
-skaudėti: 8
-skaũda: 6
-skaudė́jo: 9
-lemma: aud, nugget: ė
-ėti_ũda_udė́jo
-
-audėti: skaudėti, skaũda, skaudė́jo
-No file for this pattern, creating a new one...
-File name of auginti:inti_ìna_ìno
-File name of bauginti:inti_gìna_gìno
-File name of dauginti:inti_gina_gino
-File name of rauginti:inti_gìna_gìno
-Reflexive? false :: lemma? true
-rauginti: 8
-raugìna: 7
-raugìno: 7
-lemma: aug, nugget: in
-inti_gìna_gìno
-
-auginti: rauginti, raugìna, raugìno
-No file for this pattern, creating a new one...
-Reflexive? false :: lemma? false
-žliaugti: 8
-žliaũgia: 8
-žliaũgė: 7
-lemma: aug, nugget: 
-iaugti_iaũgia_iaũgė
-
-augti: žliaugti, žliaũgia, žliaũgė
-No file for this pattern, creating a new one...
-File name of auklėti:ėti_ėja_ėjo
-Reflexive? false :: lemma? true
-auklėti: 7
-áuklėja: 7
-áuklėjo: 7
-lemma: aukl, nugget: ė
-ėti_ėja_ėjo
-
-auklėti: auklėti, áuklėja, áuklėjo
-No file for this pattern, creating a new one...
-File name of aukoti:oti_ója_ójo
-Reflexive? false :: lemma? true
-aukoti: 6
-aukója: 6
-aukójo: 6
-lemma: auk, nugget: o
-oti_ója_ójo
-
-aukoti: aukoti, aukója, aukójo
-No file for this pattern, creating a new one...
-Reflexive? true :: lemma? true
-aukotis: 7
-aukója: 6
-aukójo: 6
-lemma: auk, nugget: o
-otis_ója_ójo
-
-aukotis: aukotis, aukója, aukójo
-No file for this pattern, creating a new one...
-File name of aukštinti:inti_ina_ino
-Reflexive? false :: lemma? true
-aukštinti: 9
-áukština: 8
-áukštino: 8
-lemma: aukšt, nugget: in
-inti_ina_ino
-
-aukštinti: aukštinti, áukština, áukštino
-File name of auksuoti:uoti_úoja_ãvo
-Reflexive? false :: lemma? true
-auksuoti: 8
-auksúoja: 8
-auksãvo: 7
-lemma: auks, nugget: uo
-uoti_úoja_ãvo
-
-auksuoti: auksuoti, auksúoja, auksãvo
-Reflexive? false :: lemma? false
-snausti: 7
-snáudžia: 8
-snáudė: 6
-lemma: aus, nugget: 
-austi_áudžia_áudė
-
-austi: snausti, snáudžia, snáudė
-No file for this pattern, creating a new one...
-Reflexive? false :: lemma? false
-šiaušti: 7
-šẽria: 5
-šėrė̃: 5
-lemma: auš, nugget: 
-iaušti_ẽria_ėrė̃
-
-aušti: šiaušti, šẽria, šėrė̃
-No file for this pattern, creating a new one...
-Reflexive? false :: lemma? false
-žvygauti: 8
-žvýgauja: 8
-žvýgavo: 7
-lemma: au, nugget: 
-ygauti_ýgauja_ýgavo
-
-auti: žvygauti, žvýgauja, žvýgavo
-No file for this pattern, creating a new one...
-Reflexive? true :: lemma? false
-vadovautis: 10
-vadováujasi: 11
-vadovãvosi: 10
-lemma: au, nugget: 
-adovautis_adováujasi_adovãvosi
-
-autis: vadovautis, vadováujasi, vadovãvosi
-No file for this pattern, creating a new one...
-File name of automatizuoti:izuoti_izúoja_izavo
-Reflexive? false :: lemma? true
-automatizuoti: 13
-automatizúoja: 13
-automatizavo: 12
-lemma: automat, nugget: izuo
-izuoti_izúoja_izavo
-
-automatizuoti: automatizuoti, automatizúoja, automatizavo
-No file for this pattern, creating a new one...
-File name of avėti:ėti_i_ė́jo
-File name of žavėti:ėti_vi_vė́jo
-Reflexive? false :: lemma? true
-žavėti: 6
-žãvi: 4
-žavė́jo: 7
-lemma: av, nugget: ė
-ėti_vi_vė́jo
-
-avėti: žavėti, žãvi, žavė́jo
-No file for this pattern, creating a new one...
-File name of badauti:auti_áuja_ãvo
-Reflexive? false :: lemma? true
-badauti: 7
-badáuja: 7
-badãvo: 6
-lemma: bad, nugget: au
-auti_áuja_ãvo
-
-badauti: badauti, badáuja, badãvo
-No file for this pattern, creating a new one...
-File name of badyti:yti_o_ė
-Reflexive? false :: lemma? true
-badyti: 6
-bãdo: 4
-bãdė: 4
-lemma: bad, nugget: y
-yti_o_ė
-
-badyti: badyti, bãdo, bãdė
-No file for this pattern, creating a new one...
-File name of baidyti:yti_o_ė
-Reflexive? false :: lemma? true
-baidyti: 7
-baĩdo: 5
-baĩdė: 5
-lemma: baid, nugget: y
-yti_o_ė
-
-baidyti: baidyti, baĩdo, baĩdė
-Reflexive? true :: lemma? true
-baidytis: 8
-baĩdosi: 7
-baĩdėsi: 7
-lemma: baid, nugget: y
-ytis_osi_ėsi
-
-baidytis: baidytis, baĩdosi, baĩdėsi
-No file for this pattern, creating a new one...
-Reflexive? false :: lemma? false
-baigti: 6
-baĩgia: 6
-baĩgė: 5
-lemma: baig, nugget: 
-aigti_aĩgia_aĩgė
-
-baigti: baigti, baĩgia, baĩgė
-No file for this pattern, creating a new one...
-Reflexive? true :: lemma? false
-baigtis: 7
-baĩgiasi: 8
-baĩgėsi: 7
-lemma: baig, nugget: 
-aigtis_aĩgiasi_aĩgėsi
-
-baigtis: baigtis, baĩgiasi, baĩgėsi
-No file for this pattern, creating a new one...
-File name of baiminti:minti_mina_minosi
-Reflexive? false :: lemma? true
-baiminti: 8
-báimina: 7
-báiminosi: 9
-lemma: bai, nugget: min
-minti_mina_minosi
-
-baiminti: baiminti, báimina, báiminosi
-No file for this pattern, creating a new one...
-Reflexive? true :: lemma? true
-baimintis: 9
-báiminasi: 9
-báiminosi: 9
-lemma: bai, nugget: min
-mintis_minasi_minosi
-
-baimintis: baimintis, báiminasi, báiminosi
-No file for this pattern, creating a new one...
-File name of baisėti:ėti_ėja_ėjo
-Reflexive? false :: lemma? true
-baisėti: 7
-baisėja: 7
-baisėjo: 7
-lemma: bais, nugget: ė
-ėti_ėja_ėjo
-
-baisėti: baisėti, baisėja, baisėjo
-Reflexive? true :: lemma? true
-baisėtis: 8
-baĩsisi: 7
-baisė́josi: 10
-lemma: bais, nugget: ė
-ėtis_isi_ė́josi
-
-baisėtis: baisėtis, baĩsisi, baisė́josi
-No file for this pattern, creating a new one...
-File name of bakstelėti:telėti_teli_telėjo
-Reflexive? false :: lemma? true
-bakstelėti: 10
-bãksteli: 8
-bãkstelėjo: 10
-lemma: baks, nugget: telė
-telėti_teli_telėjo
-
-bakstelėti: bakstelėti, bãksteli, bãkstelėjo
-No file for this pattern, creating a new one...
-File name of balansuoti:uoti_úoja_ãvo
-Reflexive? false :: lemma? true
-balansuoti: 10
-balansúoja: 10
-balansãvo: 9
-lemma: balans, nugget: uo
-uoti_úoja_ãvo
-
-balansuoti: balansuoti, balansúoja, balansãvo
-File name of balinti:inti_ina_ino
-Reflexive? false :: lemma? true
-balinti: 7
-bãlina: 6
-bãlino: 6
-lemma: bal, nugget: in
-inti_ina_ino
-
-balinti: balinti, bãlina, bãlino
-File name of balnoti:oti_ója_ójo
-Reflexive? false :: lemma? true
-balnoti: 7
-balnója: 7
-balnójo: 7
-lemma: baln, nugget: o
-oti_ója_ójo
-
-balnoti: balnoti, balnója, balnójo
-File name of balsti:sti_sta_o
-Reflexive? false :: lemma? true
-balsti: 6
-balsta: 6
-bãlo: 4
-lemma: bal, nugget: s
-sti_sta_o
-
-balsti: balsti, balsta, bãlo
-No file for this pattern, creating a new one...
-File name of balsuoti:suoti_súoja_sãvo
-Reflexive? false :: lemma? true
-balsuoti: 8
-balsúoja: 8
-balsãvo: 7
-lemma: bal, nugget: suo
-suoti_súoja_sãvo
-
-balsuoti: balsuoti, balsúoja, balsãvo
-No file for this pattern, creating a new one...
-File name of baltėti:tėti_tėja_tėjo
-Reflexive? false :: lemma? true
-baltėti: 7
-baltėja: 7
-baltėjo: 7
-lemma: bal, nugget: tė
-tėti_tėja_tėjo
-
-baltėti: baltėti, baltėja, baltėjo
-No file for this pattern, creating a new one...
-Reflexive? false :: lemma? false
-žabalti: 7
-žabąla: 6
-žalabo: 6
-lemma: bal, nugget: 
-abalti_abąla_alabo
-
-balti: žabalti, žabąla, žalabo
-No file for this pattern, creating a new one...
-File name of baltinti:tinti_tinà_tino
-Reflexive? false :: lemma? true
-baltinti: 8
-baltinà: 7
-báltino: 7
-lemma: bal, nugget: tin
-tinti_tinà_tino
-
-baltinti: baltinti, baltinà, báltino
-No file for this pattern, creating a new one...
-File name of baltuoti:tuoti_túoja_tãvo
-Reflexive? false :: lemma? true
-baltuoti: 8
-baltúoja: 8
-baltãvo: 7
-lemma: bal, nugget: tuo
-tuoti_túoja_tãvo
-
-baltuoti: baltuoti, baltúoja, baltãvo
-No file for this pattern, creating a new one...
-File name of bandyti:yti_o_ė
-Reflexive? false :: lemma? true
-bandyti: 7
-bañdo: 5
-bañdė: 5
-lemma: band, nugget: y
-yti_o_ė
-
-bandyti: bandyti, bañdo, bañdė
-File name of banguoti:uoti_úoja_ãvo
-Reflexive? false :: lemma? true
-banguoti: 8
-bangúoja: 8
-bangãvo: 7
-lemma: bang, nugget: uo
-uoti_úoja_ãvo
-
-banguoti: banguoti, bangúoja, bangãvo
-File name of bankrutuoti:uoti_úoja_ãvo
-Reflexive? false :: lemma? true
-bankrutuoti: 11
-bankrutúoja: 11
-bankrutãvo: 10
-lemma: bankrut, nugget: uo
-uoti_úoja_ãvo
-
-bankrutuoti: bankrutuoti, bankrutúoja, bankrutãvo
-File name of barškinti:inti_ina_ino
-Reflexive? false :: lemma? true
-barškinti: 9
-bárškina: 8
-bárškino: 8
-lemma: baršk, nugget: in
-inti_ina_ino
-
-barškinti: barškinti, bárškina, bárškino
-File name of barstyti:styti_̃sto_̃stė
-Reflexive? false :: lemma? true
-barstyti: 8
-bar̃sto: 7
-bar̃stė: 7
-lemma: bar, nugget: sty
-styti_̃sto_̃stė
-
-barstyti: barstyti, bar̃sto, bar̃stė
-No file for this pattern, creating a new one...
-Reflexive? true :: lemma? true
-barstytis: 9
-bar̃stosi: 9
-bar̃stėsi: 9
-lemma: bar, nugget: sty
-stytis_̃stosi_̃stėsi
-
-barstytis: barstytis, bar̃stosi, bar̃stėsi
-No file for this pattern, creating a new one...
-Reflexive? false :: lemma? false
-barti: 5
-bãra: 4
-bãrė: 4
-lemma: bar, nugget: 
-arti_ãra_ãrė
-
-barti: barti, bãra, bãrė
-No file for this pattern, creating a new one...
-Reflexive? true :: lemma? false
-bartis: 6
-bãrasi: 6
-bãrėsi: 6
-lemma: bar, nugget: 
-artis_ãrasi_ãrėsi
-
-bartis: bartis, bãrasi, bãrėsi
-No file for this pattern, creating a new one...
-File name of bauginti:inti_ìna_ìno
-Reflexive? false :: lemma? true
-bauginti: 8
-baugìna: 7
-baugìno: 7
-lemma: baug, nugget: in
-inti_ìna_ìno
-
-bauginti: bauginti, baugìna, baugìno
-Reflexive? false :: lemma? false
-bausti: 6
-baũdžia: 7
-baũdė: 5
-lemma: baus, nugget: 
-austi_aũdžia_aũdė
-
-bausti: bausti, baũdžia, baũdė
-No file for this pattern, creating a new one...
-File name of bėginėti:inėti_inė́ja_inė́ja
-Reflexive? false :: lemma? true
-bėginėti: 8
-bėginė́ja: 9
-bėginė́ja: 9
-lemma: bėg, nugget: inė
-inėti_inė́ja_inė́ja
-
-bėginėti: bėginėti, bėginė́ja, bėginė́ja
-No file for this pattern, creating a new one...
-File name of bėgioti:ioti_iója_iójo
-Reflexive? false :: lemma? true
-bėgioti: 7
-bėgiója: 7
-bėgiójo: 7
-lemma: bėg, nugget: io
-ioti_iója_iójo
-
-bėgioti: bėgioti, bėgiója, bėgiójo
-No file for this pattern, creating a new one...
-Reflexive? false :: lemma? false
-bėgti: 5
-bė́ga: 5
-bė́go: 5
-lemma: bėg, nugget: 
-ėgti_ė́ga_ė́go
-
-bėgti: bėgti, bė́ga, bė́go
-No file for this pattern, creating a new one...
-File name of bidzenti:dzenti_zdena_zdeno
-Reflexive? false :: lemma? true
-bidzenti: 8
-bizdena: 7
-bizdeno: 7
-lemma: bi, nugget: dzen
-dzenti_zdena_zdeno
-
-bidzenti: bidzenti, bizdena, bizdeno
-No file for this pattern, creating a new one...
-File name of bijoti:oti_o_ójo
-Reflexive? false :: lemma? true
-bijoti: 6
-bìjo: 4
-bijójo: 6
-lemma: bij, nugget: o
-oti_o_ójo
-
-bijoti: bijoti, bìjo, bijójo
-No file for this pattern, creating a new one...
-Reflexive? false :: lemma? false
-birbti: 6
-bir̃bia: 7
-bir̃bė: 6
-lemma: birb, nugget: 
-irbti_ir̃bia_ir̃bė
-
-birbti: birbti, bir̃bia, bir̃bė
-No file for this pattern, creating a new one...
-Reflexive? false :: lemma? false
-birti: 5
-bỹra: 4
-bìro: 4
-lemma: bir, nugget: 
-irti_ỹra_
-
-birti: birti, bỹra, bìro
-No file for this pattern, creating a new one...
-Reflexive? true :: lemma? true
-bjaurėtis: 9
-bjaũrisi: 8
-bjaurė́josi: 11
-lemma: bjaur, nugget: ė
-ėtis_isi_ė́josi
-
-bjaurėtis: bjaurėtis, bjaũrisi, bjaurė́josi
-File name of bjurti:jurti_jursta_jùro
-Reflexive? false :: lemma? true
-bjurti: 6
-bjursta: 7
-bjùro: 5
-lemma: b, nugget: jur
-jurti_jursta_jùro
-
-bjurti: bjurti, bjursta, bjùro
-No file for this pattern, creating a new one...
-Reflexive? false :: lemma? false
-blankti: 7
-blañksta: 8
-blánko: 6
-lemma: blank, nugget: 
-ankti_añksta_ánko
-
-blankti: blankti, blañksta, blánko
-No file for this pattern, creating a new one...
-File name of blaškyti:yti_o_ė
-Reflexive? false :: lemma? true
-blaškyti: 8
-blãško: 6
-blãškė: 6
-lemma: blašk, nugget: y
-yti_o_ė
-
-blaškyti: blaškyti, blãško, blãškė
-Reflexive? true :: lemma? true
-blaškytis: 9
-blãškosi: 8
-blãškėsi: 8
-lemma: blašk, nugget: y
-ytis_osi_ėsi
-
-blaškytis: blaškytis, blãškosi, blãškėsi
-File name of blefuoti:lefuoti_lefuoja_lefavo
-Reflexive? false :: lemma? true
-blefuoti: 8
-blefuoja: 8
-blefavo: 7
-lemma: b, nugget: lefuo
-lefuoti_lefuoja_lefavo
-
-blefuoti: blefuoti, blefuoja, blefavo
-No file for this pattern, creating a new one...
-File name of blęsti:lęsti_leñdžia_leñdė
-Reflexive? false :: lemma? true
-blęsti: 6
-bleñdžia: 8
-bleñdė: 6
-lemma: b, nugget: lęs
-lęsti_leñdžia_leñdė
-
-blęsti: blęsti, bleñdžia, bleñdė
-No file for this pattern, creating a new one...
-File name of blizgėti:ėti_a_ė́jo
-Reflexive? false :: lemma? true
-blizgėti: 8
-blìzga: 6
-blizgė́jo: 9
-lemma: blizg, nugget: ė
-ėti_a_ė́jo
-
-blizgėti: blizgėti, blìzga, blizgė́jo
-No file for this pattern, creating a new one...
-File name of blizginti:inti_ina_ino
-Reflexive? false :: lemma? true
-blizginti: 9
-blìzgina: 8
-blìzgino: 8
-lemma: blizg, nugget: in
-inti_ina_ino
-
-blizginti: blizginti, blìzgina, blìzgino
-File name of blogėti:ėti_ė́ja_ė́jo
-Reflexive? false :: lemma? true
-blogėti: 7
-blogė́ja: 8
-blogė́jo: 8
-lemma: blog, nugget: ė
-ėti_ė́ja_ė́jo
-
-blogėti: blogėti, blogė́ja, blogė́jo
-File name of bloginti:inti_ina_ino
-Reflexive? false :: lemma? true
-bloginti: 8
-blõgina: 7
-blõgino: 7
-lemma: blog, nugget: in
-inti_ina_ino
-
-bloginti: bloginti, blõgina, blõgino
-Reflexive? false :: lemma? false
-blogti: 6
-blogsta: 7
-blõgo: 5
-lemma: blog, nugget: 
-i_a_
-
-blogti: blogti, blogsta, blõgo
-No file for this pattern, creating a new one...
-Reflexive? false :: lemma? false
-blokšti: 7
-blõškia: 7
-blõškė: 6
-lemma: blokš, nugget: 
-i_ia_ė
-
-blokšti: blokšti, blõškia, blõškė
-No file for this pattern, creating a new one...
-File name of blokuoti:uoti_úoja_ãvo
-Reflexive? false :: lemma? true
-blokuoti: 8
-blokúoja: 8
-blokãvo: 7
-lemma: blok, nugget: uo
-uoti_úoja_ãvo
-
-blokuoti: blokuoti, blokúoja, blokãvo
-File name of blukinti:inti_ina_ino
-Reflexive? false :: lemma? true
-blukinti: 8
-blùkina: 7
-blukino: 7
-lemma: bluk, nugget: in
-inti_ina_ino
-
-blukinti: blukinti, blùkina, blukino
-Reflexive? false :: lemma? false
-blukti: 6
-bluñka: 6
-blùko: 5
-lemma: bluk, nugget: 
-ukti_uñka_
-
-blukti: blukti, bluñka, blùko
-No file for this pattern, creating a new one...
-Reflexive? false :: lemma? false
-blykšti: 7
-blỹkšta: 7
-blỹško: 6
-lemma: blykš, nugget: 
-ykšti_ỹkšta_ỹško
-
-blykšti: blykšti, blỹkšta, blỹško
-No file for this pattern, creating a new one...
-File name of bodėti:ėti_i_ėjo
-Reflexive? false :: lemma? true
-bodėti: 6
-bõdi: 4
-bodėjo: 6
-lemma: bod, nugget: ė
-ėti_i_ėjo
-
-bodėti: bodėti, bõdi, bodėjo
-No file for this pattern, creating a new one...
-File name of boluoti:uoti_úoja_ãvo
-Reflexive? false :: lemma? true
-boluoti: 7
-bolúoja: 7
-bolãvo: 6
-lemma: bol, nugget: uo
-uoti_úoja_ãvo
-
-boluoti: boluoti, bolúoja, bolãvo
-File name of bombarduoti:uoti_úoja_ãvo
-Reflexive? false :: lemma? true
-bombarduoti: 11
-bombardúoja: 11
-bombardãvo: 10
-lemma: bombard, nugget: uo
-uoti_úoja_ãvo
-
-bombarduoti: bombarduoti, bombardúoja, bombardãvo
-File name of braidyti:yti_o_ė
-Reflexive? false :: lemma? true
-braidyti: 8
-braĩdo: 6
-braĩdė: 6
-lemma: braid, nugget: y
-yti_o_ė
-
-braidyti: braidyti, braĩdo, braĩdė
-File name of braižyti:yti_o_ė
-Reflexive? false :: lemma? true
-braižyti: 8
-braĩžo: 6
-braĩžė: 6
-lemma: braiž, nugget: y
-yti_o_ė
-
-braižyti: braižyti, braĩžo, braĩžė
-File name of brandinti:inti_ìna_ìno
-Reflexive? false :: lemma? true
-brandinti: 9
-brandìna: 8
-brandìno: 8
-lemma: brand, nugget: in
-inti_ìna_ìno
-
-brandinti: brandinti, brandìna, brandìno
-File name of branginti:inti_ìna_ìno
-Reflexive? false :: lemma? true
-branginti: 9
-brangìna: 8
-brangìno: 8
-lemma: brang, nugget: in
-inti_ìna_ìno
-
-branginti: branginti, brangìna, brangìno
-Reflexive? false :: lemma? false
-brangti: 7
-brángsta: 8
-brángo: 6
-lemma: brang, nugget: 
-angti_ángsta_ángo
-
-brangti: brangti, brángsta, brángo
-No file for this pattern, creating a new one...
-Reflexive? false :: lemma? false
-braukti: 7
-braũkia: 7
-braũkė: 6
-lemma: brauk, nugget: 
-aukti_aũkia_aũkė
-
-braukti: braukti, braũkia, braũkė
-No file for this pattern, creating a new one...
-File name of braukyti:yti_o_ė
-Reflexive? false :: lemma? true
-braukyti: 8
-braũko: 6
-braũkė: 6
-lemma: brauk, nugget: y
-yti_o_ė
-
-braukyti: braukyti, braũko, braũkė
-Reflexive? true :: lemma? false
-brautis: 7
-bráunasi: 8
-bróvėsi: 7
-lemma: brau, nugget: 
-autis_áunasi_ėsi
-
-brautis: brautis, bráunasi, bróvėsi
-No file for this pattern, creating a new one...
-File name of brazdėti:razdėti_rãzda_razdė́jo
-Reflexive? false :: lemma? true
-brazdėti: 8
-brãzda: 6
-brazdė́jo: 9
-lemma: b, nugget: razdė
-razdėti_rãzda_razdė́jo
-
-brazdėti: brazdėti, brãzda, brazdė́jo
-No file for this pattern, creating a new one...
-File name of bręsti:sti_́sta_ndo
-Reflexive? false :: lemma? true
-bręsti: 6
-brę́sta: 7
-bréndo: 6
-lemma: brę, nugget: s
-sti_́sta_ndo
-
-bręsti: bręsti, brę́sta, bréndo
-No file for this pattern, creating a new one...
-Reflexive? false :: lemma? false
-brėžti: 6
-brė́žia: 7
-brė́žė: 6
-lemma: brėž, nugget: 
-ėžti_ė́žia_ė́žė
-
-brėžti: brėžti, brė́žia, brė́žė
-No file for this pattern, creating a new one...
-Reflexive? false :: lemma? false
-brinkti: 7
-brìnksta: 8
-brìnko: 6
-lemma: brink, nugget: 
-inkti_a_
-
-brinkti: brinkti, brìnksta, brìnko
-No file for this pattern, creating a new one...
-Reflexive? false :: lemma? false
-bristi: 6
-breñda: 6
-brìdo: 5
-lemma: bris, nugget: 
-isti_eñda_
-
-bristi: bristi, breñda, brìdo
-No file for this pattern, creating a new one...
-Reflexive? false :: lemma? false
-brukti: 6
-brunka: 6
-brùko: 5
-lemma: bruk, nugget: 
-ukti_unka_
-
-brukti: brukti, brunka, brùko
-No file for this pattern, creating a new one...
-File name of brūžinti:inti_žina_žino
-Reflexive? false :: lemma? true
-brūžinti: 8
-brū́žina: 8
-brū́žino: 8
-lemma: brūž, nugget: in
-inti_žina_žino
-
-brūžinti: brūžinti, brū́žina, brū́žino
-No file for this pattern, creating a new one...
-File name of bučiuoti:iuoti_iúoja_iãvo
-Reflexive? false :: lemma? true
-bučiuoti: 8
-bučiúoja: 8
-bučiãvo: 7
-lemma: buč, nugget: iuo
-iuoti_iúoja_iãvo
-
-bučiuoti: bučiuoti, bučiúoja, bučiãvo
-Reflexive? true :: lemma? true
-bučiuotis: 9
-bučiúojasi: 10
-bučiãvosi: 9
-lemma: buč, nugget: iuo
-iuotis_iúojasi_iãvosi
-
-bučiuotis: bučiuotis, bučiúojasi, bučiãvosi
-No file for this pattern, creating a new one...
-File name of budėti:ėti_i_ė́jo
-Reflexive? false :: lemma? true
-budėti: 6
-bùdi: 4
-budė́jo: 7
-lemma: bud, nugget: ė
-ėti_i_ė́jo
-
-budėti: budėti, bùdi, budė́jo
-File name of budinti:inti_ina_ino
-Reflexive? false :: lemma? true
-budinti: 7
-bùdina: 6
-bùdino: 6
-lemma: bud, nugget: in
-inti_ina_ino
-
-budinti: budinti, bùdina, bùdino
-File name of būgštauti:štauti_gtauja_gštavo
-Reflexive? false :: lemma? true
-būgštauti: 9
-būšgtauja: 9
-bū́gštavo: 9
-lemma: būg, nugget: štau
-štauti_gtauja_gštavo
-
-būgštauti: būgštauti, būšgtauja, bū́gštavo
-No file for this pattern, creating a new one...
-File name of bujoti:oti_ója_ójo
-Reflexive? false :: lemma? true
-bujoti: 6
-bujója: 6
-bujójo: 6
-lemma: buj, nugget: o
-oti_ója_ójo
-
-bujoti: bujoti, bujója, bujójo
-File name of burbėti:ėti_a_ė́jo
-Reflexive? false :: lemma? true
-burbėti: 7
-bùrba: 5
-burbė́jo: 8
-lemma: burb, nugget: ė
-ėti_a_ė́jo
-
-burbėti: burbėti, bùrba, burbė́jo
-File name of burbuliuoti:uliuoti_uliúoja_uliãvo
-Reflexive? false :: lemma? true
-burbuliuoti: 11
-burbuliúoja: 11
-burbuliãvo: 10
-lemma: burb, nugget: uliuo
-uliuoti_uliúoja_uliãvo
-
-burbuliuoti: burbuliuoti, burbuliúoja, burbuliãvo
-No file for this pattern, creating a new one...
-File name of buriuoti:iuoti_iúoja_iãvo
-Reflexive? false :: lemma? true
-buriuoti: 8
-buriúoja: 8
-buriãvo: 7
-lemma: bur, nugget: iuo
-iuoti_iúoja_iãvo
-
-buriuoti: buriuoti, buriúoja, buriãvo
-File name of būriuoti:iuoti_iúoja_iãvo
-Reflexive? false :: lemma? true
-būriuoti: 8
-buriúoja: 8
-buriãvo: 7
-lemma: būr, nugget: iuo
-iuoti_iúoja_iãvo
-
-būriuoti: būriuoti, buriúoja, buriãvo
-Reflexive? false :: lemma? false
-burti: 5
-bùria: 5
-bū́rė: 5
-lemma: bur, nugget: 
-urti_ia_ū́rė
-
-burti: burti, bùria, bū́rė
-No file for this pattern, creating a new one...
-Reflexive? false :: lemma? false
-busti: 5
-buñda: 5
-bùdo: 4
-lemma: bus, nugget: 
-usti_uñda_
-
-busti: busti, buñda, bùdo
-No file for this pattern, creating a new one...
-Reflexive? false :: lemma? false
-tebebūti: 8
-tebebū̃na: 9
-tebebùvo: 8
-lemma: bū, nugget: 
-ebebūti_ebebū̃na_ebebùvo
-
-būti: tebebūti, tebebū̃na, tebebùvo
-No file for this pattern, creating a new one...
-File name of buvoti:oti_ója_ójo
-Reflexive? false :: lemma? true
-buvoti: 6
-buvója: 6
-buvójo: 6
-lemma: buv, nugget: o
-oti_ója_ójo
-
-buvoti: buvoti, buvója, buvójo
-Reflexive? true :: lemma? true
-bylinėtis: 9
-bylinė́jasi: 11
-bylinė́josi: 11
-lemma: byl, nugget: inė
-inėtis_inė́jasi_inė́josi
-
-bylinėtis: bylinėtis, bylinė́jasi, bylinė́josi
-No file for this pattern, creating a new one...
-File name of byloti:oti_ója_ójo
-Reflexive? false :: lemma? true
-byloti: 6
-bylója: 6
-bylójo: 6
-lemma: byl, nugget: o
-oti_ója_ójo
-
-byloti: byloti, bylója, bylójo
-File name of byrėti:ėti_a_ė́jo
-Reflexive? false :: lemma? true
-byrėti: 6
-bỹra: 4
-byrė́jo: 7
-lemma: byr, nugget: ė
-ėti_a_ė́jo
-
-byrėti: byrėti, bỹra, byrė́jo
-File name of čežėti:ėti_a_ė́jo
-Reflexive? false :: lemma? true
-čežėti: 6
-čẽža: 4
-čežė́jo: 7
-lemma: čež, nugget: ė
-ėti_a_ė́jo
-
-čežėti: čežėti, čẽža, čežė́jo
-Reflexive? false :: lemma? false
-čežti: 5
-čęžta: 5
-čežo: 4
-lemma: čež, nugget: 
-ežti_ęžta_ežo
-
-čežti: čežti, čęžta, čežo
-No file for this pattern, creating a new one...
-File name of čiaudėti:ėti_ėja_ėjo
-Reflexive? false :: lemma? true
-čiaudėti: 8
-čiáudėja: 8
-čiáudėjo: 8
-lemma: čiaud, nugget: ė
-ėti_ėja_ėjo
-
-čiaudėti: čiaudėti, čiáudėja, čiáudėjo
-File name of čiauškėti:ėti_a_ė́jo
-Reflexive? false :: lemma? true
-čiauškėti: 9
-čiáuška: 7
-čiauškė́jo: 10
-lemma: čiaušk, nugget: ė
-ėti_a_ė́jo
-
-čiauškėti: čiauškėti, čiáuška, čiauškė́jo
-File name of čiaužti:užti_užia_užė
-Reflexive? false :: lemma? true
-čiaužti: 7
-čiaužia: 7
-čiaužė: 6
-lemma: čia, nugget: už
-užti_užia_užė
-
-čiaužti: čiaužti, čiaužia, čiaužė
-No file for this pattern, creating a new one...
-File name of čirpėti:ėti_a_ėjo
-Reflexive? false :: lemma? true
-čirpėti: 7
-čirpa: 5
-čirpėjo: 7
-lemma: čirp, nugget: ė
-ėti_a_ėjo
-
-čirpėti: čirpėti, čirpa, čirpėjo
-No file for this pattern, creating a new one...
-File name of cituoti:uoti_úoja_ãvo
-Reflexive? false :: lemma? true
-cituoti: 7
-citúoja: 7
-citãvo: 6
-lemma: cit, nugget: uo
-uoti_úoja_ãvo
-
-cituoti: cituoti, citúoja, citãvo
-File name of čiulbėti:ėti_a_ė́jo
-Reflexive? false :: lemma? true
-čiulbėti: 8
-čiùlba: 6
-čiulbė́jo: 9
-lemma: čiulb, nugget: ė
-ėti_a_ė́jo
-
-čiulbėti: čiulbėti, čiùlba, čiulbė́jo
-Reflexive? false :: lemma? false
-čiulpti: 7
-čiul̃pia: 8
-čiul̃pė: 7
-lemma: čiulp, nugget: 
-iulpti_iul̃pia_iul̃pė
-
-čiulpti: čiulpti, čiul̃pia, čiul̃pė
-No file for this pattern, creating a new one...
-File name of čiuožinėti:inėti_inė́ja_inė́ja
-Reflexive? false :: lemma? true
-čiuožinėti: 10
-čiuožinė́ja: 11
-čiuožinė́ja: 11
-lemma: čiuož, nugget: inė
-inėti_inė́ja_inė́ja
-
-čiuožinėti: čiuožinėti, čiuožinė́ja, čiuožinė́ja
-Reflexive? false :: lemma? false
-čiuožti: 7
-čiuõžia: 7
-čiuõžė: 6
-lemma: čiuož, nugget: 
-iuožti_iuõžia_iuõžė
-
-čiuožti: čiuožti, čiuõžia, čiuõžė
-No file for this pattern, creating a new one...
-Reflexive? false :: lemma? false
-čiupti: 6
-čiupa: 5
-čiùpo: 5
-lemma: čiup, nugget: 
-iupti_iupa_iùpo
-
-čiupti: čiupti, čiupa, čiùpo
-No file for this pattern, creating a new one...
-File name of civilizuoti:izuoti_izuoja_izãvo
-Reflexive? false :: lemma? true
-civilizuoti: 11
-civilizuoja: 11
-civilizãvo: 10
-lemma: civil, nugget: izuo
-izuoti_izuoja_izãvo
-
-civilizuoti: civilizuoti, civilizuoja, civilizãvo
-No file for this pattern, creating a new one...
+infinitive_verb: absorbuoti
+stripped_verb: absorbuo
+matching_lemma: absorb
+nugget: uo
+nugget_in: 
+nugget_n: 
+verb_array[0]: absorbuoti
+present3_slice: sorbúoja
+past3_slice: sorbãvo
+
+**************************************
+
+infinitive_verb: abstrahuoti
+stripped_verb: abstrahuo
+matching_lemma: abstrah
+nugget: uo
+nugget_in: 
+nugget_n: 
+verb_array[0]: abstrahuoti
+present3_slice: bstrahúoja
+past3_slice: bstrahãvo
+
+**************************************
+
+infinitive_verb: abuojėti
+stripped_verb: abuojė
+matching_lemma: ab
+nugget: uojė
+nugget_in: 
+nugget_n: 
+verb_array[0]: abuojėti
+present3_slice: ėja
+past3_slice: jo
+
+**************************************
+
+infinitive_verb: adaptuoti
+stripped_verb: adaptuo
+matching_lemma: adapt
+nugget: uo
+nugget_in: 
+nugget_n: 
+verb_array[0]: adaptuoti
+present3_slice: daptúoja
+past3_slice: daptãvo
+
+**************************************
+
+infinitive_verb: adaptuotis
+stripped_verb: adaptuo
+matching_lemma: adapt
+nugget: uo
+nugget_in: 
+nugget_n: 
+verb_array[0]: adaptuotis
+present3_slice: daptúojasi
+past3_slice: daptãvosi
+
+**************************************
+
+infinitive_verb: adinėti
+stripped_verb: adinė
+matching_lemma: ad
+nugget: inė
+nugget_in: 
+nugget_n: 
+verb_array[0]: adinėti
+present3_slice: nėja
+past3_slice: nėjo
+
+**************************************
+
+infinitive_verb: administruoti
+stripped_verb: administruo
+matching_lemma: administr
+nugget: uo
+nugget_in: 
+nugget_n: 
+verb_array[0]: administruoti
+present3_slice: dministrúoja
+past3_slice: dministrãvo
+
+**************************************
+
+infinitive_verb: adresuoti
+stripped_verb: adresuo
+matching_lemma: adres
+nugget: uo
+nugget_in: 
+nugget_n: 
+verb_array[0]: adresuoti
+present3_slice: dresúoja
+past3_slice: dresãvo
+
+**************************************
+
+infinitive_verb: adyti
+stripped_verb: ady
+matching_lemma: ad
+nugget: y
+nugget_in: 
+nugget_n: 
+verb_array[0]: adyti
+present3_slice: ãdo
+past3_slice: ãdė
+
+**************************************
+
+infinitive_verb: aidėti
+stripped_verb: aidė
+matching_lemma: aid
+nugget: ė
+nugget_in: 
+nugget_n: 
+verb_array[0]: aidėti
+present3_slice: áidi
+past3_slice: idė́jo
+
+**************************************
+
+infinitive_verb: aikčioti
+stripped_verb: aikčio
+matching_lemma: aik
+nugget: čio
+nugget_in: 
+nugget_n: 
+verb_array[0]: aikčioti
+present3_slice: ioja
+past3_slice: ojo
+
+**************************************
+
+infinitive_verb: akcentuoti
+stripped_verb: akcentuo
+matching_lemma: akcent
+nugget: uo
+nugget_in: 
+nugget_n: 
+verb_array[0]: akcentuoti
+present3_slice: kcentúoja
+past3_slice: kcentãvo
+
+**************************************
+
+infinitive_verb: akėti
+stripped_verb: akė
+matching_lemma: ak
+nugget: ė
+nugget_in: 
+nugget_n: 
+verb_array[0]: akėti
+present3_slice: kė́ja
+past3_slice: kė́jo
+
+**************************************
+
+infinitive_verb: akinti
+stripped_verb: akin
+matching_lemma: aki
+nugget: in
+nugget_in: false
+nugget_n: 
+verb_array[0]: akinti
+present3_slice: ina
+past3_slice: ino
+
+**************************************
+
+infinitive_verb: akti
+stripped_verb: ak
+matching_lemma: ak
+nugget: 
+nugget_in: false
+nugget_n: 
+verb_array[0]: akti
+present3_slice: añka
+past3_slice: ãko
+
+**************************************
+
+infinitive_verb: aktyvėti
+stripped_verb: aktyvė
+matching_lemma: aktyv
+nugget: ė
+nugget_in: false
+nugget_n: 
+verb_array[0]: aktyvėti
+present3_slice: ktyvė́ja
+past3_slice: ktyvė́jo
+
+**************************************
+
+infinitive_verb: aktyvinti
+stripped_verb: aktyvin
+matching_lemma: aktyv
+nugget: vin
+nugget_in: false
+nugget_n: 
+verb_array[0]: aktyvinti
+present3_slice: ỹvina
+past3_slice: ỹvino
+
+**************************************
+
+infinitive_verb: aktyvuoti
+stripped_verb: aktyvuo
+matching_lemma: aktyv
+nugget: uo
+nugget_in: false
+nugget_n: 
+verb_array[0]: aktyvuoti
+present3_slice: tyvuoja
+past3_slice: ktyvavo
+
+**************************************
+
+infinitive_verb: alkti
+stripped_verb: alk
+matching_lemma: alk
+nugget: 
+nugget_in: false
+nugget_n: 
+verb_array[0]: alkti
+present3_slice: álksta
+past3_slice: al̃ko
+
+**************************************
+
+infinitive_verb: alpti
+stripped_verb: alp
+matching_lemma: alp
+nugget: 
+nugget_in: false
+nugget_n: 
+verb_array[0]: alpti
+present3_slice: al̃psta
+past3_slice: al̃po
+
+**************************************
+
+infinitive_verb: alsinti
+stripped_verb: alsin
+matching_lemma: als
+nugget: sin
+nugget_in: false
+nugget_n: 
+verb_array[0]: alsinti
+present3_slice: sìna
+past3_slice: sìno
+
+**************************************
+
+infinitive_verb: amputuoti
+stripped_verb: amputuo
+matching_lemma: amput
+nugget: uo
+nugget_in: false
+nugget_n: 
+verb_array[0]: amputuoti
+present3_slice: utuoja
+past3_slice: putãvo
+
+**************************************
+
+infinitive_verb: amsėti
+stripped_verb: amsė
+matching_lemma: ams
+nugget: ė
+nugget_in: false
+nugget_n: 
+verb_array[0]: amsėti
+present3_slice: ámsi
+past3_slice: msė́jo
+
+**************************************
+
+infinitive_verb: amžinti
+stripped_verb: amžin
+matching_lemma: amž
+nugget: žin
+nugget_in: false
+nugget_n: 
+verb_array[0]: amžinti
+present3_slice: inà
+past3_slice: ino
+
+**************************************
+
+infinitive_verb: analizuoti
+stripped_verb: analizuo
+matching_lemma: analiz
+nugget: uo
+nugget_in: false
+nugget_n: 
+verb_array[0]: analizuoti
+present3_slice: nalizúoja
+past3_slice: nalizãvo
+
+**************************************
+
+infinitive_verb: aneksuoti
+stripped_verb: aneksuo
+matching_lemma: an
+nugget: eksuo
+nugget_in: false
+nugget_n: 
+verb_array[0]: aneksuoti
+present3_slice: súoja
+past3_slice: sãvo
+
+**************************************
+
+infinitive_verb: antspauduoti
+stripped_verb: antspauduo
+matching_lemma: ant
+nugget: spauduo
+nugget_in: false
+nugget_n: 
+verb_array[0]: antspauduoti
+present3_slice: úoja
+past3_slice: dãvo
+
+**************************************
+
+infinitive_verb: ardyti
+stripped_verb: ardy
+matching_lemma: ar
+nugget: dy
+nugget_in: false
+nugget_n: 
+verb_array[0]: ardyti
+present3_slice: r̃do
+past3_slice: r̃dė
+
+**************************************
+
+infinitive_verb: areštuoti
+stripped_verb: areštuo
+matching_lemma: arešt
+nugget: uo
+nugget_in: false
+nugget_n: 
+verb_array[0]: areštuoti
+present3_slice: reštúoja
+past3_slice: reštãvo
+
+**************************************
+
+infinitive_verb: artėti
+stripped_verb: artė
+matching_lemma: art
+nugget: ė
+nugget_in: false
+nugget_n: 
+verb_array[0]: artėti
+present3_slice: rtė́ja
+past3_slice: rtė́jo
+
+**************************************
+
+infinitive_verb: arti
+stripped_verb: ar
+matching_lemma: ar
+nugget: 
+nugget_in: false
+nugget_n: 
+verb_array[0]: arti
+present3_slice: ãria
+past3_slice: ãrė
+
+**************************************
+
+infinitive_verb: artinti
+stripped_verb: artin
+matching_lemma: art
+nugget: tin
+nugget_in: false
+nugget_n: 
+verb_array[0]: artinti
+present3_slice: tina
+past3_slice: tino
+
+**************************************
+
+infinitive_verb: artintis
+stripped_verb: artin
+matching_lemma: art
+nugget: tin
+nugget_in: false
+nugget_n: 
+verb_array[0]: artintis
+present3_slice: inasi
+past3_slice: inosi
+
+**************************************
+
+infinitive_verb: asimiliuoti
+stripped_verb: asimiliuo
+matching_lemma: asimil
+nugget: iuo
+nugget_in: false
+nugget_n: 
+verb_array[0]: asimiliuoti
+present3_slice: iliúoja
+past3_slice: iliãvo
+
+**************************************
+
+infinitive_verb: asmenuoti
+stripped_verb: asmenuo
+matching_lemma: asm
+nugget: enuo
+nugget_in: false
+nugget_n: 
+verb_array[0]: asmenuoti
+present3_slice: enúoja
+past3_slice: enãvo
+
+**************************************
+
+infinitive_verb: asocijuoti
+stripped_verb: asocijuo
+matching_lemma: asocij
+nugget: uo
+nugget_in: false
+nugget_n: 
+verb_array[0]: asocijuoti
+present3_slice: ocijúoja
+past3_slice: ocijavo
+
+**************************************
+
+infinitive_verb: audėti
+stripped_verb: audė
+matching_lemma: aud
+nugget: ė
+nugget_in: false
+nugget_n: 
+verb_array[0]: audėti
+present3_slice: auda
+past3_slice: udė́jo
+
+**************************************
+
+infinitive_verb: auginti
+stripped_verb: augin
+matching_lemma: aug
+nugget: gin
+nugget_in: false
+nugget_n: 
+verb_array[0]: auginti
+present3_slice: gìna
+past3_slice: gìno
+
+**************************************
+
+infinitive_verb: augti
+stripped_verb: aug
+matching_lemma: aug
+nugget: 
+nugget_in: false
+nugget_n: 
+verb_array[0]: augti
+present3_slice: áuga
+past3_slice: áugo
+
+**************************************
+
+infinitive_verb: auklėti
+stripped_verb: auklė
+matching_lemma: aukl
+nugget: ė
+nugget_in: false
+nugget_n: 
+verb_array[0]: auklėti
+present3_slice: uklėja
+past3_slice: uklėjo
+
+**************************************
+
+infinitive_verb: aukoti
+stripped_verb: auko
+matching_lemma: auk
+nugget: o
+nugget_in: false
+nugget_n: 
+verb_array[0]: aukoti
+present3_slice: aukója
+past3_slice: ukójo
+
+**************************************
+
+infinitive_verb: aukotis
+stripped_verb: auko
+matching_lemma: auk
+nugget: o
+nugget_in: false
+nugget_n: 
+verb_array[0]: aukotis
+present3_slice: aukója
+past3_slice: ukójo
+
+**************************************
+
+infinitive_verb: aukštinti
+stripped_verb: aukštin
+matching_lemma: aukšt
+nugget: tin
+nugget_in: false
+nugget_n: 
+verb_array[0]: aukštinti
+present3_slice: ština
+past3_slice: štino
+
+**************************************
+
+infinitive_verb: auksuoti
+stripped_verb: auksuo
+matching_lemma: auks
+nugget: uo
+nugget_in: false
+nugget_n: 
+verb_array[0]: auksuoti
+present3_slice: ksúoja
+past3_slice: ksãvo
+
+**************************************
+
+infinitive_verb: austi
+stripped_verb: aus
+matching_lemma: aus
+nugget: 
+nugget_in: false
+nugget_n: 
+verb_array[0]: austi
+present3_slice: áudžia
+past3_slice: áudė
+
+**************************************
+
+infinitive_verb: aušti
+stripped_verb: auš
+matching_lemma: auš
+nugget: 
+nugget_in: false
+nugget_n: 
+verb_array[0]: aušti
+present3_slice: áudžia
+past3_slice: áudė
+
+**************************************
+
+infinitive_verb: auti
+stripped_verb: au
+matching_lemma: au
+nugget: 
+nugget_in: false
+nugget_n: 
+verb_array[0]: auti
+present3_slice: aũna
+past3_slice: ãvė
+
+**************************************
+
+infinitive_verb: autis
+stripped_verb: au
+matching_lemma: au
+nugget: 
+nugget_in: false
+nugget_n: 
+verb_array[0]: autis
+present3_slice: aũnasi
+past3_slice: ãvėsi
+
+**************************************
+
+infinitive_verb: automatizuoti
+stripped_verb: automatizuo
+matching_lemma: automat
+nugget: izuo
+nugget_in: false
+nugget_n: 
+verb_array[0]: automatizuoti
+present3_slice: atizúoja
+past3_slice: atizavo
+
+**************************************
+
+infinitive_verb: avėti
+stripped_verb: avė
+matching_lemma: av
+nugget: ė
+nugget_in: false
+nugget_n: 
+verb_array[0]: avėti
+present3_slice: ãvi
+past3_slice: vė́jo
+
+**************************************
+
+infinitive_verb: badauti
+stripped_verb: badau
+matching_lemma: bad
+nugget: au
+nugget_in: false
+nugget_n: 
+verb_array[0]: badauti
+present3_slice: áuja
+past3_slice: adãvo
+
+**************************************
+
+infinitive_verb: badyti
+stripped_verb: bady
+matching_lemma: bad
+nugget: y
+nugget_in: false
+nugget_n: 
+verb_array[0]: badyti
+present3_slice: bãdo
+past3_slice: bãdė
+
+**************************************
+
+infinitive_verb: baidyti
+stripped_verb: baidy
+matching_lemma: baid
+nugget: y
+nugget_in: false
+nugget_n: 
+verb_array[0]: baidyti
+present3_slice: baĩdo
+past3_slice: baĩdė
+
+**************************************
+
+infinitive_verb: baidytis
+stripped_verb: baidy
+matching_lemma: baid
+nugget: y
+nugget_in: false
+nugget_n: 
+verb_array[0]: baidytis
+present3_slice: baĩdosi
+past3_slice: baĩdėsi
+
+**************************************
+
+infinitive_verb: baigti
+stripped_verb: baig
+matching_lemma: baig
+nugget: 
+nugget_in: false
+nugget_n: 
+verb_array[0]: baigti
+present3_slice: baĩgia
+past3_slice: baĩgė
+
+**************************************
+
+infinitive_verb: baigtis
+stripped_verb: baig
+matching_lemma: baig
+nugget: 
+nugget_in: false
+nugget_n: 
+verb_array[0]: baigtis
+present3_slice: baĩgiasi
+past3_slice: baĩgėsi
+
+**************************************
+
+infinitive_verb: baiminti
+stripped_verb: baimin
+matching_lemma: bai
+nugget: imin
+nugget_in: false
+nugget_n: 
+verb_array[0]: baiminti
+present3_slice: ina
+past3_slice: nosi
+
+**************************************
+
+infinitive_verb: baimintis
+stripped_verb: baimin
+matching_lemma: bai
+nugget: imin
+nugget_in: false
+nugget_n: 
+verb_array[0]: baimintis
+present3_slice: nasi
+past3_slice: nosi
+
+**************************************
+
+infinitive_verb: baisėti
+stripped_verb: baisė
+matching_lemma: bais
+nugget: ė
+nugget_in: false
+nugget_n: 
+verb_array[0]: baisėti
+present3_slice: aisėja
+past3_slice: aisėjo
+
+**************************************
+
+infinitive_verb: baisėtis
+stripped_verb: baisė
+matching_lemma: bais
+nugget: ė
+nugget_in: false
+nugget_n: 
+verb_array[0]: baisėtis
+present3_slice: baĩsisi
+past3_slice: aisė́josi
+
+**************************************
+
+infinitive_verb: bakstelėti
+stripped_verb: bakstelė
+matching_lemma: baks
+nugget: telė
+nugget_in: false
+nugget_n: 
+verb_array[0]: bakstelėti
+present3_slice: steli
+past3_slice: telėjo
+
+**************************************
+
+infinitive_verb: balansuoti
+stripped_verb: balansuo
+matching_lemma: balans
+nugget: uo
+nugget_in: false
+nugget_n: 
+verb_array[0]: balansuoti
+present3_slice: alansúoja
+past3_slice: alansãvo
+
+**************************************
+
+infinitive_verb: balinti
+stripped_verb: balin
+matching_lemma: bal
+nugget: lin
+nugget_in: false
+nugget_n: 
+verb_array[0]: balinti
+present3_slice: ina
+past3_slice: ino
+
+**************************************
+
+infinitive_verb: balnoti
+stripped_verb: balno
+matching_lemma: baln
+nugget: o
+nugget_in: false
+nugget_n: 
+verb_array[0]: balnoti
+present3_slice: balnója
+past3_slice: alnójo
+
+**************************************
+
+infinitive_verb: balsti
+stripped_verb: bals
+matching_lemma: bal
+nugget: s
+nugget_in: false
+nugget_n: 
+verb_array[0]: balsti
+present3_slice: alsta
+past3_slice: bãlo
+
+**************************************
+
+infinitive_verb: balsuoti
+stripped_verb: balsuo
+matching_lemma: bal
+nugget: suo
+nugget_in: false
+nugget_n: 
+verb_array[0]: balsuoti
+present3_slice: lsúoja
+past3_slice: lsãvo
+
+**************************************
+
+infinitive_verb: baltėti
+stripped_verb: baltė
+matching_lemma: bal
+nugget: tė
+nugget_in: false
+nugget_n: 
+verb_array[0]: baltėti
+present3_slice: ltėja
+past3_slice: ltėjo
+
+**************************************
+
+infinitive_verb: balti
+stripped_verb: bal
+matching_lemma: bal
+nugget: 
+nugget_in: false
+nugget_n: 
+verb_array[0]: balti
+present3_slice: bą̃la
+past3_slice: bãlo
+
+**************************************
+
+infinitive_verb: baltinti
+stripped_verb: baltin
+matching_lemma: bal
+nugget: ltin
+nugget_in: false
+nugget_n: 
+verb_array[0]: baltinti
+present3_slice: inà
+past3_slice: ino
+
+**************************************
+
+infinitive_verb: baltuoti
+stripped_verb: baltuo
+matching_lemma: bal
+nugget: tuo
+nugget_in: false
+nugget_n: 
+verb_array[0]: baltuoti
+present3_slice: ltúoja
+past3_slice: ltãvo
+
+**************************************
+
+infinitive_verb: bandyti
+stripped_verb: bandy
+matching_lemma: band
+nugget: y
+nugget_in: false
+nugget_n: 
+verb_array[0]: bandyti
+present3_slice: bañdo
+past3_slice: bañdė
+
+**************************************
+
+infinitive_verb: banguoti
+stripped_verb: banguo
+matching_lemma: bang
+nugget: uo
+nugget_in: false
+nugget_n: 
+verb_array[0]: banguoti
+present3_slice: angúoja
+past3_slice: angãvo
+
+**************************************
+
+infinitive_verb: bankrutuoti
+stripped_verb: bankrutuo
+matching_lemma: bankrut
+nugget: uo
+nugget_in: false
+nugget_n: 
+verb_array[0]: bankrutuoti
+present3_slice: nkrutúoja
+past3_slice: nkrutãvo
+
+**************************************
+
+infinitive_verb: barškinti
+stripped_verb: barškin
+matching_lemma: baršk
+nugget: kin
+nugget_in: false
+nugget_n: 
+verb_array[0]: barškinti
+present3_slice: škina
+past3_slice: škino
+
+**************************************
+
+infinitive_verb: barstyti
+stripped_verb: barsty
+matching_lemma: bar
+nugget: sty
+nugget_in: false
+nugget_n: 
+verb_array[0]: barstyti
+present3_slice: r̃sto
+past3_slice: r̃stė
+
+**************************************
+
+infinitive_verb: barstytis
+stripped_verb: barsty
+matching_lemma: bar
+nugget: sty
+nugget_in: false
+nugget_n: 
+verb_array[0]: barstytis
+present3_slice: ̃stosi
+past3_slice: ̃stėsi
+
+**************************************
+
+infinitive_verb: barti
+stripped_verb: bar
+matching_lemma: bar
+nugget: 
+nugget_in: false
+nugget_n: 
+verb_array[0]: barti
+present3_slice: bãra
+past3_slice: bãrė
+
+**************************************
+
+infinitive_verb: bartis
+stripped_verb: bar
+matching_lemma: bar
+nugget: 
+nugget_in: false
+nugget_n: 
+verb_array[0]: bartis
+present3_slice: bãrasi
+past3_slice: bãrėsi
+
+**************************************
+
+infinitive_verb: bauginti
+stripped_verb: baugin
+matching_lemma: baug
+nugget: gin
+nugget_in: false
+nugget_n: 
+verb_array[0]: bauginti
+present3_slice: ugìna
+past3_slice: ugìno
+
+**************************************
+
+infinitive_verb: bausti
+stripped_verb: baus
+matching_lemma: baus
+nugget: 
+nugget_in: false
+nugget_n: 
+verb_array[0]: bausti
+present3_slice: baũdžia
+past3_slice: baũdė
+
+**************************************
+
+infinitive_verb: bėginėti
+stripped_verb: bėginė
+matching_lemma: bėg
+nugget: inė
+nugget_in: false
+nugget_n: 
+verb_array[0]: bėginėti
+present3_slice: nė́ja
+past3_slice: nė́ja
+
+**************************************
+
+infinitive_verb: bėgioti
+stripped_verb: bėgio
+matching_lemma: bėg
+nugget: io
+nugget_in: false
+nugget_n: 
+verb_array[0]: bėgioti
+present3_slice: ėgiója
+past3_slice: giójo
+
+**************************************
+
+infinitive_verb: bėgti
+stripped_verb: bėg
+matching_lemma: bėg
+nugget: 
+nugget_in: false
+nugget_n: 
+verb_array[0]: bėgti
+present3_slice: bė́ga
+past3_slice: bė́go
+
+**************************************
+
+infinitive_verb: bidzenti
+stripped_verb: bidzen
+matching_lemma: bi
+nugget: dzen
+nugget_in: false
+nugget_n: 
+verb_array[0]: bidzenti
+present3_slice: ena
+past3_slice: eno
+
+**************************************
+
+infinitive_verb: bijoti
+stripped_verb: bijo
+matching_lemma: bij
+nugget: o
+nugget_in: false
+nugget_n: 
+verb_array[0]: bijoti
+present3_slice: ìjo
+past3_slice: ijójo
+
+**************************************
+
+infinitive_verb: birbti
+stripped_verb: birb
+matching_lemma: birb
+nugget: 
+nugget_in: false
+nugget_n: 
+verb_array[0]: birbti
+present3_slice: bir̃bia
+past3_slice: bir̃bė
+
+**************************************
+
+infinitive_verb: birti
+stripped_verb: bir
+matching_lemma: bir
+nugget: 
+nugget_in: false
+nugget_n: 
+verb_array[0]: birti
+present3_slice: bỹra
+past3_slice: bìro
+
+**************************************
+
+infinitive_verb: bjaurėtis
+stripped_verb: bjaurė
+matching_lemma: bjaur
+nugget: ė
+nugget_in: false
+nugget_n: 
+verb_array[0]: bjaurėtis
+present3_slice: bjaũrisi
+past3_slice: jaurė́josi
+
+**************************************
+
+infinitive_verb: bjurti
+stripped_verb: bjur
+matching_lemma: b
+nugget: jur
+nugget_in: false
+nugget_n: 
+verb_array[0]: bjurti
+present3_slice: rsta
+past3_slice: ùro
+
+**************************************
+
+infinitive_verb: blankti
+stripped_verb: blank
+matching_lemma: blank
+nugget: 
+nugget_in: false
+nugget_n: 
+verb_array[0]: blankti
+present3_slice: blañksta
+past3_slice: blánko
+
+**************************************
+
+infinitive_verb: blaškyti
+stripped_verb: blašky
+matching_lemma: blašk
+nugget: y
+nugget_in: false
+nugget_n: 
+verb_array[0]: blaškyti
+present3_slice: blãško
+past3_slice: blãškė
+
+**************************************
+
+infinitive_verb: blaškytis
+stripped_verb: blašky
+matching_lemma: blašk
+nugget: y
+nugget_in: false
+nugget_n: 
+verb_array[0]: blaškytis
+present3_slice: blãškosi
+past3_slice: blãškėsi
+
+**************************************
+
+infinitive_verb: blefuoti
+stripped_verb: blefuo
+matching_lemma: b
+nugget: lefuo
+nugget_in: false
+nugget_n: 
+verb_array[0]: blefuoti
+present3_slice: oja
+past3_slice: avo
+
+**************************************
+
+infinitive_verb: blęsti
+stripped_verb: blęs
+matching_lemma: b
+nugget: lęs
+nugget_in: false
+nugget_n: 
+verb_array[0]: blęsti
+present3_slice: leñdžia
+past3_slice: leñdė
+
+**************************************
+
+infinitive_verb: blizgėti
+stripped_verb: blizgė
+matching_lemma: blizg
+nugget: ė
+nugget_in: false
+nugget_n: 
+verb_array[0]: blizgėti
+present3_slice: blìzga
+past3_slice: lizgė́jo
+
+**************************************
+
+infinitive_verb: blizginti
+stripped_verb: blizgin
+matching_lemma: blizg
+nugget: gin
+nugget_in: false
+nugget_n: 
+verb_array[0]: blizginti
+present3_slice: zgina
+past3_slice: zgino
+
+**************************************
+
+infinitive_verb: blogėti
+stripped_verb: blogė
+matching_lemma: blog
+nugget: ė
+nugget_in: false
+nugget_n: 
+verb_array[0]: blogėti
+present3_slice: logė́ja
+past3_slice: logė́jo
+
+**************************************
+
+infinitive_verb: bloginti
+stripped_verb: blogin
+matching_lemma: blog
+nugget: gin
+nugget_in: false
+nugget_n: 
+verb_array[0]: bloginti
+present3_slice: gina
+past3_slice: gino
+
+**************************************
+
+infinitive_verb: blogti
+stripped_verb: blog
+matching_lemma: blog
+nugget: 
+nugget_in: false
+nugget_n: 
+verb_array[0]: blogti
+present3_slice: blogsta
+past3_slice: blõgo
+
+**************************************
+
+infinitive_verb: blokšti
+stripped_verb: blokš
+matching_lemma: blokš
+nugget: 
+nugget_in: false
+nugget_n: 
+verb_array[0]: blokšti
+present3_slice: blõškia
+past3_slice: blõškė
+
+**************************************
+
+infinitive_verb: blokuoti
+stripped_verb: blokuo
+matching_lemma: blok
+nugget: uo
+nugget_in: false
+nugget_n: 
+verb_array[0]: blokuoti
+present3_slice: okúoja
+past3_slice: okãvo
+
+**************************************
+
+infinitive_verb: blukinti
+stripped_verb: blukin
+matching_lemma: bluk
+nugget: kin
+nugget_in: false
+nugget_n: 
+verb_array[0]: blukinti
+present3_slice: kina
+past3_slice: kino
+
+**************************************
+
+infinitive_verb: blukti
+stripped_verb: bluk
+matching_lemma: bluk
+nugget: 
+nugget_in: false
+nugget_n: 
+verb_array[0]: blukti
+present3_slice: bluñka
+past3_slice: blùko
+
+**************************************
+
+infinitive_verb: blykšti
+stripped_verb: blykš
+matching_lemma: blykš
+nugget: 
+nugget_in: false
+nugget_n: 
+verb_array[0]: blykšti
+present3_slice: blỹkšta
+past3_slice: blỹško
+
+**************************************
+
+infinitive_verb: bodėti
+stripped_verb: bodė
+matching_lemma: bod
+nugget: ė
+nugget_in: false
+nugget_n: 
+verb_array[0]: bodėti
+present3_slice: bõdi
+past3_slice: odėjo
+
+**************************************
+
+infinitive_verb: boluoti
+stripped_verb: boluo
+matching_lemma: bol
+nugget: uo
+nugget_in: false
+nugget_n: 
+verb_array[0]: boluoti
+present3_slice: lúoja
+past3_slice: lãvo
+
+**************************************
+
+infinitive_verb: bombarduoti
+stripped_verb: bombarduo
+matching_lemma: bombard
+nugget: uo
+nugget_in: false
+nugget_n: 
+verb_array[0]: bombarduoti
+present3_slice: mbardúoja
+past3_slice: mbardãvo
+
+**************************************
+
+infinitive_verb: braidyti
+stripped_verb: braidy
+matching_lemma: braid
+nugget: y
+nugget_in: false
+nugget_n: 
+verb_array[0]: braidyti
+present3_slice: braĩdo
+past3_slice: braĩdė
+
+**************************************
+
+infinitive_verb: braižyti
+stripped_verb: braižy
+matching_lemma: braiž
+nugget: y
+nugget_in: false
+nugget_n: 
+verb_array[0]: braižyti
+present3_slice: braĩžo
+past3_slice: braĩžė
+
+**************************************
+
+infinitive_verb: brandinti
+stripped_verb: brandin
+matching_lemma: brand
+nugget: din
+nugget_in: false
+nugget_n: 
+verb_array[0]: brandinti
+present3_slice: ndìna
+past3_slice: ndìno
+
+**************************************
+
+infinitive_verb: branginti
+stripped_verb: brangin
+matching_lemma: brang
+nugget: gin
+nugget_in: false
+nugget_n: 
+verb_array[0]: branginti
+present3_slice: ngìna
+past3_slice: ngìno
+
+**************************************
+
+infinitive_verb: brangti
+stripped_verb: brang
+matching_lemma: brang
+nugget: 
+nugget_in: false
+nugget_n: 
+verb_array[0]: brangti
+present3_slice: brángsta
+past3_slice: brángo
+
+**************************************
+
+infinitive_verb: braukti
+stripped_verb: brauk
+matching_lemma: brauk
+nugget: 
+nugget_in: false
+nugget_n: 
+verb_array[0]: braukti
+present3_slice: braũkia
+past3_slice: braũkė
+
+**************************************
+
+infinitive_verb: braukyti
+stripped_verb: brauky
+matching_lemma: brauk
+nugget: y
+nugget_in: false
+nugget_n: 
+verb_array[0]: braukyti
+present3_slice: braũko
+past3_slice: braũkė
+
+**************************************
+
+infinitive_verb: brautis
+stripped_verb: brau
+matching_lemma: brau
+nugget: 
+nugget_in: false
+nugget_n: 
+verb_array[0]: brautis
+present3_slice: bráunasi
+past3_slice: bróvėsi
+
+**************************************
+
+infinitive_verb: brazdėti
+stripped_verb: brazdė
+matching_lemma: b
+nugget: razdė
+nugget_in: false
+nugget_n: 
+verb_array[0]: brazdėti
+present3_slice: da
+past3_slice: ė́jo
+
+**************************************
+
+infinitive_verb: bręsti
+stripped_verb: bręs
+matching_lemma: brę
+nugget: s
+nugget_in: false
+nugget_n: 
+verb_array[0]: bręsti
+present3_slice: rę́sta
+past3_slice: bréndo
+
+**************************************
+
+infinitive_verb: brėžti
+stripped_verb: brėž
+matching_lemma: brėž
+nugget: 
+nugget_in: false
+nugget_n: 
+verb_array[0]: brėžti
+present3_slice: brė́žia
+past3_slice: brė́žė
+
+**************************************
+
+infinitive_verb: brinkti
+stripped_verb: brink
+matching_lemma: brink
+nugget: 
+nugget_in: false
+nugget_n: 
+verb_array[0]: brinkti
+present3_slice: brìnksta
+past3_slice: brìnko
+
+**************************************
+
+infinitive_verb: bristi
+stripped_verb: bris
+matching_lemma: bris
+nugget: 
+nugget_in: false
+nugget_n: 
+verb_array[0]: bristi
+present3_slice: breñda
+past3_slice: brìdo
+
+**************************************
+
+infinitive_verb: brukti
+stripped_verb: bruk
+matching_lemma: bruk
+nugget: 
+nugget_in: false
+nugget_n: 
+verb_array[0]: brukti
+present3_slice: brunka
+past3_slice: brùko
+
+**************************************
+
+infinitive_verb: brūžinti
+stripped_verb: brūžin
+matching_lemma: brūž
+nugget: žin
+nugget_in: false
+nugget_n: 
+verb_array[0]: brūžinti
+present3_slice: ́žina
+past3_slice: ́žino
+
+**************************************
+
+infinitive_verb: bučiuoti
+stripped_verb: bučiuo
+matching_lemma: buč
+nugget: iuo
+nugget_in: false
+nugget_n: 
+verb_array[0]: bučiuoti
+present3_slice: iúoja
+past3_slice: iãvo
+
+**************************************
+
+infinitive_verb: bučiuotis
+stripped_verb: bučiuo
+matching_lemma: buč
+nugget: iuo
+nugget_in: false
+nugget_n: 
+verb_array[0]: bučiuotis
+present3_slice: úojasi
+past3_slice: ãvosi
+
+**************************************
+
+infinitive_verb: budėti
+stripped_verb: budė
+matching_lemma: bud
+nugget: ė
+nugget_in: false
+nugget_n: 
+verb_array[0]: budėti
+present3_slice: bùdi
+past3_slice: udė́jo
+
+**************************************
+
+infinitive_verb: budinti
+stripped_verb: budin
+matching_lemma: bud
+nugget: din
+nugget_in: false
+nugget_n: 
+verb_array[0]: budinti
+present3_slice: ina
+past3_slice: ino
+
+**************************************
+
+infinitive_verb: būgštauti
+stripped_verb: būgštau
+matching_lemma: būg
+nugget: štau
+nugget_in: false
+nugget_n: 
+verb_array[0]: būgštauti
+present3_slice: auja
+past3_slice: gštavo
+
+**************************************
+
+infinitive_verb: bujoti
+stripped_verb: bujo
+matching_lemma: buj
+nugget: o
+nugget_in: false
+nugget_n: 
+verb_array[0]: bujoti
+present3_slice: bujója
+past3_slice: ujójo
+
+**************************************
+
+infinitive_verb: burbėti
+stripped_verb: burbė
+matching_lemma: burb
+nugget: ė
+nugget_in: false
+nugget_n: 
+verb_array[0]: burbėti
+present3_slice: bùrba
+past3_slice: urbė́jo
+
+**************************************
+
+infinitive_verb: burbuliuoti
+stripped_verb: burbuliuo
+matching_lemma: burb
+nugget: uliuo
+nugget_in: false
+nugget_n: 
+verb_array[0]: burbuliuoti
+present3_slice: liúoja
+past3_slice: liãvo
+
+**************************************
+
+infinitive_verb: buriuoti
+stripped_verb: buriuo
+matching_lemma: bur
+nugget: iuo
+nugget_in: false
+nugget_n: 
+verb_array[0]: buriuoti
+present3_slice: iúoja
+past3_slice: iãvo
+
+**************************************
+
+infinitive_verb: būriuoti
+stripped_verb: būriuo
+matching_lemma: būr
+nugget: iuo
+nugget_in: false
+nugget_n: 
+verb_array[0]: būriuoti
+present3_slice: iúoja
+past3_slice: iãvo
+
+**************************************
+
+infinitive_verb: burti
+stripped_verb: bur
+matching_lemma: bur
+nugget: 
+nugget_in: false
+nugget_n: 
+verb_array[0]: burti
+present3_slice: bùria
+past3_slice: bū́rė
+
+**************************************
+
+infinitive_verb: busti
+stripped_verb: bus
+matching_lemma: bus
+nugget: 
+nugget_in: false
+nugget_n: 
+verb_array[0]: busti
+present3_slice: buñda
+past3_slice: bùdo
+
+**************************************
+
+infinitive_verb: būti
+stripped_verb: bū
+matching_lemma: bū
+nugget: 
+nugget_in: false
+nugget_n: 
+verb_array[0]: būti
+present3_slice: yrà
+past3_slice: bùvo
+
+**************************************
+
+infinitive_verb: buvoti
+stripped_verb: buvo
+matching_lemma: buv
+nugget: o
+nugget_in: false
+nugget_n: 
+verb_array[0]: buvoti
+present3_slice: buvója
+past3_slice: uvójo
+
+**************************************
+
+infinitive_verb: bylinėtis
+stripped_verb: bylinė
+matching_lemma: byl
+nugget: inė
+nugget_in: false
+nugget_n: 
+verb_array[0]: bylinėtis
+present3_slice: nė́jasi
+past3_slice: nė́josi
+
+**************************************
+
+infinitive_verb: byloti
+stripped_verb: bylo
+matching_lemma: byl
+nugget: o
+nugget_in: false
+nugget_n: 
+verb_array[0]: byloti
+present3_slice: bylója
+past3_slice: ylójo
+
+**************************************
+
+infinitive_verb: byrėti
+stripped_verb: byrė
+matching_lemma: byr
+nugget: ė
+nugget_in: false
+nugget_n: 
+verb_array[0]: byrėti
+present3_slice: bỹra
+past3_slice: yrė́jo
+
+**************************************
+
+infinitive_verb: čežėti
+stripped_verb: čežė
+matching_lemma: čež
+nugget: ė
+nugget_in: false
+nugget_n: 
+verb_array[0]: čežėti
+present3_slice: čẽža
+past3_slice: ežė́jo
+
+**************************************
+
+infinitive_verb: čežti
+stripped_verb: čež
+matching_lemma: čež
+nugget: 
+nugget_in: false
+nugget_n: 
+verb_array[0]: čežti
+present3_slice: čęžta
+past3_slice: čežo
+
+**************************************
+
+infinitive_verb: čiaudėti
+stripped_verb: čiaudė
+matching_lemma: čiaud
+nugget: ė
+nugget_in: false
+nugget_n: 
+verb_array[0]: čiaudėti
+present3_slice: iáudėja
+past3_slice: iáudėjo
+
+**************************************
+
+infinitive_verb: čiauškėti
+stripped_verb: čiauškė
+matching_lemma: čiaušk
+nugget: ė
+nugget_in: false
+nugget_n: 
+verb_array[0]: čiauškėti
+present3_slice: čiáuška
+past3_slice: iauškė́jo
+
+**************************************
+
+infinitive_verb: čiaužti
+stripped_verb: čiauž
+matching_lemma: čia
+nugget: už
+nugget_in: false
+nugget_n: 
+verb_array[0]: čiaužti
+present3_slice: aužia
+past3_slice: aužė
+
+**************************************
+
+infinitive_verb: čirpėti
+stripped_verb: čirpė
+matching_lemma: čirp
+nugget: ė
+nugget_in: false
+nugget_n: 
+verb_array[0]: čirpėti
+present3_slice: čirpa
+past3_slice: irpėjo
+
+**************************************
+
+infinitive_verb: cituoti
+stripped_verb: cituo
+matching_lemma: cit
+nugget: uo
+nugget_in: false
+nugget_n: 
+verb_array[0]: cituoti
+present3_slice: itúoja
+past3_slice: itãvo
+
+**************************************
+
+infinitive_verb: čiulbėti
+stripped_verb: čiulbė
+matching_lemma: čiulb
+nugget: ė
+nugget_in: false
+nugget_n: 
+verb_array[0]: čiulbėti
+present3_slice: čiùlba
+past3_slice: iulbė́jo
+
+**************************************
+
+infinitive_verb: čiulpti
+stripped_verb: čiulp
+matching_lemma: čiulp
+nugget: 
+nugget_in: false
+nugget_n: 
+verb_array[0]: čiulpti
+present3_slice: čiul̃pia
+past3_slice: čiul̃pė
+
+**************************************
+
+infinitive_verb: čiuožinėti
+stripped_verb: čiuožinė
+matching_lemma: čiuož
+nugget: inė
+nugget_in: false
+nugget_n: 
+verb_array[0]: čiuožinėti
+present3_slice: žinė́ja
+past3_slice: žinė́ja
+
+**************************************
+
+infinitive_verb: čiuožti
+stripped_verb: čiuož
+matching_lemma: čiuož
+nugget: 
+nugget_in: false
+nugget_n: 
+verb_array[0]: čiuožti
+present3_slice: čiuõžia
+past3_slice: čiuõžė
+
+**************************************
+
+infinitive_verb: čiupti
+stripped_verb: čiup
+matching_lemma: čiup
+nugget: 
+nugget_in: false
+nugget_n: 
+verb_array[0]: čiupti
+present3_slice: čiupa
+past3_slice: čiùpo
+
+**************************************
+
+infinitive_verb: civilizuoti
+stripped_verb: civilizuo
+matching_lemma: civil
+nugget: izuo
+nugget_in: false
+nugget_n: 
+verb_array[0]: civilizuoti
+present3_slice: zuoja
+past3_slice: izãvo
+
+**************************************
+
 bundler: failed to load command: exe/verbalyser (exe/verbalyser)
