@@ -896,7 +896,6 @@ miešti, miẽšia, miẽšė
 migdyti, mìgdo, mìgdė
 migti, miñga, mìgo
 mikčioti, mikčiója, mikčiójo
-mindyti, mind, mìndė
 minėti, minì, minė́jo
 minkyti, mìnko, mìnkė
 minti, minà, mýnė
@@ -1427,7 +1426,6 @@ spindėti, spiñdi, spindė́jo
 spinduliuoti, spinduliúoja, spinduliãvo
 spirti, spìria, spýrė
 spisti, spìnta, spito
-spjaudyti, spaũdo, spjáudė
 spjauti, spjáuna, spjóvė
 spoksoti, spõkso, spoksójo
 sportuoti, sportúoja, sportãvo

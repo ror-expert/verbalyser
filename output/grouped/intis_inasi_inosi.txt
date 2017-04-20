@@ -1,3 +1,4 @@
+artintis, ar̃tinasi, ar̃tinosi
 baimintis, báiminasi, báiminosi
 dalintis, dalìnasi, dalìnosi
 daugintis, dáuginasi, dáuginosi
@@ -5,6 +6,7 @@ degintis, dẽginasi, dẽginosi
 derintis, dẽrinasi, dẽrinosi
 dulkintis, dùlkinasi, dùlkinosi
 erzintis, érzinasi, érzinosi
+gėdintis, gė́dinasi, gė́dinosi
 gilintis, gìlinasi, gìlinosi
 gražintis, grãžinasi, grãžinosi
 jaudintis, jáudinasi, jáudinosi
@@ -22,6 +24,7 @@ mokintis, mokìnasi, mokìnosi
 nervintis, nèrvinasi, nèrvinosi
 nešdintis, nẽšdinasi, nẽšdinosi
 ramintis, ramìnasi, ramìnosi
+rūpintis, rū́pinasi, rū́pinosi
 skolintis, skõlinasi, skõlinosi
 skubintis, skùbinasi, skùbinosi
 šlapintis, šlãpinasi, šlãpinosi
@@ -32,3 +35,4 @@ tvirtintis, tvìrtinasi, tvìrtinosi
 vadintis, vadìnasi, vadìnosi
 vaišintis, vaišìnasi, vaišìnosi
 vargintis, várginasi, varginosi
+vėlintis, vė̃linasi, vėlinosi

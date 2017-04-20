@@ -1,2 +1,3 @@
 aukotis, aukója, aukójo
+dovanotis, dovanója, dovanójo
 raitotis, raitoja, raitójo

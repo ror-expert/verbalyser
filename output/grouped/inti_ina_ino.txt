@@ -2,6 +2,7 @@ akinti, ãkina, ãkino
 aktyvinti, aktỹvina, aktỹvino
 alsinti, alsìna, alsìno
 amžinti, amžinà, ámžino
+artinti, ar̃tina, ar̃tino
 auginti, augìna, augìno
 aukštinti, áukština, áukštino
 balinti, bãlina, bãlino
@@ -13,6 +14,7 @@ bloginti, blõgina, blõgino
 blukinti, blùkina, blukino
 brandinti, brandìna, brandìno
 branginti, brangìna, brangìno
+brūžinti, brū́žina, brū́žino
 budinti, bùdina, bùdino
 dabinti, dabìna, dabìno
 dalinti, dalìna, dalìno
@@ -23,6 +25,7 @@ didinti, dìdina, dìdino
 dievinti, diẽvina, diẽvino
 dirginti, dìrgina, dìrgino
 dominti, dõmina, dõmino
+drąsinti, drą́sina, drą́sino
 drebinti, drẽbina, drẽbino
 dulkinti, dulkinà, dùlkino
 dusinti, dùsina, dùsino
@@ -35,6 +38,8 @@ gadinti, gadìna, gadìno
 gaivinti, gaivìna, gaivìno
 gaminti, gamìna, gamìno
 garbinti, gárbina, gárbino
+gąsdinti, gą̃sdina, gą̃sdino
+gėdinti, gė́dina, gė́dino
 gelsvinti, gelsvina, gelsvino
 geltoninti, geltonina, geltonino
 gerinti, gẽrina, gẽrino
@@ -46,6 +51,7 @@ gražinti, grãžina, grãžino
 grąžinti, grãžina, grãžino
 greitinti, greĩtina, greĩtino
 griežtinti, gríežtina, gríežtino
+grūdinti, grū́dina, grū́dino
 guglinti, guglina, guglino
 gyvinti, gývina, gývino
 ilsinti, ilsìna, ilsìno
@@ -64,6 +70,7 @@ karšinti, káršina, káršino
 ketinti, ketìna, ketìno
 keturgubinti, keturgubina, keturgubino
 kirkinti, kìrkina, kìrkino
+kiršinti, kìršina, kir̃šino
 klaidinti, klaidìna, klaidìno
 klibinti, klìbina, klìbino
 knežinti, knežina, knežino
@@ -79,9 +86,11 @@ lavinti, lavinà, lãvino
 lengvinti, leñgvina, leñgvino
 lepinti, lẽpina, lẽpino
 lesinti, lẽsina, lẽsino
+lėtinti, lė̃tina, lė̃tino
 liaupsinti, liáupsina, liáupsino
 lietuvinti, lietùvina, lietùvino
 linksminti, lìnksmina, lìnksmino
+liūdinti, liū̃dina, liū̃dino
 luošinti, lúošina, lúošino
 lyginti, lýgina, lýgino
 maitinti, maitìna, maitìno
@@ -99,8 +108,10 @@ naikinti, naikìna, naikìno
 naujinti, naũjina, naujino
 nervinti, nèrvina, nèrvino
 niekinti, niẽkina, niẽkino
+pėdinti, pė̃dina, pė̃dino
 piktinti, pìktina, pìktino
 platinti, platinà, plãtino
+purvinti, purvinà, pur̃vino
 pykinti, pỹkina, pỹkino
 pypsinti, pypsina, pypsino
 raginti, rãgina, rãgino
@@ -111,9 +122,12 @@ rauginti, raugìna, raugìno
 rausvinti, raũsvina, raũsvino
 retinti, rẽtina, rẽtino
 riebinti, riebina, ríebino
+rūpinti, rū́pina, rū́pino
 rusinti, rùsina, rùsino
 šalinti, šãlina, šãlino
 sekinti, sẽkina, sẽkino
+silpninti, sil̃pnina, sil̃pnino
+skambinti, skam̃bina, skam̃bino
 skandinti, skandìna, skandìno
 skaninti, skãnina, skãnino
 skatinti, skãtina, skãtino
@@ -131,11 +145,14 @@ smulkinti, smùlkina, smùlkino
 sodinti, sodìna, sodìno
 sotinti, sótina, sótino
 sprogdinti, sprogdìna, sprogdìno
+stambinti, stam̃bina, stam̃bino
 stebinti, stẽbina, stẽbino
 stiprinti, stìprina, stìprino
 storinti, stórina, stórino
+stulbinti, stul̃bina, stul̃bino
 švarinti, švãrina, švãrino
 sveikinti, svéikina, svéikino
+švelninti, švel̃nina, švel̃nino
 šventinti, švéntina, švéntino
 šviesinti, šviẽsina, šviẽsino
 svilinti, svìlina, svìlino
@@ -150,6 +167,7 @@ tikrinti, tìkrina, tìkrino
 tobulinti, tóbulina, tóbulino
 trigubinti, trigubina, trigubino
 troškinti, troškìna, troškìno
+trumpinti, trum̃pina, trum̃pino
 trupinti, trùpina, trùpino
 tujinti, tùjina, tùjino
 tuštinti, tùština, tùštino
@@ -159,8 +177,10 @@ vaidinti, vaidìna, vaidìno
 vaisinti, vaisìna, vaisino
 vaišinti, vaisìna, vaisino
 valgydinti, valgydìna, valgydìno
+vardinti, var̃dina, var̃dino
 varginti, várgina, várgino
 vėdinti, vėdìna, vėdìno
+vėlinti, vė̃lina, vė̃lino
 vertinti, vértina, vértino
 vienodinti, vienódina, vienódino
 viešinti, viešina, viẽšino
