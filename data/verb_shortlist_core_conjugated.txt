@@ -39,7 +39,7 @@ auginti, augìna, augìno
 augti, áuga, áugo
 auklėti, áuklėja, áuklėjo
 aukoti, aukója, aukójo
-aukotis, aukója, aukójo
+aukotis, aukójasi, aukójosi
 aukštinti, áukština, áukštino
 auksuoti, auksúoja, auksãvo
 austi, áudžia, áudė
@@ -224,11 +224,11 @@ diskutuoti, diskutúoja, diskutãvo
 dobti, dóbia, dobė
 domėtis, dõmisi, domė́josi
 dominti, dõmina, dõmino
-dominuoti, dominúoti, dominãvo
+dominuoti, dominúoja, dominãvo
 doroti, dorója, dorójo
 dorotis, dorójasi, dorójosi
 dovanoti, dovanója, dovanójo
-dovanotis, dovanója, dovanójo
+dovanotis, dovanójasi, dovanójosi
 drabstyti, drãbsto, drãbstė
 dramatizuoti, dramatizúoja, dramatizãvo
 drąsinti, drą́sina, drą́sino
@@ -725,7 +725,7 @@ kušti, kùšta, kušo
 kutenti, kutẽna, kutẽno
 kvailinti, kvaĩlina, kvaĩlino
 kvailioti, kvailiója, kvailiójo
-kvalifikuoti, kvalifikúoti, kvalifikãvo
+kvalifikuoti, kvalifikúoja, kvalifikãvo
 kvatoti, kvatója, kvatójo
 kvatotis, kvatójasi, kvatójosi
 kvepėti, kvẽpia, kvepė́jo
@@ -1094,7 +1094,7 @@ ragauti, ragáuja, ragãvo
 raginti, rãgina, rãgino
 raikyti, raĩko, raĩkė
 raitoti, raitoja, raitójo
-raitotis, raitoja, raitójo
+raitotis, raitojasi, raitójosi
 raityti, raĩto, raĩtė
 raitytis, raĩtosi, raĩtėsi
 raiyti, raĩto, raĩtė
@@ -1157,9 +1157,9 @@ repetuoti, repetúoja, repetãvo
 restauruoti, restaurúoja, restaurãvo
 ręsti, reñčia, reñtė
 retinti, rẽtina, rẽtino
-revizuoti, revizúoti, revizúoja
+revizuoti, revizúoja, revizãvo
 rezervuoti, rezervúoja, rezervãvo
-rezervuotis, rezervúoja, rezervãvo
+rezervuotis, rezervúojasi, rezervãvosi
 režisuoti, režisúoja, režisãvo
 rėžti, rė́žia, rė̃žė
 rėžyti, rė̃žo, rė̃žė
@@ -1625,7 +1625,7 @@ trimituoti, trimitúoja, trimitãvo
 trinti, trìna, trynė̃
 trintis, trìnasi, trýnėsi
 triukšmauti, triumškauja, triukšmãvo
-triumfuoti, triumfúoti, triumfúoja
+triumfuoti, triumfúoja, triumfãvo
 trokšti, trókšta, tróško
 troškinti, troškìna, troškìno
 trukdyti, trùkdo, trùkdė
@@ -1697,7 +1697,7 @@ vaisinti, vaisìna, vaisino
 vaišinti, vaisìna, vaisino
 vaišintis, vaišìnasi, vaišìnosi
 vaizduoti, vaizdúoja, vaizdãvo
-vaizduotis, vaizdúoja, vaizdãvo
+vaizduotis, vaizdúojasi, vaizdãvosi
 vakarieniauti, vakarieniáuja, vakarieniãvo
 valdyti, val̃do, val̃dė
 valgydinti, valgydìna, valgydìno
