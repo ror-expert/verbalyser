@@ -1,0 +1,1068 @@
+infinitive_verb: absorbuoti
+stripped_verb: absorbuo
+matching_lemma: absorb
+nugget: uo
+nugget_in: 
+verb_array[0]: absorbuoti
+verb_array[1]:  absorbúoja
+verb_array[2]:  absorbãvo
+LEMMA (absorb) and NUGGET (uo)
+CLASSIFICATION: lemma_nugget_general
+NUGGET: uo
+This ends in -uoti
+old matching_lemma: absorb
+trying to extend the matching_lemma
+uoti is here: 6
+infinitive_form: uoti
+present3_slice: úoja
+past3_slice: ãvo
+file_name: uoti_uoja_avo
+
+**************************************
+
+No file for this pattern (absorbuoti), creating a new one...
+infinitive_verb: abstrahuoti
+stripped_verb: abstrahuo
+matching_lemma: abstrah
+nugget: uo
+nugget_in: 
+verb_array[0]: abstrahuoti
+verb_array[1]:  abstrahúoja
+verb_array[2]:  abstrahãvo
+LEMMA (abstrah) and NUGGET (uo)
+CLASSIFICATION: lemma_nugget_general
+NUGGET: uo
+This ends in -uoti
+old matching_lemma: abstrah
+trying to extend the matching_lemma
+uoti is here: 7
+infinitive_form: uoti
+present3_slice: úoja
+past3_slice: ãvo
+file_name: uoti_uoja_avo
+
+**************************************
+
+infinitive_verb: abuojėti
+stripped_verb: abuojė
+matching_lemma: ab
+nugget: uojė
+nugget_in: 
+verb_array[0]: abuojėti
+verb_array[1]:  abuojėja
+verb_array[2]:  abuojėjo
+LEMMA (ab) and NUGGET (uojė)
+CLASSIFICATION: lemma_nugget_general
+NUGGET: uojė
+This ends in -ėti
+old matching_lemma: ab
+trying to extend the matching_lemma
+ėti is here: 5
+infinitive_form: ėti
+present3_slice: ėja
+past3_slice: ėjo
+file_name: ėti_ėja_ėjo
+
+**************************************
+
+No file for this pattern (abuojėti), creating a new one...
+infinitive_verb: adaptuoti
+stripped_verb: adaptuo
+matching_lemma: adapt
+nugget: uo
+nugget_in: 
+verb_array[0]: adaptuoti
+verb_array[1]:  adaptúoja
+verb_array[2]:  adaptãvo
+LEMMA (adapt) and NUGGET (uo)
+CLASSIFICATION: lemma_nugget_general
+NUGGET: uo
+This ends in -uoti
+old matching_lemma: adapt
+trying to extend the matching_lemma
+uoti is here: 5
+infinitive_form: uoti
+present3_slice: úoja
+past3_slice: ãvo
+file_name: uoti_uoja_avo
+
+**************************************
+
+infinitive_verb: adaptuotis
+stripped_verb: adaptuo
+matching_lemma: adapt
+nugget: uo
+nugget_in: 
+verb_array[0]: adaptuotis
+verb_array[1]:  adaptúojasi
+verb_array[2]:  adaptãvosi
+LEMMA (adapt) and NUGGET (uo)
+CLASSIFICATION: lemma_nugget_general
+NUGGET: uo
+This ends in -uoti
+old matching_lemma: adapt
+trying to extend the matching_lemma
+uoti is here: 5
+infinitive_form: uotis
+present3_slice: úojasi
+past3_slice: ãvosi
+file_name: uotis_uojasi_avosi
+
+**************************************
+
+No file for this pattern (adaptuotis), creating a new one...
+infinitive_verb: adinėti
+stripped_verb: adinė
+matching_lemma: ad
+nugget: inė
+nugget_in: 
+verb_array[0]: adinėti
+verb_array[1]:  adinėja
+verb_array[2]:  adinėjo
+LEMMA (ad) and NUGGET (inė)
+CLASSIFICATION: lemma_nugget_general
+NUGGET: inė
+This ends in -ėti
+old matching_lemma: ad
+trying to extend the matching_lemma
+ėti is here: 4
+infinitive_form: ėti
+present3_slice: ėja
+past3_slice: ėjo
+file_name: ėti_ėja_ėjo
+
+**************************************
+
+infinitive_verb: administruoti
+stripped_verb: administruo
+matching_lemma: administr
+nugget: uo
+nugget_in: 
+verb_array[0]: administruoti
+verb_array[1]:  administrúoja
+verb_array[2]:  administrãvo
+LEMMA (administr) and NUGGET (uo)
+CLASSIFICATION: lemma_nugget_general
+NUGGET: uo
+This ends in -uoti
+old matching_lemma: administr
+trying to extend the matching_lemma
+uoti is here: 9
+infinitive_form: uoti
+present3_slice: úoja
+past3_slice: ãvo
+file_name: uoti_uoja_avo
+
+**************************************
+
+infinitive_verb: adresuoti
+stripped_verb: adresuo
+matching_lemma: adres
+nugget: uo
+nugget_in: 
+verb_array[0]: adresuoti
+verb_array[1]:  adresúoja
+verb_array[2]:  adresãvo
+LEMMA (adres) and NUGGET (uo)
+CLASSIFICATION: lemma_nugget_general
+NUGGET: uo
+This ends in -uoti
+old matching_lemma: adres
+trying to extend the matching_lemma
+uoti is here: 5
+infinitive_form: uoti
+present3_slice: úoja
+past3_slice: ãvo
+file_name: uoti_uoja_avo
+
+**************************************
+
+infinitive_verb: adyti
+stripped_verb: ady
+matching_lemma: ad
+nugget: y
+nugget_in: 
+verb_array[0]: adyti
+verb_array[1]:  ãdo
+verb_array[2]:  ãdė
+LEMMA (ad) and NUGGET (y)
+CLASSIFICATION: lemma_nugget_general
+NUGGET: y
+infinitive_form: yti
+present3_slice: o
+past3_slice: ė
+file_name: yti_o_ė
+
+**************************************
+
+No file for this pattern (adyti), creating a new one...
+infinitive_verb: aidėti
+stripped_verb: aidė
+matching_lemma: aid
+nugget: ė
+nugget_in: 
+verb_array[0]: aidėti
+verb_array[1]:  áidi
+verb_array[2]:  aidė́jo
+LEMMA (aid) and NUGGET (ė)
+CLASSIFICATION: lemma_nugget_general
+NUGGET: ė
+This ends in -ėti
+old matching_lemma: aid
+trying to extend the matching_lemma
+ėti is here: 3
+infinitive_form: ėti
+present3_slice: i
+past3_slice: ėjo
+file_name: ėti_i_ėjo
+
+**************************************
+
+No file for this pattern (aidėti), creating a new one...
+infinitive_verb: aikčioti
+stripped_verb: aikčio
+matching_lemma: aik
+nugget: čio
+nugget_in: 
+verb_array[0]: aikčioti
+verb_array[1]:  áikčioja
+verb_array[2]:  áikčiojo
+LEMMA (aik) and NUGGET (čio)
+CLASSIFICATION: lemma_nugget_general
+NUGGET: čio
+This ends in -oti but not -uoti
+old matching_lemma: aik
+trying to extend the matching_lemma
+ėti is here: 5
+infinitive_form: oti
+present3_slice: oja
+past3_slice: ojo
+file_name: oti_oja_ojo
+
+**************************************
+
+No file for this pattern (aikčioti), creating a new one...
+infinitive_verb: akcentuoti
+stripped_verb: akcentuo
+matching_lemma: akcent
+nugget: uo
+nugget_in: 
+verb_array[0]: akcentuoti
+verb_array[1]:  akcentúoja
+verb_array[2]:  akcentãvo
+LEMMA (akcent) and NUGGET (uo)
+CLASSIFICATION: lemma_nugget_general
+NUGGET: uo
+This ends in -uoti
+old matching_lemma: akcent
+trying to extend the matching_lemma
+uoti is here: 6
+infinitive_form: uoti
+present3_slice: úoja
+past3_slice: ãvo
+file_name: uoti_uoja_avo
+
+**************************************
+
+infinitive_verb: akėti
+stripped_verb: akė
+matching_lemma: ak
+nugget: ė
+nugget_in: 
+verb_array[0]: akėti
+verb_array[1]:  akė́ja
+verb_array[2]:  akė́jo
+LEMMA (ak) and NUGGET (ė)
+CLASSIFICATION: lemma_nugget_general
+NUGGET: ė
+This ends in -ėti
+old matching_lemma: ak
+trying to extend the matching_lemma
+ėti is here: 2
+infinitive_form: ėti
+present3_slice: ėja
+past3_slice: ėjo
+file_name: ėti_ėja_ėjo
+
+**************************************
+
+infinitive_verb: akinti
+stripped_verb: akin
+matching_lemma: ak
+nugget: in
+nugget_in: true
+verb_array[0]: akinti
+verb_array[1]:  ãkina
+verb_array[2]:  ãkino
+LEMMA (ak) and NUGGET -IN- (in)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: inti
+present3_slice: ina
+past3_slice: ino
+file_name: inti_ina_ino
+
+**************************************
+
+No file for this pattern (akinti), creating a new one...
+infinitive_verb: akti
+stripped_verb: ak
+matching_lemma: ak
+nugget: 
+nugget_in: true
+verb_array[0]: akti
+verb_array[1]:  añka
+verb_array[2]:  ãko
+LEMMA (ak) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: ka
+past3_slice: o
+file_name: ti_ka_o
+
+**************************************
+
+No file for this pattern (akti), creating a new one...
+infinitive_verb: aktyvėti
+stripped_verb: aktyvė
+matching_lemma: aktyv
+nugget: ė
+nugget_in: true
+verb_array[0]: aktyvėti
+verb_array[1]:  aktyvė́ja
+verb_array[2]:  aktyvė́jo
+LEMMA (aktyv) and NUGGET -IN- (ė)
+CLASSIFICATION: lemma_nugget_in
+This ends in -ėti
+old matching_lemma: aktyv
+trying to extend the matching_lemma
+ėti is here: 5
+infinitive_form: ėti
+present3_slice: ėja
+past3_slice: ėjo
+file_name: ėti_ėja_ėjo
+
+**************************************
+
+infinitive_verb: aktyvinti
+stripped_verb: aktyvin
+matching_lemma: aktyv
+nugget: in
+nugget_in: true
+verb_array[0]: aktyvinti
+verb_array[1]:  aktỹvina
+verb_array[2]:  aktỹvino
+LEMMA (aktyv) and NUGGET -IN- (in)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: inti
+present3_slice: ina
+past3_slice: ino
+file_name: inti_ina_ino
+
+**************************************
+
+infinitive_verb: aktyvuoti
+stripped_verb: aktyvuo
+matching_lemma: aktyv
+nugget: uo
+nugget_in: true
+verb_array[0]: aktyvuoti
+verb_array[1]:  aktyvuoja
+verb_array[2]:  aktyvavo
+LEMMA (aktyv) and NUGGET -IN- (uo)
+CLASSIFICATION: lemma_nugget_in
+This ends in -uoti
+old matching_lemma: aktyv
+trying to extend the matching_lemma
+uoti is here: 5
+infinitive_form: uoti
+present3_slice: uoja
+past3_slice: avo
+file_name: uoti_uoja_avo
+
+**************************************
+
+infinitive_verb: alkti
+stripped_verb: alk
+matching_lemma: alk
+nugget: 
+nugget_in: true
+verb_array[0]: alkti
+verb_array[1]:  álksta
+verb_array[2]:  al̃ko
+LEMMA (alk) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: sta
+past3_slice: o
+file_name: ti_sta_o
+
+**************************************
+
+No file for this pattern (alkti), creating a new one...
+infinitive_verb: alpti
+stripped_verb: alp
+matching_lemma: alp
+nugget: 
+nugget_in: true
+verb_array[0]: alpti
+verb_array[1]:  al̃psta
+verb_array[2]:  al̃po
+LEMMA (alp) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: sta
+past3_slice: o
+file_name: ti_sta_o
+
+**************************************
+
+infinitive_verb: alsinti
+stripped_verb: alsin
+matching_lemma: als
+nugget: in
+nugget_in: true
+verb_array[0]: alsinti
+verb_array[1]:  alsìna
+verb_array[2]:  alsìno
+LEMMA (als) and NUGGET -IN- (in)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: inti
+present3_slice: ina
+past3_slice: ino
+file_name: inti_ina_ino
+
+**************************************
+
+infinitive_verb: amputuoti
+stripped_verb: amputuo
+matching_lemma: amput
+nugget: uo
+nugget_in: true
+verb_array[0]: amputuoti
+verb_array[1]:  amputuoja
+verb_array[2]:  amputãvo
+LEMMA (amput) and NUGGET -IN- (uo)
+CLASSIFICATION: lemma_nugget_in
+This ends in -uoti
+old matching_lemma: amput
+trying to extend the matching_lemma
+uoti is here: 5
+infinitive_form: uoti
+present3_slice: uoja
+past3_slice: ãvo
+file_name: uoti_uoja_avo
+
+**************************************
+
+infinitive_verb: amsėti
+stripped_verb: amsė
+matching_lemma: ams
+nugget: ė
+nugget_in: true
+verb_array[0]: amsėti
+verb_array[1]:  ámsi
+verb_array[2]:  amsė́jo
+LEMMA (ams) and NUGGET -IN- (ė)
+CLASSIFICATION: lemma_nugget_in
+This ends in -ėti
+old matching_lemma: ams
+trying to extend the matching_lemma
+ėti is here: 3
+infinitive_form: ėti
+present3_slice: i
+past3_slice: ėjo
+file_name: ėti_i_ėjo
+
+**************************************
+
+infinitive_verb: amžinti
+stripped_verb: amžin
+matching_lemma: amž
+nugget: in
+nugget_in: true
+verb_array[0]: amžinti
+verb_array[1]:  amžinà
+verb_array[2]:  ámžino
+LEMMA (amž) and NUGGET -IN- (in)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: inti
+present3_slice: ina
+past3_slice: ino
+file_name: inti_ina_ino
+
+**************************************
+
+infinitive_verb: analizuoti
+stripped_verb: analizuo
+matching_lemma: analiz
+nugget: uo
+nugget_in: true
+verb_array[0]: analizuoti
+verb_array[1]:  analizúoja
+verb_array[2]:  analizãvo
+LEMMA (analiz) and NUGGET -IN- (uo)
+CLASSIFICATION: lemma_nugget_in
+This ends in -uoti
+old matching_lemma: analiz
+trying to extend the matching_lemma
+uoti is here: 6
+infinitive_form: uoti
+present3_slice: úoja
+past3_slice: ãvo
+file_name: uoti_uoja_avo
+
+**************************************
+
+infinitive_verb: aneksuoti
+stripped_verb: aneksuo
+matching_lemma: an
+nugget: eksuo
+nugget_in: true
+verb_array[0]: aneksuoti
+verb_array[1]:  aneksúoja
+verb_array[2]:  aneksãvo
+LEMMA (an) and NUGGET -IN- (eksuo)
+CLASSIFICATION: lemma_nugget_in
+This ends in -uoti
+old matching_lemma: an
+trying to extend the matching_lemma
+uoti is here: 5
+infinitive_form: uoti
+present3_slice: úoja
+past3_slice: ãvo
+file_name: uoti_uoja_avo
+
+**************************************
+
+infinitive_verb: antspauduoti
+stripped_verb: antspauduo
+matching_lemma: ant
+nugget: spauduo
+nugget_in: true
+verb_array[0]: antspauduoti
+verb_array[1]:  antspaudúoja
+verb_array[2]:  antspaudãvo
+LEMMA (ant) and NUGGET -IN- (spauduo)
+CLASSIFICATION: lemma_nugget_in
+This ends in -uoti
+old matching_lemma: ant
+trying to extend the matching_lemma
+uoti is here: 8
+infinitive_form: uoti
+present3_slice: úoja
+past3_slice: ãvo
+file_name: uoti_uoja_avo
+
+**************************************
+
+infinitive_verb: ardyti
+stripped_verb: ardy
+matching_lemma: ar
+nugget: dy
+nugget_in: true
+verb_array[0]: ardyti
+verb_array[1]:  ar̃do
+verb_array[2]:  ar̃dė
+LEMMA (ar) and NUGGET -IN- (dy)
+CLASSIFICATION: lemma_nugget_in
+This ends in -yti
+old matching_lemma: ar
+trying to extend the matching_lemma
+yti is here: 3
+length of ar̃do: 5, minus accents ar̃do 5
+infinitive_form: yti
+present3_slice: o
+past3_slice: ė
+file_name: yti_o_ė
+
+**************************************
+
+infinitive_verb: areštuoti
+stripped_verb: areštuo
+matching_lemma: arešt
+nugget: uo
+nugget_in: true
+verb_array[0]: areštuoti
+verb_array[1]:  areštúoja
+verb_array[2]:  areštãvo
+LEMMA (arešt) and NUGGET -IN- (uo)
+CLASSIFICATION: lemma_nugget_in
+This ends in -uoti
+old matching_lemma: arešt
+trying to extend the matching_lemma
+uoti is here: 5
+infinitive_form: uoti
+present3_slice: úoja
+past3_slice: ãvo
+file_name: uoti_uoja_avo
+
+**************************************
+
+infinitive_verb: artėti
+stripped_verb: artė
+matching_lemma: art
+nugget: ė
+nugget_in: true
+verb_array[0]: artėti
+verb_array[1]:  artė́ja
+verb_array[2]:  artė́jo
+LEMMA (art) and NUGGET -IN- (ė)
+CLASSIFICATION: lemma_nugget_in
+This ends in -ėti
+old matching_lemma: art
+trying to extend the matching_lemma
+ėti is here: 3
+infinitive_form: ėti
+present3_slice: ėja
+past3_slice: ėjo
+file_name: ėti_ėja_ėjo
+
+**************************************
+
+infinitive_verb: arti
+stripped_verb: ar
+matching_lemma: ar
+nugget: 
+nugget_in: true
+verb_array[0]: arti
+verb_array[1]:  ãria
+verb_array[2]:  ãrė
+LEMMA (ar) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: ia
+past3_slice: ė
+file_name: ti_ia_ė
+
+**************************************
+
+No file for this pattern (arti), creating a new one...
+infinitive_verb: artinti
+stripped_verb: artin
+matching_lemma: art
+nugget: in
+nugget_in: true
+verb_array[0]: artinti
+verb_array[1]:  ar̃tina
+verb_array[2]:  ar̃tino
+LEMMA (art) and NUGGET -IN- (in)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: inti
+present3_slice: ina
+past3_slice: ino
+file_name: inti_ina_ino
+
+**************************************
+
+infinitive_verb: artintis
+stripped_verb: artin
+matching_lemma: art
+nugget: in
+nugget_in: true
+verb_array[0]: artintis
+verb_array[1]:  ar̃tinasi
+verb_array[2]:  ar̃tinosi
+LEMMA (art) and NUGGET -IN- (in)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: intis
+present3_slice: inasi
+past3_slice: inosi
+file_name: intis_inasi_inosi
+
+**************************************
+
+No file for this pattern (artintis), creating a new one...
+infinitive_verb: asimiliuoti
+stripped_verb: asimiliuo
+matching_lemma: asimil
+nugget: iuo
+nugget_in: true
+verb_array[0]: asimiliuoti
+verb_array[1]:  asimiliúoja
+verb_array[2]:  asimiliãvo
+LEMMA (asimil) and NUGGET -IN- (iuo)
+CLASSIFICATION: lemma_nugget_in
+This ends in -uoti
+old matching_lemma: asimil
+trying to extend the matching_lemma
+uoti is here: 7
+infinitive_form: uoti
+present3_slice: úoja
+past3_slice: ãvo
+file_name: uoti_uoja_avo
+
+**************************************
+
+infinitive_verb: asmenuoti
+stripped_verb: asmenuo
+matching_lemma: asm
+nugget: enuo
+nugget_in: true
+verb_array[0]: asmenuoti
+verb_array[1]:  asmenúoja
+verb_array[2]:  asmenãvo
+LEMMA (asm) and NUGGET -IN- (enuo)
+CLASSIFICATION: lemma_nugget_in
+This ends in -uoti
+old matching_lemma: asm
+trying to extend the matching_lemma
+uoti is here: 5
+infinitive_form: uoti
+present3_slice: úoja
+past3_slice: ãvo
+file_name: uoti_uoja_avo
+
+**************************************
+
+infinitive_verb: asocijuoti
+stripped_verb: asocijuo
+matching_lemma: asocij
+nugget: uo
+nugget_in: true
+verb_array[0]: asocijuoti
+verb_array[1]:  asocijúoja
+verb_array[2]:  asocijavo
+LEMMA (asocij) and NUGGET -IN- (uo)
+CLASSIFICATION: lemma_nugget_in
+This ends in -uoti
+old matching_lemma: asocij
+trying to extend the matching_lemma
+uoti is here: 6
+infinitive_form: uoti
+present3_slice: úoja
+past3_slice: avo
+file_name: uoti_uoja_avo
+
+**************************************
+
+infinitive_verb: audėti
+stripped_verb: audė
+matching_lemma: aud
+nugget: ė
+nugget_in: true
+verb_array[0]: audėti
+verb_array[1]:  auda
+verb_array[2]:  audė́jo
+LEMMA (aud) and NUGGET -IN- (ė)
+CLASSIFICATION: lemma_nugget_in
+This ends in -ėti
+old matching_lemma: aud
+trying to extend the matching_lemma
+ėti is here: 3
+infinitive_form: ėti
+present3_slice: a
+past3_slice: ėjo
+file_name: ėti_a_ėjo
+
+**************************************
+
+No file for this pattern (audėti), creating a new one...
+infinitive_verb: auginti
+stripped_verb: augin
+matching_lemma: aug
+nugget: in
+nugget_in: true
+verb_array[0]: auginti
+verb_array[1]:  augìna
+verb_array[2]:  augìno
+LEMMA (aug) and NUGGET -IN- (in)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: inti
+present3_slice: ina
+past3_slice: ino
+file_name: inti_ina_ino
+
+**************************************
+
+infinitive_verb: augti
+stripped_verb: aug
+matching_lemma: aug
+nugget: 
+nugget_in: true
+verb_array[0]: augti
+verb_array[1]:  áuga
+verb_array[2]:  áugo
+LEMMA (aug) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: a
+past3_slice: o
+file_name: ti_a_o
+
+**************************************
+
+No file for this pattern (augti), creating a new one...
+infinitive_verb: auklėti
+stripped_verb: auklė
+matching_lemma: aukl
+nugget: ė
+nugget_in: true
+verb_array[0]: auklėti
+verb_array[1]:  áuklėja
+verb_array[2]:  áuklėjo
+LEMMA (aukl) and NUGGET -IN- (ė)
+CLASSIFICATION: lemma_nugget_in
+This ends in -ėti
+old matching_lemma: aukl
+trying to extend the matching_lemma
+ėti is here: 4
+infinitive_form: ėti
+present3_slice: ėja
+past3_slice: ėjo
+file_name: ėti_ėja_ėjo
+
+**************************************
+
+infinitive_verb: aukoti
+stripped_verb: auko
+matching_lemma: auk
+nugget: o
+nugget_in: true
+verb_array[0]: aukoti
+verb_array[1]:  aukója
+verb_array[2]:  aukójo
+LEMMA (auk) and NUGGET -IN- (o)
+CLASSIFICATION: lemma_nugget_in
+This ends in -oti but not -uoti
+old matching_lemma: auk
+trying to extend the matching_lemma
+ėti is here: 3
+infinitive_form: oti
+present3_slice: ója
+past3_slice: ójo
+file_name: oti_oja_ojo
+
+**************************************
+
+infinitive_verb: aukotis
+stripped_verb: auko
+matching_lemma: auk
+nugget: o
+nugget_in: true
+verb_array[0]: aukotis
+verb_array[1]:  aukójasi
+verb_array[2]:  aukójosi
+LEMMA (auk) and NUGGET -IN- (o)
+CLASSIFICATION: lemma_nugget_in
+This ends in -oti but not -uoti
+old matching_lemma: auk
+trying to extend the matching_lemma
+ėti is here: 3
+infinitive_form: otis
+present3_slice: ójasi
+past3_slice: ójosi
+file_name: otis_ojasi_ojosi
+
+**************************************
+
+No file for this pattern (aukotis), creating a new one...
+infinitive_verb: aukštinti
+stripped_verb: aukštin
+matching_lemma: aukšt
+nugget: in
+nugget_in: true
+verb_array[0]: aukštinti
+verb_array[1]:  áukština
+verb_array[2]:  áukštino
+LEMMA (aukšt) and NUGGET -IN- (in)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: inti
+present3_slice: ina
+past3_slice: ino
+file_name: inti_ina_ino
+
+**************************************
+
+infinitive_verb: auksuoti
+stripped_verb: auksuo
+matching_lemma: auks
+nugget: uo
+nugget_in: true
+verb_array[0]: auksuoti
+verb_array[1]:  auksúoja
+verb_array[2]:  auksãvo
+LEMMA (auks) and NUGGET -IN- (uo)
+CLASSIFICATION: lemma_nugget_in
+This ends in -uoti
+old matching_lemma: auks
+trying to extend the matching_lemma
+uoti is here: 4
+infinitive_form: uoti
+present3_slice: úoja
+past3_slice: ãvo
+file_name: uoti_uoja_avo
+
+**************************************
+
+infinitive_verb: austi
+stripped_verb: aus
+matching_lemma: aus
+nugget: 
+nugget_in: true
+verb_array[0]: austi
+verb_array[1]:  áudžia
+verb_array[2]:  áudė
+LEMMA (aus) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: žia
+past3_slice: ė
+file_name: ti_žia_ė
+
+**************************************
+
+No file for this pattern (austi), creating a new one...
+infinitive_verb: aušti
+stripped_verb: auš
+matching_lemma: auš
+nugget: 
+nugget_in: true
+verb_array[0]: aušti
+verb_array[1]:  áudžia
+verb_array[2]:  áudė
+LEMMA (auš) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: žia
+past3_slice: ė
+file_name: ti_žia_ė
+
+**************************************
+
+infinitive_verb: auti
+stripped_verb: au
+matching_lemma: au
+nugget: 
+nugget_in: true
+verb_array[0]: auti
+verb_array[1]:  aũna
+verb_array[2]:  ãvė
+LEMMA (au) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: na
+past3_slice: ė
+file_name: ti_na_ė
+
+**************************************
+
+No file for this pattern (auti), creating a new one...
+infinitive_verb: autis
+stripped_verb: au
+matching_lemma: au
+nugget: 
+nugget_in: true
+verb_array[0]: autis
+verb_array[1]:  aũnasi
+verb_array[2]:  ãvėsi
+LEMMA (au) only
+CLASSIFICATION: lemma_only
+infinitive_form: tis
+present3_slice: nasi
+past3_slice: ėsi
+file_name: tis_nasi_ėsi
+
+**************************************
+
+No file for this pattern (autis), creating a new one...
+infinitive_verb: automatizuoti
+stripped_verb: automatizuo
+matching_lemma: automat
+nugget: izuo
+nugget_in: true
+verb_array[0]: automatizuoti
+verb_array[1]:  automatizúoja
+verb_array[2]:  automatizavo
+LEMMA (automat) and NUGGET -IN- (izuo)
+CLASSIFICATION: lemma_nugget_in
+This ends in -uoti
+old matching_lemma: automat
+trying to extend the matching_lemma
+uoti is here: 9
+infinitive_form: uoti
+present3_slice: úoja
+past3_slice: avo
+file_name: uoti_uoja_avo
+
+**************************************
+
+infinitive_verb: avėti
+stripped_verb: avė
+matching_lemma: av
+nugget: ė
+nugget_in: true
+verb_array[0]: avėti
+verb_array[1]:  ãvi
+verb_array[2]:  avė́jo
+LEMMA (av) and NUGGET -IN- (ė)
+CLASSIFICATION: lemma_nugget_in
+This ends in -ėti
+old matching_lemma: av
+trying to extend the matching_lemma
+ėti is here: 2
+infinitive_form: ėti
+present3_slice: i
+past3_slice: ėjo
+file_name: ėti_i_ėjo
+
+**************************************
+
+infinitive_verb: badauti
+stripped_verb: badau
+matching_lemma: bad
+nugget: au
+nugget_in: true
+verb_array[0]: badauti
+verb_array[1]:  badáuja
+verb_array[2]:  badãvo
+LEMMA (bad) and NUGGET -IN- (au)
+CLASSIFICATION: lemma_nugget_in
+This ends in -auti
+old matching_lemma: bad
+trying to extend the matching_lemma
+auti is here: 3
+length of badáuja: 7, minus accents badauja 7
+length of badãvo: 6, minus accents badavo 6
+infinitive_form: auti
+present3_slice: auja
+past3_slice: avo
+file_name: auti_auja_avo
+
+**************************************
+
+No file for this pattern (badauti), creating a new one...
+infinitive_verb: badyti
+stripped_verb: bady
+matching_lemma: bad
+nugget: y
+nugget_in: true
+verb_array[0]: badyti
+verb_array[1]:  bãdo
+verb_array[2]:  bãdė
+LEMMA (bad) and NUGGET -IN- (y)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: yti
+present3_slice: o
+past3_slice: ė
+file_name: yti_o_ė
+
+**************************************
+
+infinitive_verb: baidyti
+stripped_verb: baidy
+matching_lemma: baid
+nugget: y
+nugget_in: true
+verb_array[0]: baidyti
+verb_array[1]:  baĩdo
+verb_array[2]:  baĩdė
+LEMMA (baid) and NUGGET -IN- (y)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: yti
+present3_slice: o
+past3_slice: ė
+file_name: yti_o_ė
+
+**************************************
+
+bundler: failed to load command: exe/verbalyser (exe/verbalyser)

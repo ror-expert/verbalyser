@@ -35,6 +35,14 @@ describe Verbalyser::EndingsGrouper do
   let (:zyzti) {yzti_yzia_yzė}
   let (:būgštauti) {"auti_auja_avo"}
 
+  # Added because the filter isn't catching them
+  let (:evakuoti) {"uoti_uoja_avo"}
+  let (:pildytis) {"ytis_osi_ėsi"}
+  let (:grimzti) {"ti_ta_do"}
+  let (:kniaukti) {"ti_ia_ė"}
+  let (:siųsti) {"ųsti_unčia_untė"}
+  let (:inspiruoti) {"uoti_uoja_avo"}
+
   subject {Verbalyser::EndingsGrouper.new}
 
   context "Testing for correct filename" do
@@ -122,6 +130,16 @@ describe Verbalyser::EndingsGrouper do
     it "outputs a file name from an infinitive_verb input" do
       expect(subject.create_classificatory_file_name("būgštauti")).to eq(būgštauti)
     end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("evakuoti")).to eq(evakuoti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("pildytis")).to eq(pildytis)
+    end
+
+
 
   end
 end

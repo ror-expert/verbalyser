@@ -5,6 +5,7 @@ amžinti, amžinà, ámžino
 artinti, ar̃tina, ar̃tino
 auginti, augìna, augìno
 aukštinti, áukština, áukštino
+baiminti, báimina, báimino
 balinti, bãlina, bãlino
 baltinti, baltinà, báltino
 barškinti, bárškina, bárškino
@@ -125,6 +126,7 @@ riebinti, riebina, ríebino
 rūpinti, rū́pina, rū́pino
 rusinti, rùsina, rùsino
 šalinti, šãlina, šãlino
+savinti, sãvina, sãvino
 sekinti, sẽkina, sẽkino
 silpninti, sil̃pnina, sil̃pnino
 skambinti, skam̃bina, skam̃bino
@@ -192,3 +194,4 @@ vizginti, vìzgina, vìzgino
 žalinti, žalina, žalino
 žeminti, žeminà, žẽmino
 ženklinti, žénklina, žénklino
+žvanginti, žvángina, žvángino

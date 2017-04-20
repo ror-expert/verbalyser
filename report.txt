@@ -12,7 +12,7 @@ NUGGET: uo
 This ends in -uoti
 old matching_lemma: absorb
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -35,7 +35,7 @@ NUGGET: uo
 This ends in -uoti
 old matching_lemma: abstrah
 trying to extend the matching_lemma
-ėti is here: 7
+uoti is here: 7
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -80,7 +80,7 @@ NUGGET: uo
 This ends in -uoti
 old matching_lemma: adapt
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -102,7 +102,7 @@ NUGGET: uo
 This ends in -uoti
 old matching_lemma: adapt
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uotis
 present3_slice: úojasi
 past3_slice: ãvosi
@@ -147,7 +147,7 @@ NUGGET: uo
 This ends in -uoti
 old matching_lemma: administr
 trying to extend the matching_lemma
-ėti is here: 9
+uoti is here: 9
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -169,7 +169,7 @@ NUGGET: uo
 This ends in -uoti
 old matching_lemma: adres
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -256,7 +256,7 @@ NUGGET: uo
 This ends in -uoti
 old matching_lemma: akcent
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -373,7 +373,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: aktyv
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: uoja
 past3_slice: avo
@@ -446,7 +446,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: amput
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: uoja
 past3_slice: ãvo
@@ -505,7 +505,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: analiz
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -526,7 +526,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: an
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -547,7 +547,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: ant
 trying to extend the matching_lemma
-ėti is here: 8
+uoti is here: 8
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -565,7 +565,7 @@ verb_array[1]:  ar̃do
 verb_array[2]:  ar̃dė
 LEMMA (ar) and NUGGET -IN- (dy)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: ar
 trying to extend the matching_lemma
 yti is here: 3
@@ -590,7 +590,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: arešt
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -685,7 +685,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: asimil
 trying to extend the matching_lemma
-ėti is here: 7
+uoti is here: 7
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -706,7 +706,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: asm
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -727,7 +727,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: asocij
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: avo
@@ -840,8 +840,8 @@ matching_lemma: auk
 nugget: o
 nugget_in: true
 verb_array[0]: aukotis
-verb_array[1]:  aukója
-verb_array[2]:  aukójo
+verb_array[1]:  aukójasi
+verb_array[2]:  aukójosi
 LEMMA (auk) and NUGGET -IN- (o)
 CLASSIFICATION: lemma_nugget_in
 This ends in -oti but not -uoti
@@ -849,9 +849,9 @@ old matching_lemma: auk
 trying to extend the matching_lemma
 ėti is here: 3
 infinitive_form: otis
-present3_slice: ója
-past3_slice: ójo
-file_name: otis_oja_ojo
+present3_slice: ójasi
+past3_slice: ójosi
+file_name: otis_ojasi_ojosi
 
 **************************************
 
@@ -886,7 +886,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: auks
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -978,7 +978,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: automat
 trying to extend the matching_lemma
-ėti is here: 9
+uoti is here: 9
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: avo
@@ -1017,6 +1017,12 @@ verb_array[1]:  badáuja
 verb_array[2]:  badãvo
 LEMMA (bad) and NUGGET -IN- (au)
 CLASSIFICATION: lemma_nugget_in
+This ends in -auti
+old matching_lemma: bad
+trying to extend the matching_lemma
+auti is here: 3
+length of badáuja: 7, minus accents badauja 7
+length of badãvo: 6, minus accents badavo 6
 infinitive_form: auti
 present3_slice: auja
 past3_slice: avo
@@ -1119,17 +1125,16 @@ nugget: in
 nugget_in: true
 verb_array[0]: baiminti
 verb_array[1]:  báimina
-verb_array[2]:  báiminosi
+verb_array[2]:  báimino
 LEMMA (baim) and NUGGET -IN- (in)
 CLASSIFICATION: lemma_nugget_in
 infinitive_form: inti
 present3_slice: ina
-past3_slice: inosi
-file_name: inti_ina_inosi
+past3_slice: ino
+file_name: inti_ina_ino
 
 **************************************
 
-No file for this pattern (baiminti), creating a new one...
 infinitive_verb: baimintis
 stripped_verb: baimin
 matching_lemma: baim
@@ -1224,7 +1229,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: balans
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -1301,7 +1306,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: bal
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -1377,7 +1382,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: bal
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -1415,7 +1420,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: bang
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -1436,7 +1441,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: bankrut
 trying to extend the matching_lemma
-ėti is here: 7
+uoti is here: 7
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -1471,7 +1476,7 @@ verb_array[1]:  bar̃sto
 verb_array[2]:  bar̃stė
 LEMMA (bar) and NUGGET -IN- (sty)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: bar
 trying to extend the matching_lemma
 yti is here: 5
@@ -1493,7 +1498,7 @@ verb_array[1]:  bar̃stosi
 verb_array[2]:  bar̃stėsi
 LEMMA (bar) and NUGGET -IN- (sty)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: bar
 trying to extend the matching_lemma
 yti is here: 5
@@ -1582,7 +1587,7 @@ nugget: inė
 nugget_in: true
 verb_array[0]: bėginėti
 verb_array[1]:  bėginė́ja
-verb_array[2]:  bėginė́ja
+verb_array[2]:  bėginė́jo
 LEMMA (bėg) and NUGGET -IN- (inė)
 CLASSIFICATION: lemma_nugget_in
 This ends in -ėti
@@ -1591,12 +1596,11 @@ trying to extend the matching_lemma
 ėti is here: 5
 infinitive_form: ėti
 present3_slice: ėja
-past3_slice: ėja
-file_name: ėti_ėja_ėja
+past3_slice: ėjo
+file_name: ėti_ėja_ėjo
 
 **************************************
 
-No file for this pattern (bėginėti), creating a new one...
 infinitive_verb: bėgioti
 stripped_verb: bėgio
 matching_lemma: bėg
@@ -1641,14 +1645,20 @@ matching_lemma: bi
 nugget: dzen
 nugget_in: true
 verb_array[0]: bidzenti
-verb_array[1]:  bizdena
-verb_array[2]:  bizdeno
+verb_array[1]:  bidzena
+verb_array[2]:  bidzeno
 LEMMA (bi) and NUGGET -IN- (dzen)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: dzenti
-present3_slice: zdena
-past3_slice: zdeno
-file_name: dzenti_zdena_zdeno
+This ends in -enti
+old matching_lemma: bi
+trying to extend the matching_lemma
+auti is here: 4
+length of bidzena: 7, minus accents bidzena 7
+length of bidzeno: 7, minus accents bidzeno 7
+infinitive_form: enti
+present3_slice: ena
+past3_slice: eno
+file_name: enti_ena_eno
 
 **************************************
 
@@ -1740,10 +1750,16 @@ verb_array[1]:  bjursta
 verb_array[2]:  bjùro
 LEMMA (b) and NUGGET -IN- (jur)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: jurti
-present3_slice: jursta
-past3_slice: juro
-file_name: jurti_jursta_juro
+This ends in -ęsti
+old matching_lemma: b
+trying to extend the matching_lemma
+auti is here: 2
+length of bjursta: 7, minus accents bjursta 7
+length of bjùro: 5, minus accents bjuro 5
+infinitive_form: urti
+present3_slice: ursta
+past3_slice: uro
+file_name: urti_ursta_uro
 
 **************************************
 
@@ -1812,7 +1828,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: b
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: uoja
 past3_slice: avo
@@ -1830,10 +1846,16 @@ verb_array[1]:  bleñdžia
 verb_array[2]:  bleñdė
 LEMMA (b) and NUGGET -IN- (lęs)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: lęsti
-present3_slice: lendžia
-past3_slice: lendė
-file_name: lęsti_lendžia_lendė
+This ends in -ęsti
+old matching_lemma: b
+trying to extend the matching_lemma
+auti is here: 2
+length of bleñdžia: 8, minus accents blendžia 8
+length of bleñdė: 6, minus accents blendė 6
+infinitive_form: ęsti
+present3_slice: endžia
+past3_slice: endė
+file_name: ęsti_endžia_endė
 
 **************************************
 
@@ -1961,7 +1983,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: blok
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -2055,7 +2077,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: bol
 trying to extend the matching_lemma
-ėti is here: 3
+uoti is here: 3
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -2076,7 +2098,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: bombard
 trying to extend the matching_lemma
-ėti is here: 7
+uoti is here: 7
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -2358,7 +2380,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: buč
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -2379,7 +2401,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: buč
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uotis
 present3_slice: úojasi
 past3_slice: ãvosi
@@ -2431,18 +2453,23 @@ matching_lemma: būg
 nugget: štau
 nugget_in: true
 verb_array[0]: būgštauti
-verb_array[1]:  būšgtauja
+verb_array[1]:  būgštauja
 verb_array[2]:  bū́gštavo
 LEMMA (būg) and NUGGET -IN- (štau)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: štauti
-present3_slice: gtauja
-past3_slice: štavo
-file_name: štauti_gtauja_štavo
+This ends in -auti
+old matching_lemma: būg
+trying to extend the matching_lemma
+auti is here: 5
+length of būgštauja: 9, minus accents būgštauja 9
+length of būgštavo: 8, minus accents būgštavo 8
+infinitive_form: auti
+present3_slice: auja
+past3_slice: avo
+file_name: auti_auja_avo
 
 **************************************
 
-No file for this pattern (būgštauti), creating a new one...
 infinitive_verb: bujoti
 stripped_verb: bujo
 matching_lemma: buj
@@ -2498,7 +2525,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: burb
 trying to extend the matching_lemma
-ėti is here: 7
+uoti is here: 7
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -2519,7 +2546,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: bur
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -2540,7 +2567,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: būr
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -2817,7 +2844,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: cit
 trying to extend the matching_lemma
-ėti is here: 3
+uoti is here: 3
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -2870,7 +2897,7 @@ nugget: inė
 nugget_in: true
 verb_array[0]: čiuožinėti
 verb_array[1]:  čiuožinė́ja
-verb_array[2]:  čiuožinė́ja
+verb_array[2]:  čiuožinė́jo
 LEMMA (čiuož) and NUGGET -IN- (inė)
 CLASSIFICATION: lemma_nugget_in
 This ends in -ėti
@@ -2879,8 +2906,8 @@ trying to extend the matching_lemma
 ėti is here: 7
 infinitive_form: ėti
 present3_slice: ėja
-past3_slice: ėja
-file_name: ėti_ėja_ėja
+past3_slice: ėjo
+file_name: ėti_ėja_ėjo
 
 **************************************
 
@@ -2931,7 +2958,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: civil
 trying to extend the matching_lemma
-ėti is here: 7
+uoti is here: 7
 infinitive_form: uoti
 present3_slice: uoja
 past3_slice: ãvo
@@ -2949,6 +2976,12 @@ verb_array[1]:  cýpauja
 verb_array[2]:  cýpavo
 LEMMA (cyp) and NUGGET -IN- (au)
 CLASSIFICATION: lemma_nugget_in
+This ends in -auti
+old matching_lemma: cyp
+trying to extend the matching_lemma
+auti is here: 3
+length of cýpauja: 7, minus accents cypauja 7
+length of cýpavo: 6, minus accents cypavo 6
 infinitive_form: auti
 present3_slice: auja
 past3_slice: avo
@@ -3024,7 +3057,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: da
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -3129,14 +3162,19 @@ verb_array[1]:  dalyváuja
 verb_array[2]:  dalyvãvo
 LEMMA (dal) and NUGGET -IN- (yvau)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: yvauti
-present3_slice: yvauja
-past3_slice: yvavo
-file_name: yvauti_yvauja_yvavo
+This ends in -auti
+old matching_lemma: dal
+trying to extend the matching_lemma
+auti is here: 5
+length of dalyváuja: 9, minus accents dalyvauja 9
+length of dalyvãvo: 8, minus accents dalyvavo 8
+infinitive_form: auti
+present3_slice: auja
+past3_slice: avo
+file_name: auti_auja_avo
 
 **************************************
 
-No file for this pattern (dalyvauti), creating a new one...
 infinitive_verb: dangstytis
 stripped_verb: dangsty
 matching_lemma: dang
@@ -3147,7 +3185,7 @@ verb_array[1]:  dañgstosi
 verb_array[2]:  dañgstėsi
 LEMMA (dang) and NUGGET -IN- (sty)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: dang
 trying to extend the matching_lemma
 yti is here: 6
@@ -3172,7 +3210,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: darb
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uotis
 present3_slice: úojasi
 past3_slice: ãvosi
@@ -3203,18 +3241,17 @@ matching_lemma: dar
 nugget: y
 nugget_in: true
 verb_array[0]: darytis
-verb_array[1]:  dãro
-verb_array[2]:  dãrė
+verb_array[1]:  dãrosi
+verb_array[2]:  dãrėsi
 LEMMA (dar) and NUGGET -IN- (y)
 CLASSIFICATION: lemma_nugget_in
 infinitive_form: ytis
-present3_slice: o
-past3_slice: ė
-file_name: ytis_o_ė
+present3_slice: osi
+past3_slice: ėsi
+file_name: ytis_osi_ėsi
 
 **************************************
 
-No file for this pattern (darytis), creating a new one...
 infinitive_verb: daugėti
 stripped_verb: daugė
 matching_lemma: daug
@@ -3277,7 +3314,7 @@ nugget: inė
 nugget_in: true
 verb_array[0]: daužinėti
 verb_array[1]:  daužinėja
-verb_array[2]:  daužinėjosi
+verb_array[2]:  daužinėjo
 LEMMA (dauž) and NUGGET -IN- (inė)
 CLASSIFICATION: lemma_nugget_in
 This ends in -ėti
@@ -3286,12 +3323,11 @@ trying to extend the matching_lemma
 ėti is here: 6
 infinitive_form: ėti
 present3_slice: ėja
-past3_slice: ėjosi
-file_name: ėti_ėja_ėjosi
+past3_slice: ėjo
+file_name: ėti_ėja_ėjo
 
 **************************************
 
-No file for this pattern (daužinėti), creating a new one...
 infinitive_verb: daužti
 stripped_verb: dauž
 matching_lemma: dauž
@@ -3333,7 +3369,7 @@ nugget: inė
 nugget_in: true
 verb_array[0]: davinėti
 verb_array[1]:  davinė́ja
-verb_array[2]:  davinė́ja
+verb_array[2]:  davinė́jo
 LEMMA (dav) and NUGGET -IN- (inė)
 CLASSIFICATION: lemma_nugget_in
 This ends in -ėti
@@ -3342,8 +3378,8 @@ trying to extend the matching_lemma
 ėti is here: 5
 infinitive_form: ėti
 present3_slice: ėja
-past3_slice: ėja
-file_name: ėti_ėja_ėja
+past3_slice: ėjo
+file_name: ėti_ėja_ėjo
 
 **************************************
 
@@ -3370,14 +3406,14 @@ matching_lemma: daž
 nugget: y
 nugget_in: true
 verb_array[0]: dažytis
-verb_array[1]:  dãžo
-verb_array[2]:  dãžė
+verb_array[1]:  dãžosi
+verb_array[2]:  dãžėsi
 LEMMA (daž) and NUGGET -IN- (y)
 CLASSIFICATION: lemma_nugget_in
 infinitive_form: ytis
-present3_slice: o
-past3_slice: ė
-file_name: ytis_o_ė
+present3_slice: osi
+past3_slice: ėsi
+file_name: ytis_osi_ėsi
 
 **************************************
 
@@ -3394,7 +3430,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: de
 trying to extend the matching_lemma
-ėti is here: 7
+uoti is here: 7
 infinitive_form: uoti
 present3_slice: uoja
 past3_slice: avo
@@ -3415,7 +3451,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: debiut
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: vuoja
 past3_slice: vavo
@@ -3437,7 +3473,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: dedik
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -3509,7 +3545,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: dej
 trying to extend the matching_lemma
-ėti is here: 3
+uoti is here: 3
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -3530,7 +3566,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: deklar
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -3551,7 +3587,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: dekor
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -3652,7 +3688,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: demonstr
 trying to extend the matching_lemma
-ėti is here: 8
+uoti is here: 8
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -3690,7 +3726,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: de
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -3801,19 +3837,18 @@ verb_array[1]:  dė́sto
 verb_array[2]:  dė́stė
 LEMMA (dė) and NUGGET -IN- (sty)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: dė
 trying to extend the matching_lemma
 yti is here: 4
-length of dė́sto: 6, minus accents dė́sto 6
+length of dėsto: 5, minus accents dėsto 5
 infinitive_form: yti
-present3_slice: to
-past3_slice: tė
-file_name: yti_to_tė
+present3_slice: o
+past3_slice: ė
+file_name: yti_o_ė
 
 **************************************
 
-No file for this pattern (dėstyti), creating a new one...
 infinitive_verb: dėti
 stripped_verb: dė
 matching_lemma: dė
@@ -3863,7 +3898,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: de
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -3886,13 +3921,12 @@ old matching_lemma: dėv
 trying to extend the matching_lemma
 ėti is here: 3
 infinitive_form: ėti
-present3_slice: vi
+present3_slice: i
 past3_slice: ėjo
-file_name: ėti_vi_ėjo
+file_name: ėti_i_ėjo
 
 **************************************
 
-No file for this pattern (dėvėti), creating a new one...
 infinitive_verb: dėvėtis
 stripped_verb: dėvė
 matching_lemma: dėv
@@ -3908,13 +3942,12 @@ old matching_lemma: dėv
 trying to extend the matching_lemma
 ėti is here: 3
 infinitive_form: ėtis
-present3_slice: visi
+present3_slice: isi
 past3_slice: ėjosi
-file_name: ėtis_visi_ėjosi
+file_name: ėtis_isi_ėjosi
 
 **************************************
 
-No file for this pattern (dėvėtis), creating a new one...
 infinitive_verb: diagnozuoti
 stripped_verb: diagnozuo
 matching_lemma: diagnoz
@@ -3928,7 +3961,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: diagnoz
 trying to extend the matching_lemma
-ėti is here: 7
+uoti is here: 7
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -3987,7 +4020,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: didž
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uotis
 present3_slice: úojasi
 past3_slice: ãvosi
@@ -4037,7 +4070,6 @@ file_name: otis_ojasi_ojosi
 
 **************************************
 
-No file for this pattern (dievagotis), creating a new one...
 infinitive_verb: dievinti
 stripped_verb: dievin
 matching_lemma: diev
@@ -4068,7 +4100,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: dikt
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -4176,14 +4208,19 @@ verb_array[1]:  direktoriáuja
 verb_array[2]:  direktoriãvo
 LEMMA (direkt) and NUGGET -IN- (oriau)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: oriauti
-present3_slice: oriauja
-past3_slice: oriavo
-file_name: oriauti_oriauja_oriavo
+This ends in -auti
+old matching_lemma: direkt
+trying to extend the matching_lemma
+auti is here: 9
+length of direktoriáuja: 13, minus accents direktoriauja 13
+length of direktoriãvo: 12, minus accents direktoriavo 12
+infinitive_form: auti
+present3_slice: auja
+past3_slice: avo
+file_name: auti_auja_avo
 
 **************************************
 
-No file for this pattern (direktoriauti), creating a new one...
 infinitive_verb: dirginti
 stripped_verb: dirgin
 matching_lemma: dirg
@@ -4231,7 +4268,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: dirig
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -4290,7 +4327,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: diskut
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -4359,22 +4396,21 @@ matching_lemma: dom
 nugget: in
 nugget_in: true
 verb_array[0]: dominuoti
-verb_array[1]:  dominúoti
+verb_array[1]:  dominúoja
 verb_array[2]:  dominãvo
 LEMMA (dom) and NUGGET -IN- (in)
 CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: dom
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
-present3_slice: úoti
+present3_slice: úoja
 past3_slice: ãvo
-file_name: uoti_uoti_avo
+file_name: uoti_uoja_avo
 
 **************************************
 
-No file for this pattern (dominuoti), creating a new one...
 infinitive_verb: doroti
 stripped_verb: doro
 matching_lemma: dor
@@ -4444,8 +4480,8 @@ matching_lemma: dov
 nugget: ano
 nugget_in: true
 verb_array[0]: dovanotis
-verb_array[1]:  dovanója
-verb_array[2]:  dovanójo
+verb_array[1]:  dovanójasi
+verb_array[2]:  dovanójosi
 LEMMA (dov) and NUGGET -IN- (ano)
 CLASSIFICATION: lemma_nugget_in
 This ends in -oti but not -uoti
@@ -4453,9 +4489,9 @@ old matching_lemma: dov
 trying to extend the matching_lemma
 ėti is here: 5
 infinitive_form: otis
-present3_slice: ója
-past3_slice: ójo
-file_name: otis_oja_ojo
+present3_slice: ójasi
+past3_slice: ójosi
+file_name: otis_ojasi_ojosi
 
 **************************************
 
@@ -4469,7 +4505,7 @@ verb_array[1]:  drãbsto
 verb_array[2]:  drãbstė
 LEMMA (drab) and NUGGET -IN- (sty)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: drab
 trying to extend the matching_lemma
 yti is here: 6
@@ -4494,7 +4530,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: dram
 trying to extend the matching_lemma
-ėti is here: 8
+uoti is here: 8
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -4529,7 +4565,7 @@ verb_array[1]:  drą́sina
 verb_array[2]:  drą́sino
 LEMMA (drąs) and NUGGET -IN- (ky)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: drąs
 trying to extend the matching_lemma
 yti is here: 5
@@ -4569,6 +4605,12 @@ verb_array[1]:  draugáuja
 verb_array[2]:  draugãvo
 LEMMA (draug) and NUGGET -IN- (au)
 CLASSIFICATION: lemma_nugget_in
+This ends in -auti
+old matching_lemma: draug
+trying to extend the matching_lemma
+auti is here: 5
+length of draugáuja: 9, minus accents draugauja 9
+length of draugãvo: 8, minus accents draugavo 8
 infinitive_form: auti
 present3_slice: auja
 past3_slice: avo
@@ -4696,7 +4738,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: dreif
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -5049,24 +5091,6 @@ file_name: ti_da_ė
 **************************************
 
 No file for this pattern (duoti), creating a new one...
-infinitive_verb: duotis
-stripped_verb: duo
-matching_lemma: duo
-nugget: 
-nugget_in: true
-verb_array[0]: duotis
-verb_array[1]:  dúoda
-verb_array[2]:  dãvė
-LEMMA (duo) only
-CLASSIFICATION: lemma_only
-infinitive_form: tis
-present3_slice: da
-past3_slice: ė
-file_name: tis_da_ė
-
-**************************************
-
-No file for this pattern (duotis), creating a new one...
 infinitive_verb: durti
 stripped_verb: dur
 matching_lemma: dur
@@ -5094,6 +5118,12 @@ verb_array[1]:  dū́sauja
 verb_array[2]:  dūsãvo
 LEMMA (dūs) and NUGGET -IN- (au)
 CLASSIFICATION: lemma_nugget_in
+This ends in -auti
+old matching_lemma: dūs
+trying to extend the matching_lemma
+auti is here: 3
+length of dūsauja: 7, minus accents dūsauja 7
+length of dūsãvo: 6, minus accents dūsavo 6
 infinitive_form: auti
 present3_slice: auja
 past3_slice: avo
@@ -5323,6 +5353,12 @@ verb_array[1]:  džiū́gauja
 verb_array[2]:  džiū́gavo
 LEMMA (džiūg) and NUGGET -IN- (au)
 CLASSIFICATION: lemma_nugget_in
+This ends in -auti
+old matching_lemma: džiūg
+trying to extend the matching_lemma
+auti is here: 5
+length of džiūgauja: 9, minus accents džiūgauja 9
+length of džiūgavo: 8, minus accents džiūgavo 8
 infinitive_form: auti
 present3_slice: auja
 past3_slice: avo
@@ -5378,7 +5414,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: egzist
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -5441,7 +5477,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: eil
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -5498,7 +5534,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: eksperimen
 trying to extend the matching_lemma
-ėti is here: 11
+uoti is here: 11
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -5519,7 +5555,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: ek
 trying to extend the matching_lemma
-ėti is here: 7
+uoti is here: 7
 infinitive_form: uoti
 present3_slice: uoja
 past3_slice: avo
@@ -5540,7 +5576,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: ek
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: uoja
 past3_slice: avo
@@ -5561,7 +5597,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: elektr
 trying to extend the matching_lemma
-ėti is here: 10
+uoti is here: 10
 infinitive_form: uoti
 present3_slice: uoja
 past3_slice: ãvo
@@ -5579,14 +5615,19 @@ verb_array[1]:  elgetáuja
 verb_array[2]:  elgetãvo
 LEMMA (elg) and NUGGET -IN- (egau)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: egauti
-present3_slice: etauja
-past3_slice: etavo
-file_name: egauti_etauja_etavo
+This ends in -auti
+old matching_lemma: elg
+trying to extend the matching_lemma
+auti is here: 5
+length of elgetáuja: 9, minus accents elgetauja 9
+length of elgetãvo: 8, minus accents elgetavo 8
+infinitive_form: auti
+present3_slice: auja
+past3_slice: avo
+file_name: auti_auja_avo
 
 **************************************
 
-No file for this pattern (elgegauti), creating a new one...
 infinitive_verb: elgetauti
 stripped_verb: elgetau
 matching_lemma: elget
@@ -5597,6 +5638,12 @@ verb_array[1]:  elgetáuja
 verb_array[2]:  elgetãvo
 LEMMA (elget) and NUGGET -IN- (au)
 CLASSIFICATION: lemma_nugget_in
+This ends in -auti
+old matching_lemma: elget
+trying to extend the matching_lemma
+auti is here: 5
+length of elgetáuja: 9, minus accents elgetauja 9
+length of elgetãvo: 8, minus accents elgetavo 8
 infinitive_form: auti
 present3_slice: auja
 past3_slice: avo
@@ -5652,7 +5699,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: emigr
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -5673,7 +5720,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: em
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: uoja
 past3_slice: avo
@@ -5806,7 +5853,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: fantaz
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -5827,7 +5874,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: ferment
 trying to extend the matching_lemma
-ėti is here: 7
+uoti is here: 7
 infinitive_form: uotis
 present3_slice: úojasi
 past3_slice: ãvosi
@@ -5848,7 +5895,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: figūr
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -5869,7 +5916,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: film
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -5890,7 +5937,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: filosof
 trying to extend the matching_lemma
-ėti is here: 7
+uoti is here: 7
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -5911,7 +5958,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: finans
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -5932,7 +5979,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: flirt
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -5953,7 +6000,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: fokus
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: uoja
 past3_slice: avo
@@ -5991,7 +6038,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: form
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -6012,7 +6059,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: form
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uotis
 present3_slice: úojasi
 past3_slice: ãvosi
@@ -6033,7 +6080,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: foto
 trying to extend the matching_lemma
-ėti is here: 8
+uoti is here: 8
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -6054,7 +6101,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: funkcion
 trying to extend the matching_lemma
-ėti is here: 8
+uoti is here: 8
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -6072,14 +6119,19 @@ verb_array[1]:  gabẽna
 verb_array[2]:  gabẽno
 LEMMA (gab) and NUGGET -IN- (en)
 CLASSIFICATION: lemma_nugget_in
+This ends in -enti
+old matching_lemma: gab
+trying to extend the matching_lemma
+auti is here: 3
+length of gabena: 6, minus accents gabena 6
+length of gabeno: 6, minus accents gabeno 6
 infinitive_form: enti
-present3_slice: ẽna
-past3_slice: ẽno
-file_name: enti_ẽna_ẽno
+present3_slice: ena
+past3_slice: eno
+file_name: enti_ena_eno
 
 **************************************
 
-No file for this pattern (gabenti), creating a new one...
 infinitive_verb: gadinti
 stripped_verb: gadin
 matching_lemma: gad
@@ -6340,7 +6392,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: garant
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -6420,7 +6472,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: gar
 trying to extend the matching_lemma
-ėti is here: 3
+uoti is here: 3
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -6455,14 +6507,19 @@ verb_array[1]:  gąstauja
 verb_array[2]:  gąstavo
 LEMMA (gąs) and NUGGET -IN- (tau)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: tauti
-present3_slice: tauja
-past3_slice: tavo
-file_name: tauti_tauja_tavo
+This ends in -auti
+old matching_lemma: gąs
+trying to extend the matching_lemma
+auti is here: 4
+length of gąstauja: 8, minus accents gąstauja 8
+length of gąstavo: 7, minus accents gąstavo 7
+infinitive_form: auti
+present3_slice: auja
+past3_slice: avo
+file_name: auti_auja_avo
 
 **************************************
 
-No file for this pattern (gąstauti), creating a new one...
 infinitive_verb: gaubti
 stripped_verb: gaub
 matching_lemma: gaub
@@ -6803,7 +6860,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: gelt
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -6885,13 +6942,12 @@ old matching_lemma: gėr
 trying to extend the matching_lemma
 ėti is here: 3
 infinitive_form: ėtis
-present3_slice: risi
+present3_slice: isi
 past3_slice: ėjosi
-file_name: ėtis_risi_ėjosi
+file_name: ėtis_isi_ėjosi
 
 **************************************
 
-No file for this pattern (gėrėtis), creating a new one...
 infinitive_verb: gerinti
 stripped_verb: gerin
 matching_lemma: ger
@@ -6953,14 +7009,19 @@ verb_array[1]:  gervuogiauja
 verb_array[2]:  gervuogiavo
 LEMMA (gerv) and NUGGET -IN- (uogiau)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: uogiauti
-present3_slice: uogiauja
-past3_slice: uogiavo
-file_name: uogiauti_uogiauja_uogiavo
+This ends in -auti
+old matching_lemma: gerv
+trying to extend the matching_lemma
+auti is here: 8
+length of gervuogiauja: 12, minus accents gervuogiauja 12
+length of gervuogiavo: 11, minus accents gervuogiavo 11
+infinitive_form: auti
+present3_slice: auja
+past3_slice: avo
+file_name: auti_auja_avo
 
 **************************************
 
-No file for this pattern (gervuogiauti), creating a new one...
 infinitive_verb: gesinti
 stripped_verb: gesin
 matching_lemma: ges
@@ -7153,7 +7214,7 @@ verb_array[1]:  gim̃do
 verb_array[2]:  gim̃dė
 LEMMA (gim) and NUGGET -IN- (dy)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: gim
 trying to extend the matching_lemma
 yti is here: 4
@@ -7178,7 +7239,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: gim
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uotis
 present3_slice: uojasi
 past3_slice: iãvosi
@@ -7215,7 +7276,7 @@ verb_array[1]:  giñčija
 verb_array[2]:  giñčijo
 LEMMA (g) and NUGGET -IN- (in)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: g
 trying to extend the matching_lemma
 yti is here: 4
@@ -7237,7 +7298,7 @@ verb_array[1]:  giñčijasi
 verb_array[2]:  giñčijosi
 LEMMA (g) and NUGGET -IN- (in)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: g
 trying to extend the matching_lemma
 yti is here: 4
@@ -7262,7 +7323,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: g
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -7288,24 +7349,6 @@ file_name: inti_ina_ynė
 **************************************
 
 No file for this pattern (ginti), creating a new one...
-infinitive_verb: gintis
-stripped_verb: gin
-matching_lemma: g
-nugget: in
-nugget_in: true
-verb_array[0]: gintis
-verb_array[1]:  gìna
-verb_array[2]:  gýnė
-LEMMA (g) and NUGGET -IN- (in)
-CLASSIFICATION: lemma_nugget_in
-infinitive_form: intis
-present3_slice: ina
-past3_slice: ynė
-file_name: intis_ina_ynė
-
-**************************************
-
-No file for this pattern (gintis), creating a new one...
 infinitive_verb: girdėti
 stripped_verb: girdė
 matching_lemma: gird
@@ -7321,13 +7364,12 @@ old matching_lemma: gird
 trying to extend the matching_lemma
 ėti is here: 4
 infinitive_form: ėti
-present3_slice: di
+present3_slice: i
 past3_slice: ėjo
-file_name: ėti_di_ėjo
+file_name: ėti_i_ėjo
 
 **************************************
 
-No file for this pattern (girdėti), creating a new one...
 infinitive_verb: girdyti
 stripped_verb: girdy
 matching_lemma: gird
@@ -7376,10 +7418,16 @@ verb_array[1]:  girtáuja
 verb_array[2]:  girtãvo
 LEMMA (gir) and NUGGET -IN- (tau)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: tauti
-present3_slice: tauja
-past3_slice: tavo
-file_name: tauti_tauja_tavo
+This ends in -auti
+old matching_lemma: gir
+trying to extend the matching_lemma
+auti is here: 4
+length of girtáuja: 8, minus accents girtauja 8
+length of girtãvo: 7, minus accents girtavo 7
+infinitive_form: auti
+present3_slice: auja
+past3_slice: avo
+file_name: auti_auja_avo
 
 **************************************
 
@@ -7518,7 +7566,7 @@ verb_array[1]:  glaũdžiasi
 verb_array[2]:  glaũdėsi
 LEMMA (glaus) and NUGGET -IN- (ty)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: glaus
 trying to extend the matching_lemma
 yti is here: 6
@@ -7558,10 +7606,16 @@ verb_array[1]:  glęra
 verb_array[2]:  glero
 LEMMA (g) and NUGGET -IN- (ler)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: lerti
-present3_slice: lęra
-past3_slice: lero
-file_name: lerti_lęra_lero
+This ends in -ęsti
+old matching_lemma: g
+trying to extend the matching_lemma
+auti is here: 2
+length of glęra: 5, minus accents glęra 5
+length of glero: 5, minus accents glero 5
+infinitive_form: erti
+present3_slice: ęra
+past3_slice: ero
+file_name: erti_ęra_ero
 
 **************************************
 
@@ -7636,9 +7690,9 @@ old matching_lemma: glūd
 trying to extend the matching_lemma
 ėti is here: 4
 infinitive_form: ėti
-present3_slice: di
+present3_slice: i
 past3_slice: ėjo
-file_name: ėti_di_ėjo
+file_name: ėti_i_ėjo
 
 **************************************
 
@@ -7652,7 +7706,7 @@ verb_array[1]:  gnáibo
 verb_array[2]:  gnáibė
 LEMMA (g) and NUGGET -IN- (naiby)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: g
 trying to extend the matching_lemma
 yti is here: 5
@@ -7674,7 +7728,7 @@ verb_array[1]:  gniùždo
 verb_array[2]:  gniùždė
 LEMMA (gniuž) and NUGGET -IN- (dy)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: gniuž
 trying to extend the matching_lemma
 yti is here: 6
@@ -7734,10 +7788,16 @@ verb_array[1]:  gnýbia
 verb_array[2]:  gnybė
 LEMMA (g) and NUGGET -IN- (nyb)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: nybti
-present3_slice: nybia
-past3_slice: nybė
-file_name: nybti_nybia_nybė
+This ends in -ęsti
+old matching_lemma: g
+trying to extend the matching_lemma
+auti is here: 2
+length of gnýbia: 6, minus accents gnybia 6
+length of gnybė: 5, minus accents gnybė 5
+infinitive_form: ybti
+present3_slice: ybia
+past3_slice: ybė
+file_name: ybti_ybia_ybė
 
 **************************************
 
@@ -7748,14 +7808,14 @@ matching_lemma: gob
 nugget: 
 nugget_in: true
 verb_array[0]: gobtis
-verb_array[1]:  gniužta
-verb_array[2]:  gniùžo
+verb_array[1]:  gobtiasi
+verb_array[2]:  gobtėsi
 LEMMA (gob) only
 CLASSIFICATION: lemma_only
 infinitive_form: tis
-present3_slice: užta
-past3_slice: užo
-file_name: tis_užta_užo
+present3_slice: tiasi
+past3_slice: tėsi
+file_name: tis_tiasi_tėsi
 
 **************************************
 
@@ -7880,31 +7940,19 @@ verb_array[1]:  graudẽna
 verb_array[2]:  graudẽno
 LEMMA (graud) and NUGGET -IN- (en)
 CLASSIFICATION: lemma_nugget_in
+This ends in -enti
+old matching_lemma: graud
+trying to extend the matching_lemma
+auti is here: 5
+length of graudena: 8, minus accents graudena 8
+length of graudeno: 8, minus accents graudeno 8
 infinitive_form: enti
-present3_slice: ẽna
-past3_slice: ẽno
-file_name: enti_ẽna_ẽno
+present3_slice: ena
+past3_slice: eno
+file_name: enti_ena_eno
 
 **************************************
 
-infinitive_verb: graudentis
-stripped_verb: grauden
-matching_lemma: graud
-nugget: en
-nugget_in: true
-verb_array[0]: graudentis
-verb_array[1]:  graudẽna
-verb_array[2]:  graudẽno
-LEMMA (graud) and NUGGET -IN- (en)
-CLASSIFICATION: lemma_nugget_in
-infinitive_form: entis
-present3_slice: ẽna
-past3_slice: ẽno
-file_name: entis_ẽna_ẽno
-
-**************************************
-
-No file for this pattern (graudentis), creating a new one...
 infinitive_verb: graudinti
 stripped_verb: graudin
 matching_lemma: graud
@@ -7969,7 +8017,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: gravir
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: uoja
 past3_slice: avo
@@ -8289,7 +8337,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: grim
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -8378,10 +8426,16 @@ verb_array[1]:  gryzta
 verb_array[2]:  grizo
 LEMMA (g) and NUGGET -IN- (riz)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: rizti
-present3_slice: ryzta
-past3_slice: rizo
-file_name: rizti_ryzta_rizo
+This ends in -ęsti
+old matching_lemma: g
+trying to extend the matching_lemma
+auti is here: 2
+length of gryzta: 6, minus accents gryzta 6
+length of grizo: 5, minus accents grizo 5
+infinitive_form: izti
+present3_slice: yzta
+past3_slice: izo
+file_name: izti_yzta_izo
 
 **************************************
 
@@ -8396,7 +8450,7 @@ verb_array[1]:  gróbsto
 verb_array[2]:  gróbstė
 LEMMA (grob) and NUGGET -IN- (sty)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: grob
 trying to extend the matching_lemma
 yti is here: 6
@@ -8545,6 +8599,12 @@ verb_array[1]:  grybáuja
 verb_array[2]:  grybãvo
 LEMMA (gryb) and NUGGET -IN- (au)
 CLASSIFICATION: lemma_nugget_in
+This ends in -auti
+old matching_lemma: gryb
+trying to extend the matching_lemma
+auti is here: 4
+length of grybáuja: 8, minus accents grybauja 8
+length of grybãvo: 7, minus accents grybavo 7
 infinitive_form: auti
 present3_slice: auja
 past3_slice: avo
@@ -8583,6 +8643,12 @@ verb_array[1]:  gudráuja
 verb_array[2]:  gudrãvo
 LEMMA (gudr) and NUGGET -IN- (au)
 CLASSIFICATION: lemma_nugget_in
+This ends in -auti
+old matching_lemma: gudr
+trying to extend the matching_lemma
+auti is here: 4
+length of gudráuja: 8, minus accents gudrauja 8
+length of gudrãvo: 7, minus accents gudravo 7
 infinitive_form: auti
 present3_slice: auja
 past3_slice: avo
@@ -8656,7 +8722,7 @@ verb_array[1]:  gul̃do
 verb_array[2]:  gul̃dė
 LEMMA (gul) and NUGGET -IN- (dy)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: gul
 trying to extend the matching_lemma
 yti is here: 4
@@ -8840,10 +8906,16 @@ verb_array[1]:  gvildẽna
 verb_array[2]:  gvildẽno
 LEMMA (gvild) and NUGGET -IN- (en)
 CLASSIFICATION: lemma_nugget_in
+This ends in -enti
+old matching_lemma: gvild
+trying to extend the matching_lemma
+auti is here: 5
+length of gvildena: 8, minus accents gvildena 8
+length of gvildeno: 8, minus accents gvildeno 8
 infinitive_form: enti
-present3_slice: ẽna
-past3_slice: ẽno
-file_name: enti_ẽna_ẽno
+present3_slice: ena
+past3_slice: eno
+file_name: enti_ena_eno
 
 **************************************
 
@@ -8908,10 +8980,16 @@ verb_array[1]:  gyvẽna
 verb_array[2]:  gyvẽno
 LEMMA (gyv) and NUGGET -IN- (en)
 CLASSIFICATION: lemma_nugget_in
+This ends in -enti
+old matching_lemma: gyv
+trying to extend the matching_lemma
+auti is here: 3
+length of gyvena: 6, minus accents gyvena 6
+length of gyveno: 6, minus accents gyveno 6
 infinitive_form: enti
-present3_slice: ẽna
-past3_slice: ẽno
-file_name: enti_ẽna_ẽno
+present3_slice: ena
+past3_slice: eno
+file_name: enti_ena_eno
 
 **************************************
 
@@ -8925,10 +9003,16 @@ verb_array[1]:  gyvẽnasi
 verb_array[2]:  gyvẽnosi
 LEMMA (gyv) and NUGGET -IN- (en)
 CLASSIFICATION: lemma_nugget_in
+This ends in -enti
+old matching_lemma: gyv
+trying to extend the matching_lemma
+auti is here: 3
+length of gyvenasi: 8, minus accents gyvenasi 8
+length of gyvenosi: 8, minus accents gyvenosi 8
 infinitive_form: entis
-present3_slice: ẽnasi
-past3_slice: ẽnosi
-file_name: entis_ẽnasi_ẽnosi
+present3_slice: enasi
+past3_slice: enosi
+file_name: entis_enasi_enosi
 
 **************************************
 
@@ -8984,7 +9068,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: gyv
 trying to extend the matching_lemma
-ėti is here: 3
+uoti is here: 3
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -9005,7 +9089,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: hipnot
 trying to extend the matching_lemma
-ėti is here: 8
+uoti is here: 8
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -9026,7 +9110,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: identifik
 trying to extend the matching_lemma
-ėti is here: 9
+uoti is here: 9
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -9068,7 +9152,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: ignor
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -9191,7 +9275,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: imigr
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -9212,7 +9296,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: imit
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -9233,7 +9317,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: impon
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -9254,7 +9338,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: import
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -9275,7 +9359,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: improviz
 trying to extend the matching_lemma
-ėti is here: 8
+uoti is here: 8
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -9330,7 +9414,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: infek
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: avo
@@ -9351,7 +9435,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: inform
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -9406,7 +9490,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: integr
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -9427,7 +9511,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: integr
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uotis
 present3_slice: úojasi
 past3_slice: ãvosi
@@ -9448,7 +9532,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: interpret
 trying to extend the matching_lemma
-ėti is here: 9
+uoti is here: 9
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -9469,7 +9553,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: invest
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -9490,7 +9574,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: ir
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -9542,10 +9626,16 @@ verb_array[1]:  išsigą̃sta
 verb_array[2]:  išsigañdo
 LEMMA (is) and NUGGET -IN- (sigąs)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: sigąsti
-present3_slice: sigąsta
-past3_slice: sigando
-file_name: sigąsti_sigąsta_sigando
+This ends in -ęsti
+old matching_lemma: is
+trying to extend the matching_lemma
+auti is here: 5
+length of išsigą̃sta: 10, minus accents išsigą̃sta 10
+length of išsigañdo: 9, minus accents išsigando 9
+infinitive_form: ąsti
+present3_slice: ąsta
+past3_slice: ando
+file_name: ąsti_ąsta_ando
 
 **************************************
 
@@ -9584,7 +9674,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: izol
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -9872,7 +9962,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: juod
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -9890,6 +9980,12 @@ verb_array[1]:  juokáuja
 verb_array[2]:  juokãvo
 LEMMA (juok) and NUGGET -IN- (au)
 CLASSIFICATION: lemma_nugget_in
+This ends in -auti
+old matching_lemma: juok
+trying to extend the matching_lemma
+auti is here: 4
+length of juokáuja: 8, minus accents juokauja 8
+length of juokãvo: 7, minus accents juokavo 7
 infinitive_form: auti
 present3_slice: auja
 past3_slice: avo
@@ -10020,7 +10116,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: ka
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -10283,7 +10379,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: kam
 trying to extend the matching_lemma
-ėti is here: 3
+uoti is here: 3
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -10304,7 +10400,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: kam
 trying to extend the matching_lemma
-ėti is here: 3
+uoti is here: 3
 infinitive_form: uotis
 present3_slice: úojasi
 past3_slice: ãvosi
@@ -10325,7 +10421,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: kandidat
 trying to extend the matching_lemma
-ėti is here: 8
+uoti is here: 8
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -10398,32 +10494,36 @@ verb_array[1]:  kariáuja
 verb_array[2]:  kariãvo
 LEMMA (kar) and NUGGET -IN- (iau)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: iauti
-present3_slice: iauja
-past3_slice: iavo
-file_name: iauti_iauja_iavo
+This ends in -auti
+old matching_lemma: kar
+trying to extend the matching_lemma
+auti is here: 4
+length of kariáuja: 8, minus accents kariauja 8
+length of kariãvo: 7, minus accents kariavo 7
+infinitive_form: auti
+present3_slice: auja
+past3_slice: avo
+file_name: auti_auja_avo
 
 **************************************
 
-No file for this pattern (kariauti), creating a new one...
 infinitive_verb: karpyti
 stripped_verb: karpy
 matching_lemma: karp
 nugget: y
 nugget_in: true
 verb_array[0]: karpyti
-verb_array[1]:  carp
+verb_array[1]:  kar̃po
 verb_array[2]:  kar̃pė
 LEMMA (karp) and NUGGET -IN- (y)
 CLASSIFICATION: lemma_nugget_in
 infinitive_form: yti
-present3_slice: 
+present3_slice: o
 past3_slice: ė
-file_name: yti__ė
+file_name: yti_o_ė
 
 **************************************
 
-No file for this pattern (karpyti), creating a new one...
 infinitive_verb: karščiuoti
 stripped_verb: karščiuo
 matching_lemma: karšč
@@ -10437,7 +10537,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: karšč
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -10458,7 +10558,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: karšč
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uotis
 present3_slice: úojasi
 past3_slice: vosi
@@ -10527,17 +10627,16 @@ nugget: y
 nugget_in: true
 verb_array[0]: karstytis
 verb_array[1]:  kárstosi
-verb_array[2]:  kárstosi
+verb_array[2]:  kárstėsi
 LEMMA (karst) and NUGGET -IN- (y)
 CLASSIFICATION: lemma_nugget_in
 infinitive_form: ytis
 present3_slice: osi
-past3_slice: osi
-file_name: ytis_osi_osi
+past3_slice: ėsi
+file_name: ytis_osi_ėsi
 
 **************************************
 
-No file for this pattern (karstytis), creating a new one...
 infinitive_verb: karti
 stripped_verb: kar
 matching_lemma: kar
@@ -10578,14 +10677,14 @@ matching_lemma: karto
 nugget: 
 nugget_in: true
 verb_array[0]: kartotis
-verb_array[1]:  kartója
-verb_array[2]:  kartójo
+verb_array[1]:  kartójasi
+verb_array[2]:  kartójosi
 LEMMA (karto) only
 CLASSIFICATION: lemma_only
 infinitive_form: tis
-present3_slice: ja
-past3_slice: jo
-file_name: tis_ja_jo
+present3_slice: jasi
+past3_slice: josi
+file_name: tis_jasi_josi
 
 **************************************
 
@@ -10603,7 +10702,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: karūn
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -10707,14 +10806,14 @@ matching_lemma: kas
 nugget: y
 nugget_in: true
 verb_array[0]: kasytis
-verb_array[1]:  kãso
-verb_array[2]:  kãsė
+verb_array[1]:  kãsosi
+verb_array[2]:  kãsėsi
 LEMMA (kas) and NUGGET -IN- (y)
 CLASSIFICATION: lemma_nugget_in
 infinitive_form: ytis
-present3_slice: o
-past3_slice: ė
-file_name: ytis_o_ė
+present3_slice: osi
+past3_slice: ėsi
+file_name: ytis_osi_ėsi
 
 **************************************
 
@@ -10872,10 +10971,16 @@ verb_array[1]:  kedẽna
 verb_array[2]:  kedẽno
 LEMMA (ked) and NUGGET -IN- (en)
 CLASSIFICATION: lemma_nugget_in
+This ends in -enti
+old matching_lemma: ked
+trying to extend the matching_lemma
+auti is here: 3
+length of kedena: 6, minus accents kedena 6
+length of kedeno: 6, minus accents kedeno 6
 infinitive_form: enti
-present3_slice: ẽna
-past3_slice: ẽno
-file_name: enti_ẽna_ẽno
+present3_slice: ena
+past3_slice: eno
+file_name: enti_ena_eno
 
 **************************************
 
@@ -10978,10 +11083,16 @@ verb_array[1]:  keliáuja
 verb_array[2]:  keliãvo
 LEMMA (kel) and NUGGET -IN- (iau)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: iauti
-present3_slice: iauja
-past3_slice: iavo
-file_name: iauti_iauja_iavo
+This ends in -auti
+old matching_lemma: kel
+trying to extend the matching_lemma
+auti is here: 4
+length of keliáuja: 8, minus accents keliauja 8
+length of keliãvo: 7, minus accents keliavo 7
+infinitive_form: auti
+present3_slice: auja
+past3_slice: avo
+file_name: auti_auja_avo
 
 **************************************
 
@@ -11180,10 +11291,16 @@ verb_array[1]:  kerštáuja
 verb_array[2]:  kerštãvo
 LEMMA (kerš) and NUGGET -IN- (tau)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: tauti
-present3_slice: tauja
-past3_slice: tavo
-file_name: tauti_tauja_tavo
+This ends in -auti
+old matching_lemma: kerš
+trying to extend the matching_lemma
+auti is here: 5
+length of kerštáuja: 9, minus accents kerštauja 9
+length of kerštãvo: 8, minus accents kerštavo 8
+infinitive_form: auti
+present3_slice: auja
+past3_slice: avo
+file_name: auti_auja_avo
 
 **************************************
 
@@ -11320,7 +11437,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: kibirkšč
 trying to extend the matching_lemma
-ėti is here: 9
+uoti is here: 9
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -11355,10 +11472,16 @@ verb_array[1]:  kikẽna
 verb_array[2]:  kikẽno
 LEMMA (kik) and NUGGET -IN- (en)
 CLASSIFICATION: lemma_nugget_in
+This ends in -enti
+old matching_lemma: kik
+trying to extend the matching_lemma
+auti is here: 3
+length of kikena: 6, minus accents kikena 6
+length of kikeno: 6, minus accents kikeno 6
 infinitive_form: enti
-present3_slice: ẽna
-past3_slice: ẽno
-file_name: enti_ẽna_ẽno
+present3_slice: ena
+past3_slice: eno
+file_name: enti_ena_eno
 
 **************************************
 
@@ -11544,7 +11667,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: kirč
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -11699,6 +11822,12 @@ verb_array[1]:  kiškiakopūsteliauja
 verb_array[2]:  kiškiakopūsteliavo
 LEMMA (kiškiakopūsteli) and NUGGET -IN- (au)
 CLASSIFICATION: lemma_nugget_in
+This ends in -auti
+old matching_lemma: kiškiakopūsteli
+trying to extend the matching_lemma
+auti is here: 15
+length of kiškiakopūsteliauja: 19, minus accents kiškiakopūsteliauja 19
+length of kiškiakopūsteliavo: 18, minus accents kiškiakopūsteliavo 18
 infinitive_form: auti
 present3_slice: auja
 past3_slice: avo
@@ -11733,7 +11862,7 @@ verb_array[1]:  kiùrdo
 verb_array[2]:  kiurdė
 LEMMA (kiur) and NUGGET -IN- (dy)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: kiur
 trying to extend the matching_lemma
 yti is here: 5
@@ -12033,7 +12162,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: klij
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -12123,7 +12252,7 @@ verb_array[1]:  klóstosi
 verb_array[2]:  klóstėsi
 LEMMA (klo) and NUGGET -IN- (sty)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: klo
 trying to extend the matching_lemma
 yti is here: 5
@@ -12169,7 +12298,6 @@ file_name: tis_jasi_josi
 
 **************************************
 
-No file for this pattern (klotis), creating a new one...
 infinitive_verb: klūpėti
 stripped_verb: klūpė
 matching_lemma: klūp
@@ -12185,13 +12313,12 @@ old matching_lemma: klūp
 trying to extend the matching_lemma
 ėti is here: 4
 infinitive_form: ėti
-present3_slice: pi
+present3_slice: i
 past3_slice: ėjo
-file_name: ėti_pi_ėjo
+file_name: ėti_i_ėjo
 
 **************************************
 
-No file for this pattern (klūpėti), creating a new one...
 infinitive_verb: klūpoti
 stripped_verb: klūpo
 matching_lemma: klūp
@@ -12207,13 +12334,12 @@ old matching_lemma: klūp
 trying to extend the matching_lemma
 ėti is here: 4
 infinitive_form: oti
-present3_slice: po
-past3_slice: pojo
-file_name: oti_po_pojo
+present3_slice: o
+past3_slice: ojo
+file_name: oti_o_ojo
 
 **************************************
 
-No file for this pattern (klūpoti), creating a new one...
 infinitive_verb: klykti
 stripped_verb: klyk
 matching_lemma: klyk
@@ -12309,10 +12435,16 @@ verb_array[1]:  kniaũkia
 verb_array[2]:  kniaũkė
 LEMMA (k) and NUGGET -IN- (niauk)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: niaukti
-present3_slice: niaũkia
-past3_slice: niaũkė
-file_name: niaukti_niaũkia_niaũkė
+This ends in -ęsti
+old matching_lemma: k
+trying to extend the matching_lemma
+auti is here: 2
+length of kniaũkia: 8, minus accents kniaũkia 8
+length of kniaũkė: 7, minus accents kniaũkė 7
+infinitive_form: iaukti
+present3_slice: iaũkia
+past3_slice: iaũkė
+file_name: iaukti_iaũkia_iaũkė
 
 **************************************
 
@@ -12406,7 +12538,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: kod
 trying to extend the matching_lemma
-ėti is here: 3
+uoti is here: 3
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -12427,7 +12559,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: kol
 trying to extend the matching_lemma
-ėti is here: 7
+uoti is here: 7
 infinitive_form: uoti
 present3_slice: uoja
 past3_slice: avo
@@ -12448,7 +12580,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: kolekc
 trying to extend the matching_lemma
-ėti is here: 9
+uoti is here: 9
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -12469,7 +12601,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: kolon
 trying to extend the matching_lemma
-ėti is here: 7
+uoti is here: 7
 infinitive_form: uoti
 present3_slice: uoja
 past3_slice: ãvo
@@ -12490,7 +12622,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: komb
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -12511,7 +12643,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: koment
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -12532,7 +12664,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: kompens
 trying to extend the matching_lemma
-ėti is here: 7
+uoti is here: 7
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -12553,7 +12685,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: kompiuter
 trying to extend the matching_lemma
-ėti is here: 11
+uoti is here: 11
 infinitive_form: uoti
 present3_slice: uoja
 past3_slice: avo
@@ -12574,7 +12706,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: kompon
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -12595,7 +12727,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: komunik
 trying to extend the matching_lemma
-ėti is here: 7
+uoti is here: 7
 infinitive_form: uoti
 present3_slice: uoja
 past3_slice: avo
@@ -12616,7 +12748,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: koncentr
 trying to extend the matching_lemma
-ėti is here: 8
+uoti is here: 8
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -12637,7 +12769,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: koncert
 trying to extend the matching_lemma
-ėti is here: 7
+uoti is here: 7
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -12658,7 +12790,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: konfisk
 trying to extend the matching_lemma
-ėti is here: 7
+uoti is here: 7
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -12679,7 +12811,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: konkur
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -12700,7 +12832,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: konstr
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -12721,7 +12853,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: konsult
 trying to extend the matching_lemma
-ėti is here: 7
+uoti is here: 7
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -12742,7 +12874,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: konsult
 trying to extend the matching_lemma
-ėti is here: 7
+uoti is here: 7
 infinitive_form: uotis
 present3_slice: úojasi
 past3_slice: ãvosi
@@ -12763,7 +12895,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: kon
 trying to extend the matching_lemma
-ėti is here: 9
+uoti is here: 9
 infinitive_form: uoti
 present3_slice: uoja
 past3_slice: avo
@@ -12784,7 +12916,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: kontrol
 trying to extend the matching_lemma
-ėti is here: 8
+uoti is here: 8
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -12805,7 +12937,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: konvert
 trying to extend the matching_lemma
-ėti is here: 7
+uoti is here: 7
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -12826,7 +12958,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: koord
 trying to extend the matching_lemma
-ėti is here: 7
+uoti is here: 7
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -12847,7 +12979,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: kopij
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -12885,7 +13017,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: koreg
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -12906,7 +13038,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: korump
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: uoja
 past3_slice: avo
@@ -13113,7 +13245,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: krauj
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -13128,22 +13260,21 @@ nugget: sty
 nugget_in: true
 verb_array[0]: kraustyti
 verb_array[1]:  kráusto
-verb_array[2]:  kráustėsi
+verb_array[2]:  kráustė
 LEMMA (krau) and NUGGET -IN- (sty)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: krau
 trying to extend the matching_lemma
 yti is here: 6
 length of kráusto: 7, minus accents krausto 7
 infinitive_form: yti
 present3_slice: o
-past3_slice: ėsi
-file_name: yti_o_ėsi
+past3_slice: ė
+file_name: yti_o_ė
 
 **************************************
 
-No file for this pattern (kraustyti), creating a new one...
 infinitive_verb: kraustytis
 stripped_verb: krausty
 matching_lemma: krau
@@ -13154,7 +13285,7 @@ verb_array[1]:  kráustosi
 verb_array[2]:  kráustėsi
 LEMMA (krau) and NUGGET -IN- (sty)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: krau
 trying to extend the matching_lemma
 yti is here: 6
@@ -13297,7 +13428,7 @@ verb_array[1]:  krikdo
 verb_array[2]:  krikdė
 LEMMA (krik) and NUGGET -IN- (dy)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: krik
 trying to extend the matching_lemma
 yti is here: 5
@@ -13390,7 +13521,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: kritik
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -13522,6 +13653,12 @@ verb_array[1]:  krýkštauja
 verb_array[2]:  krýkštavo
 LEMMA (krykšt) and NUGGET -IN- (au)
 CLASSIFICATION: lemma_nugget_in
+This ends in -auti
+old matching_lemma: krykšt
+trying to extend the matching_lemma
+auti is here: 6
+length of krýkštauja: 10, minus accents krykštauja 10
+length of krýkštavo: 9, minus accents krykštavo 9
 infinitive_form: auti
 present3_slice: auja
 past3_slice: avo
@@ -13559,7 +13696,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: kryp
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -13580,7 +13717,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: kryž
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -13683,10 +13820,16 @@ verb_array[1]:  kūrẽna
 verb_array[2]:  kūrẽno
 LEMMA (kūr) and NUGGET -IN- (en)
 CLASSIFICATION: lemma_nugget_in
+This ends in -enti
+old matching_lemma: kūr
+trying to extend the matching_lemma
+auti is here: 3
+length of kūrena: 6, minus accents kūrena 6
+length of kūreno: 6, minus accents kūreno 6
 infinitive_form: enti
-present3_slice: ẽna
-past3_slice: ẽno
-file_name: enti_ẽna_ẽno
+present3_slice: ena
+past3_slice: eno
+file_name: enti_ena_eno
 
 **************************************
 
@@ -13703,7 +13846,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: kurs
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -13755,10 +13898,16 @@ verb_array[1]:  kutẽna
 verb_array[2]:  kutẽno
 LEMMA (kut) and NUGGET -IN- (en)
 CLASSIFICATION: lemma_nugget_in
+This ends in -enti
+old matching_lemma: kut
+trying to extend the matching_lemma
+auti is here: 3
+length of kutena: 6, minus accents kutena 6
+length of kuteno: 6, minus accents kuteno 6
 infinitive_form: enti
-present3_slice: ẽna
-past3_slice: ẽno
-file_name: enti_ẽna_ẽno
+present3_slice: ena
+past3_slice: eno
+file_name: enti_ena_eno
 
 **************************************
 
@@ -13806,18 +13955,18 @@ matching_lemma: kvalifik
 nugget: uo
 nugget_in: true
 verb_array[0]: kvalifikuoti
-verb_array[1]:  kvalifikúoti
+verb_array[1]:  kvalifikúoja
 verb_array[2]:  kvalifikãvo
 LEMMA (kvalifik) and NUGGET -IN- (uo)
 CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: kvalifik
 trying to extend the matching_lemma
-ėti is here: 8
+uoti is here: 8
 infinitive_form: uoti
-present3_slice: úoti
+present3_slice: úoja
 past3_slice: ãvo
-file_name: uoti_uoti_avo
+file_name: uoti_uoja_avo
 
 **************************************
 
@@ -13914,7 +14063,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: kvėp
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -14049,7 +14198,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: laid
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -14211,7 +14360,7 @@ verb_array[1]:  láisto
 verb_array[2]:  láistė
 LEMMA (lai) and NUGGET -IN- (sty)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: lai
 trying to extend the matching_lemma
 yti is here: 5
@@ -14284,14 +14433,14 @@ matching_lemma: laiž
 nugget: y
 nugget_in: true
 verb_array[0]: laižytis
-verb_array[1]:  laĩžo
-verb_array[2]:  laĩžė
+verb_array[1]:  laĩžosi
+verb_array[2]:  laĩžėsi
 LEMMA (laiž) and NUGGET -IN- (y)
 CLASSIFICATION: lemma_nugget_in
 infinitive_form: ytis
-present3_slice: o
-past3_slice: ė
-file_name: ytis_o_ė
+present3_slice: osi
+past3_slice: ėsi
+file_name: ytis_osi_ėsi
 
 **************************************
 
@@ -14326,7 +14475,7 @@ verb_array[1]:  lãksto
 verb_array[2]:  lãkstė
 LEMMA (lak) and NUGGET -IN- (sty)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: lak
 trying to extend the matching_lemma
 yti is here: 5
@@ -14386,7 +14535,7 @@ verb_array[1]:  lañksto
 verb_array[2]:  lañkstė
 LEMMA (lank) and NUGGET -IN- (sty)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: lank
 trying to extend the matching_lemma
 yti is here: 6
@@ -14408,7 +14557,7 @@ verb_array[1]:  lañkosi
 verb_array[2]:  lañkėsi
 LEMMA (lank) and NUGGET -IN- (ty)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: lank
 trying to extend the matching_lemma
 yti is here: 5
@@ -14790,14 +14939,19 @@ verb_array[1]:  lenktyniáuja
 verb_array[2]:  lenktyniãvo
 LEMMA (lenk) and NUGGET -IN- (tyniau)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: tyniauti
-present3_slice: tyniauja
-past3_slice: tyniavo
-file_name: tyniauti_tyniauja_tyniavo
+This ends in -auti
+old matching_lemma: lenk
+trying to extend the matching_lemma
+auti is here: 8
+length of lenktyniáuja: 12, minus accents lenktyniauja 12
+length of lenktyniãvo: 11, minus accents lenktyniavo 11
+infinitive_form: auti
+present3_slice: auja
+past3_slice: avo
+file_name: auti_auja_avo
 
 **************************************
 
-No file for this pattern (lenktyniauti), creating a new one...
 infinitive_verb: lepinti
 stripped_verb: lepin
 matching_lemma: lep
@@ -15076,14 +15230,19 @@ verb_array[1]:  liežuváuja
 verb_array[2]:  liežuvavo
 LEMMA (liež) and NUGGET -IN- (uvau)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: uvauti
-present3_slice: uvauja
-past3_slice: uvavo
-file_name: uvauti_uvauja_uvavo
+This ends in -auti
+old matching_lemma: liež
+trying to extend the matching_lemma
+auti is here: 6
+length of liežuváuja: 10, minus accents liežuvauja 10
+length of liežuvavo: 9, minus accents liežuvavo 9
+infinitive_form: auti
+present3_slice: auja
+past3_slice: avo
+file_name: auti_auja_avo
 
 **************************************
 
-No file for this pattern (liežuvauti), creating a new one...
 infinitive_verb: lignuoti
 stripped_verb: lignuo
 matching_lemma: lig
@@ -15097,7 +15256,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: lig
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -15135,7 +15294,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: likvid
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -15177,7 +15336,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: ling
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -15316,7 +15475,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: link
 trying to extend the matching_lemma
-ėti is here: 7
+uoti is here: 7
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -15372,11 +15531,11 @@ verb_array[1]:  lìpdo
 verb_array[2]:  lìpdė
 LEMMA (lip) and NUGGET -IN- (dy)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: lip
 trying to extend the matching_lemma
 yti is here: 4
-length of lìpdo: 5, minus accents lipdo 5
+length of lipdo: 5, minus accents lipdo 5
 infinitive_form: yti
 present3_slice: o
 past3_slice: ė
@@ -15416,9 +15575,9 @@ old matching_lemma: liūd
 trying to extend the matching_lemma
 ėti is here: 4
 infinitive_form: ėti
-present3_slice: di
+present3_slice: i
 past3_slice: ėjo
-file_name: ėti_di_ėjo
+file_name: ėti_i_ėjo
 
 **************************************
 
@@ -15758,7 +15917,7 @@ verb_array[1]:  maĩno
 verb_array[2]:  maĩnė
 LEMMA (ma) and NUGGET -IN- (in)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: ma
 trying to extend the matching_lemma
 yti is here: 4
@@ -15780,6 +15939,12 @@ verb_array[1]:  maištáuja
 verb_array[2]:  maištãvo
 LEMMA (maišt) and NUGGET -IN- (au)
 CLASSIFICATION: lemma_nugget_in
+This ends in -auti
+old matching_lemma: maišt
+trying to extend the matching_lemma
+auti is here: 5
+length of maištáuja: 9, minus accents maištauja 9
+length of maištãvo: 8, minus accents maištavo 8
 infinitive_form: auti
 present3_slice: auja
 past3_slice: avo
@@ -15865,6 +16030,12 @@ verb_array[1]:  maldáuja
 verb_array[2]:  maldãvo
 LEMMA (mald) and NUGGET -IN- (au)
 CLASSIFICATION: lemma_nugget_in
+This ends in -auti
+old matching_lemma: mald
+trying to extend the matching_lemma
+auti is here: 4
+length of maldáuja: 8, minus accents maldauja 8
+length of maldãvo: 7, minus accents maldavo 7
 infinitive_form: auti
 present3_slice: auja
 past3_slice: avo
@@ -15957,7 +16128,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: manipul
 trying to extend the matching_lemma
-ėti is here: 8
+uoti is here: 8
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -16046,7 +16217,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: marg
 trying to extend the matching_lemma
-ėti is here: 7
+uoti is here: 7
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: avo
@@ -16067,7 +16238,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: marg
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -16105,7 +16276,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: mar
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -16126,7 +16297,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: masaž
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -16147,7 +16318,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: mask
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -16168,7 +16339,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: masturb
 trying to extend the matching_lemma
-ėti is here: 7
+uoti is here: 7
 infinitive_form: uotis
 present3_slice: uojasi
 past3_slice: avosi
@@ -16210,6 +16381,7 @@ file_name: yti_to_tė
 
 **************************************
 
+No file for this pattern (mąsyti), creating a new one...
 infinitive_verb: maudyti
 stripped_verb: maudy
 matching_lemma: maud
@@ -16350,7 +16522,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: medit
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -16389,6 +16561,12 @@ verb_array[1]:  mė́gaujasi
 verb_array[2]:  mė́gavosi
 LEMMA (mėg) and NUGGET -IN- (au)
 CLASSIFICATION: lemma_nugget_in
+This ends in -auti
+old matching_lemma: mėg
+trying to extend the matching_lemma
+auti is here: 3
+length of mėgaujasi: 9, minus accents mėgaujasi 9
+length of mėgavosi: 8, minus accents mėgavosi 8
 infinitive_form: autis
 present3_slice: aujasi
 past3_slice: avosi
@@ -16412,13 +16590,12 @@ old matching_lemma: mėg
 trying to extend the matching_lemma
 ėti is here: 6
 infinitive_form: oti
-present3_slice: ioja
-past3_slice: iojo
-file_name: oti_ioja_iojo
+present3_slice: oja
+past3_slice: ojo
+file_name: oti_oja_ojo
 
 **************************************
 
-No file for this pattern (mėgdžioti), creating a new one...
 infinitive_verb: mėginti
 stripped_verb: mėgin
 matching_lemma: mėg
@@ -16497,14 +16674,19 @@ verb_array[1]:  meilikáuja
 verb_array[2]:  meilikãvo
 LEMMA (meil) and NUGGET -IN- (ikau)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: ikauti
-present3_slice: ikauja
-past3_slice: ikavo
-file_name: ikauti_ikauja_ikavo
+This ends in -auti
+old matching_lemma: meil
+trying to extend the matching_lemma
+auti is here: 6
+length of meilikáuja: 10, minus accents meilikauja 10
+length of meilikãvo: 9, minus accents meilikavo 9
+infinitive_form: auti
+present3_slice: auja
+past3_slice: avo
+file_name: auti_auja_avo
 
 **************************************
 
-No file for this pattern (meilikauti), creating a new one...
 infinitive_verb: meilintis
 stripped_verb: meilin
 matching_lemma: meil
@@ -16586,7 +16768,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: mel
 trying to extend the matching_lemma
-ėti is here: 3
+uoti is here: 3
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -16645,7 +16827,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: mėl
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -16880,11 +17062,11 @@ verb_array[1]:  mìgdo
 verb_array[2]:  mìgdė
 LEMMA (mig) and NUGGET -IN- (dy)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: mig
 trying to extend the matching_lemma
 yti is here: 4
-length of mìgdo: 5, minus accents migdo 5
+length of migdo: 5, minus accents migdo 5
 infinitive_form: yti
 present3_slice: o
 past3_slice: ė
@@ -17037,7 +17219,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: mirg
 trying to extend the matching_lemma
-ėti is here: 7
+uoti is here: 7
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -17173,7 +17355,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: modifik
 trying to extend the matching_lemma
-ėti is here: 7
+uoti is here: 7
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -17194,7 +17376,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: moj
 trying to extend the matching_lemma
-ėti is here: 3
+uoti is here: 3
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -17301,14 +17483,19 @@ verb_array[1]:  mokytojáuja
 verb_array[2]:  mokytojãvo
 LEMMA (mok) and NUGGET -IN- (ytojau)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: ytojauti
-present3_slice: ytojauja
-past3_slice: ytojavo
-file_name: ytojauti_ytojauja_ytojavo
+This ends in -auti
+old matching_lemma: mok
+trying to extend the matching_lemma
+auti is here: 7
+length of mokytojáuja: 11, minus accents mokytojauja 11
+length of mokytojãvo: 10, minus accents mokytojavo 10
+infinitive_form: auti
+present3_slice: auja
+past3_slice: avo
+file_name: auti_auja_avo
 
 **************************************
 
-No file for this pattern (mokytojauti), creating a new one...
 infinitive_verb: montuoti
 stripped_verb: montuo
 matching_lemma: mont
@@ -17322,7 +17509,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: mont
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -17343,7 +17530,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: mos
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -17364,7 +17551,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: mos
 trying to extend the matching_lemma
-ėti is here: 3
+uoti is here: 3
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -17402,7 +17589,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: motyv
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -17551,7 +17738,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: mut
 trying to extend the matching_lemma
-ėti is here: 3
+uoti is here: 3
 infinitive_form: uoti
 present3_slice: uoja
 past3_slice: avo
@@ -17572,7 +17759,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: mut
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: uoja
 past3_slice: avo
@@ -17595,9 +17782,9 @@ old matching_lemma: mūv
 trying to extend the matching_lemma
 ėti is here: 3
 infinitive_form: ėti
-present3_slice: vi
+present3_slice: i
 past3_slice: ėjo
-file_name: ėti_vi_ėjo
+file_name: ėti_i_ėjo
 
 **************************************
 
@@ -17673,7 +17860,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: myl
 trying to extend the matching_lemma
-ėti is here: 3
+uoti is here: 3
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -17694,7 +17881,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: myl
 trying to extend the matching_lemma
-ėti is here: 3
+uoti is here: 3
 infinitive_form: uotis
 present3_slice: úojasi
 past3_slice: avosi
@@ -17712,6 +17899,12 @@ verb_array[1]:  myža
 verb_array[2]:  myžo
 LEMMA (m) and NUGGET -IN- (yž)
 CLASSIFICATION: lemma_nugget_in
+This ends in -ęsti
+old matching_lemma: m
+trying to extend the matching_lemma
+auti is here: 1
+length of myža: 4, minus accents myža 4
+length of myžo: 4, minus accents myžo 4
 infinitive_form: yžti
 present3_slice: yža
 past3_slice: yžo
@@ -17789,7 +17982,7 @@ verb_array[1]:  nárdo
 verb_array[2]:  nárdė
 LEMMA (nar) and NUGGET -IN- (dy)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: nar
 trying to extend the matching_lemma
 yti is here: 4
@@ -17832,7 +18025,7 @@ verb_array[1]:  nársto
 verb_array[2]:  nárstė
 LEMMA (nars) and NUGGET -IN- (ty)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: nars
 trying to extend the matching_lemma
 yti is here: 5
@@ -17968,6 +18161,12 @@ verb_array[1]:  nekantráuja
 verb_array[2]:  nekantrãvo
 LEMMA (nekantr) and NUGGET -IN- (au)
 CLASSIFICATION: lemma_nugget_in
+This ends in -auti
+old matching_lemma: nekantr
+trying to extend the matching_lemma
+auti is here: 7
+length of nekantráuja: 11, minus accents nekantrauja 11
+length of nekantrãvo: 10, minus accents nekantravo 10
 infinitive_form: auti
 present3_slice: auja
 past3_slice: avo
@@ -17985,6 +18184,12 @@ verb_array[1]:  nekeñčia
 verb_array[2]:  nèkentė
 LEMMA (nek) and NUGGET -IN- (ęs)
 CLASSIFICATION: lemma_nugget_in
+This ends in -ęsti
+old matching_lemma: nek
+trying to extend the matching_lemma
+auti is here: 3
+length of nekeñčia: 8, minus accents nekenčia 8
+length of nèkentė: 7, minus accents nekentė 7
 infinitive_form: ęsti
 present3_slice: enčia
 past3_slice: entė
@@ -18020,14 +18225,19 @@ verb_array[1]:  nerimáuja
 verb_array[2]:  nerimãvo
 LEMMA (ner) and NUGGET -IN- (imau)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: imauti
-present3_slice: imauja
-past3_slice: imavo
-file_name: imauti_imauja_imavo
+This ends in -auti
+old matching_lemma: ner
+trying to extend the matching_lemma
+auti is here: 5
+length of nerimáuja: 9, minus accents nerimauja 9
+length of nerimãvo: 8, minus accents nerimavo 8
+infinitive_form: auti
+present3_slice: auja
+past3_slice: avo
+file_name: auti_auja_avo
 
 **************************************
 
-No file for this pattern (nerimauti), creating a new one...
 infinitive_verb: neršti
 stripped_verb: nerš
 matching_lemma: nerš
@@ -18340,7 +18550,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: niūn
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -18378,7 +18588,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: nom
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: uoja
 past3_slice: avo
@@ -18458,7 +18668,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: obl
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -18476,10 +18686,16 @@ verb_array[1]:  obuoliauja
 verb_array[2]:  obuoliavo
 LEMMA (obuol) and NUGGET -IN- (iau)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: iauti
-present3_slice: iauja
-past3_slice: iavo
-file_name: iauti_iauja_iavo
+This ends in -auti
+old matching_lemma: obuol
+trying to extend the matching_lemma
+auti is here: 6
+length of obuoliauja: 10, minus accents obuoliauja 10
+length of obuoliavo: 9, minus accents obuoliavo 9
+infinitive_form: auti
+present3_slice: auja
+past3_slice: avo
+file_name: auti_auja_avo
 
 **************************************
 
@@ -18496,7 +18712,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: okup
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -18517,7 +18733,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: organiz
 trying to extend the matching_lemma
-ėti is here: 7
+uoti is here: 7
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -18538,7 +18754,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: orient
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -18576,7 +18792,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: ož
 trying to extend the matching_lemma
-ėti is here: 3
+uoti is here: 3
 infinitive_form: uotis
 present3_slice: úojasi
 past3_slice: ãvosi
@@ -18752,6 +18968,12 @@ verb_array[1]:  pietáuja
 verb_array[2]:  pietãvo
 LEMMA (piet) and NUGGET -IN- (au)
 CLASSIFICATION: lemma_nugget_in
+This ends in -auti
+old matching_lemma: piet
+trying to extend the matching_lemma
+auti is here: 4
+length of pietáuja: 8, minus accents pietauja 8
+length of pietãvo: 7, minus accents pietavo 7
 infinitive_form: auti
 present3_slice: auja
 past3_slice: avo
@@ -18803,14 +19025,19 @@ verb_array[1]:  piktnaudžiáuja
 verb_array[2]:  piktnaudžiãvo
 LEMMA (pik) and NUGGET -IN- (tnaudžiau)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: tnaudžiauti
-present3_slice: tnaudžiauja
-past3_slice: tnaudžiavo
-file_name: tnaudžiauti_tnaudžiauja_tnaudžiavo
+This ends in -auti
+old matching_lemma: pik
+trying to extend the matching_lemma
+auti is here: 10
+length of piktnaudžiáuja: 14, minus accents piktnaudžiauja 14
+length of piktnaudžiãvo: 13, minus accents piktnaudžiavo 13
+infinitive_form: auti
+present3_slice: auja
+past3_slice: avo
+file_name: auti_auja_avo
 
 **************************************
 
-No file for this pattern (piktnaudžiauti), creating a new one...
 infinitive_verb: pildyti
 stripped_verb: pildy
 matching_lemma: pildy
@@ -18860,7 +19087,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: pilk
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -18929,6 +19156,12 @@ verb_array[1]:  piratáuja
 verb_array[2]:  piratãvo
 LEMMA (pirat) and NUGGET -IN- (au)
 CLASSIFICATION: lemma_nugget_in
+This ends in -auti
+old matching_lemma: pirat
+trying to extend the matching_lemma
+auti is here: 5
+length of piratáuja: 9, minus accents piratauja 9
+length of piratãvo: 8, minus accents piratavo 8
 infinitive_form: auti
 present3_slice: auja
 past3_slice: avo
@@ -19001,6 +19234,12 @@ verb_array[1]:  pirmáuja
 verb_array[2]:  pirmãvo
 LEMMA (pirm) and NUGGET -IN- (au)
 CLASSIFICATION: lemma_nugget_in
+This ends in -auti
+old matching_lemma: pirm
+trying to extend the matching_lemma
+auti is here: 4
+length of pirmáuja: 8, minus accents pirmauja 8
+length of pirmãvo: 7, minus accents pirmavo 7
 infinitive_form: auti
 present3_slice: auja
 past3_slice: avo
@@ -19107,7 +19346,7 @@ verb_array[1]:  pjáusto
 verb_array[2]:  pjáustė
 LEMMA (pjau) and NUGGET -IN- (sty)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: pjau
 trying to extend the matching_lemma
 yti is here: 6
@@ -19183,7 +19422,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: plan
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: uoja
 past3_slice: avo
@@ -19204,7 +19443,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: plan
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -19412,10 +19651,16 @@ verb_array[1]:  plėšikáuja
 verb_array[2]:  plėšikãvo
 LEMMA (plėš) and NUGGET -IN- (ikau)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: ikauti
-present3_slice: ikauja
-past3_slice: ikavo
-file_name: ikauti_ikauja_ikavo
+This ends in -auti
+old matching_lemma: plėš
+trying to extend the matching_lemma
+auti is here: 6
+length of plėšikáuja: 10, minus accents plėšikauja 10
+length of plėšikãvo: 9, minus accents plėšikavo 9
+infinitive_form: auti
+present3_slice: auja
+past3_slice: avo
+file_name: auti_auja_avo
 
 **************************************
 
@@ -19515,14 +19760,14 @@ matching_lemma: plėš
 nugget: y
 nugget_in: true
 verb_array[0]: plėšytis
-verb_array[1]:  plė́šo
-verb_array[2]:  plė́šė
+verb_array[1]:  plė́šosi
+verb_array[2]:  plė́šėsi
 LEMMA (plėš) and NUGGET -IN- (y)
 CLASSIFICATION: lemma_nugget_in
 infinitive_form: ytis
-present3_slice: o
-past3_slice: ė
-file_name: ytis_o_ė
+present3_slice: osi
+past3_slice: ėsi
+file_name: ytis_osi_ėsi
 
 **************************************
 
@@ -19557,10 +19802,16 @@ verb_array[1]:  plevẽna
 verb_array[2]:  plevẽno
 LEMMA (plev) and NUGGET -IN- (en)
 CLASSIFICATION: lemma_nugget_in
+This ends in -enti
+old matching_lemma: plev
+trying to extend the matching_lemma
+auti is here: 4
+length of plevena: 7, minus accents plevena 7
+length of pleveno: 7, minus accents pleveno 7
 infinitive_form: enti
-present3_slice: ẽna
-past3_slice: ẽno
-file_name: enti_ẽna_ẽno
+present3_slice: ena
+past3_slice: eno
+file_name: enti_ena_eno
 
 **************************************
 
@@ -19577,7 +19828,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: plev
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -19725,7 +19976,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: plūd
 trying to extend the matching_lemma
-ėti is here: 7
+uoti is here: 7
 infinitive_form: uoti
 present3_slice: iuoja
 past3_slice: iavo
@@ -19744,7 +19995,7 @@ verb_array[1]:  plùkdo
 verb_array[2]:  plùkdė
 LEMMA (pluk) and NUGGET -IN- (dy)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: pluk
 trying to extend the matching_lemma
 yti is here: 5
@@ -19874,14 +20125,19 @@ verb_array[1]:  poilsiáuja
 verb_array[2]:  poilsiãvo
 LEMMA (po) and NUGGET -IN- (ilsiau)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: ilsiauti
-present3_slice: ilsiauja
-past3_slice: ilsiavo
-file_name: ilsiauti_ilsiauja_ilsiavo
+This ends in -auti
+old matching_lemma: po
+trying to extend the matching_lemma
+auti is here: 6
+length of poilsiáuja: 10, minus accents poilsiauja 10
+length of poilsiãvo: 9, minus accents poilsiavo 9
+infinitive_form: auti
+present3_slice: auja
+past3_slice: avo
+file_name: auti_auja_avo
 
 **************************************
 
-No file for this pattern (poilsiauti), creating a new one...
 infinitive_verb: pokštauti
 stripped_verb: pokštau
 matching_lemma: pokšt
@@ -19892,6 +20148,12 @@ verb_array[1]:  pókštauja
 verb_array[2]:  pókštavo
 LEMMA (pokšt) and NUGGET -IN- (au)
 CLASSIFICATION: lemma_nugget_in
+This ends in -auti
+old matching_lemma: pokšt
+trying to extend the matching_lemma
+auti is here: 5
+length of pókštauja: 9, minus accents pokštauja 9
+length of pókštavo: 8, minus accents pokštavo 8
 infinitive_form: auti
 present3_slice: auja
 past3_slice: avo
@@ -19933,7 +20195,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: pomp
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: uoja
 past3_slice: avo
@@ -19972,14 +20234,19 @@ verb_array[1]:  posėdžiáuja
 verb_array[2]:  posėdžiãvo
 LEMMA (po) and NUGGET -IN- (sėdžiau)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: sėdžiauti
-present3_slice: sėdžiauja
-past3_slice: sėdžiavo
-file_name: sėdžiauti_sėdžiauja_sėdžiavo
+This ends in -auti
+old matching_lemma: po
+trying to extend the matching_lemma
+auti is here: 7
+length of posėdžiáuja: 11, minus accents posėdžiauja 11
+length of posėdžiãvo: 10, minus accents posėdžiavo 10
+infinitive_form: auti
+present3_slice: auja
+past3_slice: avo
+file_name: auti_auja_avo
 
 **************************************
 
-No file for this pattern (posėdžiauti), creating a new one...
 infinitive_verb: pozuoti
 stripped_verb: pozuo
 matching_lemma: poz
@@ -19993,7 +20260,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: poz
 trying to extend the matching_lemma
-ėti is here: 3
+uoti is here: 3
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -20011,10 +20278,16 @@ verb_array[1]:  prekiáuja
 verb_array[2]:  prekiãvo
 LEMMA (prek) and NUGGET -IN- (iau)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: iauti
-present3_slice: iauja
-past3_slice: iavo
-file_name: iauti_iauja_iavo
+This ends in -auti
+old matching_lemma: prek
+trying to extend the matching_lemma
+auti is here: 5
+length of prekiáuja: 9, minus accents prekiauja 9
+length of prekiãvo: 8, minus accents prekiavo 8
+infinitive_form: auti
+present3_slice: auja
+past3_slice: avo
+file_name: auti_auja_avo
 
 **************************************
 
@@ -20031,7 +20304,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: prenumer
 trying to extend the matching_lemma
-ėti is here: 8
+uoti is here: 8
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -20052,7 +20325,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: prognoz
 trying to extend the matching_lemma
-ėti is here: 7
+uoti is here: 7
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -20073,7 +20346,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: program
 trying to extend the matching_lemma
-ėti is here: 7
+uoti is here: 7
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -20094,7 +20367,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: protest
 trying to extend the matching_lemma
-ėti is here: 7
+uoti is here: 7
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -20115,7 +20388,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: puik
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uotis
 present3_slice: úojasi
 past3_slice: ãvosi
@@ -20174,7 +20447,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: pūl
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -20195,7 +20468,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: puls
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -20234,7 +20507,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: pump
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -20307,10 +20580,16 @@ verb_array[1]:  purẽna
 verb_array[2]:  purẽno
 LEMMA (pur) and NUGGET -IN- (en)
 CLASSIFICATION: lemma_nugget_in
+This ends in -enti
+old matching_lemma: pur
+trying to extend the matching_lemma
+auti is here: 3
+length of purena: 6, minus accents purena 6
+length of pureno: 6, minus accents pureno 6
 infinitive_form: enti
-present3_slice: ẽna
-past3_slice: ẽno
-file_name: enti_ẽna_ẽno
+present3_slice: ena
+past3_slice: eno
+file_name: enti_ena_eno
 
 **************************************
 
@@ -20412,7 +20691,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: pū
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -20519,7 +20798,7 @@ verb_array[1]:  pýkdo
 verb_array[2]:  pýkdė
 LEMMA (pyk) and NUGGET -IN- (dy)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: pyk
 trying to extend the matching_lemma
 yti is here: 4
@@ -20652,6 +20931,12 @@ verb_array[1]:  ragáuja
 verb_array[2]:  ragãvo
 LEMMA (rag) and NUGGET -IN- (au)
 CLASSIFICATION: lemma_nugget_in
+This ends in -auti
+old matching_lemma: rag
+trying to extend the matching_lemma
+auti is here: 3
+length of ragáuja: 7, minus accents ragauja 7
+length of ragãvo: 6, minus accents ragavo 6
 infinitive_form: auti
 present3_slice: auja
 past3_slice: avo
@@ -20686,7 +20971,7 @@ verb_array[1]:  raĩko
 verb_array[2]:  raĩkė
 LEMMA (ra) and NUGGET -IN- (iky)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: ra
 trying to extend the matching_lemma
 yti is here: 4
@@ -20725,8 +21010,8 @@ matching_lemma: rait
 nugget: o
 nugget_in: true
 verb_array[0]: raitotis
-verb_array[1]:  raitoja
-verb_array[2]:  raitójo
+verb_array[1]:  raitojasi
+verb_array[2]:  raitójosi
 LEMMA (rait) and NUGGET -IN- (o)
 CLASSIFICATION: lemma_nugget_in
 This ends in -oti but not -uoti
@@ -20734,9 +21019,9 @@ old matching_lemma: rait
 trying to extend the matching_lemma
 ėti is here: 4
 infinitive_form: otis
-present3_slice: oja
-past3_slice: ójo
-file_name: otis_oja_ojo
+present3_slice: ojasi
+past3_slice: ójosi
+file_name: otis_ojasi_ojosi
 
 **************************************
 
@@ -20891,7 +21176,7 @@ verb_array[1]:  ram̃stosi
 verb_array[2]:  ram̃stėsi
 LEMMA (ram) and NUGGET -IN- (sty)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: ram
 trying to extend the matching_lemma
 yti is here: 5
@@ -21116,7 +21401,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: raud
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -21336,7 +21621,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: reag
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -21357,7 +21642,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: real
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -21378,7 +21663,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: redag
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -21420,7 +21705,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: registr
 trying to extend the matching_lemma
-ėti is here: 7
+uoti is here: 7
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -21441,7 +21726,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: registr
 trying to extend the matching_lemma
-ėti is here: 7
+uoti is here: 7
 infinitive_form: uotis
 present3_slice: úojasi
 past3_slice: ãvosi
@@ -21484,7 +21769,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: regul
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -21520,14 +21805,19 @@ verb_array[1]:  reikaláuja
 verb_array[2]:  reikalãvo
 LEMMA (reik) and NUGGET -IN- (alau)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: alauti
-present3_slice: alauja
-past3_slice: alavo
-file_name: alauti_alauja_alavo
+This ends in -auti
+old matching_lemma: reik
+trying to extend the matching_lemma
+auti is here: 6
+length of reikaláuja: 10, minus accents reikalauja 10
+length of reikalãvo: 9, minus accents reikalavo 9
+infinitive_form: auti
+present3_slice: auja
+past3_slice: avo
+file_name: auti_auja_avo
 
 **************************************
 
-No file for this pattern (reikalauti), creating a new one...
 infinitive_verb: reikėti
 stripped_verb: reikė
 matching_lemma: reik
@@ -21610,6 +21900,12 @@ verb_array[1]:  rė́kauja
 verb_array[2]:  rė́kavo
 LEMMA (rėk) and NUGGET -IN- (au)
 CLASSIFICATION: lemma_nugget_in
+This ends in -auti
+old matching_lemma: rėk
+trying to extend the matching_lemma
+auti is here: 3
+length of rėkauja: 7, minus accents rėkauja 7
+length of rėkavo: 6, minus accents rėkavo 6
 infinitive_form: auti
 present3_slice: auja
 past3_slice: avo
@@ -21630,7 +21926,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: reklam
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -21651,7 +21947,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: reklam
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uotis
 present3_slice: úojasi
 past3_slice: ãvosi
@@ -21672,7 +21968,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: rekomend
 trying to extend the matching_lemma
-ėti is here: 8
+uoti is here: 8
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -21693,7 +21989,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: re
 trying to extend the matching_lemma
-ėti is here: 8
+uoti is here: 8
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -21731,7 +22027,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: remont
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -21841,7 +22137,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: repet
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -21862,7 +22158,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: restaur
 trying to extend the matching_lemma
-ėti is here: 7
+uoti is here: 7
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -21910,22 +22206,21 @@ matching_lemma: reviz
 nugget: uo
 nugget_in: true
 verb_array[0]: revizuoti
-verb_array[1]:  revizúoti
-verb_array[2]:  revizúoja
+verb_array[1]:  revizúoja
+verb_array[2]:  revizãvo
 LEMMA (reviz) and NUGGET -IN- (uo)
 CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: reviz
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
-present3_slice: úoti
-past3_slice: úoja
-file_name: uoti_uoti_uoja
+present3_slice: úoja
+past3_slice: ãvo
+file_name: uoti_uoja_avo
 
 **************************************
 
-No file for this pattern (revizuoti), creating a new one...
 infinitive_verb: rezervuoti
 stripped_verb: rezervuo
 matching_lemma: rezerv
@@ -21939,7 +22234,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: rezerv
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -21953,22 +22248,21 @@ matching_lemma: rezerv
 nugget: uo
 nugget_in: true
 verb_array[0]: rezervuotis
-verb_array[1]:  rezervúoja
-verb_array[2]:  rezervãvo
+verb_array[1]:  rezervúojasi
+verb_array[2]:  rezervãvosi
 LEMMA (rezerv) and NUGGET -IN- (uo)
 CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: rezerv
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uotis
-present3_slice: úoja
-past3_slice: ãvo
-file_name: uotis_uoja_avo
+present3_slice: úojasi
+past3_slice: ãvosi
+file_name: uotis_uojasi_avosi
 
 **************************************
 
-No file for this pattern (rezervuotis), creating a new one...
 infinitive_verb: režisuoti
 stripped_verb: režisuo
 matching_lemma: re
@@ -21982,7 +22276,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: re
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -22076,10 +22370,16 @@ verb_array[1]:  ridẽna
 verb_array[2]:  ridẽno
 LEMMA (rid) and NUGGET -IN- (en)
 CLASSIFICATION: lemma_nugget_in
+This ends in -enti
+old matching_lemma: rid
+trying to extend the matching_lemma
+auti is here: 3
+length of ridena: 6, minus accents ridena 6
+length of rideno: 6, minus accents rideno 6
 infinitive_form: enti
-present3_slice: ẽna
-past3_slice: ẽno
-file_name: enti_ẽna_ẽno
+present3_slice: ena
+past3_slice: eno
+file_name: enti_ena_eno
 
 **************************************
 
@@ -22240,7 +22540,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: rik
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -22261,7 +22561,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: rik
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uotis
 present3_slice: úojasi
 past3_slice: ãvosi
@@ -22282,7 +22582,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: rim
 trying to extend the matching_lemma
-ėti is here: 3
+uoti is here: 3
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -22303,7 +22603,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: rim
 trying to extend the matching_lemma
-ėti is here: 3
+uoti is here: 3
 infinitive_form: uotis
 present3_slice: úojasi
 past3_slice: avosi
@@ -22413,7 +22713,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: rizik
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -22468,7 +22768,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: rok
 trying to extend the matching_lemma
-ėti is here: 3
+uoti is here: 3
 infinitive_form: uotis
 present3_slice: uojasi
 past3_slice: avosi
@@ -22497,24 +22797,6 @@ file_name: oti_oja_ojo
 
 **************************************
 
-infinitive_verb: ropoto
-stripped_verb: ropo
-matching_lemma: rop
-nugget: o
-nugget_in: true
-verb_array[0]: ropoto
-verb_array[1]:  ropója
-verb_array[2]:  ropójo
-LEMMA (rop) and NUGGET -IN- (o)
-CLASSIFICATION: lemma_nugget_in
-infinitive_form: oto
-present3_slice: oja
-past3_slice: ojo
-file_name: oto_oja_ojo
-
-**************************************
-
-No file for this pattern (ropoto), creating a new one...
 infinitive_verb: rūdyti
 stripped_verb: rūdy
 matching_lemma: rūd
@@ -22610,10 +22892,16 @@ verb_array[1]:  rungtyniáuja
 verb_array[2]:  rungtyniãvo
 LEMMA (rung) and NUGGET -IN- (tyniau)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: tyniauti
-present3_slice: tyniauja
-past3_slice: tyniavo
-file_name: tyniauti_tyniauja_tyniavo
+This ends in -auti
+old matching_lemma: rung
+trying to extend the matching_lemma
+auti is here: 8
+length of rungtyniáuja: 12, minus accents rungtyniauja 12
+length of rungtyniãvo: 11, minus accents rungtyniavo 11
+infinitive_form: auti
+present3_slice: auja
+past3_slice: avo
+file_name: auti_auja_avo
 
 **************************************
 
@@ -22666,9 +22954,9 @@ old matching_lemma: rūp
 trying to extend the matching_lemma
 ėti is here: 3
 infinitive_form: ėti
-present3_slice: pi
+present3_slice: i
 past3_slice: ėjo
-file_name: ėti_pi_ėjo
+file_name: ėti_i_ėjo
 
 **************************************
 
@@ -22733,10 +23021,16 @@ verb_array[1]:  rusẽna
 verb_array[2]:  rusẽno
 LEMMA (rus) and NUGGET -IN- (en)
 CLASSIFICATION: lemma_nugget_in
+This ends in -enti
+old matching_lemma: rus
+trying to extend the matching_lemma
+auti is here: 3
+length of rusena: 6, minus accents rusena 6
+length of ruseno: 6, minus accents ruseno 6
 infinitive_form: enti
-present3_slice: ẽna
-past3_slice: ẽno
-file_name: enti_ẽna_ẽno
+present3_slice: ena
+past3_slice: eno
+file_name: enti_ena_eno
 
 **************************************
 
@@ -22770,7 +23064,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: r
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -22788,6 +23082,12 @@ verb_array[1]:  rū́stauja
 verb_array[2]:  rū́stavo
 LEMMA (rūst) and NUGGET -IN- (au)
 CLASSIFICATION: lemma_nugget_in
+This ends in -auti
+old matching_lemma: rūst
+trying to extend the matching_lemma
+auti is here: 4
+length of rūstauja: 8, minus accents rūstauja 8
+length of rūstavo: 7, minus accents rūstavo 7
 infinitive_form: auti
 present3_slice: auja
 past3_slice: avo
@@ -22884,7 +23184,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: s
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -22957,7 +23257,7 @@ verb_array[1]:  šáldo
 verb_array[2]:  šáldė
 LEMMA (šal) and NUGGET -IN- (dy)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: šal
 trying to extend the matching_lemma
 yti is here: 4
@@ -23033,7 +23333,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: sand
 trying to extend the matching_lemma
-ėti is here: 7
+uoti is here: 7
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -23054,7 +23354,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: šantaž
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -23072,14 +23372,19 @@ verb_array[1]:  santykiáuja
 verb_array[2]:  sántykiavo
 LEMMA (san) and NUGGET -IN- (tykiau)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: tykiauti
-present3_slice: tykiauja
-past3_slice: tykiavo
-file_name: tykiauti_tykiauja_tykiavo
+This ends in -auti
+old matching_lemma: san
+trying to extend the matching_lemma
+auti is here: 7
+length of santykiáuja: 11, minus accents santykiauja 11
+length of sántykiavo: 10, minus accents santykiavo 10
+infinitive_form: auti
+present3_slice: auja
+past3_slice: avo
+file_name: auti_auja_avo
 
 **************************************
 
-No file for this pattern (santykiauti), creating a new one...
 infinitive_verb: šaudyti
 stripped_verb: šaudy
 matching_lemma: šau
@@ -23090,7 +23395,7 @@ verb_array[1]:  šáudo
 verb_array[2]:  šáudė
 LEMMA (šau) and NUGGET -IN- (dy)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: šau
 trying to extend the matching_lemma
 yti is here: 4
@@ -23201,18 +23506,17 @@ matching_lemma: sav
 nugget: in
 nugget_in: true
 verb_array[0]: savinti
-verb_array[1]:  savinti
-verb_array[2]:  sãvina
+verb_array[1]:  sãvina
+verb_array[2]:  sãvino
 LEMMA (sav) and NUGGET -IN- (in)
 CLASSIFICATION: lemma_nugget_in
 infinitive_form: inti
-present3_slice: inti
-past3_slice: ina
-file_name: inti_inti_ina
+present3_slice: ina
+past3_slice: ino
+file_name: inti_ina_ino
 
 **************************************
 
-No file for this pattern (savinti), creating a new one...
 infinitive_verb: sėdėti
 stripped_verb: sėdė
 matching_lemma: sėd
@@ -23299,14 +23603,19 @@ verb_array[1]:  šeimininkáuja
 verb_array[2]:  šeimininkãvo
 LEMMA (šeim) and NUGGET -IN- (ininkau)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: ininkauti
-present3_slice: ininkauja
-past3_slice: ininkavo
-file_name: ininkauti_ininkauja_ininkavo
+This ends in -auti
+old matching_lemma: šeim
+trying to extend the matching_lemma
+auti is here: 9
+length of šeimininkáuja: 13, minus accents šeimininkauja 13
+length of šeimininkãvo: 12, minus accents šeimininkavo 12
+infinitive_form: auti
+present3_slice: auja
+past3_slice: avo
+file_name: auti_auja_avo
 
 **************************************
 
-No file for this pattern (šeimininkauti), creating a new one...
 infinitive_verb: sekinti
 stripped_verb: sekin
 matching_lemma: sek
@@ -23703,7 +24012,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: sidabr
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -23759,14 +24068,19 @@ verb_array[1]:  sielvartáuja
 verb_array[2]:  sielvartãvo
 LEMMA (siel) and NUGGET -IN- (vartau)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: vartauti
-present3_slice: vartauja
-past3_slice: vartavo
-file_name: vartauti_vartauja_vartavo
+This ends in -auti
+old matching_lemma: siel
+trying to extend the matching_lemma
+auti is here: 8
+length of sielvartáuja: 12, minus accents sielvartauja 12
+length of sielvartãvo: 11, minus accents sielvartavo 11
+infinitive_form: auti
+present3_slice: auja
+past3_slice: avo
+file_name: auti_auja_avo
 
 **************************************
 
-No file for this pattern (sielvartauti), creating a new one...
 infinitive_verb: šieptis
 stripped_verb: šiep
 matching_lemma: šiep
@@ -23888,11 +24202,11 @@ verb_array[1]:  šìldo
 verb_array[2]:  šìldė
 LEMMA (šil) and NUGGET -IN- (dy)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: šil
 trying to extend the matching_lemma
 yti is here: 4
-length of šìldo: 5, minus accents šildo 5
+length of šildo: 5, minus accents šildo 5
 infinitive_form: yti
 present3_slice: o
 past3_slice: ė
@@ -23910,11 +24224,11 @@ verb_array[1]:  šìldosi
 verb_array[2]:  šìldėsi
 LEMMA (šil) and NUGGET -IN- (dy)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: šil
 trying to extend the matching_lemma
 yti is here: 4
-length of šìldosi: 7, minus accents šildosi 7
+length of šildosi: 7, minus accents šildosi 7
 infinitive_form: ytis
 present3_slice: osi
 past3_slice: ėsi
@@ -23977,24 +24291,6 @@ file_name: ti_a_o
 
 **************************************
 
-infinitive_verb: sirgi
-stripped_verb: šil
-matching_lemma: šil
-nugget: 
-nugget_in: true
-verb_array[0]: sirgi
-verb_array[1]:  ser̃ga
-verb_array[2]:  sir̃go
-LEMMA (šil) only
-CLASSIFICATION: lemma_only
-infinitive_form: gi
-present3_slice: ga
-past3_slice: go
-file_name: gi_ga_go
-
-**************************************
-
-No file for this pattern (sirgi), creating a new one...
 infinitive_verb: sirgti
 stripped_verb: sirg
 matching_lemma: sirg
@@ -24061,10 +24357,16 @@ verb_array[1]:  siū́bteli
 verb_array[2]:  siū́btelėjo
 LEMMA (siūb) and NUGGET -IN- (tel)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: telti
-present3_slice: teli
-past3_slice: telėjo
-file_name: telti_teli_telėjo
+This ends in -ęsti
+old matching_lemma: siūb
+trying to extend the matching_lemma
+auti is here: 5
+length of siūbteli: 8, minus accents siūbteli 8
+length of siūbtelėjo: 10, minus accents siūbtelėjo 10
+infinitive_form: elti
+present3_slice: eli
+past3_slice: elėjo
+file_name: elti_eli_elėjo
 
 **************************************
 
@@ -24092,14 +24394,14 @@ matching_lemma: siūl
 nugget: y
 nugget_in: true
 verb_array[0]: siūlytis
-verb_array[1]:  siū́lo
-verb_array[2]:  siū́lė
+verb_array[1]:  siū́losi
+verb_array[2]:  siū́lėsi
 LEMMA (siūl) and NUGGET -IN- (y)
 CLASSIFICATION: lemma_nugget_in
 infinitive_form: ytis
-present3_slice: o
-past3_slice: ė
-file_name: ytis_o_ė
+present3_slice: osi
+past3_slice: ėsi
+file_name: ytis_osi_ėsi
 
 **************************************
 
@@ -24130,6 +24432,12 @@ verb_array[1]:  šiurkščià
 verb_array[2]:  šiurkštė
 LEMMA (šiur) and NUGGET -IN- (kš)
 CLASSIFICATION: lemma_nugget_in
+This ends in -ęsti
+old matching_lemma: šiur
+trying to extend the matching_lemma
+auti is here: 4
+length of šiurkščià: 9, minus accents šiurkščia 9
+length of šiurkštė: 8, minus accents šiurkštė 8
 infinitive_form: kšti
 present3_slice: kščia
 past3_slice: kštė
@@ -24259,7 +24567,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: skaič
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -24328,6 +24636,12 @@ verb_array[1]:  skaláuja
 verb_array[2]:  skalãvo
 LEMMA (skal) and NUGGET -IN- (au)
 CLASSIFICATION: lemma_nugget_in
+This ends in -auti
+old matching_lemma: skal
+trying to extend the matching_lemma
+auti is here: 4
+length of skaláuja: 8, minus accents skalauja 8
+length of skalãvo: 7, minus accents skalavo 7
 infinitive_form: auti
 present3_slice: auja
 past3_slice: avo
@@ -24401,13 +24715,12 @@ old matching_lemma: skamb
 trying to extend the matching_lemma
 ėti is here: 5
 infinitive_form: ėti
-present3_slice: ba
+present3_slice: a
 past3_slice: ėjo
-file_name: ėti_ba_ėjo
+file_name: ėti_a_ėjo
 
 **************************************
 
-No file for this pattern (skambėti), creating a new one...
 infinitive_verb: skambinti
 stripped_verb: skambin
 matching_lemma: skamb
@@ -24435,6 +24748,12 @@ verb_array[1]:  skanáuja
 verb_array[2]:  skanãvo
 LEMMA (skan) and NUGGET -IN- (au)
 CLASSIFICATION: lemma_nugget_in
+This ends in -auti
+old matching_lemma: skan
+trying to extend the matching_lemma
+auti is here: 4
+length of skanáuja: 8, minus accents skanauja 8
+length of skanãvo: 7, minus accents skanavo 7
 infinitive_form: auti
 present3_slice: auja
 past3_slice: avo
@@ -24489,7 +24808,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: skand
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -24650,7 +24969,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: sken
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: uoja
 past3_slice: avo
@@ -24711,9 +25030,9 @@ old matching_lemma: skės
 trying to extend the matching_lemma
 ėti is here: 6
 infinitive_form: oti
-present3_slice: ioja
-past3_slice: iojo
-file_name: oti_ioja_iojo
+present3_slice: oja
+past3_slice: ojo
+file_name: oti_oja_ojo
 
 **************************************
 
@@ -24847,11 +25166,11 @@ verb_array[1]:  skìrsto
 verb_array[2]:  skìrstė
 LEMMA (skir) and NUGGET -IN- (sty)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: skir
 trying to extend the matching_lemma
 yti is here: 6
-length of skìrsto: 7, minus accents skirsto 7
+length of skirsto: 7, minus accents skirsto 7
 infinitive_form: yti
 present3_slice: o
 past3_slice: ė
@@ -24869,11 +25188,11 @@ verb_array[1]:  skìrstosi
 verb_array[2]:  skìrstėsi
 LEMMA (skir) and NUGGET -IN- (sty)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: skir
 trying to extend the matching_lemma
 yti is here: 6
-length of skìrstosi: 9, minus accents skirstosi 9
+length of skirstosi: 9, minus accents skirstosi 9
 infinitive_form: ytis
 present3_slice: osi
 past3_slice: ėsi
@@ -25098,7 +25417,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: s
 trying to extend the matching_lemma
-ėti is here: 7
+uoti is here: 7
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -25447,24 +25766,23 @@ file_name: intis_inasi_inosi
 
 **************************************
 
-infinitive_verb: slapstyti
+infinitive_verb: slapstytis
 stripped_verb: slapsty
 matching_lemma: slapst
 nugget: y
 nugget_in: true
-verb_array[0]: slapstyti
+verb_array[0]: slapstytis
 verb_array[1]:  slãpstosi
 verb_array[2]:  slãpstėsi
 LEMMA (slapst) and NUGGET -IN- (y)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: yti
+infinitive_form: ytis
 present3_slice: osi
 past3_slice: ėsi
-file_name: yti_osi_ėsi
+file_name: ytis_osi_ėsi
 
 **************************************
 
-No file for this pattern (slapstyti), creating a new one...
 infinitive_verb: šlapti
 stripped_verb: šlap
 matching_lemma: šlap
@@ -25691,7 +26009,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: slog
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -25760,7 +26078,7 @@ verb_array[1]:  šlúosto
 verb_array[2]:  šluõstė
 LEMMA (šluos) and NUGGET -IN- (ty)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: šluos
 trying to extend the matching_lemma
 yti is here: 6
@@ -25782,7 +26100,7 @@ verb_array[1]:  šlúostosi
 verb_array[2]:  šlúostėsi
 LEMMA (šluos) and NUGGET -IN- (ty)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: šluos
 trying to extend the matching_lemma
 yti is here: 6
@@ -25881,10 +26199,16 @@ verb_array[1]:  smaguriáuja
 verb_array[2]:  smaguriãvo
 LEMMA (smagur) and NUGGET -IN- (iau)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: iauti
-present3_slice: iauja
-past3_slice: iavo
-file_name: iauti_iauja_iavo
+This ends in -auti
+old matching_lemma: smagur
+trying to extend the matching_lemma
+auti is here: 7
+length of smaguriáuja: 11, minus accents smaguriauja 11
+length of smaguriãvo: 10, minus accents smaguriavo 10
+infinitive_form: auti
+present3_slice: auja
+past3_slice: avo
+file_name: auti_auja_avo
 
 **************************************
 
@@ -25898,7 +26222,7 @@ verb_array[1]:  smaĩgsto
 verb_array[2]:  smaĩgstė
 LEMMA (smaig) and NUGGET -IN- (sty)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: smaig
 trying to extend the matching_lemma
 yti is here: 7
@@ -25937,10 +26261,16 @@ verb_array[1]:  smaližiáuja
 verb_array[2]:  smaližiãvo
 LEMMA (smaliž) and NUGGET -IN- (iau)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: iauti
-present3_slice: iauja
-past3_slice: iavo
-file_name: iauti_iauja_iavo
+This ends in -auti
+old matching_lemma: smaliž
+trying to extend the matching_lemma
+auti is here: 7
+length of smaližiáuja: 11, minus accents smaližiauja 11
+length of smaližiãvo: 10, minus accents smaližiavo 10
+infinitive_form: auti
+present3_slice: auja
+past3_slice: avo
+file_name: auti_auja_avo
 
 **************************************
 
@@ -26114,7 +26444,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: smūg
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -26132,7 +26462,7 @@ verb_array[1]:  smùkdo
 verb_array[2]:  smùkdė
 LEMMA (smuk) and NUGGET -IN- (dy)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: smuk
 trying to extend the matching_lemma
 yti is here: 5
@@ -26307,10 +26637,16 @@ verb_array[1]:  šnèkteli
 verb_array[2]:  šnèktelėjo
 LEMMA (šnek) and NUGGET -IN- (tel)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: telti
-present3_slice: teli
-past3_slice: telėjo
-file_name: telti_teli_telėjo
+This ends in -ęsti
+old matching_lemma: šnek
+trying to extend the matching_lemma
+auti is here: 5
+length of šnèkteli: 8, minus accents šnekteli 8
+length of šnèktelėjo: 10, minus accents šnektelėjo 10
+infinitive_form: elti
+present3_slice: eli
+past3_slice: elėjo
+file_name: elti_eli_elėjo
 
 **************************************
 
@@ -26327,7 +26663,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: šnek
 trying to extend the matching_lemma
-ėti is here: 7
+uoti is here: 7
 infinitive_form: uotis
 present3_slice: úojasi
 past3_slice: ãvosi
@@ -26345,14 +26681,19 @@ verb_array[1]:  šnerkščia
 verb_array[2]:  šnirkštė
 LEMMA (sn) and NUGGET -IN- (erkš)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: erkšti
-present3_slice: erkščia
-past3_slice: irkštė
-file_name: erkšti_erkščia_irkštė
+This ends in -ęsti
+old matching_lemma: sn
+trying to extend the matching_lemma
+auti is here: 4
+length of šnerkščia: 9, minus accents šnerkščia 9
+length of šnirkštė: 8, minus accents šnirkštė 8
+infinitive_form: kšti
+present3_slice: kščia
+past3_slice: kštė
+file_name: kšti_kščia_kštė
 
 **************************************
 
-No file for this pattern (snerkšti), creating a new one...
 infinitive_verb: šnerpšti
 stripped_verb: šnerpš
 matching_lemma: šn
@@ -26363,10 +26704,16 @@ verb_array[1]:  šnerpščia
 verb_array[2]:  šnir̃pštė
 LEMMA (šn) and NUGGET -IN- (erpš)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: erpšti
-present3_slice: erpščia
-past3_slice: irpštė
-file_name: erpšti_erpščia_irpštė
+This ends in -ęsti
+old matching_lemma: šn
+trying to extend the matching_lemma
+auti is here: 4
+length of šnerpščia: 9, minus accents šnerpščia 9
+length of šnir̃pštė: 9, minus accents šnir̃pštė 9
+infinitive_form: pšti
+present3_slice: pščia
+past3_slice: pštė
+file_name: pšti_pščia_pštė
 
 **************************************
 
@@ -26405,7 +26752,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: snieg
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: uoja
 past3_slice: avo
@@ -26440,14 +26787,19 @@ verb_array[1]:  šniõkščia
 verb_array[2]:  šniõkštė
 LEMMA (šn) and NUGGET -IN- (iokš)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: iokšti
-present3_slice: iokščia
-past3_slice: iokštė
-file_name: iokšti_iokščia_iokštė
+This ends in -ęsti
+old matching_lemma: šn
+trying to extend the matching_lemma
+auti is here: 4
+length of šniõkščia: 9, minus accents šniokščia 9
+length of šniõkštė: 8, minus accents šniokštė 8
+infinitive_form: kšti
+present3_slice: kščia
+past3_slice: kštė
+file_name: kšti_kščia_kštė
 
 **************************************
 
-No file for this pattern (šniokšti), creating a new one...
 infinitive_verb: šnipinėti
 stripped_verb: šnipinė
 matching_lemma: šnip
@@ -26500,10 +26852,16 @@ verb_array[1]:  šnỹpščia
 verb_array[2]:  šnỹpštė
 LEMMA (šn) and NUGGET -IN- (iypš)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: iypšti
-present3_slice: ypščia
-past3_slice: ypštė
-file_name: iypšti_ypščia_ypštė
+This ends in -ęsti
+old matching_lemma: šn
+trying to extend the matching_lemma
+auti is here: 4
+length of šnỹpščia: 8, minus accents šnỹpščia 8
+length of šnỹpštė: 7, minus accents šnỹpštė 7
+infinitive_form: pšti
+present3_slice: ščia
+past3_slice: štė
+file_name: pšti_ščia_štė
 
 **************************************
 
@@ -26576,7 +26934,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: šokir
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -26614,7 +26972,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: šok
 trying to extend the matching_lemma
-ėti is here: 3
+uoti is here: 3
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -26763,7 +27121,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: spind
 trying to extend the matching_lemma
-ėti is here: 8
+uoti is here: 8
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -26798,10 +27156,16 @@ verb_array[1]:  spìnta
 verb_array[2]:  spito
 LEMMA (s) and NUGGET -IN- (pis)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: pisti
-present3_slice: pinta
-past3_slice: pito
-file_name: pisti_pinta_pito
+This ends in -ęsti
+old matching_lemma: s
+trying to extend the matching_lemma
+auti is here: 2
+length of spìnta: 6, minus accents spinta 6
+length of spito: 5, minus accents spito 5
+infinitive_form: isti
+present3_slice: inta
+past3_slice: ito
+file_name: isti_inta_ito
 
 **************************************
 
@@ -26857,7 +27221,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: sport
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -26982,6 +27346,12 @@ verb_array[1]:  spýgauja
 verb_array[2]:  spýgavo
 LEMMA (spyg) and NUGGET -IN- (au)
 CLASSIFICATION: lemma_nugget_in
+This ends in -auti
+old matching_lemma: spyg
+trying to extend the matching_lemma
+auti is here: 4
+length of spýgauja: 8, minus accents spygauja 8
+length of spýgavo: 7, minus accents spygavo 7
 infinitive_form: auti
 present3_slice: auja
 past3_slice: avo
@@ -27101,14 +27471,14 @@ matching_lemma: stat
 nugget: y
 nugget_in: true
 verb_array[0]: statytis
-verb_array[1]:  stãto
-verb_array[2]:  stãtė
+verb_array[1]:  stãtosi
+verb_array[2]:  stãtėsi
 LEMMA (stat) and NUGGET -IN- (y)
 CLASSIFICATION: lemma_nugget_in
 infinitive_form: ytis
-present3_slice: o
-past3_slice: ė
-file_name: ytis_o_ė
+present3_slice: osi
+past3_slice: ėsi
+file_name: ytis_osi_ėsi
 
 **************************************
 
@@ -27382,13 +27752,12 @@ old matching_lemma: stirks
 trying to extend the matching_lemma
 ėti is here: 6
 infinitive_form: oti
-present3_slice: so
+present3_slice: o
 past3_slice: ójo
-file_name: oti_so_ojo
+file_name: oti_o_ojo
 
 **************************************
 
-No file for this pattern (stirksoti), creating a new one...
 infinitive_verb: stodinėti
 stripped_verb: stodinė
 matching_lemma: sto
@@ -27558,7 +27927,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: stov
 trying to extend the matching_lemma
-ėti is here: 7
+uoti is here: 7
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -27576,14 +27945,19 @@ verb_array[1]:  stovykláuja
 verb_array[2]:  stovyklãvo
 LEMMA (stov) and NUGGET -IN- (yklau)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: yklauti
-present3_slice: yklauja
-past3_slice: yklavo
-file_name: yklauti_yklauja_yklavo
+This ends in -auti
+old matching_lemma: stov
+trying to extend the matching_lemma
+auti is here: 7
+length of stovykláuja: 11, minus accents stovyklauja 11
+length of stovyklãvo: 10, minus accents stovyklavo 10
+infinitive_form: auti
+present3_slice: auja
+past3_slice: avo
+file_name: auti_auja_avo
 
 **************************************
 
-No file for this pattern (stovyklauti), creating a new one...
 infinitive_verb: streikuoti
 stripped_verb: streikuo
 matching_lemma: streik
@@ -27597,7 +27971,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: streik
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -27618,7 +27992,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: stres
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: suoja
 past3_slice: avo
@@ -27690,24 +28064,6 @@ file_name: ėti_ėja_ėjo
 
 **************************************
 
-infinitive_verb: studentauti
-stripped_verb: studentau
-matching_lemma: student
-nugget: au
-nugget_in: true
-verb_array[0]: studentauti
-verb_array[1]:  stryktelėja
-verb_array[2]:  strýktelėjo
-LEMMA (student) and NUGGET -IN- (au)
-CLASSIFICATION: lemma_nugget_in
-infinitive_form: auti
-present3_slice: lėja
-past3_slice: lėjo
-file_name: auti_lėja_lėjo
-
-**************************************
-
-No file for this pattern (studentauti), creating a new one...
 infinitive_verb: studijuoti
 stripped_verb: studijuo
 matching_lemma: studij
@@ -27721,7 +28077,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: studij
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -27756,7 +28112,7 @@ verb_array[1]:  stùmdosi
 verb_array[2]:  stùmdėsi
 LEMMA (stum) and NUGGET -IN- (dy)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: stum
 trying to extend the matching_lemma
 yti is here: 5
@@ -27840,7 +28196,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: št
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -27917,19 +28273,18 @@ verb_array[1]:  sū́do
 verb_array[2]:  sū́dė
 LEMMA (sū) and NUGGET -IN- (dy)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: sū
 trying to extend the matching_lemma
 yti is here: 3
-length of sū́do: 5, minus accents sū́do 5
+length of sūdo: 4, minus accents sūdo 4
 infinitive_form: yti
-present3_slice: do
-past3_slice: dė
-file_name: yti_do_dė
+present3_slice: o
+past3_slice: ė
+file_name: yti_o_ė
 
 **************************************
 
-No file for this pattern (sūdyti), creating a new one...
 infinitive_verb: šūkauti
 stripped_verb: šūkau
 matching_lemma: šūk
@@ -27940,6 +28295,12 @@ verb_array[1]:  šū́kauja
 verb_array[2]:  šūkãvo
 LEMMA (šūk) and NUGGET -IN- (au)
 CLASSIFICATION: lemma_nugget_in
+This ends in -auti
+old matching_lemma: šūk
+trying to extend the matching_lemma
+auti is here: 3
+length of šūkauja: 7, minus accents šūkauja 7
+length of šūkãvo: 6, minus accents šūkavo 6
 infinitive_form: auti
 present3_slice: auja
 past3_slice: avo
@@ -27960,7 +28321,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: šuk
 trying to extend the matching_lemma
-ėti is here: 3
+uoti is here: 3
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -27981,7 +28342,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: šuk
 trying to extend the matching_lemma
-ėti is here: 3
+uoti is here: 3
 infinitive_form: uotis
 present3_slice: úojasi
 past3_slice: ãvosi
@@ -28002,7 +28363,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: šuol
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -28023,7 +28384,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: sūp
 trying to extend the matching_lemma
-ėti is here: 3
+uoti is here: 3
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -28044,7 +28405,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: šurm
 trying to extend the matching_lemma
-ėti is here: 7
+uoti is here: 7
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -28168,7 +28529,7 @@ verb_array[1]:  svar̃sto
 verb_array[2]:  svar̃stė
 LEMMA (svar) and NUGGET -IN- (sty)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: svar
 trying to extend the matching_lemma
 yti is here: 6
@@ -28193,7 +28554,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: švar
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uotis
 present3_slice: úojasi
 past3_slice: ãvosi
@@ -28214,7 +28575,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: sveč
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uotis
 present3_slice: úojasi
 past3_slice: ãvosi
@@ -28475,6 +28836,12 @@ verb_array[1]:  švìlpauja
 verb_array[2]:  švìlpavo
 LEMMA (švilp) and NUGGET -IN- (au)
 CLASSIFICATION: lemma_nugget_in
+This ends in -auti
+old matching_lemma: švilp
+trying to extend the matching_lemma
+auti is here: 5
+length of švìlpauja: 9, minus accents švilpauja 9
+length of švìlpavo: 8, minus accents švilpavo 8
 infinitive_form: auti
 present3_slice: auja
 past3_slice: avo
@@ -28581,14 +28948,19 @@ verb_array[1]:  švõkščia
 verb_array[2]:  švõkštė
 LEMMA (šv) and NUGGET -IN- (okš)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: okšti
-present3_slice: okščia
-past3_slice: okštė
-file_name: okšti_okščia_okštė
+This ends in -ęsti
+old matching_lemma: šv
+trying to extend the matching_lemma
+auti is here: 3
+length of švõkščia: 8, minus accents švokščia 8
+length of švõkštė: 7, minus accents švokštė 7
+infinitive_form: kšti
+present3_slice: kščia
+past3_slice: kštė
+file_name: kšti_kščia_kštė
 
 **************************************
 
-No file for this pattern (švokšti), creating a new one...
 infinitive_verb: svyruoti
 stripped_verb: svyruo
 matching_lemma: svyr
@@ -28602,7 +28974,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: svyr
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -28900,7 +29272,7 @@ verb_array[1]:  tárdo
 verb_array[2]:  tárdė
 LEMMA (tar) and NUGGET -IN- (dy)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: tar
 trying to extend the matching_lemma
 yti is here: 4
@@ -28925,7 +29297,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: tar
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -28943,6 +29315,12 @@ verb_array[1]:  tarnáuja
 verb_array[2]:  tarnãvo
 LEMMA (tarn) and NUGGET -IN- (au)
 CLASSIFICATION: lemma_nugget_in
+This ends in -auti
+old matching_lemma: tarn
+trying to extend the matching_lemma
+auti is here: 4
+length of tarnáuja: 8, minus accents tarnauja 8
+length of tarnãvo: 7, minus accents tarnavo 7
 infinitive_form: auti
 present3_slice: auja
 past3_slice: avo
@@ -28960,10 +29338,16 @@ verb_array[1]:  tarpininkáuja
 verb_array[2]:  tarpininkãvo
 LEMMA (tarp) and NUGGET -IN- (ininkau)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: ininkauti
-present3_slice: ininkauja
-past3_slice: ininkavo
-file_name: ininkauti_ininkauja_ininkavo
+This ends in -auti
+old matching_lemma: tarp
+trying to extend the matching_lemma
+auti is here: 9
+length of tarpininkáuja: 13, minus accents tarpininkauja 13
+length of tarpininkãvo: 12, minus accents tarpininkavo 12
+infinitive_form: auti
+present3_slice: auja
+past3_slice: avo
+file_name: auti_auja_avo
 
 **************************************
 
@@ -29186,6 +29570,12 @@ verb_array[1]:  teiráujasi
 verb_array[2]:  teirãvosi
 LEMMA (teir) and NUGGET -IN- (au)
 CLASSIFICATION: lemma_nugget_in
+This ends in -auti
+old matching_lemma: teir
+trying to extend the matching_lemma
+auti is here: 4
+length of teiráujasi: 10, minus accents teiraujasi 10
+length of teirãvosi: 9, minus accents teiravosi 9
 infinitive_form: autis
 present3_slice: aujasi
 past3_slice: avosi
@@ -29343,7 +29733,7 @@ verb_array[1]:  témdo
 verb_array[2]:  témdė
 LEMMA (tem) and NUGGET -IN- (dy)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: tem
 trying to extend the matching_lemma
 yti is here: 4
@@ -29355,24 +29745,6 @@ file_name: yti_o_ė
 
 **************************************
 
-infinitive_verb: tempt
-stripped_verb: temdy
-matching_lemma: tem
-nugget: dy
-nugget_in: true
-verb_array[0]: tempt
-verb_array[1]:  tempì
-verb_array[2]:  tem̃pė
-LEMMA (tem) and NUGGET -IN- (dy)
-CLASSIFICATION: lemma_nugget_in
-infinitive_form: pt
-present3_slice: pi
-past3_slice: pė
-file_name: pt_pi_pė
-
-**************************************
-
-No file for this pattern (tempt), creating a new one...
 infinitive_verb: tempti
 stripped_verb: temp
 matching_lemma: temp
@@ -29492,42 +29864,24 @@ file_name: ti_ia_ė
 
 **************************************
 
-infinitive_verb: tęsti
-stripped_verb: tęs
-matching_lemma: tęs
-nugget: 
+infinitive_verb: tęšti
+stripped_verb: tęš
+matching_lemma: tę
+nugget: š
 nugget_in: true
-verb_array[0]: tęsti
-verb_array[1]:  ter̃šia
-verb_array[2]:  ter̃šė
-LEMMA (tęs) only
-CLASSIFICATION: lemma_only
-infinitive_form: ti
-present3_slice: šia
-past3_slice: šė
-file_name: ti_šia_šė
-
-**************************************
-
-No file for this pattern (tęsti), creating a new one...
-infinitive_verb: tėšti
-stripped_verb: tėš
-matching_lemma: t
-nugget: ėš
-nugget_in: true
-verb_array[0]: tėšti
+verb_array[0]: tęšti
 verb_array[1]:  tešia
 verb_array[2]:  tėšė
-LEMMA (t) and NUGGET -IN- (ėš)
+LEMMA (tę) and NUGGET -IN- (š)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: ėšti
-present3_slice: ešia
-past3_slice: ėšė
-file_name: ėšti_ešia_ėšė
+infinitive_form: šti
+present3_slice: šia
+past3_slice: šė
+file_name: šti_šia_šė
 
 **************************************
 
-No file for this pattern (tėšti), creating a new one...
+No file for this pattern (tęšti), creating a new one...
 infinitive_verb: tęstis
 stripped_verb: tęs
 matching_lemma: tęs
@@ -29558,7 +29912,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: test
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: uoja
 past3_slice: avo
@@ -29815,11 +30169,11 @@ verb_array[1]:  tìldo
 verb_array[2]:  tìldė
 LEMMA (til) and NUGGET -IN- (dy)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: til
 trying to extend the matching_lemma
 yti is here: 4
-length of tìldo: 5, minus accents tildo 5
+length of tildo: 5, minus accents tildo 5
 infinitive_form: yti
 present3_slice: o
 past3_slice: ė
@@ -29913,14 +30267,19 @@ verb_array[1]:  tinginiáuja
 verb_array[2]:  tinginiãvo
 LEMMA (ting) and NUGGET -IN- (iniau)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: iniauti
-present3_slice: iniauja
-past3_slice: iniavo
-file_name: iniauti_iniauja_iniavo
+This ends in -auti
+old matching_lemma: ting
+trying to extend the matching_lemma
+auti is here: 7
+length of tinginiáuja: 11, minus accents tinginiauja 11
+length of tinginiãvo: 10, minus accents tinginiavo 10
+infinitive_form: auti
+present3_slice: auja
+past3_slice: avo
+file_name: auti_auja_avo
 
 **************************************
 
-No file for this pattern (tinginiauti), creating a new one...
 infinitive_verb: tingti
 stripped_verb: ting
 matching_lemma: ting
@@ -29966,7 +30325,7 @@ verb_array[1]:  tir̃pdo
 verb_array[2]:  tir̃pdė
 LEMMA (tirp) and NUGGET -IN- (dy)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: tirp
 trying to extend the matching_lemma
 yti is here: 5
@@ -30029,24 +30388,6 @@ file_name: ti_ta_o
 
 **************************************
 
-infinitive_verb: tmepti
-stripped_verb: tmep
-matching_lemma: t
-nugget: mep
-nugget_in: true
-verb_array[0]: tmepti
-verb_array[1]:  tem̃pia
-verb_array[2]:  temptė
-LEMMA (t) and NUGGET -IN- (mep)
-CLASSIFICATION: lemma_nugget_in
-infinitive_form: mepti
-present3_slice: empia
-past3_slice: emptė
-file_name: mepti_empia_emptė
-
-**************************************
-
-No file for this pattern (tmepti), creating a new one...
 infinitive_verb: tobulėti
 stripped_verb: tobulė
 matching_lemma: tobul
@@ -30153,7 +30494,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: trakt
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -30208,7 +30549,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: transl
 trying to extend the matching_lemma
-ėti is here: 7
+uoti is here: 7
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -30229,7 +30570,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: transport
 trying to extend the matching_lemma
-ėti is here: 9
+uoti is here: 9
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -30306,7 +30647,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: traum
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -30344,7 +30685,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: trenir
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -30365,7 +30706,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: trenir
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uotis
 present3_slice: úojasi
 past3_slice: ãvosi
@@ -30490,11 +30831,11 @@ verb_array[1]:  trìkdo
 verb_array[2]:  trìkdė
 LEMMA (trik) and NUGGET -IN- (dy)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: trik
 trying to extend the matching_lemma
 yti is here: 5
-length of trìkdo: 6, minus accents trikdo 6
+length of trikdo: 6, minus accents trikdo 6
 infinitive_form: yti
 present3_slice: o
 past3_slice: ė
@@ -30532,7 +30873,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: trimit
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -30585,6 +30926,12 @@ verb_array[1]:  triumškauja
 verb_array[2]:  triukšmãvo
 LEMMA (triukšm) and NUGGET -IN- (au)
 CLASSIFICATION: lemma_nugget_in
+This ends in -auti
+old matching_lemma: triukšm
+trying to extend the matching_lemma
+auti is here: 7
+length of triumškauja: 11, minus accents triumškauja 11
+length of triukšmãvo: 10, minus accents triukšmavo 10
 infinitive_form: auti
 present3_slice: auja
 past3_slice: avo
@@ -30598,18 +30945,18 @@ matching_lemma: triumf
 nugget: uo
 nugget_in: true
 verb_array[0]: triumfuoti
-verb_array[1]:  triumfúoti
-verb_array[2]:  triumfúoja
+verb_array[1]:  triumfúoja
+verb_array[2]:  triumfãvo
 LEMMA (triumf) and NUGGET -IN- (uo)
 CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: triumf
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
-present3_slice: úoti
-past3_slice: úoja
-file_name: uoti_uoti_uoja
+present3_slice: úoja
+past3_slice: ãvo
+file_name: uoti_uoja_avo
 
 **************************************
 
@@ -30657,7 +31004,7 @@ verb_array[1]:  trùkdo
 verb_array[2]:  trùkdė
 LEMMA (truk) and NUGGET -IN- (dy)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: truk
 trying to extend the matching_lemma
 yti is here: 5
@@ -30846,13 +31193,12 @@ old matching_lemma: tūn
 trying to extend the matching_lemma
 ėti is here: 3
 infinitive_form: oti
-present3_slice: no
-past3_slice: nojo
-file_name: oti_no_nojo
+present3_slice: o
+past3_slice: ojo
+file_name: oti_o_ojo
 
 **************************************
 
-No file for this pattern (tūnoti), creating a new one...
 infinitive_verb: tuokti
 stripped_verb: tuok
 matching_lemma: tuok
@@ -30973,14 +31319,19 @@ verb_array[1]:  tursẽna
 verb_array[2]:  tursẽno
 LEMMA (tur) and NUGGET -IN- (sen)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: senti
-present3_slice: sẽna
-past3_slice: sẽno
-file_name: senti_sẽna_sẽno
+This ends in -enti
+old matching_lemma: tur
+trying to extend the matching_lemma
+auti is here: 4
+length of tursena: 7, minus accents tursena 7
+length of turseno: 7, minus accents turseno 7
+infinitive_form: enti
+present3_slice: ena
+past3_slice: eno
+file_name: enti_ena_eno
 
 **************************************
 
-No file for this pattern (tursenti), creating a new one...
 infinitive_verb: tuštėti
 stripped_verb: tuštė
 matching_lemma: tušt
@@ -31097,7 +31448,7 @@ verb_array[1]:  tvárdo
 verb_array[2]:  tvárdė
 LEMMA (tvar) and NUGGET -IN- (dy)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: tvar
 trying to extend the matching_lemma
 yti is here: 5
@@ -31153,7 +31504,7 @@ verb_array[1]:  tvársto
 verb_array[2]:  tvárstė
 LEMMA (tvar) and NUGGET -IN- (sty)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: tvar
 trying to extend the matching_lemma
 yti is here: 6
@@ -31445,7 +31796,7 @@ verb_array[1]:  ùgdo
 verb_array[2]:  ùgdė
 LEMMA (ug) and NUGGET -IN- (dy)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: ug
 trying to extend the matching_lemma
 yti is here: 3
@@ -31467,14 +31818,19 @@ verb_array[1]:  ūkininkáuja
 verb_array[2]:  ūkininkãvo
 LEMMA (ūki) and NUGGET -IN- (ninkau)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: ninkauti
-present3_slice: ninkauja
-past3_slice: ninkavo
-file_name: ninkauti_ninkauja_ninkavo
+This ends in -auti
+old matching_lemma: ūki
+trying to extend the matching_lemma
+auti is here: 7
+length of ūkininkáuja: 11, minus accents ūkininkauja 11
+length of ūkininkãvo: 10, minus accents ūkininkavo 10
+infinitive_form: auti
+present3_slice: auja
+past3_slice: avo
+file_name: auti_auja_avo
 
 **************************************
 
-No file for this pattern (ūkininkauti), creating a new one...
 infinitive_verb: ūkti
 stripped_verb: ūk
 matching_lemma: ūk
@@ -31502,6 +31858,12 @@ verb_array[1]:  uogáuja
 verb_array[2]:  uogãvo
 LEMMA (uog) and NUGGET -IN- (au)
 CLASSIFICATION: lemma_nugget_in
+This ends in -auti
+old matching_lemma: uog
+trying to extend the matching_lemma
+auti is here: 3
+length of uogáuja: 7, minus accents uogauja 7
+length of uogãvo: 6, minus accents uogavo 6
 infinitive_form: auti
 present3_slice: auja
 past3_slice: avo
@@ -31573,7 +31935,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: ut
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: avo
@@ -31643,14 +32005,19 @@ verb_array[1]:  vadováuja
 verb_array[2]:  vadovãvo
 LEMMA (vad) and NUGGET -IN- (ovau)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: ovauti
-present3_slice: ovauja
-past3_slice: ovavo
-file_name: ovauti_ovauja_ovavo
+This ends in -auti
+old matching_lemma: vad
+trying to extend the matching_lemma
+auti is here: 5
+length of vadováuja: 9, minus accents vadovauja 9
+length of vadovãvo: 8, minus accents vadovavo 8
+infinitive_form: auti
+present3_slice: auja
+past3_slice: avo
+file_name: auti_auja_avo
 
 **************************************
 
-No file for this pattern (vadovauti), creating a new one...
 infinitive_verb: vadovautis
 stripped_verb: vadovau
 matching_lemma: vad
@@ -31661,14 +32028,19 @@ verb_array[1]:  vadováujasi
 verb_array[2]:  vadovãvosi
 LEMMA (vad) and NUGGET -IN- (ovau)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: ovautis
-present3_slice: ovaujasi
-past3_slice: ovavosi
-file_name: ovautis_ovaujasi_ovavosi
+This ends in -auti
+old matching_lemma: vad
+trying to extend the matching_lemma
+auti is here: 5
+length of vadováujasi: 11, minus accents vadovaujasi 11
+length of vadovãvosi: 10, minus accents vadovavosi 10
+infinitive_form: autis
+present3_slice: aujasi
+past3_slice: avosi
+file_name: autis_aujasi_avosi
 
 **************************************
 
-No file for this pattern (vadovautis), creating a new one...
 infinitive_verb: vadžioti
 stripped_verb: vadžio
 matching_lemma: vadž
@@ -31700,14 +32072,19 @@ verb_array[1]:  vagiliáuja
 verb_array[2]:  vagiliãvo
 LEMMA (vag) and NUGGET -IN- (iliau)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: iliauti
-present3_slice: iliauja
-past3_slice: iliavo
-file_name: iliauti_iliauja_iliavo
+This ends in -auti
+old matching_lemma: vag
+trying to extend the matching_lemma
+auti is here: 6
+length of vagiliáuja: 10, minus accents vagiliauja 10
+length of vagiliãvo: 9, minus accents vagiliavo 9
+infinitive_form: auti
+present3_slice: auja
+past3_slice: avo
+file_name: auti_auja_avo
 
 **************************************
 
-No file for this pattern (vagiliauti), creating a new one...
 infinitive_verb: vagoti
 stripped_verb: vago
 matching_lemma: vag
@@ -31818,7 +32195,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: vainik
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -31856,7 +32233,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: vair
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -31928,7 +32305,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: vaizd
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -31942,57 +32319,44 @@ matching_lemma: vaizd
 nugget: uo
 nugget_in: true
 verb_array[0]: vaizduotis
-verb_array[1]:  vaizdúoja
-verb_array[2]:  vaizdãvo
+verb_array[1]:  vaizdúojasi
+verb_array[2]:  vaizdãvosi
 LEMMA (vaizd) and NUGGET -IN- (uo)
 CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: vaizd
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uotis
-present3_slice: úoja
-past3_slice: ãvo
-file_name: uotis_uoja_avo
+present3_slice: úojasi
+past3_slice: ãvosi
+file_name: uotis_uojasi_avosi
 
 **************************************
 
-infinitive_verb: vakarienauti
-stripped_verb: vakarienau
-matching_lemma: vakar
-nugget: ienau
-nugget_in: true
-verb_array[0]: vakarienauti
-verb_array[1]:  vakarieniáuja
-verb_array[2]:  vakarieniãvo
-LEMMA (vakar) and NUGGET -IN- (ienau)
-CLASSIFICATION: lemma_nugget_in
-infinitive_form: ienauti
-present3_slice: ieniauja
-past3_slice: ieniavo
-file_name: ienauti_ieniauja_ieniavo
-
-**************************************
-
-No file for this pattern (vakarienauti), creating a new one...
 infinitive_verb: vakarieniauti
 stripped_verb: vakarieniau
 matching_lemma: vakar
 nugget: ieniau
 nugget_in: true
 verb_array[0]: vakarieniauti
-verb_array[1]:  vakarienauja
+verb_array[1]:  vakarieniáuja
 verb_array[2]:  vakarieniãvo
 LEMMA (vakar) and NUGGET -IN- (ieniau)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: ieniauti
-present3_slice: ienauja
-past3_slice: ieniavo
-file_name: ieniauti_ienauja_ieniavo
+This ends in -auti
+old matching_lemma: vakar
+trying to extend the matching_lemma
+auti is here: 9
+length of vakarieniáuja: 13, minus accents vakarieniauja 13
+length of vakarieniãvo: 12, minus accents vakarieniavo 12
+infinitive_form: auti
+present3_slice: auja
+past3_slice: avo
+file_name: auti_auja_avo
 
 **************************************
 
-No file for this pattern (vakarieniauti), creating a new one...
 infinitive_verb: valdyti
 stripped_verb: valdy
 matching_lemma: vald
@@ -32075,14 +32439,19 @@ verb_array[1]:  valkatáuja
 verb_array[2]:  valkatãvo
 LEMMA (valk) and NUGGET -IN- (atau)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: atauti
-present3_slice: atauja
-past3_slice: atavo
-file_name: atauti_atauja_atavo
+This ends in -auti
+old matching_lemma: valk
+trying to extend the matching_lemma
+auti is here: 6
+length of valkatáuja: 10, minus accents valkatauja 10
+length of valkatãvo: 9, minus accents valkatavo 9
+infinitive_form: auti
+present3_slice: auja
+past3_slice: avo
+file_name: auti_auja_avo
 
 **************************************
 
-No file for this pattern (valkatauti), creating a new one...
 infinitive_verb: valyti
 stripped_verb: valy
 matching_lemma: val
@@ -32254,7 +32623,7 @@ verb_array[1]:  vársto
 verb_array[2]:  várstė
 LEMMA (var) and NUGGET -IN- (sty)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: var
 trying to extend the matching_lemma
 yti is here: 5
@@ -32287,28 +32656,6 @@ file_name: oti_oja_ojo
 
 **************************************
 
-infinitive_verb: vartototi
-stripped_verb: vartoto
-matching_lemma: vart
-nugget: oto
-nugget_in: true
-verb_array[0]: vartototi
-verb_array[1]:  vartója
-verb_array[2]:  vartójo
-LEMMA (vart) and NUGGET -IN- (oto)
-CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
-old matching_lemma: vart
-trying to extend the matching_lemma
-ėti is here: 6
-infinitive_form: oti
-present3_slice: a
-past3_slice: o
-file_name: oti_a_o
-
-**************************************
-
-No file for this pattern (vartototi), creating a new one...
 infinitive_verb: vartyti
 stripped_verb: varty
 matching_lemma: vart
@@ -32358,13 +32705,12 @@ old matching_lemma: varv
 trying to extend the matching_lemma
 ėti is here: 4
 infinitive_form: ėti
-present3_slice: va
+present3_slice: a
 past3_slice: ėjo
-file_name: ėti_va_ėjo
+file_name: ėti_a_ėjo
 
 **************************************
 
-No file for this pattern (varvėti), creating a new one...
 infinitive_verb: varyti
 stripped_verb: vary
 matching_lemma: var
@@ -32450,7 +32796,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: vašk
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: uoja
 past3_slice: ãvo
@@ -32513,7 +32859,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: važ
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -32531,10 +32877,16 @@ verb_array[1]:  veblẽna
 verb_array[2]:  veblẽno
 LEMMA (vebl) and NUGGET -IN- (en)
 CLASSIFICATION: lemma_nugget_in
+This ends in -enti
+old matching_lemma: vebl
+trying to extend the matching_lemma
+auti is here: 4
+length of veblena: 7, minus accents veblena 7
+length of vebleno: 7, minus accents vebleno 7
 infinitive_form: enti
-present3_slice: ẽna
-past3_slice: ẽno
-file_name: enti_ẽna_ẽno
+present3_slice: ena
+past3_slice: eno
+file_name: enti_ena_eno
 
 **************************************
 
@@ -32586,10 +32938,16 @@ verb_array[1]:  veidmainiáuja
 verb_array[2]:  veidmainiãvo
 LEMMA (veid) and NUGGET -IN- (maniau)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: maniauti
-present3_slice: mainiauja
-past3_slice: mainiavo
-file_name: maniauti_mainiauja_mainiavo
+This ends in -auti
+old matching_lemma: veid
+trying to extend the matching_lemma
+auti is here: 8
+length of veidmainiáuja: 13, minus accents veidmainiauja 13
+length of veidmainiãvo: 12, minus accents veidmainiavo 12
+infinitive_form: auti
+present3_slice: iauja
+past3_slice: iavo
+file_name: auti_iauja_iavo
 
 **************************************
 
@@ -32679,7 +33037,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: vėj
 trying to extend the matching_lemma
-ėti is here: 3
+uoti is here: 3
 infinitive_form: uoti
 present3_slice: uoja
 past3_slice: avo
@@ -32751,7 +33109,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: vėl
 trying to extend the matching_lemma
-ėti is here: 3
+uoti is here: 3
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -32803,6 +33161,12 @@ verb_array[1]:  vergáuja
 verb_array[2]:  vergãvo
 LEMMA (verg) and NUGGET -IN- (au)
 CLASSIFICATION: lemma_nugget_in
+This ends in -auti
+old matching_lemma: verg
+trying to extend the matching_lemma
+auti is here: 4
+length of vergáuja: 8, minus accents vergauja 8
+length of vergãvo: 7, minus accents vergavo 7
 infinitive_form: auti
 present3_slice: auja
 past3_slice: avo
@@ -32820,14 +33184,19 @@ verb_array[1]:  verkšlẽna
 verb_array[2]:  verkšlẽno
 LEMMA (verk) and NUGGET -IN- (šlen)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: šlenti
-present3_slice: šlẽna
-past3_slice: šlẽno
-file_name: šlenti_šlẽna_šlẽno
+This ends in -enti
+old matching_lemma: verk
+trying to extend the matching_lemma
+auti is here: 6
+length of verkšlena: 9, minus accents verkšlena 9
+length of verkšleno: 9, minus accents verkšleno 9
+infinitive_form: enti
+present3_slice: ena
+past3_slice: eno
+file_name: enti_ena_eno
 
 **************************************
 
-No file for this pattern (verkšlenti), creating a new one...
 infinitive_verb: verkti
 stripped_verb: verk
 matching_lemma: verk
@@ -32906,14 +33275,19 @@ verb_array[1]:  vertėjáuja
 verb_array[2]:  vertėjãvo
 LEMMA (vert) and NUGGET -IN- (ėjau)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: ėjauti
-present3_slice: ėjauja
-past3_slice: ėjavo
-file_name: ėjauti_ėjauja_ėjavo
+This ends in -auti
+old matching_lemma: vert
+trying to extend the matching_lemma
+auti is here: 6
+length of vertėjáuja: 10, minus accents vertėjauja 10
+length of vertėjãvo: 9, minus accents vertėjavo 9
+infinitive_form: auti
+present3_slice: auja
+past3_slice: avo
+file_name: auti_auja_avo
 
 **************************************
 
-No file for this pattern (vertėjauti), creating a new one...
 infinitive_verb: vertėti
 stripped_verb: vertė
 matching_lemma: vert
@@ -33164,7 +33538,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: vid
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -33289,14 +33663,19 @@ verb_array[1]:  viešpatáuja
 verb_array[2]:  viešpatãvo
 LEMMA (vieš) and NUGGET -IN- (patau)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: patauti
-present3_slice: patauja
-past3_slice: patavo
-file_name: patauti_patauja_patavo
+This ends in -auti
+old matching_lemma: vieš
+trying to extend the matching_lemma
+auti is here: 7
+length of viešpatáuja: 11, minus accents viešpatauja 11
+length of viešpatãvo: 10, minus accents viešpatavo 10
+infinitive_form: auti
+present3_slice: auja
+past3_slice: avo
+file_name: auti_auja_avo
 
 **************************************
 
-No file for this pattern (viešpatauti), creating a new one...
 infinitive_verb: vilioti
 stripped_verb: vilio
 matching_lemma: vil
@@ -33455,7 +33834,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: ving
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -33507,11 +33886,11 @@ verb_array[1]:  vìrkdo
 verb_array[2]:  vìrkdė
 LEMMA (virk) and NUGGET -IN- (dy)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: virk
 trying to extend the matching_lemma
 yti is here: 5
-length of vìrkdo: 6, minus accents virkdo 6
+length of virkdo: 6, minus accents virkdo 6
 infinitive_form: yti
 present3_slice: o
 past3_slice: ė
@@ -33725,7 +34104,7 @@ verb_array[1]:  výkdo
 verb_array[2]:  výkdė
 LEMMA (vyk) and NUGGET -IN- (dy)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: vyk
 trying to extend the matching_lemma
 yti is here: 4
@@ -33827,6 +34206,12 @@ verb_array[1]:  výrauja
 verb_array[2]:  vyrãvo
 LEMMA (vyr) and NUGGET -IN- (au)
 CLASSIFICATION: lemma_nugget_in
+This ends in -auti
+old matching_lemma: vyr
+trying to extend the matching_lemma
+auti is here: 3
+length of výrauja: 7, minus accents vyrauja 7
+length of vyrãvo: 6, minus accents vyravo 6
 infinitive_form: auti
 present3_slice: auja
 past3_slice: avo
@@ -33834,24 +34219,6 @@ file_name: auti_auja_avo
 
 **************************************
 
-infinitive_verb: vysta
-stripped_verb: vyrau
-matching_lemma: vyr
-nugget: au
-nugget_in: true
-verb_array[0]: vysta
-verb_array[1]:  výsta
-verb_array[2]:  výto
-LEMMA (vyr) and NUGGET -IN- (au)
-CLASSIFICATION: lemma_nugget_in
-infinitive_form: ta
-present3_slice: ta
-past3_slice: o
-file_name: ta_ta_o
-
-**************************************
-
-No file for this pattern (vysta), creating a new one...
 infinitive_verb: vysti
 stripped_verb: vys
 matching_lemma: vys
@@ -33879,7 +34246,7 @@ verb_array[1]:  výsto
 verb_array[2]:  výstė
 LEMMA (vys) and NUGGET -IN- (ty)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: vys
 trying to extend the matching_lemma
 yti is here: 4
@@ -33901,7 +34268,7 @@ verb_array[1]:  výstosi
 verb_array[2]:  výstėsi
 LEMMA (vys) and NUGGET -IN- (ty)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: vys
 trying to extend the matching_lemma
 yti is here: 4
@@ -33954,13 +34321,13 @@ nugget: al
 nugget_in: true
 verb_array[0]: žabalti
 verb_array[1]:  žabąla
-verb_array[2]:  žalabo
+verb_array[2]:  žabalo
 LEMMA (žab) and NUGGET -IN- (al)
 CLASSIFICATION: lemma_nugget_in
 infinitive_form: alti
 present3_slice: ąla
-past3_slice: abo
-file_name: alti_ąla_abo
+past3_slice: alo
+file_name: alti_ąla_alo
 
 **************************************
 
@@ -34037,7 +34404,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: žaib
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -34075,7 +34442,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: žaižar
 trying to extend the matching_lemma
-ėti is here: 6
+uoti is here: 6
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -34134,7 +34501,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: žal
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -34326,13 +34693,12 @@ old matching_lemma: žėr
 trying to extend the matching_lemma
 ėti is here: 3
 infinitive_form: ėti
-present3_slice: ri
+present3_slice: i
 past3_slice: ėjo
-file_name: ėti_ri_ėjo
+file_name: ėti_i_ėjo
 
 **************************************
 
-No file for this pattern (žėrėti), creating a new one...
 infinitive_verb: žerti
 stripped_verb: žer
 matching_lemma: žer
@@ -34477,7 +34843,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: žing
 trying to extend the matching_lemma
-ėti is here: 7
+uoti is here: 7
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -34582,7 +34948,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: žior
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -34600,6 +34966,12 @@ verb_array[1]:  žióvauja
 verb_array[2]:  žióvavo
 LEMMA (žiov) and NUGGET -IN- (au)
 CLASSIFICATION: lemma_nugget_in
+This ends in -auti
+old matching_lemma: žiov
+trying to extend the matching_lemma
+auti is here: 4
+length of žióvauja: 8, minus accents žiovauja 8
+length of žióvavo: 7, minus accents žiovavo 7
 infinitive_form: auti
 present3_slice: auja
 past3_slice: avo
@@ -34769,7 +35141,7 @@ verb_array[1]:  žlùgdo
 verb_array[2]:  žlùgdė
 LEMMA (žlug) and NUGGET -IN- (dy)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: žlug
 trying to extend the matching_lemma
 yti is here: 5
@@ -34828,7 +35200,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: žodž
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uoti
 present3_slice: uoja
 past3_slice: avo
@@ -34849,7 +35221,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: žodž
 trying to extend the matching_lemma
-ėti is here: 5
+uoti is here: 5
 infinitive_form: uotis
 present3_slice: uojasi
 past3_slice: avosi
@@ -34870,7 +35242,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: žonglir
 trying to extend the matching_lemma
-ėti is here: 7
+uoti is here: 7
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo
@@ -34888,7 +35260,7 @@ verb_array[1]:  žùdo
 verb_array[2]:  žùdė
 LEMMA (žu) and NUGGET -IN- (dy)
 CLASSIFICATION: lemma_nugget_in
-This ends in -oti but not -uoti
+This ends in -yti
 old matching_lemma: žu
 trying to extend the matching_lemma
 yti is here: 3
@@ -34927,6 +35299,12 @@ verb_array[1]:  žuváuja
 verb_array[2]:  žuvãvo
 LEMMA (žuv) and NUGGET -IN- (au)
 CLASSIFICATION: lemma_nugget_in
+This ends in -auti
+old matching_lemma: žuv
+trying to extend the matching_lemma
+auti is here: 3
+length of žuváuja: 7, minus accents žuvauja 7
+length of žuvãvo: 6, minus accents žuvavo 6
 infinitive_form: auti
 present3_slice: auja
 past3_slice: avo
@@ -34968,24 +35346,23 @@ file_name: ytis_osi_ėsi
 
 **************************************
 
-infinitive_verb: žvangina
-stripped_verb: žvalgy
-matching_lemma: žvalg
-nugget: y
+infinitive_verb: žvanginti
+stripped_verb: žvangin
+matching_lemma: žvang
+nugget: in
 nugget_in: true
-verb_array[0]: žvangina
+verb_array[0]: žvanginti
 verb_array[1]:  žvángina
 verb_array[2]:  žvángino
-LEMMA (žvalg) and NUGGET -IN- (y)
+LEMMA (žvang) and NUGGET -IN- (in)
 CLASSIFICATION: lemma_nugget_in
-infinitive_form: ina
+infinitive_form: inti
 present3_slice: ina
 past3_slice: ino
-file_name: ina_ina_ino
+file_name: inti_ina_ino
 
 **************************************
 
-No file for this pattern (žvangina), creating a new one...
 infinitive_verb: žvarbėti
 stripped_verb: žvarbė
 matching_lemma: žvarb
@@ -35186,6 +35563,12 @@ verb_array[1]:  žvýgauja
 verb_array[2]:  žvýgavo
 LEMMA (žvyg) and NUGGET -IN- (au)
 CLASSIFICATION: lemma_nugget_in
+This ends in -auti
+old matching_lemma: žvyg
+trying to extend the matching_lemma
+auti is here: 4
+length of žvýgauja: 8, minus accents žvygauja 8
+length of žvýgavo: 7, minus accents žvygavo 7
 infinitive_form: auti
 present3_slice: auja
 past3_slice: avo
@@ -35269,7 +35652,7 @@ CLASSIFICATION: lemma_nugget_in
 This ends in -uoti
 old matching_lemma: žyg
 trying to extend the matching_lemma
-ėti is here: 4
+uoti is here: 4
 infinitive_form: uoti
 present3_slice: úoja
 past3_slice: ãvo

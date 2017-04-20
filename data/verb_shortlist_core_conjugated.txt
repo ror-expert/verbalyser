@@ -54,7 +54,7 @@ baidyti, baĩdo, baĩdė
 baidytis, baĩdosi, baĩdėsi
 baigti, baĩgia, baĩgė
 baigtis, baĩgiasi, baĩgėsi
-baiminti, báimina, báiminosi
+baiminti, báimina, báimino
 baimintis, báiminasi, báiminosi
 baisėti, baisėja, baisėjo
 baisėtis, baĩsisi, baisė́josi
@@ -401,7 +401,7 @@ gniuždyti, gniùždo, gniùždė
 gniužti, gniužta, gniùžo
 gnybtelėti, gnybtelėja, gnýbtelėjo
 gnybti, gnýbia, gnybė
-gobtis, gniužta, gniùžo
+gobtis, gobtiasi, gobtėsi
 godėti, gõdi, godėjo
 grabinėti, grabinė́ja, grabinė́jo
 graibyti, graĩbo, graĩbė
@@ -552,7 +552,7 @@ karsti, kar̃sta, kar̃to
 karstytis, kárstosi, kárstėsi
 karti, kãria, kórė
 kartoti, kartója, kartójo
-kartotis, kartója, kartójo
+kartotis, kartójasi, kartójosi
 karūnuoti, karūnúoja, karūnãvo
 kasinėti, kasinė́ja, kasinė́jo
 kasti, kasà, kãsė
@@ -1225,7 +1225,7 @@ saugotis, saugojasi, sáugojosi
 šaukti, šaũkia, šaũkė
 šauktis, šaũkiasi, šaũkėsi
 šauti, šáuna, šóvė
-savinti, savinti, sãvina
+savinti, sãvina, sãvino
 sėdėti, sė́di, sėdė́jo
 segti, sẽga, sẽgė
 segtis, sẽgasi, sẽgėsi
@@ -1557,7 +1557,6 @@ tekti, teñka, tẽko
 telkti, tel̃kia, tel̃kė
 telktis, tel̃kiasi, tel̃kėsi
 temdyti, témdo, témdė
-tempt, tempì, tem̃pė
 tempti, tem̃pia, tem̃pė
 temti, témsta, temo
 tenkinti, ténkina, ténkino
@@ -1565,8 +1564,7 @@ tenkintis, ténkina, ténkino
 tepti, tẽpa, tẽpė
 teptis, tẽpasi, tẽpėsi
 teršti, ter̃šia, ter̃šė
-tęsti, ter̃šia, ter̃šė
-tėšti, tešia, tėšė
+tęšti, tešia, tėšė
 tęstis, tę̃siasi, tę̃sėsi
 testuoti, testuoja, testavo
 težti, tę̃žta, tẽžo
@@ -1594,7 +1592,6 @@ tirpdyti, tir̃pdo, tir̃pdė
 tirpti, tir̃psta, tir̃po
 tirti, tìria, tỹrė
 tižti, tỹžta, tìžo
-tmepti, tem̃pia, temptė
 tobulėti, tobulė́ja, tobulė́jo
 tobulinti, tóbulina, tóbulino
 tolti, tõlsta, tõlo
@@ -1714,7 +1711,6 @@ vargti, var̃gsta, var̃go
 varinėti, varinė́ja, varinė́jo
 varstyti, vársto, várstė
 vartoti, vartója, vartójo
-vartototi, vartója, vartójo
 vartyti, var̃to, var̃tė
 vartytis, var̃tosi, var̃tėsi
 varvėti, var̃va, varvė́jo
@@ -1798,7 +1794,6 @@ vynioti, vyniója, vyniójo
 vyniotis, vyniójasi, vyniójosi
 vyptelėti, vyptelėja, výptelėjo
 vyrauti, výrauja, vyrãvo
-vysta, výsta, výto
 vysti, výsta, výto
 vystyti, výsto, výstė
 vystytis, výstosi, výstėsi
@@ -1857,7 +1852,7 @@ zirzti, zir̃zia, zir̃zė
 žuvauti, žuváuja, žuvãvo
 žvalgyti, žval̃go, žval̃gė
 žvalgytis, žval̃gosi, žval̃gėsi
-žvangina, žvángina, žvángino
+žvanginti, žvángina, žvángino
 žvarbėti, žvarbà, žvarbėjo
 žvarbti, žvar̃bsta, žvar̃bo
 žvejoti, žvejója, žvejójo

@@ -200,8 +200,8 @@ module Verbalyser
 
         @new_matching_lemma = @infinitive_form.index("oti")
 
-        @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ì", "i")
-        @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ì", "i")
+        @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ì", "i").sub("r̃", "r")
+        @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ì", "i").sub("r̃", "r")
 
         puts "This ends in -oti but not -uoti"
         puts "old matching_lemma: #{@matching_lemma}"

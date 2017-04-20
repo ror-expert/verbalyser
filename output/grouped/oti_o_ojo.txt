@@ -6,6 +6,7 @@ klūpoti, klūpo, klūpojo
 kyšoti, kýšo, kýšojo
 plyšoti, plýšo, plýšojo
 spoksoti, spõkso, spoksójo
+stirksoti, stirkso, stirksójo
 stypsoti, stỹpso, stypsójo
 styroti, stýro, stýrojo
 tūnoti, tūno, tūnojo
