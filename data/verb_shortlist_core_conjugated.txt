@@ -766,7 +766,7 @@ lauktis, láukiasi, láukėsi
 laužti, láužia, láužė
 laužyti, láužo, láužė
 lavinti, lavinà, lãvino
-lavintis, lãvinasi, lãvino
+lavintis, lãvinasi, lãvinosi
 lažintis, lãžinasi, lãžinosi
 leisti, léidžia, léido
 leistis, léidžiasi, léidosi
@@ -1258,7 +1258,6 @@ sielotis, síelojasi, síelojosi
 sielvartauti, sielvartáuja, sielvartãvo
 šieptis, šiepasi, šiẽpėsi
 sieti, síeja, síejo
-šieti, šiepasi, šiẽpėsi
 sietis, síejasi, síejosi
 sijoti, sijója, sijójo
 šikti, šika, šiko

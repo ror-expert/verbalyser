@@ -160,8 +160,8 @@ module Verbalyser
         puts "trying to extend the matching_lemma"
         puts "ėti is here: #{@new_matching_lemma}"
 
-        @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("m̃", "m").sub("r̃", "r").sub("ū̃", "ū").sub("ì", "i").sub("ė́", "ė").sub("ì", "i").sub("ė̃", "ė")
-        @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("m̃", "m").sub("r̃", "r").sub("ū̃", "ū").sub("ì", "i").sub("ė́", "ė").sub("ì", "i").sub("ė̃", "ė")
+        @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("m̃", "m").sub("r̃", "r").sub("ū̃", "ū").sub("ì", "i").sub("ė́", "ė").sub("ì", "i").sub("ė̃", "ė").sub("l̃", "l")
+        @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("m̃", "m").sub("r̃", "r").sub("ū̃", "ū").sub("ì", "i").sub("ė́", "ė").sub("ì", "i").sub("ė̃", "ė").sub("l̃", "l")
 
 
         @infinitive_slice = @infinitive_form[@new_matching_lemma..-1]
@@ -207,8 +207,8 @@ module Verbalyser
         @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ì", "i")
 
         @infinitive_slice = @infinitive_form[@new_matching_lemma..-1]
-        @present3_slice = @present3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
-        @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
+        @present3_slice = @present3.removeaccents.sub("\u0303", "")[((@new_matching_lemma)-1)..-1]
+        @past3_slice = @past3.removeaccents.sub("\u0303", "")[((@new_matching_lemma)-1)..-1]
         @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
 
       when @infinitive_slice.match?(/\S*auti*/)
@@ -357,8 +357,8 @@ module Verbalyser
       when @infinitive_slice.match?(/\S*isti*/)
 
         @new_matching_lemma = @infinitive_form.index("isti")
-        @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
-        @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
+        @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e").sub("é", "e")
+        @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e").sub("é", "e")
 
         @infinitive_slice = @infinitive_form[@new_matching_lemma..-1]
         @present3_slice = @present3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]

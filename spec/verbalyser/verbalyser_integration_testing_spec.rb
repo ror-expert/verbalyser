@@ -45,6 +45,11 @@ describe Verbalyser::EndingsGrouper do
 
   # Added for further refinement
   let (:auti) {"ti_na_ė"}
+  let (:ilgėtis) {"ėtis_isi_ėjosi"}
+  let (:leistis) {"tis_žiasi_osi"}
+  let (:lanktytis) {"ytis_osi_ėsi"}
+
+
 
   subject {Verbalyser::EndingsGrouper.new}
 
@@ -78,9 +83,9 @@ describe Verbalyser::EndingsGrouper do
     #   expect(subject.create_classificatory_file_name("akinti")).to eq(akinti)
     # end
     #
-    it "outputs a file name from an infinitive_verb input" do
-      expect(subject.create_classificatory_file_name("cypauti")).to eq(cypauti)
-    end
+    # it "outputs a file name from an infinitive_verb input" do
+    #   expect(subject.create_classificatory_file_name("cypauti")).to eq(cypauti)
+    # end
     #
     # it "outputs a file name from an infinitive_verb input" do
     #   expect(subject.create_classificatory_file_name("cypti")).to eq(cypti)
@@ -158,8 +163,20 @@ describe Verbalyser::EndingsGrouper do
     #   expect(subject.create_classificatory_file_name("inspiruoti")).to eq(inspiruoti)
     # end
 
+    # it "outputs a file name from an infinitive_verb input" do
+    #   expect(subject.create_classificatory_file_name("auti")).to eq(auti)
+    # end
+    #
+    # it "outputs a file name from an infinitive_verb input" do
+    #   expect(subject.create_classificatory_file_name("ilgėtis")).to eq(ilgėtis)
+    # end
+
+    # it "outputs a file name from an infinitive_verb input" do
+    #   expect(subject.create_classificatory_file_name("leistis")).to eq(leistis)
+    # end
+
     it "outputs a file name from an infinitive_verb input" do
-      expect(subject.create_classificatory_file_name("auti")).to eq(auti)
+      expect(subject.create_classificatory_file_name("lanktytis")).to eq(lanktytis)
     end
 
   end
