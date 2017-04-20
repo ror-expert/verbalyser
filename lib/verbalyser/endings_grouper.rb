@@ -227,8 +227,8 @@ module Verbalyser
         puts "length of #{@present3}: #{@present3.length}, minus accents #{@present3.removeaccents} #{@present3.removeaccents.length}"
 
         @infinitive_slice = @infinitive_form[@new_matching_lemma..-1]
-        @present3_slice = @present3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
-        @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
+        @present3_slice = @present3.removeaccents.sub("\u0303", "")[(@new_matching_lemma-1)..-1]
+        @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma-1)..-1]
         @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
 
       when @infinitive_slice.match?(/\S*auti*/)

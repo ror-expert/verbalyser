@@ -164,7 +164,7 @@ dalyvauti, dalyváuja, dalyvãvo
 dangstytis, dañgstosi, dañgstėsi
 darbuotis, darbúojasi, darbãvosi
 daryti, dãro, dãrė
-darytis, dãro, dãrė
+darytis, dãrosi, dãrėsi
 daugėti, daugė́ja, daugė́jo
 dauginti, dáugina, daũgino
 daugintis, dáuginasi, dáuginosi
@@ -173,7 +173,7 @@ daužti, daũžia, daũžė
 daužyti, daũžo, daũžė
 davinėti, davinė́ja, davinė́jo
 dažyti, dãžo, dãžė
-dažytis, dãžo, dãžė
+dažytis, dãžosi, dãžėsi
 deaktivuoti, deaktyvuoja, deaktyvavo
 debiutuoti, deaktyvuoja, deaktyvavo
 dedikuoti, dedikúoja, dedikãvo
@@ -549,7 +549,7 @@ karščiuotis, karščiúojasi, karčiavosi
 karšinti, káršina, káršino
 karšti, káršina, káršino
 karsti, kar̃sta, kar̃to
-karstytis, kárstosi, kárstosi
+karstytis, kárstosi, kárstėsi
 karti, kãria, kórė
 kartoti, kartója, kartójo
 kartotis, kartója, kartójo
@@ -559,7 +559,7 @@ kasti, kasà, kãsė
 kąsti, kãso, kãsė
 kastis, kãsasi, kãsėsi
 kasyti, kãso, kãsė
-kasytis, kãso, kãsė
+kasytis, kãsosi, kãsėsi
 kaukti, kaũkia, kaũkė
 kaulėti, kaulė́ja, kaulėjo
 kaupti, kaũpia, kaũpė
@@ -688,7 +688,7 @@ krapštyti, krãpšto, krãpštė
 kratyti, krãto, krãtė
 kratytis, krãtosi, krãtėsi
 kraujuoti, kraujúoja, kraujãvo
-kraustyti, kráusto, kráustėsi
+kraustyti, kráusto, kráustė
 kraustytis, kráustosi, kráustėsi
 krauti, kráuna, króvė
 krautis, kráunasi, króvėsi
@@ -750,7 +750,7 @@ laistyti, láisto, láistė
 laisvėti, laisvė́ja, laisvė́jo
 laisvinti, láisvina, láisvino
 laižyti, laĩžo, laĩžė
-laižytis, laĩžo, laĩžė
+laižytis, laĩžosi, laĩžėsi
 lakioti, lakiója, lakiójo
 lakstyti, lãksto, lãkstė
 lamdyti, lámdo, lámdė
@@ -1030,7 +1030,7 @@ plėsti, plẽčia, plė̃tė
 plėšti, plẽška, pleškė́jo
 plėstis, plẽčiasi, plė̃tėsi
 plėšyti, plė́šo, plė́šė
-plėšytis, plė́šo, plė́šė
+plėšytis, plė́šosi, plė́šėsi
 plėtoti, plėtója, plėtójo
 pleventi, plevẽna, plevẽno
 plevėsuoti, plevėsúoja, plevėsãvo
@@ -1273,7 +1273,7 @@ sirgti, ser̃ga, sir̃go
 siūbtelėti, siūbtelėja, siū́btelėjo
 siūbtelti, siū́bteli, siū́btelėjo
 siūlyti, siū́lo, siū́lė
-siūlytis, siū́lo, siū́lė
+siūlytis, siū́losi, siū́lėsi
 siurbti, siur̃bia, siur̃bė
 šiurkšti, šiurkščià, šiurkštė
 siųsti, siuñčia, nùsiuntė
@@ -1349,7 +1349,7 @@ slankinti, slankina, slankino
 slankioti, slánkioja, slánkiojo
 šlapinti, šlãpina, šlãpino
 šlapintis, šlãpinasi, šlãpinosi
-slapstyti, slãpstosi, slãpstėsi
+slapstytis, slãpstosi, slãpstėsi
 šlapti, šlam̃pa, šlãpo
 slaugyti, slaũgo, slaũgė
 slėgti, slẽgia, slė̃gė
@@ -1438,7 +1438,7 @@ stabdyti, stãbdo, stãbdė
 stambėti, stambė́ja, stambė́jo
 stambinti, stam̃bina, stam̃bino
 statyti, stãto, stãtė
-statytis, stãto, stãtė
+statytis, stãtosi, stãtėsi
 staugti, stáugia, stáugė
 stebėti, stẽbi, stebė́jo
 stebėtis, stẽbisi, stebė́josi

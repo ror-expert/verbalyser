@@ -43,6 +43,7 @@ diagnozuoti, diagnozúoja, diagnozãvo
 diktuoti, diktúoja, diktãvo
 diriguoti, dirigúoja, dirigãvo
 diskutuoti, diskutúoja, diskutãvo
+dominuoti, dominúoja, dominãvo
 dramatizuoti, dramatizúoja, dramatizãvo
 dreifuoti, dreifúoja, dreifãvo
 egzistuoti, egzistúoja, egzistãvo
@@ -122,6 +123,7 @@ kritikuoti, kritikúoja, kritikãvo
 krypuoti, krypúoja, krypãvo
 kryžiuoti, kryžiúoja, kryžiãvo
 kursuoti, kursúoja, kursãvo
+kvalifikuoti, kvalifikúoja, kvalifikãvo
 kvėpuoti, kvėpúoja, kvėpãvo
 laiduoti, laidúoja, laidãvo
 lignuoti, lingúoja, lingãvo
@@ -179,6 +181,7 @@ rekonstruoti, rekonstrúoja, rekonstrãvo
 remontuoti, remontúoja, remontãvo
 repetuoti, repetúoja, repetãvo
 restauruoti, restaurúoja, restaurãvo
+revizuoti, revizúoja, revizãvo
 rezervuoti, rezervúoja, rezervãvo
 režisuoti, režisúoja, režisãvo
 rikiuoti, rikiúoja, rikiãvo
@@ -217,6 +220,7 @@ transportuoti, transportúoja, transportãvo
 traumuoti, traumúoja, traumãvo
 treniruoti, trenirúoja, trenirãvo
 trimituoti, trimitúoja, trimitãvo
+triumfuoti, triumfúoja, triumfãvo
 utilizuoti, utilizúoja, utilizavo
 vainikuoti, vainikúoja, vainikãvo
 vairuoti, vairúoja, vairãvo

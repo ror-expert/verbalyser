@@ -13,6 +13,7 @@ ožiuotis, ožiúojasi, ožiãvosi
 puikuotis, puikúojasi, puikãvosi
 registruotis, registrúojasi, registrãvosi
 reklamuotis, reklamúojasi, reklamãvosi
+rezervuotis, rezervúojasi, rezervãvosi
 rikiuotis, rikiúojasi, rikiãvosi
 rimuotis, rimúojasi, rimavosi
 rokuotis, rokuojasi, rokavosi
@@ -21,4 +22,5 @@ rokuotis, rokuojasi, rokavosi
 švartuotis, švartúojasi, švartãvosi
 svečiuotis, svečiúojasi, svečiãvosi
 treniruotis, trenirúojasi, trenirãvosi
+vaizduotis, vaizdúojasi, vaizdãvosi
 žodžiuotis, žodžiuojasi, žodžiavosi
