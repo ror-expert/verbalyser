@@ -139,7 +139,21 @@ describe Verbalyser::EndingsGrouper do
       expect(subject.create_classificatory_file_name("pildytis")).to eq(pildytis)
     end
 
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("grimzti")).to eq(grimzti)
+    end
 
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("kniaukti")).to eq(kniaukti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("siųsti")).to eq(siųsti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("inspiruoti")).to eq(inspiruoti)
+    end
 
   end
 end
