@@ -1,0 +1,313 @@
+infinitive_verb: adaptuoti
+stripped_verb: adaptuo
+matching_lemma: adapt
+nugget: uo
+nugget_in: 
+verb_array[0]: adaptuoti
+verb_array[1]:  adaptúoja
+verb_array[2]:  adaptãvo
+LEMMA (adapt) and NUGGET (uo)
+CLASSIFICATION: lemma_nugget_general
+NUGGET: uo
+infinitive_form: uoti
+present3_slice: uoja
+past3_slice: avo
+file_name: uoti_uoja_avo
+
+**************************************
+
+.infinitive_verb: adaptuotis
+stripped_verb: adaptuo
+matching_lemma: adapt
+nugget: uo
+nugget_in: 
+verb_array[0]: adaptuotis
+verb_array[1]:  adaptúojasi
+verb_array[2]:  adaptãvosi
+LEMMA (adapt) and NUGGET (uo)
+CLASSIFICATION: lemma_nugget_general
+NUGGET: uo
+infinitive_form: uotis
+present3_slice: uojasi
+past3_slice: avosi
+file_name: uotis_uojasi_avosi
+
+**************************************
+
+.infinitive_verb: badyti
+stripped_verb: bady
+matching_lemma: bad
+nugget: y
+nugget_in: 
+verb_array[0]: badyti
+verb_array[1]:  bãdo
+verb_array[2]:  bãdė
+LEMMA (bad) and NUGGET (y)
+CLASSIFICATION: lemma_nugget_general
+NUGGET: y
+infinitive_form: yti
+present3_slice: o
+past3_slice: ė
+file_name: yti_o_ė
+
+**************************************
+
+.infinitive_verb: rakinti
+stripped_verb: rakin
+matching_lemma: rak
+nugget: in
+nugget_in: true
+verb_array[0]: rakinti
+verb_array[1]:  rakìna
+verb_array[2]:  rakìno
+LEMMA (rak) and NUGGET -IN- (in)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: inti
+present3_slice: ina
+past3_slice: ino
+file_name: inti_ina_ino
+
+**************************************
+
+.infinitive_verb: plaktis
+stripped_verb: plak
+matching_lemma: plak
+nugget: 
+nugget_in: 
+verb_array[0]: plaktis
+verb_array[1]:  plãkasi
+verb_array[2]:  plãkėsi
+LEMMA (plak) only
+CLASSIFICATION: lemma_only
+infinitive_form: tis
+present3_slice: asi
+past3_slice: ėsi
+file_name: tis_asi_ėsi
+
+**************************************
+
+.infinitive_verb: adyti
+stripped_verb: ady
+matching_lemma: ad
+nugget: y
+nugget_in: 
+verb_array[0]: adyti
+verb_array[1]:  ãdo
+verb_array[2]:  ãdė
+LEMMA (ad) and NUGGET (y)
+CLASSIFICATION: lemma_nugget_general
+NUGGET: y
+infinitive_form: yti
+present3_slice: o
+past3_slice: ė
+file_name: yti_o_ė
+
+**************************************
+
+.infinitive_verb: akinti
+stripped_verb: akin
+matching_lemma: ak
+nugget: in
+nugget_in: true
+verb_array[0]: akinti
+verb_array[1]:  ãkina
+verb_array[2]:  ãkino
+LEMMA (ak) and NUGGET -IN- (in)
+CLASSIFICATION: lemma_nugget_in
+infinitive_form: inti
+present3_slice: ina
+past3_slice: ino
+file_name: inti_ina_ino
+
+**************************************
+
+.infinitive_verb: cypauti
+stripped_verb: cypau
+matching_lemma: cyp
+nugget: au
+nugget_in: 
+verb_array[0]: cypauti
+verb_array[1]:  cýpauja
+verb_array[2]:  cýpavo
+LEMMA (cyp) and NUGGET (au)
+CLASSIFICATION: lemma_nugget_general
+NUGGET: au
+infinitive_form: auti
+present3_slice: auja
+past3_slice: avo
+file_name: auti_auja_avo
+
+**************************************
+
+.infinitive_verb: cypti
+stripped_verb: cyp
+matching_lemma: cyp
+nugget: 
+nugget_in: 
+verb_array[0]: cypti
+verb_array[1]:  cỹpia
+verb_array[2]:  cỹpė
+LEMMA (cyp) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: ia
+past3_slice: ė
+file_name: ti_ia_ė
+
+**************************************
+
+.infinitive_verb: flirtuoti
+stripped_verb: flirtuo
+matching_lemma: flirt
+nugget: uo
+nugget_in: 
+verb_array[0]: flirtuoti
+verb_array[1]:  flirtúoja
+verb_array[2]:  flirtãvo
+LEMMA (flirt) and NUGGET (uo)
+CLASSIFICATION: lemma_nugget_general
+NUGGET: uo
+infinitive_form: uoti
+present3_slice: uoja
+past3_slice: avo
+file_name: uoti_uoja_avo
+
+**************************************
+
+.infinitive_verb: pisti
+stripped_verb: pis
+matching_lemma: pis
+nugget: 
+nugget_in: 
+verb_array[0]: pisti
+verb_array[1]:  pisa
+verb_array[2]:  piso
+LEMMA (pis) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: a
+past3_slice: o
+file_name: ti_a_o
+
+**************************************
+
+.infinitive_verb: žnybti
+stripped_verb: žnyb
+matching_lemma: žnyb
+nugget: 
+nugget_in: 
+verb_array[0]: žnybti
+verb_array[1]:  žnýbia
+verb_array[2]:  žnybė
+LEMMA (žnyb) only
+CLASSIFICATION: lemma_only
+infinitive_form: ti
+present3_slice: ia
+past3_slice: ė
+file_name: ti_ia_ė
+
+**************************************
+
+.infinitive_verb: žvarbėti
+stripped_verb: žvarbė
+matching_lemma: žvarb
+nugget: ė
+nugget_in: 
+verb_array[0]: žvarbėti
+verb_array[1]:  žvarbà
+verb_array[2]:  žvarbėjo
+LEMMA (žvarb) and NUGGET (ė)
+CLASSIFICATION: lemma_nugget_general
+NUGGET: ė
+This ends in -ėti
+old matching_lemma: žvarb
+trying to extend the matching_lemma
+ėti is here: 5
+infinitive_form: ėti
+present3_slice: à
+past3_slice: ėjo
+file_name: ėti_a_ėjo
+
+**************************************
+
+.infinitive_verb: svaidyti
+stripped_verb: svaidy
+matching_lemma: svaid
+nugget: y
+nugget_in: 
+verb_array[0]: svaidyti
+verb_array[1]:  sváido
+verb_array[2]:  sváidė
+LEMMA (svaid) and NUGGET (y)
+CLASSIFICATION: lemma_nugget_general
+NUGGET: y
+infinitive_form: yti
+present3_slice: o
+past3_slice: ė
+file_name: yti_o_ė
+
+**************************************
+
+.infinitive_verb: neabejoti
+stripped_verb: neabejo
+matching_lemma: neabej
+nugget: o
+nugget_in: 
+verb_array[0]: neabejoti
+verb_array[1]:  neabejója
+verb_array[2]:  neabejójo
+LEMMA (neabej) and NUGGET (o)
+CLASSIFICATION: lemma_nugget_general
+NUGGET: o
+infinitive_form: oti
+present3_slice: oja
+past3_slice: ojo
+file_name: oti_oja_ojo
+
+**************************************
+
+.infinitive_verb: nekęsti
+stripped_verb: nekęs
+matching_lemma: nek
+nugget: ęs
+nugget_in: 
+verb_array[0]: nekęsti
+verb_array[1]:  nekeñčia
+verb_array[2]:  nèkentė
+LEMMA (nek) and NUGGET (ęs)
+CLASSIFICATION: lemma_nugget_general
+NUGGET: ęs
+infinitive_form: ęsti
+present3_slice: enčia
+past3_slice: entė
+file_name: ęsti_enčia_entė
+
+**************************************
+
+.infinitive_verb: abuojėti
+stripped_verb: abuojė
+matching_lemma: ab
+nugget: uojė
+nugget_in: 
+verb_array[0]: abuojėti
+verb_array[1]:  abuojėja
+verb_array[2]:  abuojėjo
+LEMMA (ab) and NUGGET (uojė)
+CLASSIFICATION: lemma_nugget_general
+NUGGET: uojė
+This ends in -ėti
+old matching_lemma: ab
+trying to extend the matching_lemma
+ėti is here: 5
+infinitive_form: ėti
+present3_slice: ėja
+past3_slice: ėjo
+file_name: ėti_ėja_ėjo
+
+**************************************
+
+.
+
+Finished in 0.32135 seconds (files took 0.33433 seconds to load)
+17 examples, 0 failures
+

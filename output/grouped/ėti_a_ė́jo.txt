@@ -1,5 +1,6 @@
 audėti, auda, audė́jo
 blizgėti, blìzga, blizgė́jo
+brazdėti, brãzda, brazdė́jo
 burbėti, bùrba, burbė́jo
 byrėti, bỹra, byrė́jo
 čežėti, čẽža, čežė́jo
@@ -21,6 +22,7 @@ mirgėti, mìrga, mirgė́jo
 mokėti, mokà, mokė́jo
 murmėti, mùrma, murmė́jo
 plepėti, plẽpa, plepė́jo
+plėpėti, plẽpa, plepė́jo
 pleškėti, plẽška, pleškė́jo
 pyškėti, pýška, pyškė́jo
 riedėti, riẽda, riedė́jo

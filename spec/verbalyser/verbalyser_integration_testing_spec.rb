@@ -25,6 +25,8 @@ describe Verbalyser::EndingsGrouper do
   let (:neabejoti) {"oti_ója_ójo".removeaccents}
   let (:nekęsti) {"ęsti_eñčia_entė".removeaccents}
   let (:nebepasikiškiakopūsteliauti) {"auti_auja_avo"}
+  let (:abuojėti) {"ėti_ėja_ėjo".removeaccents}
+  let (:kolaboruoti) {"uoti_uoja_avo".removeaccents}
 
   subject {Verbalyser::EndingsGrouper.new}
 
@@ -92,6 +94,14 @@ describe Verbalyser::EndingsGrouper do
 
     it "outputs a file name from an infinitive_verb input" do
       expect(subject.create_classificatory_file_name("nekęsti")).to eq(nekęsti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("abuojėti")).to eq(abuojėti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("kolaboruoti")).to eq(kolaboruoti)
     end
 
   end

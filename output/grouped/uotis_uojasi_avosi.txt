@@ -1,5 +1,7 @@
 adaptuotis, adaptúojasi, adaptãvosi
+bučiuotis, bučiúojasi, bučiãvosi
 darbuotis, darbúojasi, darbãvosi
+didžiuotis, didžiúojasi, didžiãvosi
 fermentuotis, fermentúojasi, fermentãvosi
 formuotis, formúojasi, formãvosi
 integruotis, integrúojasi, integrãvosi
@@ -7,10 +9,16 @@ kamuotis, kamúojasi, kamãvosi
 konsultuotis, konsultúojasi, konsultãvosi
 masturbuotis, masturbuojasi, masturbavosi
 myluotis, mylúojasi, mylavosi
+ožiuotis, ožiúojasi, ožiãvosi
 puikuotis, puikúojasi, puikãvosi
 registruotis, registrúojasi, registrãvosi
 reklamuotis, reklamúojasi, reklamãvosi
+rikiuotis, rikiúojasi, rikiãvosi
 rimuotis, rimúojasi, rimavosi
 rokuotis, rokuojasi, rokavosi
+šnekučiuotis, šnekučiúojasi, šnekučiãvosi
 šukuotis, šukúojasi, šukãvosi
+švartuotis, švartúojasi, švartãvosi
+svečiuotis, svečiúojasi, svečiãvosi
 treniruotis, trenirúojasi, trenirãvosi
+žodžiuotis, žodžiuojasi, žodžiavosi

@@ -14,11 +14,13 @@ module Verbalyser
 
       @lithuanian_vowels = %w[a ã à á ą ą̃ ą̀ ą́ e ẽ è é ę ę̃ ę̀ ę́ ė ė̃  ė̀  ė́  i ĩ ì í į̃  į̀ į į y ỹ ỳ ý o õ ò ó ũ ù ú u ų ų̃ ų̀ ų́ ū ū̃  ū̀  ū́]
 
-      @from_first_vowel = /[aãàáąą̃ą̀ą́eẽeẽèéęę̃ę̀ę́ėė̃ė̀ė́iĩìíį̃į̀įįoõòóyỹỳýũùúuųų̃ų̀ų́ūū̃ū̀ū́](.*)/
+      @from_first_vowel = /[aãàáąą̃ą̀ą́eẽeẽèéęę̃ę̀ę́ėė̃ė̀ė́ė́iĩìíį̃į̀įįoõòóyỹỳýũùúuųų̃ų̀ų́ūū̃ū̀ū́](.*)/
+
+      @accented_vowels = /[ãàáąą̃ą̀ą́ẽeẽèéę̃ę̀ę́ė̀ė́ė́iĩìíį̀įįõòóỹỳýũùúų̃ų̀ų́ūū̃ū̀ū́]/
+
+
 
       @suspect_path = File.open("spec/review/suspicious_filenames_#{Time.now}.txt", "a+")
-
-
 
     end
 
@@ -147,6 +149,38 @@ module Verbalyser
         puts "WARNING: THERE IS A PROBLEM HERE"
       end
 
+      case @infinitive_slice
+      when /\S*ėti/
+
+        @new_matching_lemma = @infinitive_form.index("ėti")
+
+        puts "This ends in -ėti"
+        puts "old matching_lemma: #{@matching_lemma}"
+        puts "trying to extend the matching_lemma"
+        puts "ėti is here: #{@new_matching_lemma}"
+
+        @infinitive_slice = @infinitive_form[@new_matching_lemma..-1]
+        @present3_slice = @present3[@new_matching_lemma..-1]
+        @past3_slice = @past3[@new_matching_lemma..-1]
+        @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
+
+      when /\S*uoti/
+
+        @new_matching_lemma = @infinitive_form.index("uoti")
+
+        puts "This ends in -ėti"
+        puts "old matching_lemma: #{@matching_lemma}"
+        puts "trying to extend the matching_lemma"
+        puts "ėti is here: #{@new_matching_lemma}"
+
+        @infinitive_slice = @infinitive_form[@new_matching_lemma..-1]
+        @present3_slice = @present3[@new_matching_lemma..-1]
+        @past3_slice = @past3[@new_matching_lemma..-1]
+        @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
+
+      end
+
+
       puts "infinitive_form: #{@infinitive_slice}"
       puts "present3_slice: #{@present3_slice}"
       puts "past3_slice: #{@past3_slice}"
@@ -164,8 +198,9 @@ module Verbalyser
 
       output_verb_sequence = "#{@infinitive_form}, #{@present3}, #{@past3}\n"
       testing_output_verb_sequence = "[#{output_verb_sequence}]"
-      file_path = @output_folder + @file_name + ".txt"
-      # suspect_path = File.open("spec/review/suspicious_filenames_#{Time.now}.txt", "a+")
+      file_path = @output_folder + @file_name.removeaccents + ".txt"
+
+
 
       if @reflexivity == false && @infinitive_slice.length > 4
         @suspect_path.write("#{infinitive_verb}, #{@file_name}\n")
