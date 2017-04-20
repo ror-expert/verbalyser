@@ -46,6 +46,7 @@ diskutuoti, diskutúoja, diskutãvo
 dominuoti, dominúoja, dominãvo
 dramatizuoti, dramatizúoja, dramatizãvo
 dreifuoti, dreifúoja, dreifãvo
+dubliuoti, dubliúoja, dubliãvo
 egzistuoti, egzistúoja, egzistãvo
 eiliuoti, eiliúoja, eiliãvo
 eksperimentuoti, eksperimentúoja, eksperimentãvo
@@ -161,6 +162,7 @@ pilkuoti, pilkúoja, pilkãvo
 planiruoti, planiruoja, planiravo
 planuoti, planúoja, planãvo
 plevėsuoti, plevėsúoja, plevėsãvo
+plūduriuoti, plūduriuoja, plūduriavo
 pompuoti, pompuoja, pompavo
 pozuoti, pozúoja, pozãvo
 prenumeruoti, prenumerúoja, prenumerãvo
@@ -207,6 +209,7 @@ spinduliuoti, spinduliúoja, spinduliãvo
 sportuoti, sportúoja, sportãvo
 stoviniuoti, stoviniúoja, stoviniãvo
 streikuoti, streikúoja, streikãvo
+stresuoti, stresuoja, stresavo
 studijuoti, studijúoja, studijãvo
 šturmuoti, šturmúoja, šturmãvo
 šukuoti, šukúoja, šukãvo

@@ -7,6 +7,7 @@ fermentuotis, fermentúojasi, fermentãvosi
 formuotis, formúojasi, formãvosi
 integruotis, integrúojasi, integrãvosi
 kamuotis, kamúojasi, kamãvosi
+karščiuotis, karščiúojasi, karščiavosi
 konsultuotis, konsultúojasi, konsultãvosi
 masturbuotis, masturbuojasi, masturbavosi
 myluotis, mylúojasi, mylavosi
