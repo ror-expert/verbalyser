@@ -17,7 +17,7 @@ davinėti, davinėja, davinėjo
 dėmėti, dėmėja, dėmėjo
 didėti, didėja, didėjo
 dirbinėti, dirbinėja, dirbinėjo
-dirstelėti, dirstelėja, dìrstelėjo
+dirstelėti, dirstelėja, dirstelėjo
 dykinėti, dykinėja, dykinėjo
 eidinėti, eidinėja, eidinėjo
 garsėti, garsėja, garsėjo
@@ -52,14 +52,14 @@ lengvėti, lengvėja, lengvėjo
 leptelėti, leptelėja, lèptelėjo
 lesinėti, lesinėja, lesinėjo
 linksmėti, linksmėja, linksmėjo
-linktelėti, lìnktelėja, lìnktelėjo
+linktelėti, linktelėja, linktelėjo
 lukterėti, lukterėja, lùkterėjo
 lyžtelėti, lýžtelėja, lýžtelėjo
 malonėti, malonėja, malonėjo
 mažėti, mažėja, mažėjo
 mėlynėti, mėlynėja, mėlynėjo
 menkėti, menkėja, menkėjo
-mirktelėti, mirktelėja, mìrktelėjo
+mirktelėti, mirktelėja, mirktelėjo
 mušinėti, mušinėja, mušinėjo
 nagrinėti, nagrinėja, nagrinėjo
 pirkinėti, pirkinėja, pirkinėjo
@@ -99,11 +99,11 @@ strykinėti, strykinėja, strykinėjo
 stryktelėti, stryktelėja, strýktelėjo
 stumtelėti, stumtelėja, stùmtelėjo
 šviesėti, šviesėja, šviesėjo
-švilptelėti, švilptelėja, švìlptelėjo
+švilptelėti, švilptelėja, švilptelėjo
 šyptelėti, šýptelėja, šýptelėjo
 tamsėti, tamsėja, tamsėjo
 tikrėti, tikrėja, tikrėjo
-timptelėti, tìmptelėja, tìmptelėjo
+timptelėti, timptelėja, timptelėjo
 tobulėti, tobulėja, tobulėjo
 trakštelėti, trakštelėja, tràkštelėjo
 trumpėti, trumpėja, trumpėjo
@@ -122,4 +122,4 @@ vyptelėti, vyptelėja, výptelėjo
 žioplinėti, žioplinėja, žioplinėjo
 žiūrinėti, žiūrinėja, žiūrinėjo
 žlegtelėti, žiegtelėja, žiegtelėjo
-žvilgtelėti, žvìlgtelėja, žvìlgtelėjo
+žvilgtelėti, žvilgtelėja, žvilgtelėjo

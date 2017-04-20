@@ -41,13 +41,14 @@ landžioti, lándžioja, lándžiojo
 lašnoti, lašnója, lašnójo
 lekioti, lekiója, lekiójo
 liepsnoti, liepsnója, liepsnójo
-linkčioti, lìnkčioja, lìnkčiojo
+linkčioti, linkčioja, linkčiojo
 lynoti, lynója, lynójo
 mazgoti, mazgója, mazgójo
 medžioti, medžiója, medžiójo
+mėgdžioti, mėgdžioja, mėgdžiojo
 meškerioti, meškeriója, meškeriójo
 mikčioti, mikčiója, mikčiójo
-mirkčioti, mìrkčioja, mìrkčiojo
+mirkčioti, mirkčioja, mirkčiojo
 nakvoti, nakvója, nakvójo
 narplioti, nárplioja, nárpliojo
 naudoti, naudója, naudójo
@@ -72,6 +73,7 @@ sekioti, sekiója, sekiójo
 šėlioti, šėliója, šėliójo
 sijoti, sijója, sijójo
 skeryčioti, skeryčiója, skeryčiójo
+skėsčioti, skėsčioja, skėsčiojo
 slankioti, slánkioja, slánkiojo
 spėlioti, spėliója, spėliójo
 stokoti, stokója, stokójo
@@ -93,4 +95,4 @@ vynioti, vyniója, vyniójo
 žiaukčioti, žiáukčioja, žiáukčiojo
 žiemoti, žiemója, žiemójo
 žvejoti, žvejója, žvejójo
-žvilgčioti, žvìlgčioja, žvìlgčiojo
+žvilgčioti, žvilgčioja, žvilgčiojo

@@ -261,7 +261,6 @@ dulksnoti, dulksnója, dulksnójo
 dumti, dùmia, dū́mė
 dundėti, dùnda, dundė́jo
 duoti, dúoda, dãvė
-duotis, dúoda, dãvė
 durti, dùria, dū́rė
 dūsauti, dū́sauja, dūsãvo
 dusinti, dùsina, dùsino
@@ -379,7 +378,6 @@ ginčyti, giñčija, giñčijo
 ginčytis, giñčijasi, giñčijosi
 ginkluoti, ginklúoja, ginklãvo
 ginti, gìna, gýnė
-gintis, gìna, gýnė
 girdėti, gir̃di, girdė́jo
 girdyti, gir̃do, gìrdė
 girgždėti, girgždà, girgždė́jo
@@ -545,7 +543,7 @@ kandžioti, kándžioja, kándžiojo
 kankinti, kankìna, kankìno
 kankintis, kankìna, kankìno
 kariauti, kariáuja, kariãvo
-karpyti, carp, kar̃pė
+karpyti, kar̃po, kar̃pė
 karščiuoti, karščiúoja, karščiãvo
 karščiuotis, karščiúojasi, karčiavosi
 karšinti, káršina, káršino
@@ -1190,7 +1188,6 @@ rodyti, ròdo, ródė
 rodytis, ródosi, ródėsi
 rokuotis, rokuojasi, rokavosi
 ropoti, ropója, ropójo
-ropoto, ropója, ropójo
 rūdyti, rūdìja, rūdìjo
 rūgti, rū́gsta, rū́go
 rūkti, rū̃ksta, rū̃ko

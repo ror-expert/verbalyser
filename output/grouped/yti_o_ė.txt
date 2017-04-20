@@ -11,6 +11,7 @@ braukyti, braũko, braũkė
 daryti, dãro, dãrė
 daužyti, daũžo, daũžė
 dažyti, dãžo, dãžė
+dėstyti, dėsto, dėstė
 drabstyti, drãbsto, drãbstė
 draskyti, drãsko, drãskė
 ganyti, gãno, gãnė
@@ -28,6 +29,7 @@ guldyti, gul̃do, gul̃dė
 gundyti, gùndo, guñdė
 gydyti, gýdo, gýdė
 kamšyti, kam̃šo, kam̃šė
+karpyti, kar̃po, kar̃pė
 kasyti, kãso, kãsė
 kaustyti, káusto, káustė
 kinkyti, kiñko, kiñkė
@@ -49,7 +51,7 @@ lamdyti, lámdo, lámdė
 lankstyti, lañksto, lañkstė
 lankyti, lañko, lañkė
 laužyti, láužo, láužė
-lipdyti, lìpdo, lìpdė
+lipdyti, lipdo, lipdė
 lopyti, lõpo, lopė̃
 lydyti, lýdo, lýdė
 maigyti, máigo, máigė
@@ -60,7 +62,7 @@ manyti, mãno, mãnė
 mąstyti, mą̃sto, mą̃stė
 maudyti, máudo, máudė
 mėtyti, mė́to, mė́tė
-migdyti, mìgdo, mìgdė
+migdyti, migdo, migdė
 minkyti, mìnko, mìnkė
 mokyti, móko, mókė
 nardyti, nárdo, nárdė
@@ -89,13 +91,13 @@ sakyti, sãko, sãkė
 šaldyti, šáldo, šáldė
 samdyti, sam̃do, sam̃dė
 šaudyti, šáudo, šáudė
-šildyti, šìldo, šìldė
+šildyti, šildo, šildė
 siūlyti, siū́lo, siū́lė
 skabyti, skãbo, skãbė
 skaidyti, skáido, skáidė
 skaityti, skaĩto, skaĩtė
 skaldyti, skáldo, skáldė
-skirstyti, skìrsto, skìrstė
+skirstyti, skirsto, skirstė
 sklaidyti, sklaĩdo, sklaĩdė
 skraidyti, skraĩdo, skraĩdė
 slaugyti, slaũgo, slaũgė
@@ -106,6 +108,7 @@ smaukyti, smaũko, smaũkė
 smukdyti, smùkdo, smùkdė
 stabdyti, stãbdo, stãbdė
 statyti, stãto, stãtė
+sūdyti, sūdo, sūdė
 svaidyti, sváido, sváidė
 švaistyti, švaĩsto, švaĩstė
 svarstyti, svar̃sto, svar̃stė
@@ -117,12 +120,12 @@ taškyti, tãško, tãškė
 tašyti, tãšo, tãšė
 taupyti, taũpo, taũpė
 temdyti, témdo, témdė
-tildyti, tìldo, tìldė
+tildyti, tildo, tildė
 tirpdyti, tir̃pdo, tir̃pdė
 traiškyti, tráiško, tráiškė
 tramdyti, trámdo, trámdė
 trankyti, trañko, trañkė
-trikdyti, trìkdo, trìkdė
+trikdyti, trikdo, trikdė
 trukdyti, trùkdo, trùkdė
 tvardyti, tvárdo, tvárdė
 tvarkyti, tvar̃ko, tvar̃kė
@@ -138,7 +141,7 @@ varstyti, vársto, várstė
 vartyti, var̃to, var̃tė
 varyti, vãro, varė̃
 varžyti, var̃žo, var̃žė
-virkdyti, vìrkdo, vìrkdė
+virkdyti, virkdo, virkdė
 vykdyti, výkdo, výkdė
 vystyti, výsto, výstė
 žindyti, žìndo, žìndė
