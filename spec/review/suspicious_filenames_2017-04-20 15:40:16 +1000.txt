@@ -1,0 +1,14 @@
+dubliouti, iouti_iuoja_iavo
+grizti, rizti_ryzta_rizo
+issigąsti, sigąsti_sigąsta_sigando
+kniaukti, niaukti_niaũkia_niaũkė
+siūbtelti, telti_teli_telėjo
+šnektelti, telti_teli_telėjo
+snerkšti, erkšti_erkščia_irkštė
+šnerpšti, erpšti_erpščia_irpštė
+šniokšti, iokšti_iokščia_iokštė
+šniypšti, iypšti_ypščia_ypštė
+spisti, pisti_pinta_pito
+švokšti, okšti_okščia_okštė
+tebebūti, bebūti_bebūna_bebuvo
+tmepti, mepti_empia_emptė

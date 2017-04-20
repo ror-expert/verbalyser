@@ -7,6 +7,8 @@ budėti, bùdi, budėjo
 gailėti, gaĩli, gailėjo
 galėti, gãli, galėjo
 gedėti, gẽdi, gedėjo
+girdėti, girdi, girdėjo
+glūdėti, glūdi, glūdėjo
 godėti, gõdi, godėjo
 gulėti, gùli, gulėjo
 ilsėti, ìlsi, ilsėjo
@@ -15,6 +17,7 @@ kerėti, kẽri, kerėjo
 kilstelėti, kìlsteli, kìlstelėjo
 klestėti, klẽsti, klestėjo
 kliedėti, klíedi, kliedėjo
+klūpėti, klūpi, klūpėjo
 kranksėti, kránksi, kranksėjo
 krustelėti, krùsteli, krùstelėjo
 kylėti, kỹli, kylėjo
@@ -22,15 +25,18 @@ laimėti, laĩmi, laimėjo
 lindėti, liñdi, lindėjo
 linkėti, liñki, linkėjo
 linksėti, lìnksi, linksėjo
+liūdėti, liūdi, liūdėjo
 lydėti, lỹdi, lydėjo
 lytėti, lýti, lytėjo
 minėti, minì, minėjo
 mirksėti, mìrksi, mirksėjo
+mūvėti, mūvi, mūvėjo
 mylėti, mýli, mylėjo
 nėšėti, nėši, nėšėjo
 norėti, nóri, norėjo
 pypsėti, pýpsi, pypsėjo
 regėti, rẽgi, regėjo
+rūpėti, rūpi, rupėjo
 ryšėti, rỹši, ryšėjo
 sėdėti, sėdi, sėdėjo
 šlepsėti, šlèpsi, šlepsėjo

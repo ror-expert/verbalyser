@@ -159,8 +159,8 @@ module Verbalyser
         puts "trying to extend the matching_lemma"
         puts "ėti is here: #{@new_matching_lemma}"
 
-        @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("m̃", "m")
-        @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("m̃", "m")
+        @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("m̃", "m").sub("r̃", "r").sub("ū̃", "ū")
+        @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("m̃", "m").sub("r̃", "r").sub("ū̃", "ū")
 
 
         @infinitive_slice = @infinitive_form[@new_matching_lemma..-1]
@@ -214,11 +214,6 @@ module Verbalyser
 
         @new_matching_lemma = @infinitive_form.index("yti")
 
-        # if @present3.include?("\u0072\u0303")
-        #   puts "found a word with a tilde r: #{@present3}"
-        #   puts "now without: #{@present3.sub("\u0303", "")}"
-        # end
-
         puts "This ends in -yti"
         puts "old matching_lemma: #{@matching_lemma}"
         puts "trying to extend the matching_lemma"
@@ -236,12 +231,259 @@ module Verbalyser
         @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė")
         @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė")
 
-        # if @present3.include?("\u0072\u0303")
-        #   puts "found a word with a tilde r: #{@present3}"
-        #   puts "now without: #{@present3.sub("\u0303", "")}"
-        # end
-
         puts "This ends in -auti"
+        puts "old matching_lemma: #{@matching_lemma}"
+        puts "trying to extend the matching_lemma"
+        puts "auti is here: #{@new_matching_lemma}"
+        puts "length of #{@present3}: #{@present3.length}, minus accents #{@present3.removeaccents} #{@present3.removeaccents.length}"
+        puts "length of #{@past3}: #{@past3.length}, minus accents #{@past3.removeaccents.sub("ū́", "ū")} #{@past3.removeaccents.sub("ū́", "ū").length}"
+
+        @infinitive_slice = @infinitive_form[@new_matching_lemma..-1]
+        @present3_slice = @present3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
+        @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
+        @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
+
+      when @infinitive_slice.match?(/\S*enti*/)
+
+        @new_matching_lemma = @infinitive_form.index("enti")
+        @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
+        @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
+
+        puts "This ends in -enti"
+        puts "old matching_lemma: #{@matching_lemma}"
+        puts "trying to extend the matching_lemma"
+        puts "auti is here: #{@new_matching_lemma}"
+        puts "length of #{@present3}: #{@present3.length}, minus accents #{@present3.removeaccents} #{@present3.removeaccents.length}"
+        puts "length of #{@past3}: #{@past3.length}, minus accents #{@past3.removeaccents.sub("ū́", "ū")} #{@past3.removeaccents.sub("ū́", "ū").length}"
+
+        @infinitive_slice = @infinitive_form[@new_matching_lemma..-1]
+        @present3_slice = @present3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
+        @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
+        @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
+
+      when @infinitive_slice.match?(/\S*ęsti*/)
+
+        @new_matching_lemma = @infinitive_form.index("ęsti")
+        @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
+        @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
+
+        puts "This ends in -ęsti"
+        puts "old matching_lemma: #{@matching_lemma}"
+        puts "trying to extend the matching_lemma"
+        puts "auti is here: #{@new_matching_lemma}"
+        puts "length of #{@present3}: #{@present3.length}, minus accents #{@present3.removeaccents} #{@present3.removeaccents.length}"
+        puts "length of #{@past3}: #{@past3.length}, minus accents #{@past3.removeaccents.sub("ū́", "ū")} #{@past3.removeaccents.sub("ū́", "ū").length}"
+
+        @infinitive_slice = @infinitive_form[@new_matching_lemma..-1]
+        @present3_slice = @present3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
+        @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
+        @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
+
+      when @infinitive_slice.match?(/\S*urti*/)
+
+        @new_matching_lemma = @infinitive_form.index("urti")
+        @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
+        @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
+
+        puts "This ends in -ęsti"
+        puts "old matching_lemma: #{@matching_lemma}"
+        puts "trying to extend the matching_lemma"
+        puts "auti is here: #{@new_matching_lemma}"
+        puts "length of #{@present3}: #{@present3.length}, minus accents #{@present3.removeaccents} #{@present3.removeaccents.length}"
+        puts "length of #{@past3}: #{@past3.length}, minus accents #{@past3.removeaccents.sub("ū́", "ū")} #{@past3.removeaccents.sub("ū́", "ū").length}"
+
+        @infinitive_slice = @infinitive_form[@new_matching_lemma..-1]
+        @present3_slice = @present3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
+        @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
+        @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
+
+      when @infinitive_slice.match?(/\S*erti*/)
+
+        @new_matching_lemma = @infinitive_form.index("erti")
+        @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
+        @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
+
+        puts "This ends in -ęsti"
+        puts "old matching_lemma: #{@matching_lemma}"
+        puts "trying to extend the matching_lemma"
+        puts "auti is here: #{@new_matching_lemma}"
+        puts "length of #{@present3}: #{@present3.length}, minus accents #{@present3.removeaccents} #{@present3.removeaccents.length}"
+        puts "length of #{@past3}: #{@past3.length}, minus accents #{@past3.removeaccents.sub("ū́", "ū")} #{@past3.removeaccents.sub("ū́", "ū").length}"
+
+        @infinitive_slice = @infinitive_form[@new_matching_lemma..-1]
+        @present3_slice = @present3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
+        @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
+        @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
+
+      when @infinitive_slice.match?(/\S*iuoti*/)
+
+        @new_matching_lemma = @infinitive_form.index("iuoti")
+        @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
+        @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
+
+        puts "This ends in -ęsti"
+        puts "old matching_lemma: #{@matching_lemma}"
+        puts "trying to extend the matching_lemma"
+        puts "auti is here: #{@new_matching_lemma}"
+        puts "length of #{@present3}: #{@present3.length}, minus accents #{@present3.removeaccents} #{@present3.removeaccents.length}"
+        puts "length of #{@past3}: #{@past3.length}, minus accents #{@past3.removeaccents.sub("ū́", "ū")} #{@past3.removeaccents.sub("ū́", "ū").length}"
+
+        @infinitive_slice = @infinitive_form[@new_matching_lemma..-1]
+        @present3_slice = @present3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
+        @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
+        @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
+
+      when @infinitive_slice.match?(/\S*ybti*/)
+
+        @new_matching_lemma = @infinitive_form.index("ybti")
+        @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
+        @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
+
+        puts "This ends in -ęsti"
+        puts "old matching_lemma: #{@matching_lemma}"
+        puts "trying to extend the matching_lemma"
+        puts "auti is here: #{@new_matching_lemma}"
+        puts "length of #{@present3}: #{@present3.length}, minus accents #{@present3.removeaccents} #{@present3.removeaccents.length}"
+        puts "length of #{@past3}: #{@past3.length}, minus accents #{@past3.removeaccents.sub("ū́", "ū")} #{@past3.removeaccents.sub("ū́", "ū").length}"
+
+        @infinitive_slice = @infinitive_form[@new_matching_lemma..-1]
+        @present3_slice = @present3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
+        @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
+        @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
+
+      when @infinitive_slice.match?(/\S*izti*/)
+
+        @new_matching_lemma = @infinitive_form.index("izti")
+        @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
+        @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
+
+        puts "This ends in -ęsti"
+        puts "old matching_lemma: #{@matching_lemma}"
+        puts "trying to extend the matching_lemma"
+        puts "auti is here: #{@new_matching_lemma}"
+        puts "length of #{@present3}: #{@present3.length}, minus accents #{@present3.removeaccents} #{@present3.removeaccents.length}"
+        puts "length of #{@past3}: #{@past3.length}, minus accents #{@past3.removeaccents.sub("ū́", "ū")} #{@past3.removeaccents.sub("ū́", "ū").length}"
+
+        @infinitive_slice = @infinitive_form[@new_matching_lemma..-1]
+        @present3_slice = @present3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
+        @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
+        @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
+
+      when @infinitive_slice.match?(/\S*ąsti*/)
+
+        @new_matching_lemma = @infinitive_form.index("ąsti")
+        @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
+        @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
+
+        puts "This ends in -ęsti"
+        puts "old matching_lemma: #{@matching_lemma}"
+        puts "trying to extend the matching_lemma"
+        puts "auti is here: #{@new_matching_lemma}"
+        puts "length of #{@present3}: #{@present3.length}, minus accents #{@present3.removeaccents} #{@present3.removeaccents.length}"
+        puts "length of #{@past3}: #{@past3.length}, minus accents #{@past3.removeaccents.sub("ū́", "ū")} #{@past3.removeaccents.sub("ū́", "ū").length}"
+
+        @infinitive_slice = @infinitive_form[@new_matching_lemma..-1]
+        @present3_slice = @present3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
+        @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
+        @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
+
+      when @infinitive_slice.match?(/\S*iaukti*/)
+
+        @new_matching_lemma = @infinitive_form.index("iaukti")
+        @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
+        @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
+
+        puts "This ends in -ęsti"
+        puts "old matching_lemma: #{@matching_lemma}"
+        puts "trying to extend the matching_lemma"
+        puts "auti is here: #{@new_matching_lemma}"
+        puts "length of #{@present3}: #{@present3.length}, minus accents #{@present3.removeaccents} #{@present3.removeaccents.length}"
+        puts "length of #{@past3}: #{@past3.length}, minus accents #{@past3.removeaccents.sub("ū́", "ū")} #{@past3.removeaccents.sub("ū́", "ū").length}"
+
+        @infinitive_slice = @infinitive_form[@new_matching_lemma..-1]
+        @present3_slice = @present3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
+        @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
+        @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
+
+      when @infinitive_slice.match?(/\S*elti*/)
+
+        @new_matching_lemma = @infinitive_form.index("elti")
+        @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
+        @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
+
+        puts "This ends in -ęsti"
+        puts "old matching_lemma: #{@matching_lemma}"
+        puts "trying to extend the matching_lemma"
+        puts "auti is here: #{@new_matching_lemma}"
+        puts "length of #{@present3}: #{@present3.length}, minus accents #{@present3.removeaccents} #{@present3.removeaccents.length}"
+        puts "length of #{@past3}: #{@past3.length}, minus accents #{@past3.removeaccents.sub("ū́", "ū")} #{@past3.removeaccents.sub("ū́", "ū").length}"
+
+        @infinitive_slice = @infinitive_form[@new_matching_lemma..-1]
+        @present3_slice = @present3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
+        @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
+        @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
+
+      when @infinitive_slice.match?(/\S*kšti*/)
+
+        @new_matching_lemma = @infinitive_form.index("kšti")
+        @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
+        @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
+
+        puts "This ends in -ęsti"
+        puts "old matching_lemma: #{@matching_lemma}"
+        puts "trying to extend the matching_lemma"
+        puts "auti is here: #{@new_matching_lemma}"
+        puts "length of #{@present3}: #{@present3.length}, minus accents #{@present3.removeaccents} #{@present3.removeaccents.length}"
+        puts "length of #{@past3}: #{@past3.length}, minus accents #{@past3.removeaccents.sub("ū́", "ū")} #{@past3.removeaccents.sub("ū́", "ū").length}"
+
+        @infinitive_slice = @infinitive_form[@new_matching_lemma..-1]
+        @present3_slice = @present3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
+        @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
+        @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
+
+      when @infinitive_slice.match?(/\S*pšti*/)
+
+        @new_matching_lemma = @infinitive_form.index("pšti")
+        @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
+        @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
+
+        puts "This ends in -ęsti"
+        puts "old matching_lemma: #{@matching_lemma}"
+        puts "trying to extend the matching_lemma"
+        puts "auti is here: #{@new_matching_lemma}"
+        puts "length of #{@present3}: #{@present3.length}, minus accents #{@present3.removeaccents} #{@present3.removeaccents.length}"
+        puts "length of #{@past3}: #{@past3.length}, minus accents #{@past3.removeaccents.sub("ū́", "ū")} #{@past3.removeaccents.sub("ū́", "ū").length}"
+
+        @infinitive_slice = @infinitive_form[@new_matching_lemma..-1]
+        @present3_slice = @present3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
+        @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
+        @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
+
+      when @infinitive_slice.match?(/\S*isti*/)
+
+        @new_matching_lemma = @infinitive_form.index("isti")
+        @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
+        @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
+
+        puts "This ends in -ęsti"
+        puts "old matching_lemma: #{@matching_lemma}"
+        puts "trying to extend the matching_lemma"
+        puts "auti is here: #{@new_matching_lemma}"
+        puts "length of #{@present3}: #{@present3.length}, minus accents #{@present3.removeaccents} #{@present3.removeaccents.length}"
+        puts "length of #{@past3}: #{@past3.length}, minus accents #{@past3.removeaccents.sub("ū́", "ū")} #{@past3.removeaccents.sub("ū́", "ū").length}"
+
+        @infinitive_slice = @infinitive_form[@new_matching_lemma..-1]
+        @present3_slice = @present3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
+        @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
+        @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
+
+      when @infinitive_slice.match?(/\S*ūti*/)
+
+        @new_matching_lemma = @infinitive_form.index("ūti")
+        @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
+        @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
+
+        puts "This ends in -ęsti"
         puts "old matching_lemma: #{@matching_lemma}"
         puts "trying to extend the matching_lemma"
         puts "auti is here: #{@new_matching_lemma}"

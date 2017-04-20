@@ -78,7 +78,7 @@ barti, bãra, bãrė
 bartis, bãrasi, bãrėsi
 bauginti, baugìna, baugìno
 bausti, baũdžia, baũdė
-bėginėti, bėginė́ja, bėginė́ja
+bėginėti, bėginė́ja, bėginė́jo
 bėgioti, bėgiója, bėgiójo
 bėgti, bė́ga, bė́go
 bidzenti, bidzena, bidzeno
@@ -146,7 +146,7 @@ byrėti, bỹra, byrė́jo
 cituoti, citúoja, citãvo
 čiulbėti, čiùlba, čiulbė́jo
 čiulpti, čiul̃pia, čiul̃pė
-čiuožinėti, čiuožinė́ja, čiuožinė́ja
+čiuožinėti, čiuožinė́ja, čiuožinė́jo
 čiuožti, čiuõžia, čiuõžė
 čiupti, čiupa, čiùpo
 civilizuoti, civilizuoja, civilizãvo
@@ -168,10 +168,10 @@ darytis, dãro, dãrė
 daugėti, daugė́ja, daugė́jo
 dauginti, dáugina, daũgino
 daugintis, dáuginasi, dáuginosi
-daužinėti, daužinėja, daužinėjosi
+daužinėti, daužinėja, daužinėjo
 daužti, daũžia, daũžė
 daužyti, daũžo, daũžė
-davinėti, davinė́ja, davinė́ja
+davinėti, davinė́ja, davinė́jo
 dažyti, dãžo, dãžė
 dažytis, dãžo, dãžė
 deaktivuoti, deaktyvuoja, deaktyvavo
@@ -411,7 +411,6 @@ graibytis, graĩbosi, graĩbėsi
 gramdyti, grámdo, grámdė
 grasinti, grasìna, grasìno
 graudenti, graudẽna, graudẽno
-graudentis, graudẽna, graudẽno
 graudinti, graudìna, graudìno
 graužti, gráužia, gráužė
 graužtis, gráužiasi, gráužėsi
