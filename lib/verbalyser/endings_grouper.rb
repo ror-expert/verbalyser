@@ -61,10 +61,14 @@ module Verbalyser
         @nugget = "in"
         @nugget_in = true
         @matching_lemma = @matching_lemma[0...-2]
+      elsif @matching_lemma == "au"
+        @matching_lemma = @matching_lemma[0..-1]
+        @nugget = ""
       elsif @matching_lemma[-1,1] == "u"
         @nugget_uo = true
         @matching_lemma = @matching_lemma[0...-1]
         @nugget = "uo"
+
       else
         @nugget = stripped_verb[@matching_lemma.length..-1]
       end
