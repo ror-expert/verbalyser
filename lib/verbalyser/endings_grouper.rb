@@ -123,25 +123,25 @@ module Verbalyser
         puts "CLASSIFICATION: lemma_nugget_general"
         puts "NUGGET: #{@nugget}"
 
-        @infinitive_slice = @infinitive_form.removeaccents.sub("\u0301", "").sub("\u0302", "").sub("\u0303", "").sub("\u1ef9", "y").sub("ū́", "ū")[@matching_lemma.length..-1]
-        @present3_slice = @present3.removeaccents.sub("\u0301", "").sub("\u0302", "").sub("\u0303", "").sub("\u1ef9", "y")[@matching_lemma.length..-1]
-        @past3_slice = @past3.removeaccents.sub("\u0301", "").sub("\u0302", "").sub("\u0303", "").sub("\u1ef9", "y").sub("ū́", "ū")[@matching_lemma.length..-1]
+        @infinitive_slice = @infinitive_form.removeaccents.sub("\u0301", "").sub("\u0302", "").sub("\u0303", "").sub("\u1ef9", "y").sub("ū́", "ū").sub("m̃", "m")[@matching_lemma.length..-1]
+        @present3_slice = @present3.removeaccents.sub("\u0301", "").sub("\u0302", "").sub("\u0303", "").sub("\u1ef9", "y").sub("ū́", "ū").sub("m̃", "m")[@matching_lemma.length..-1]
+        @past3_slice = @past3.removeaccents.sub("\u0301", "").sub("\u0302", "").sub("\u0303", "").sub("\u1ef9", "y").sub("ū́", "ū").sub("m̃", "m")[@matching_lemma.length..-1]
         @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}"
 
       when "lemma_nugget_in"
         puts "CLASSIFICATION: lemma_nugget_in"
 
-        @infinitive_slice = @infinitive_form.removeaccents.sub("\u0301", "").sub("\u0302", "").sub("\u0303", "").sub("\u1ef9", "y").sub("ū́", "ū")[@matching_lemma.length..-1]
-        @present3_slice = @present3.removeaccents.sub("\u0301", "").sub("\u0302", "").sub("\u0303", "").sub("\u1ef9", "y").sub("ū́", "ū")[@matching_lemma.length..-1]
-        @past3_slice = @past3.removeaccents.sub("\u0301", "").sub("\u0302", "").sub("\u0303", "").sub("\u1ef9", "y").sub("ū́", "ū")[@matching_lemma.length..-1]
+        @infinitive_slice = @infinitive_form.removeaccents.sub("\u0301", "").sub("\u0302", "").sub("\u0303", "").sub("\u1ef9", "y").sub("ū́", "ū").sub("m̃", "m")[@matching_lemma.length..-1]
+        @present3_slice = @present3.removeaccents.sub("\u0301", "").sub("\u0302", "").sub("\u0303", "").sub("\u1ef9", "y").sub("ū́", "ū").sub("m̃", "m")[@matching_lemma.length..-1]
+        @past3_slice = @past3.removeaccents.sub("\u0301", "").sub("\u0302", "").sub("\u0303", "").sub("\u1ef9", "y").sub("ū́", "ū").sub("m̃", "m")[@matching_lemma.length..-1]
         @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}"
 
       when "lemma_only"
         puts "CLASSIFICATION: lemma_only"
 
-        @infinitive_slice = @infinitive_form.removeaccents.sub("\u0301", "").sub("\u0302", "").sub("\u0303", "").sub("\u1ef9", "y").sub("ū́", "ū")[@matching_lemma.length..-1]
-        @present3_slice = @present3.removeaccents.sub("\u0301", "").sub("\u0302", "").sub("\u0303", "").sub("\u1ef9", "y").sub("ū́", "ū")[@matching_lemma.length..-1]
-        @past3_slice = @past3.removeaccents.sub("\u0301", "").sub("\u0302", "").sub("\u0303", "").sub("\u1ef9", "y").sub("ū́", "ū")[@matching_lemma.length..-1]
+        @infinitive_slice = @infinitive_form.removeaccents.sub("\u0301", "").sub("\u0302", "").sub("\u0303", "").sub("\u1ef9", "y").sub("ū́", "ū").sub("m̃", "m")[@matching_lemma.length..-1]
+        @present3_slice = @present3.removeaccents.sub("\u0301", "").sub("\u0302", "").sub("\u0303", "").sub("\u1ef9", "y").sub("ū́", "ū").sub("m̃", "m")[@matching_lemma.length..-1]
+        @past3_slice = @past3.removeaccents.sub("\u0301", "").sub("\u0302", "").sub("\u0303", "").sub("\u1ef9", "y").sub("ū́", "ū").sub("m̃", "m")[@matching_lemma.length..-1]
         @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}"
       when "lemma_not_found"
         puts "WARNING: lemma_not_found"
@@ -158,6 +158,10 @@ module Verbalyser
         puts "old matching_lemma: #{@matching_lemma}"
         puts "trying to extend the matching_lemma"
         puts "ėti is here: #{@new_matching_lemma}"
+
+        @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("m̃", "m")
+        @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("m̃", "m")
+
 
         @infinitive_slice = @infinitive_form[@new_matching_lemma..-1]
         @present3_slice = @present3.removeaccents.sub("\u0301", "")[@new_matching_lemma..-1]
@@ -229,7 +233,8 @@ module Verbalyser
       when @infinitive_slice.match?(/\S*auti/)
 
         @new_matching_lemma = @infinitive_form.index("auti")
-        @past3 = @past3.sub("ū́", "ū")
+        @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė")
+        @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė")
 
         # if @present3.include?("\u0072\u0303")
         #   puts "found a word with a tilde r: #{@present3}"

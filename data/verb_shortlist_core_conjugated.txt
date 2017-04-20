@@ -81,7 +81,7 @@ bausti, baũdžia, baũdė
 bėginėti, bėginė́ja, bėginė́ja
 bėgioti, bėgiója, bėgiójo
 bėgti, bė́ga, bė́go
-bidzenti, bizdena, bizdeno
+bidzenti, bidzena, bidzeno
 bijoti, bìjo, bijójo
 birbti, bir̃bia, bir̃bė
 birti, bỹra, bìro
@@ -1473,7 +1473,6 @@ stresuoti, sttresuoja, stresavo
 strikinėti, strikinė́ja, strikinė́jo
 strykinėti, strykinė́ja, strykinė́jo
 stryktelėti, stryktelėja, strýktelėjo
-studentauti, stryktelėja, strýktelėjo
 studijuoti, studijúoja, studijãvo
 stulbinti, stul̃bina, stul̃bino
 stumdytis, stùmdosi, stùmdėsi
@@ -1703,8 +1702,7 @@ vaišinti, vaisìna, vaisino
 vaišintis, vaišìnasi, vaišìnosi
 vaizduoti, vaizdúoja, vaizdãvo
 vaizduotis, vaizdúoja, vaizdãvo
-vakarienauti, vakarieniáuja, vakarieniãvo
-vakarieniauti, vakarienauja, vakarieniãvo
+vakarieniauti, vakarieniáuja, vakarieniãvo
 valdyti, val̃do, val̃dė
 valgydinti, valgydìna, valgydìno
 valgyti, válgo, válgė
@@ -1811,7 +1809,7 @@ vystyti, výsto, výstė
 vystytis, výstosi, výstėsi
 vyti, vejà, vìjo
 vytis, vẽjasi, vìjosi
-žabalti, žabąla, žalabo
+žabalti, žabąla, žabalo
 žadėti, žãda, žadė́jo
 žadinti, žãdina, žãdino
 žagsėti, žàgsi, žagsė́jo
