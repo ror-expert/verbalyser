@@ -2,6 +2,7 @@ adaptuotis, adaptúojasi, adaptãvosi
 bučiuotis, bučiúojasi, bučiãvosi
 darbuotis, darbúojasi, darbãvosi
 didžiuotis, didžiúojasi, didžiãvosi
+evakuotis, evakúojasi, evakãvosi
 fermentuotis, fermentúojasi, fermentãvosi
 formuotis, formúojasi, formãvosi
 integruotis, integrúojasi, integrãvosi

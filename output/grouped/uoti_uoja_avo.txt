@@ -54,6 +54,7 @@ ekzistuoti, ekzistuoja, ekzistavo
 elektrifikuoti, elektrifikuoja, elektrifikãvo
 emigruoti, emigrúoja, emigrãvo
 emuliuoti, emuliuoja, emuliavo
+evakuoti, evakúoja, evakãvo
 fantazuoti, fantazúoja, fantazãvo
 figūruoti, figūrúoja, figūrãvo
 filmuoti, filmúoja, filmãvo
@@ -81,6 +82,7 @@ importuoti, importúoja, importãvo
 improvizuoti, improvizúoja, improvizãvo
 infekuoti, infekúoja, infekavo
 informuoti, informúoja, informãvo
+inspiruoti, inspirúoja, inspirãvo
 integruoti, integrúoja, integrãvo
 interpretuoti, interpretúoja, interpretãvo
 investuoti, investúoja, investãvo
