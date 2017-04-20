@@ -139,6 +139,7 @@ module Verbalyser
         @present3_slice = @present3.removeaccents.sub("\u0301", "").sub("\u0302", "").sub("\u0303", "").sub("\u1ef9", "y").sub("ū́", "ū").sub("m̃", "m")[@matching_lemma.length..-1]
         @past3_slice = @past3.removeaccents.sub("\u0301", "").sub("\u0302", "").sub("\u0303", "").sub("\u1ef9", "y").sub("ū́", "ū").sub("m̃", "m")[@matching_lemma.length..-1]
         @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}"
+
       when "lemma_not_found"
         puts "WARNING: lemma_not_found"
       else
@@ -164,7 +165,7 @@ module Verbalyser
         @past3_slice = @past3.removeaccents.sub("\u0301", "")[@new_matching_lemma..-1]
         @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
 
-      when @infinitive_slice.match?(/\Seti*/)
+      when @infinitive_slice.match?(/\S*eti*/)
 
         @new_matching_lemma = @infinitive_form.index("eti")
 
@@ -174,8 +175,6 @@ module Verbalyser
         @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
 
       when @infinitive_slice.match?(/\S*uoti/)
-
-        puts "UOTI VERB"
 
         @new_matching_lemma = @infinitive_form.index("uoti")
 
@@ -365,6 +364,17 @@ module Verbalyser
       when @infinitive_slice.match?(/\S*yžti*/)
 
         @new_matching_lemma = @infinitive_form.index("yžti")
+        @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
+        @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
+
+        @infinitive_slice = @infinitive_form[@new_matching_lemma..-1]
+        @present3_slice = @present3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
+        @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
+        @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
+
+      when @infinitive_slice.match?(/\S*ųsti*/)
+
+        @new_matching_lemma = @infinitive_form.index("ųsti")
         @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
         @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
 

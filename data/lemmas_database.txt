@@ -4305,7 +4305,6 @@ piksel
 pikto
 pil
 pild
-pildy
 pildž
 piligrim
 piliul
@@ -7023,3 +7022,5 @@ zyl
 žys
 kiškiakopūsteli
 nekantr
+kniauk
+inspir
