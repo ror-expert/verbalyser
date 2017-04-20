@@ -191,17 +191,17 @@ module Verbalyser
 
         @new_matching_lemma = @infinitive_form.index("oti")
 
-        @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ì", "i").sub("r̃", "r")
-        @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ì", "i").sub("r̃", "r")
+        @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ì", "i").sub("r̃", "r").sub("ū̃", "ū")
+        @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ì", "i").sub("r̃", "r").sub("ū̃", "ū")
 
         @infinitive_slice = @infinitive_form[@new_matching_lemma..-1]
         @present3_slice = @present3[@new_matching_lemma..-1]
         @past3_slice = @past3[@new_matching_lemma..-1]
         @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
 
-      when @infinitive_slice.match?(/\S*[bcčdfghjklmnpqrsštvwxzž]yti*/)
+      when @infinitive_slice.match?(/\S*[bcčdfghjklmnpqrsštvwxzž]ytis/)
 
-        @new_matching_lemma = @infinitive_form.index("yti")
+        @new_matching_lemma = @infinitive_form.index("ytis")
 
         @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ì", "i")
         @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ì", "i")
@@ -210,6 +210,19 @@ module Verbalyser
         @present3_slice = @present3.removeaccents.sub("\u0303", "")[((@new_matching_lemma)-1)..-1]
         @past3_slice = @past3.removeaccents.sub("\u0303", "")[((@new_matching_lemma)-1)..-1]
         @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
+
+      when @infinitive_slice.match?(/\S*[bcčdfghjklmnpqrsštvwxzž]yti/)
+
+        @new_matching_lemma = @infinitive_form.index("yti")
+
+        @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ì", "i")
+        @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ì", "i")
+
+        @infinitive_slice = @infinitive_form[@new_matching_lemma..-1]
+        @present3_slice = @present3.removeaccents.sub("\u0303", "")[((@new_matching_lemma))..-1]
+        @past3_slice = @past3.removeaccents.sub("\u0303", "")[((@new_matching_lemma))..-1]
+        @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
+
 
       when @infinitive_slice.match?(/\S*auti*/)
 
@@ -266,9 +279,9 @@ module Verbalyser
         @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
         @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
 
-      when @infinitive_slice.match?(/\S*iuoti*/)
+      when @infinitive_slice.match?(/\S*ūti*/)
 
-        @new_matching_lemma = @infinitive_form.index("iuoti")
+        @new_matching_lemma = @infinitive_form.index("ūti")
         @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
         @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
 

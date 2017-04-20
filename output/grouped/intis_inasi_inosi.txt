@@ -14,6 +14,7 @@ kaitintis, kaĩtinasi, kaĩtinosi
 krutintis, krutinasi, krutinosi
 kuprintis, kuprinasi, kuprinosi
 kūprintis, kuprinasi, kuprinosi
+lavintis, lãvinasi, lãvinosi
 lažintis, lãžinasi, lãžinosi
 lepintis, lẽpinasi, lẽpinosi
 linksmintis, lìnksminasi, lìnksminosi

@@ -48,135 +48,179 @@ describe Verbalyser::EndingsGrouper do
   let (:ilgėtis) {"ėtis_isi_ėjosi"}
   let (:leistis) {"tis_žiasi_osi"}
   let (:lanktytis) {"ytis_osi_ėsi"}
-
+  let (:šiaušti) {"ti_ia_ė"}
+  let (:dubliuoti) {"uoti_uoja_avo"}
+  let (:tebebūti) {"ūti_ūna_uvo"}
+  let (:plūsti) {"ti_ta_do"}
+  let (:reguliuoti) {"uoti_uoja_avo"}
+  let (:šlempinti) {"inti_ina_ino"}
+  let (:deaktivuoti) {"uoti_uoja_avo"}
+  let (:plūduriuoti) {"uoti_uoja_avo"}
+  let (:karščiuotis) {"uotis_uojasi_avosi"}
 
 
   subject {Verbalyser::EndingsGrouper.new}
 
   context "Testing for correct filename" do
 
-    # it "outputs a file name from an infinitive_verb input" do
-    #   expect(subject.create_classificatory_file_name("adaptuoti")).to eq(adaptuoti)
-    # end
-    #
-    # it "outputs a file name from an infinitive_verb input" do
-    #   expect(subject.create_classificatory_file_name("adaptuotis")).to eq(adaptuotis)
-    # end
-    #
-    # it "outputs a file name from an infinitive_verb input" do
-    #   expect(subject.create_classificatory_file_name("badyti")).to eq(badyti)
-    # end
-    #
-    # it "outputs a file name from an infinitive_verb input" do
-    #   expect(subject.create_classificatory_file_name("rakinti")).to eq(rakinti)
-    # end
-    #
-    # it "outputs a file name from an infinitive_verb input" do
-    #   expect(subject.create_classificatory_file_name("plaktis")).to eq(plaktis)
-    # end
-    #
-    # it "outputs a file name from an infinitive_verb input" do
-    #   expect(subject.create_classificatory_file_name("adyti")).to eq(adyti)
-    # end
-    #
-    # it "outputs a file name from an infinitive_verb input" do
-    #   expect(subject.create_classificatory_file_name("akinti")).to eq(akinti)
-    # end
-    #
-    # it "outputs a file name from an infinitive_verb input" do
-    #   expect(subject.create_classificatory_file_name("cypauti")).to eq(cypauti)
-    # end
-    #
-    # it "outputs a file name from an infinitive_verb input" do
-    #   expect(subject.create_classificatory_file_name("cypti")).to eq(cypti)
-    # end
-    #
-    # it "outputs a file name from an infinitive_verb input" do
-    #   expect(subject.create_classificatory_file_name("flirtuoti")).to eq(flirtuoti)
-    # end
-    #
-    # it "outputs a file name from an infinitive_verb input" do
-    #   expect(subject.create_classificatory_file_name("pisti")).to eq(pisti)
-    # end
-    #
-    # it "outputs a file name from an infinitive_verb input" do
-    #   expect(subject.create_classificatory_file_name("žnybti")).to eq(žnybti)
-    # end
-    #
-    # it "outputs a file name from an infinitive_verb input" do
-    #   expect(subject.create_classificatory_file_name("žvarbėti")).to eq(žvarbėti)
-    # end
-    #
-    # it "outputs a file name from an infinitive_verb input" do
-    #   expect(subject.create_classificatory_file_name("svaidyti")).to eq(svaidyti)
-    # end
-    #
-    # it "outputs a file name from an infinitive_verb input" do
-    #   expect(subject.create_classificatory_file_name("neabejoti")).to eq(neabejoti)
-    # end
-    #
-    # it "outputs a file name from an infinitive_verb input" do
-    #   expect(subject.create_classificatory_file_name("nekęsti")).to eq(nekęsti)
-    # end
-    #
-    # it "outputs a file name from an infinitive_verb input" do
-    #   expect(subject.create_classificatory_file_name("abuojėti")).to eq(abuojėti)
-    # end
-    #
-    # it "outputs a file name from an infinitive_verb input" do
-    #   expect(subject.create_classificatory_file_name("kolaboruoti")).to eq(kolaboruoti)
-    # end
-    #
-    # it "outputs a file name from an infinitive_verb input" do
-    #   expect(subject.create_classificatory_file_name("barstyti")).to eq(barstyti)
-    # end
-    #
-    # it "outputs a file name from an infinitive_verb input" do
-    #   expect(subject.create_classificatory_file_name("audėti")).to eq(audėti)
-    # end
-    #
-    # it "outputs a file name from an infinitive_verb input" do
-    #   expect(subject.create_classificatory_file_name("būgštauti")).to eq(būgštauti)
-    # end
-    #
-    # it "outputs a file name from an infinitive_verb input" do
-    #   expect(subject.create_classificatory_file_name("evakuoti")).to eq(evakuoti)
-    # end
-    #
-    # it "outputs a file name from an infinitive_verb input" do
-    #   expect(subject.create_classificatory_file_name("pildytis")).to eq(pildytis)
-    # end
-    #
-    # it "outputs a file name from an infinitive_verb input" do
-    #   expect(subject.create_classificatory_file_name("grimzti")).to eq(grimzti)
-    # end
-    #
-    # it "outputs a file name from an infinitive_verb input" do
-    #   expect(subject.create_classificatory_file_name("kniaukti")).to eq(kniaukti)
-    # end
-    #
-    # it "outputs a file name from an infinitive_verb input" do
-    #   expect(subject.create_classificatory_file_name("siųsti")).to eq(siųsti)
-    # end
-    #
-    # it "outputs a file name from an infinitive_verb input" do
-    #   expect(subject.create_classificatory_file_name("inspiruoti")).to eq(inspiruoti)
-    # end
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("adaptuoti")).to eq(adaptuoti)
+    end
 
-    # it "outputs a file name from an infinitive_verb input" do
-    #   expect(subject.create_classificatory_file_name("auti")).to eq(auti)
-    # end
-    #
-    # it "outputs a file name from an infinitive_verb input" do
-    #   expect(subject.create_classificatory_file_name("ilgėtis")).to eq(ilgėtis)
-    # end
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("adaptuotis")).to eq(adaptuotis)
+    end
 
-    # it "outputs a file name from an infinitive_verb input" do
-    #   expect(subject.create_classificatory_file_name("leistis")).to eq(leistis)
-    # end
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("badyti")).to eq(badyti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("rakinti")).to eq(rakinti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("plaktis")).to eq(plaktis)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("adyti")).to eq(adyti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("akinti")).to eq(akinti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("cypauti")).to eq(cypauti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("cypti")).to eq(cypti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("flirtuoti")).to eq(flirtuoti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("pisti")).to eq(pisti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("žnybti")).to eq(žnybti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("žvarbėti")).to eq(žvarbėti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("svaidyti")).to eq(svaidyti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("neabejoti")).to eq(neabejoti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("nekęsti")).to eq(nekęsti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("abuojėti")).to eq(abuojėti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("kolaboruoti")).to eq(kolaboruoti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("barstyti")).to eq(barstyti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("audėti")).to eq(audėti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("būgštauti")).to eq(būgštauti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("evakuoti")).to eq(evakuoti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("pildytis")).to eq(pildytis)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("grimzti")).to eq(grimzti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("kniaukti")).to eq(kniaukti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("siųsti")).to eq(siųsti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("inspiruoti")).to eq(inspiruoti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("auti")).to eq(auti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("ilgėtis")).to eq(ilgėtis)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("leistis")).to eq(leistis)
+    end
 
     it "outputs a file name from an infinitive_verb input" do
       expect(subject.create_classificatory_file_name("lanktytis")).to eq(lanktytis)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("šiaušti")).to eq(šiaušti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("dubliuoti")).to eq(dubliuoti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("tebebūti")).to eq(tebebūti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("plūsti")).to eq(plūsti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("reguliuoti")).to eq(reguliuoti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("šlempinti")).to eq(šlempinti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("deaktivuoti")).to eq(deaktivuoti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("plūduriuoti")).to eq(plūduriuoti)
+    end
+
+    it "outputs a file name from an infinitive_verb input" do
+      expect(subject.create_classificatory_file_name("karščiuotis")).to eq(karščiuotis)
     end
 
   end

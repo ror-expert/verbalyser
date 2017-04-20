@@ -175,7 +175,6 @@ davinėti, davinė́ja, davinė́jo
 dažyti, dãžo, dãžė
 dažytis, dãžosi, dãžėsi
 deaktivuoti, deaktyvuoja, deaktyvavo
-debiutuoti, deaktyvuoja, deaktyvavo
 dedikuoti, dedikúoja, dedikãvo
 deginti, dẽgina, dẽgino
 degintis, dẽginasi, dẽginosi
@@ -251,7 +250,7 @@ drožti, dróžia, dróžė
 drumsti, drum̃sčia, drum̃stė
 drumstis, drum̃sčiasi, drum̃stėsi
 drybsoti, drỹbso, drybsójo
-dubliouti, dubliúoja, dubliãvo
+dubliuoti, dubliúoja, dubliãvo
 dubti, dum̃ba, dùbo
 dūgzti, dū̃zgia, dū̃zgė
 dūkti, dū̃ksta, dū̃ko
@@ -545,7 +544,7 @@ kankintis, kankìna, kankìno
 kariauti, kariáuja, kariãvo
 karpyti, kar̃po, kar̃pė
 karščiuoti, karščiúoja, karščiãvo
-karščiuotis, karščiúojasi, karčiavosi
+karščiuotis, karščiúojasi, karščiavosi
 karšinti, káršina, káršino
 karšti, káršina, káršino
 karsti, kar̃sta, kar̃to
@@ -1041,10 +1040,10 @@ pliumptelėti, pliumptelėja, pliùmptelėjo
 pliurpti, pliur̃pia, pliur̃pė
 plonėti, plonė́ja, plonė́jo
 ploti, plója, plójo
-plūduriuoti, plū̃duriuoja, plū̃duriavo
+plūduriuoti, plūduriuoja, plūduriavo
 plukdyti, plùkdo, plùkdė
 plūktis, plū̃kiasi, plū̃kėsi
-plūsti, plū̃kiasi, plū̃kėsi
+plūsti, plūsta, plūsdo
 plušti, plūšta, plùšo
 plūstis, plū́stasi, plū́dosi
 plyšoti, plýšo, plýšojo
@@ -1133,7 +1132,6 @@ redaguoti, redagúoja, redagãvo
 regėti, rẽgi, regė́jo
 registruoti, registrúoja, registrãvo
 registruotis, registrúojasi, registrãvosi
-regulioti, reguliúoja, reguliãvo
 reguliuoti, reguliúoja, reguliãvo
 regzti, rẽzga, rẽzgė
 reikalauti, reikaláuja, reikalãvo
@@ -1248,7 +1246,7 @@ sėsti, sė́da, sė́do
 sėstis, sė́dasi, sė́dosi
 sėti, sėjà, sė́jo
 siaurėti, siaurė́ja, siaurė́jo
-šiaušti, šẽria, šėrė̃
+šiaušti, šiaušia, šiaušė
 siausti, siaũčia, siaũtė
 šiauštis, šiáušiasi, šiáušėsi
 siautėti, siáutėja, siáutėjo
@@ -1351,7 +1349,7 @@ slapstytis, slãpstosi, slãpstėsi
 šlapti, šlam̃pa, šlãpo
 slaugyti, slaũgo, slaũgė
 slėgti, slẽgia, slė̃gė
-šlempinti, šlem̃pinti, šlempino
+šlempinti, šlem̃pina, šlempino
 šlepsėti, šlèpsi, šlepsė́jo
 slėpti, slẽpia, slė̃pė
 slėptis, slẽpia, slė̃pė
@@ -1443,7 +1441,6 @@ stebėtis, stẽbisi, stebė́josi
 stebinti, stẽbina, stẽbino
 steigti, steĩgia, steĩgė
 steigtis, steĩgiasi, steĩgėsi
-stenėti, steĩgiasi, steĩgėsi
 stengtis, sténgiasi, sténgėsi
 stiebtis, stiẽbiasi, stiẽbėsi
 stigti, stiñga, stìgo
@@ -1463,7 +1460,7 @@ stovinėti, stovinėja, stovinė́jo
 stoviniuoti, stoviniúoja, stoviniãvo
 stovyklauti, stovykláuja, stovyklãvo
 streikuoti, streikúoja, streikãvo
-stresuoti, sttresuoja, stresavo
+stresuoti, stresuoja, stresavo
 strikinėti, strikinė́ja, strikinė́jo
 strykinėti, strykinė́ja, strykinė́jo
 stryktelėti, stryktelėja, strýktelėjo
@@ -1603,7 +1600,7 @@ transliuoti, transliúoja, transliãvo
 transportuoti, transportúoja, transportãvo
 tratėti, trãta, tratė́jo
 traukti, tráukia, tráukė
-trauktis, tráukė, tráukėsi
+trauktis, tráukiasi, tráukėsi
 traumuoti, traumúoja, traumãvo
 tremti, trẽmia, trė̃mė
 treniruoti, trenirúoja, trenirãvo
