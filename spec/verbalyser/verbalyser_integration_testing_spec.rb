@@ -58,7 +58,6 @@ describe Verbalyser::EndingsGrouper do
   let (:plūduriuoti) {"uoti_uoja_avo"}
   let (:karščiuotis) {"uotis_uojasi_avosi"}
 
-
   subject {Verbalyser::EndingsGrouper.new}
 
   context "Testing for correct filename" do

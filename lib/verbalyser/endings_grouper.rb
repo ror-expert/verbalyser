@@ -7,7 +7,7 @@ module Verbalyser
     def initialize
       @output_folder = "output/grouped/"
       @lemma_database = File.readlines("data/lemmas_database.txt")
-      @verb_database = File.readlines("data/verb_shortlist_core_conjugated.txt")
+      @verb_database = File.readlines("data/source_data/verb_shortlist_core_conjugated_reflexive_eliminated.txt")
       @input_output = "matching_stem.txt"
 
       @lithuanian_consonants = %w[b c č d f g h j k l m n p q r s š t v z ž]
