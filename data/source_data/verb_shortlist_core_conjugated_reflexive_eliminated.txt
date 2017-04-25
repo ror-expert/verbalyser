@@ -413,7 +413,7 @@ improvizuoti, improvizúoja, improvizãvo
 imti, ìma, ė̃mė
 infekuoti, infekúoja, infekavo
 informuoti, informúoja, informãvo
-inkšti, iñkščia, inšktė
+inkšti, iñkščia, inkštė
 inspiruoti, inspirúoja, inspirãvo
 integruoti, integrúoja, integrãvo
 interpretuoti, interpretúoja, interpretãvo
@@ -608,7 +608,7 @@ kuopti, kuõpia, kuõpė
 kūrenti, kūrẽna, kūrẽno
 kursuoti, kursúoja, kursãvo
 kurti, kùria, kū́rė
-kušti, kùšta, kušo
+kuštė́ti, kùšta, kuštė́jo
 kutenti, kutẽna, kutẽno
 kvailinti, kvaĩlina, kvaĩlino
 kvailioti, kvailiója, kvailiójo
@@ -1111,7 +1111,7 @@ skrudinti, skrudina, skrùdino
 skubėti, skùba, skubė́jo
 skubinti, skubinà, skùbino
 skursti, skur̃sta, skur̃do
-skųsti, skur̃sta, skur̃do
+skų́sti, skùndžia, skùndė
 skusti, skùta, skùto
 skutinėti, skutinėja, skutinėjo
 šlamėti, šlãma, šlamė́jo
@@ -1169,7 +1169,7 @@ snigti, sniñga, snìgo
 šnipinėti, šnipinė́ja, šnipinė́jo
 šniukštinėti, šniukštelėja, šniùkštelėjo
 šniypšti, šnỹpščia, šnỹpštė
-šnypšti, šnỹpščia, šnypstė
+šnypšti, šnỹpščia, šnypštė
 sodinti, sodìna, sodìno
 šokinėti, šokinė́ja, šokinė́jo
 šokiruoti, šokirúoja, šokirãvo
@@ -1315,7 +1315,7 @@ tiksėti, tìksi, tiksė́jo
 tikšti, tỹška, tìško
 tikti, tiñka, tìko
 tildyti, tìldo, tìldė
-tilpti, tel̃pa, tiplo
+tilpti, tel̃pa, tilpo
 tilti, tilsta, tìlo
 timptelėti, tìmptelėja, tìmptelėjo
 tingėti, tìngi, tingė́jo
