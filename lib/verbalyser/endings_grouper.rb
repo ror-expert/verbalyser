@@ -5,14 +5,29 @@ module Verbalyser
   class EndingsGrouper
     def initialize
       @output_folder = "output/grouped/"
+
+      # Database of lemmas: verb, noun, and adjectival stems
       @lemma_database = File.readlines("data/lemmas_database.txt")
+
+      # Database of verbs in the three main forms:
+      # infinitive, present-tense third-person, past-tense third-person
       @verb_database = File.readlines("data/source_data/verb_shortlist_core_conjugated_reflexive_eliminated.txt")
+
+      # Useful in defining syllables
       @lithuanian_consonants = %w[b c č d f g h j k l m n p q r s š t v w x z ž ]
+
+      # Useful in defining syllables
+      # Also useful in identifying accented characters
       @lithuanian_vowels = %w[a ã à á ą ą̃ ą̀ ą́ e ẽ è é ę ę̃ ę̀ ę́ ė ė̃  ė̀  ė́  i ĩ ì í į̃  į̀ į į y ỹ ỳ ý o õ ò ó ũ ù ú u ų ų̃ ų̀ ų́ ū ū̃  ū̀  ū́]
+
+      # Useful in indexing the beginning of the penultimate syllable
       @from_first_vowel = /[aãàáąą̃ą̀ą́eẽeẽèéęę̃ę̀ę́ėė̃ė̀ė́ė́iĩìíį̃į̀įįoõòóyỹỳýũùúuųų̃ų̀ų́ūū̃ū̀ū́](.*)/
       @accented_vowels = /[ãàáąą̃ą̀ą́ẽeẽèéę̃ę̀ę́ė̀ė́ė́iĩìíį̀įįõòóỹỳýũùúų̃ų̀ų́ūū̃ū̀ū́]/
 
+      @accented_and_non_accented_vowels_and_diacritics = 
+
       # For recording files that are obviously unusual
+      # e.g. too long, too short, etc.
       @suspect_path = File.open("spec/review/suspicious_filenames_#{Time.now}.txt", "a+")
     end
 
@@ -52,11 +67,101 @@ module Verbalyser
       end
       @matching_lemma = matching_stem_array.max
 
+      # nugget is a lemma suffix
       if stripped_verb[@matching_lemma.index..-1].length > 0
         @nugget = stripped_verb(@matching_lemma.index..-1)
       else
         @nugget = ""
       end
+
+      if @nugget.length > 0
+        @nugged_found = true
+      else
+        @nugget_found = false
+      end
+
+    end
+
+    # I couldn't find a more elegant way of scrubbing accents
+    # than this ugly stack of sub() executions.
+    def slice_and_scrub_accents(verb_form)
+
+      verb_form_array = verb_form.split("")
+
+
+
+
+
+
+.sub("ū́", "ū").sub("ė́", "ė").sub("m̃", "m").sub("r̃", "r").sub("ū̃", "ū").sub("ì", "i").sub("ė́", "ė").sub("ì", "i").sub("ė̃", "ė").sub("l̃", "l")
+
+      verb_form.removeaccents.sub("\u0301", "").sub("\u0302", "").sub("\u0303", "").sub("\u1ef9", "y").sub("ū́", "ū").sub("m̃", "m")[@matching_lemma.length..-1]
+    end
+
+    # Takes the infinitive verb because
+    # it will be stripped by the preceding method
+    def create_classificatory_file_name(infinitive_verb)
+      # Defines the reflexivity boolean value
+      identify_whether_verb_is_reflexive(infinitive_verb)
+      # Defines the lemma suffix string
+      check_for_lemma_suffix(infinitive_verb)
+
+      # Defines the three main verb forms needed
+      @verb_database.each do |line|
+        verb_array = line.strip.split(",")
+        # I'd like to something better than cycling through with simple
+        # conditionals, but it's the best I've got at the moment
+        if verb_array[0].strip == infinitive_verb
+          # File name is derived from the three main forms,
+          # infinitive is already supplied
+          # @infinitive_form = verb_array[0].strip
+          @present3 = verb_array[1].strip
+          @past3 = verb_array[2].strip
+
+          # I keep the terminal output to a minimum,
+          # but this helps when running the code
+          puts "verb_array[0]: #{verb_array[0]}"
+          puts "verb_array[1]: #{verb_array[1]}"
+          puts "verb_array[2]: #{verb_array[2]}"
+        end
+      end
+
+      @infinitive_slice = infinitive_verb.removeaccents
+
+      case @key_substring
+      when "lemma_nugget_general"
+        puts "CLASSIFICATION: lemma_nugget_general"
+        puts "NUGGET: #{@nugget}"
+
+        @infinitive_slice = @infinitive_form.removeaccents.sub("\u0301", "").sub("\u0302", "").sub("\u0303", "").sub("\u1ef9", "y").sub("ū́", "ū").sub("m̃", "m")[@matching_lemma.length..-1]
+        @present3_slice = @present3.removeaccents.sub("\u0301", "").sub("\u0302", "").sub("\u0303", "").sub("\u1ef9", "y").sub("ū́", "ū").sub("m̃", "m")[@matching_lemma.length..-1]
+        @past3_slice = @past3.removeaccents.sub("\u0301", "").sub("\u0302", "").sub("\u0303", "").sub("\u1ef9", "y").sub("ū́", "ū").sub("m̃", "m")[@matching_lemma.length..-1]
+        @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}"
+
+      when "lemma_nugget_in"
+        puts "CLASSIFICATION: lemma_nugget_in"
+
+        @infinitive_slice = @infinitive_form.removeaccents.sub("\u0301", "").sub("\u0302", "").sub("\u0303", "").sub("\u1ef9", "y").sub("ū́", "ū").sub("m̃", "m")[@matching_lemma.length..-1]
+        @present3_slice = @present3.removeaccents.sub("\u0301", "").sub("\u0302", "").sub("\u0303", "").sub("\u1ef9", "y").sub("ū́", "ū").sub("m̃", "m")[@matching_lemma.length..-1]
+        @past3_slice = @past3.removeaccents.sub("\u0301", "").sub("\u0302", "").sub("\u0303", "").sub("\u1ef9", "y").sub("ū́", "ū").sub("m̃", "m")[@matching_lemma.length..-1]
+        @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}"
+
+      when "lemma_only"
+        puts "CLASSIFICATION: lemma_only"
+
+        @infinitive_slice = @infinitive_form.removeaccents.sub("\u0301", "").sub("\u0302", "").sub("\u0303", "").sub("\u1ef9", "y").sub("ū́", "ū").sub("m̃", "m")[@matching_lemma.length..-1]
+        @present3_slice = @present3.removeaccents.sub("\u0301", "").sub("\u0302", "").sub("\u0303", "").sub("\u1ef9", "y").sub("ū́", "ū").sub("m̃", "m")[@matching_lemma.length..-1]
+        @past3_slice = @past3.removeaccents.sub("\u0301", "").sub("\u0302", "").sub("\u0303", "").sub("\u1ef9", "y").sub("ū́", "ū").sub("m̃", "m")[@matching_lemma.length..-1]
+        @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}"
+
+      when "lemma_not_found"
+        puts "WARNING: lemma_not_found"
+      else
+        puts "WARNING: THERE IS A PROBLEM HERE"
+      end
+
+
+
 
 
     end
@@ -96,7 +201,6 @@ module Verbalyser
       verb_reflexivity = @reflexivity
     end
     def check_for_lemma_suffix(stripped_verb)
-
       matching_stem_array = Array.new
       stems = (0..stripped_verb.size - 1).each_with_object([]) { |i, subs| subs << stripped_verb[0..i] }
 
@@ -125,15 +229,14 @@ module Verbalyser
         @nugget_uo = true
         @matching_lemma = @matching_lemma[0...-1]
         @nugget = "uo"
-
       else
         @nugget = stripped_verb[@matching_lemma.length..-1]
       end
 
       if @nugget.length > 0
-        nugget_found = true
+        @nugget_found = true
       elsif @nugget.length == 0
-        nugget_found = false
+        @nugget_found = false
       end
 
       @lemma_suffix_found = nugget_found
