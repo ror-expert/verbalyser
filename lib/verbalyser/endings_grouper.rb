@@ -15,7 +15,7 @@ module Verbalyser
       # For recording files that are obviously unusual
       @suspect_path = File.open("spec/review/suspicious_filenames_#{Time.now}.txt", "a+")
     end
-  
+
     # Lithuanian verb ending in "ti" is non-reflexive.
     # Lithuanian verb ending in "tis" is reflexive.
     # For complicated grammatical reasons,
@@ -40,14 +40,26 @@ module Verbalyser
     # create_classificatory_file_name
     def check_for_lemma_suffix(stripped_verb)
 
-      #
       matching_stem_array = Array.new
+      stems = (0..stripped_verb.size - 1).each_with_object([]) {|i, subs| subs << stripped_verb[0..i]}
+
+      stems.each do |stem|
+        @lemma_database.each do |lemma|
+          if lemma[0] == stem[0] && lemma.strip
+            matching_stem_array.push(stem.strip)
+          end
+        end
+      end
+      @matching_lemma = matching_stem_array.max
+
+      if stripped_verb[@matching_lemma.index..-1].length > 0
+        @nugget = stripped_verb(@matching_lemma.index..-1)
+      else
+        @nugget = ""
+      end
+
+
     end
-
-
-
-
-
   end
 end
 
