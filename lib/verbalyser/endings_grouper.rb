@@ -3,16 +3,63 @@ require 'time'
 
 module Verbalyser
   class EndingsGrouper
+    def initialize
+      @output_folder = "output/grouped/"
+      @lemma_database = File.readlines("data/lemmas_database.txt")
+      @verb_database = File.readlines("data/source_data/verb_shortlist_core_conjugated_reflexive_eliminated.txt")
+      @lithuanian_consonants = %w[b c č d f g h j k l m n p q r s š t v w x z ž ]
+      @lithuanian_vowels = %w[a ã à á ą ą̃ ą̀ ą́ e ẽ è é ę ę̃ ę̀ ę́ ė ė̃  ė̀  ė́  i ĩ ì í į̃  į̀ į į y ỹ ỳ ý o õ ò ó ũ ù ú u ų ų̃ ų̀ ų́ ū ū̃  ū̀  ū́]
+      @from_first_vowel = /[aãàáąą̃ą̀ą́eẽeẽèéęę̃ę̀ę́ėė̃ė̀ė́ė́iĩìíį̃į̀įįoõòóyỹỳýũùúuųų̃ų̀ų́ūū̃ū̀ū́](.*)/
+      @accented_vowels = /[ãàáąą̃ą̀ą́ẽeẽèéę̃ę̀ę́ė̀ė́ė́iĩìíį̀įįõòóỹỳýũùúų̃ų̀ų́ūū̃ū̀ū́]/
 
+      # For recording files that are obviously unusual
+      @suspect_path = File.open("spec/review/suspicious_filenames_#{Time.now}.txt", "a+")
+    end
+  
+    # Lithuanian verb ending in "ti" is non-reflexive.
+    # Lithuanian verb ending in "tis" is reflexive.
+    # For complicated grammatical reasons,
+    # This is an important distinction.
+    def identify_whether_verb_is_reflexive(infinitive_verb)
+      if infinitive_verb.strip[-2,2] == "ti"
+        @reflexivity = false
+        @stripped_infinitive_verb = infinitive_verb[0...-2]
+      end
+
+      if infinitive_verb.strip[-3,3] == "tis"
+        @reflexivity = true
+        @stripped_infinitive_verb = infinitive_verb[0...-3]
+      end
+
+      # RSpec won't pass unless I declare this redundant variable.
+      # I'm yet to understand why.
+      verb_reflexivity = @reflexivity
+    end
+
+    # The stripped verb will be supplied the method
+    # create_classificatory_file_name
+    def check_for_lemma_suffix(stripped_verb)
+
+      #
+      matching_stem_array = Array.new
+    end
+
+
+
+
+
+  end
+end
+
+module Verbalyser
+  class EndingsGrouper
     def initialize
       @output_folder = "output/grouped/"
       @lemma_database = File.readlines("data/lemmas_database.txt")
       @verb_database = File.readlines("data/source_data/verb_shortlist_core_conjugated_reflexive_eliminated.txt")
       @input_output = "matching_stem.txt"
 
-      @lithuanian_consonants = %w[b c č d f g h j k l m n p q r s š t v z ž]
-
-      # @lithuanian_consonants_set = [bcčdfghjklmnpqrsštvwxzž]
+      @lithuanian_consonants = %w[b c č d f g h j k l m n p q r s š t v w x z ž ]
 
       @lithuanian_vowels = %w[a ã à á ą ą̃ ą̀ ą́ e ẽ è é ę ę̃ ę̀ ę́ ė ė̃  ė̀  ė́  i ĩ ì í į̃  į̀ į į y ỹ ỳ ý o õ ò ó ũ ù ú u ų ų̃ ų̀ ų́ ū ū̃  ū̀  ū́]
 
@@ -23,7 +70,6 @@ module Verbalyser
       @suspect_path = File.open("spec/review/suspicious_filenames_#{Time.now}.txt", "a+")
 
     end
-
     def identify_whether_verb_is_reflexive(infinitive_verb)
       if infinitive_verb.strip[-2, 2] == "ti"
         @reflexivity = false
@@ -37,7 +83,6 @@ module Verbalyser
 
       verb_reflexivity = @reflexivity
     end
-
     def check_for_lemma_suffix(stripped_verb)
 
       matching_stem_array = Array.new
