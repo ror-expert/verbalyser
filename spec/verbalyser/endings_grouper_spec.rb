@@ -28,8 +28,13 @@ describe Verbalyser::EndingsGrouper do
   let (:verb_forms_reflexive_no_lemma) {["rengtis", "reñgiasi", "reñgėsi\n"]}
 
   subject {Verbalyser::EndingsGrouper.new}
+  context "Checking Unicode details" do
+    it "identifies the unicode hex value" do
+      expect(subject.get_unicode(/[aãàáąą̃ą̀ą́eẽeẽèéęę̃ę̀ę́ėė̃ė̀ė́ė́iĩìíį̃į̀įįoõòóyỹỳýũùúuųų̃ų̀ų́ūū̃ū̀ū́]/)).to eq("something")
+    end
+  end
 
-  context "Diverse conjugations, checking for reflexivity:" do
+  # context "Diverse conjugations, checking for reflexivity:" do
 
     it "identifies whether aktyvuoti is reflexive::" do
       expect(subject.identify_whether_verb_is_reflexive(infinitive_verb_with_lemma_suffix)).to eq(false)
@@ -77,14 +82,14 @@ describe Verbalyser::EndingsGrouper do
             expect(subject.write_verb_forms_to_group_file(infinitive_verb_with_lemma_suffix)).to eq(verb_forms_non_reflexive_with_lemma)
           end
           it "writes the forms of gverti to a new file:" do
-      expect(subject.write_verb_forms_to_group_file(infinitive_verb_without_lemma_suffix)).to eq(verb_forms_non_reflexive_no_lemma)
-    end
+            expect(subject.write_verb_forms_to_group_file(infinitive_verb_without_lemma_suffix)).to eq(verb_forms_non_reflexive_no_lemma)
+          end
           it "writes the forms of darbuotis to a new file:" do
-      expect(subject.write_verb_forms_to_group_file(infinitive_verb_reflexive_with_lemma_suffix)).to eq(verb_forms_reflexive_with_lemma)
-    end
+            expect(subject.write_verb_forms_to_group_file(infinitive_verb_reflexive_with_lemma_suffix)).to eq(verb_forms_reflexive_with_lemma)
+          end
           it "writes the forms of rengtis to a new file:" do
-      expect(subject.write_verb_forms_to_group_file(infinitive_verb_reflexive_without_lemma_suffix)).to eq(verb_forms_reflexive_no_lemma)
-    end
+            expect(subject.write_verb_forms_to_group_file(infinitive_verb_reflexive_without_lemma_suffix)).to eq(verb_forms_reflexive_no_lemma)
+          end
         end
       end
     end

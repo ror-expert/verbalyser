@@ -22,14 +22,28 @@ module Verbalyser
 
       # Useful in indexing the beginning of the penultimate syllable
       @from_first_vowel = /[aãàáąą̃ą̀ą́eẽeẽèéęę̃ę̀ę́ėė̃ė̀ė́ė́iĩìíį̃į̀įįoõòóyỹỳýũùúuųų̃ų̀ų́ūū̃ū̀ū́](.*)/
-      @accented_vowels = /[ãàáąą̃ą̀ą́ẽeẽèéę̃ę̀ę́ė̀ė́ė́iĩìíį̀įįõòóỹỳýũùúų̃ų̀ų́ūū̃ū̀ū́]/
+      @accented_vowels = /[aãàáąą̃ą̀ą́eẽeẽèéęę̃ę̀ę́ėė̃ė̀ė́ė́iĩìíį̃į̀įįoõòóyỹỳýũùúuųų̃ų̀ų́ūū̃ū̀ū́]/
 
-      @accented_and_non_accented_vowels_and_diacritics = 
+      @accented_and_non_accented_vowels_and_diacritics = {
+
+      }
 
       # For recording files that are obviously unusual
       # e.g. too long, too short, etc.
       @suspect_path = File.open("spec/review/suspicious_filenames_#{Time.now}.txt", "a+")
     end
+
+    def get_unicode(char)
+      (0..109_976).each do |pos|
+        chr = ''
+        chr << pos
+        puts pos.to_s(16) if chr == char
+      end
+    end
+
+
+
+
 
     # Lithuanian verb ending in "ti" is non-reflexive.
     # Lithuanian verb ending in "tis" is reflexive.
