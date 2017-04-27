@@ -34,13 +34,19 @@ module Verbalyser
     end
 
     def get_unicode(char)
-      (0..109_976).each do |pos|
-        chr = ''
+      (0..55295).each do |pos|
+      # (0..109976).each do |pos|
+        chr = ""
         chr << pos
-        puts pos.to_s(16) if chr == char
+        if chr == char
+          puts "This is the unicode of #{char}: #{pos.to_s(16)}"
+        end
       end
     end
 
+    def method_name
+
+    end
 
 
 
@@ -93,7 +99,6 @@ module Verbalyser
       else
         @nugget_found = false
       end
-
     end
 
     # I couldn't find a more elegant way of scrubbing accents
@@ -107,7 +112,7 @@ module Verbalyser
 
 
 
-.sub("ū́", "ū").sub("ė́", "ė").sub("m̃", "m").sub("r̃", "r").sub("ū̃", "ū").sub("ì", "i").sub("ė́", "ė").sub("ì", "i").sub("ė̃", "ė").sub("l̃", "l")
+      # .sub("ū́", "ū").sub("ė́", "ė").sub("m̃", "m").sub("r̃", "r").sub("ū̃", "ū").sub("ì", "i").sub("ė́", "ė").sub("ì", "i").sub("ė̃", "ė").sub("l̃", "l")
 
       verb_form.removeaccents.sub("\u0301", "").sub("\u0302", "").sub("\u0303", "").sub("\u1ef9", "y").sub("ū́", "ū").sub("m̃", "m")[@matching_lemma.length..-1]
     end
