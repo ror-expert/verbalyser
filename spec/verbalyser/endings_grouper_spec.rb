@@ -3,14 +3,14 @@ require "spec_helper"
 describe Verbalyser::EndingsGrouper do
 
   let (:infinitive_verb_lemma_suffix) {"aktyvuoti"}
-  let (:infinitive_verbout_lemma_suffix) {"gverti"}
+  let (:infinitive_verb_without_lemma_suffix) {"gverti"}
   let (:infinitive_verb_reflexive_lemma_suffix) {"darbuotis"}
-  let (:infinitive_verb_reflexiveout_lemma_suffix) {"rengtis"}
+  let (:infinitive_verb_reflexive_without_lemma_suffix) {"rengtis"}
 
   let (:infinitive_verb_lemma_suffix_stripped) {"aktyvuo"}
-  let (:infinitive_verbout_lemma_suffix_stripped) {"gver"}
+  let (:infinitive_verb_without_lemma_suffix_stripped) {"gver"}
   let (:infinitive_verb_reflexive_lemma_suffix_stripped) {"darbuo"}
-  let (:infinitive_verb_reflexiveout_lemma_suffix_stripped) {"reng"}
+  let (:infinitive_verb_reflexive_without_lemma_suffix_stripped) {"reng"}
 
   let (:isolated_lemma_suffix_standard) {"uo"}
   let (:infinitive_verb_stem_shaved) {"er"}
@@ -62,77 +62,73 @@ describe Verbalyser::EndingsGrouper do
   let (:u_macron_acute_stripped) {"a"}
 
   subject {Verbalyser::EndingsGrouper.new}
+  context "Diverse conjugations, checking for reflexivity:" do
+
+    it "identifies whether aktyvuoti is reflexive::" do
+      expect(subject.identify_whether_verb_is_reflexive(infinitive_verb_lemma_suffix)).to eq(false)
+    end
+    it "identifies whether gverti is reflexive:" do
+      expect(subject.identify_whether_verb_is_reflexive(infinitive_verb_without_lemma_suffix)).to eq(false)
+    end
+    it "identifies whether darbuotis reflexive:" do
+      expect(subject.identify_whether_verb_is_reflexive(infinitive_verb_reflexive_lemma_suffix)).to eq(true)
+    end
+    it "identifies whether rengtis reflexive:" do
+      expect(subject.identify_whether_verb_is_reflexive(infinitive_verb_reflexive_without_lemma_suffix)).to eq(true)
+    end
+
+    context "Reflexivity ascertained:" do
+      it "checks for a lemma suffix in aktyvuoti:" do
+        expect(subject.check_for_lemma_suffix(infinitive_verb_lemma_suffix_stripped)).to eq(true)
+      end
+      it "checks for a lemma suffix in gverti:" do
+        expect(subject.check_for_lemma_suffix(infinitive_verb_without_lemma_suffix_stripped)).to eq(false)
+      end
+      it "checks for a lemma suffix in darbuotis:" do
+        expect(subject.check_for_lemma_suffix(infinitive_verb_reflexive_lemma_suffix_stripped)).to eq(true)
+      end
+      it "checks for a lemma suffix in rengtis:" do
+        expect(subject.check_for_lemma_suffix(infinitive_verb_reflexive_without_lemma_suffix_stripped)).to eq(false)
+      end
+
+      context "Checked for lemma suffix:" do
+        it "creates a classificatory file name for aktyvuoti:" do
+          expect(subject.create_classificatory_file_name(infinitive_verb_lemma_suffix)).to eq(file_name_conjugated_verb_from_lemma_suffix)
+        end
+        it "creates a classificatory file name for gverti:" do
+          expect(subject.create_classificatory_file_name(infinitive_verb_without_lemma_suffix)).to eq(file_name_conjugated_verb_from_stem_extract)
+        end
+        # it "creates a classificatory file name for darbuotis:" do
+        #   expect(subject.create_classificatory_file_name(infinitive_verb_reflexive_lemma_suffix)).to eq(file_name_conjugated_reflexive_verb_lemma_suffix)
+        # end
+        # it "creates a classificatory file name for rengtis:" do
+        #   expect(subject.create_classificatory_file_name(infinitive_verb_reflexive_without_lemma_suffix)).to eq(file_name_conjugated_reflexive_verb_stem_extract)
+        # end
+      end
+
+      context "classificatory file name created:" do
+        # it "writes the forms of aktyvuoti to a new file:" do
+        #   expect(subject.write_verb_forms_to_group_file(infinitive_verb_lemma_suffix)).to eq(verb_forms_non_reflexive_lemma)
+        # end
+        # it "writes the forms of gverti to a new file:" do
+        #   expect(subject.write_verb_forms_to_group_file(infinitive_verb_without_lemma_suffix)).to eq(verb_forms_non_reflexive_no_lemma)
+        # end
+        # it "writes the forms of darbuotis to a new file:" do
+        #   expect(subject.write_verb_forms_to_group_file(infinitive_verb_reflexive_lemma_suffix)).to eq(verb_forms_reflexive_lemma)
+        # end
+        # it "writes the forms of rengtis to a new file:" do
+        #   expect(subject.write_verb_forms_to_group_file(infinitive_verb_reflexive_without_lemma_suffix)).to eq(verb_forms_reflexive_no_lemma)
+        # end
+      end
+    end
+  end
   context "Processing verb forms to create a file name" do
 
     it "strips accents from all characters but leaves diacritics intact" do
-      expect(subject.slice_and_scrub_accents("absorbúoja")).to eq("absorbuoja")
+      expect(subject.slice_and_scrub_accents("absórbúõja")).to eq("absorbuoja")
     end
     it "strips accents from all characters but leaves diacritics intact" do
       expect(subject.slice_and_scrub_accents("aukójo")).to eq("aukojo")
     end
-
-
   end
 end
-
-# context "Diverse conjugations, checking for reflexivity:" do
-
-  # it "identifies whether aktyvuoti is reflexive::" do
-  #   expect(subject.identify_whether_verb_is_reflexive(infinitive_verb_lemma_suffix)).to eq(false)
-  # end
-  # it "identifies whether gverti is reflexive:" do
-  #   expect(subject.identify_whether_verb_is_reflexive(infinitive_verbout_lemma_suffix)).to eq(false)
-  # end
-  # it "identifies whether darbuotis reflexive:" do
-  #   expect(subject.identify_whether_verb_is_reflexive(infinitive_verb_reflexive_lemma_suffix)).to eq(true)
-  # end
-  # it "identifies whether rengtis reflexive:" do
-  #   expect(subject.identify_whether_verb_is_reflexive(infinitive_verb_reflexiveout_lemma_suffix)).to eq(true)
-  # end
-  #
-  # context "Reflexivity ascertained:" do
-  #   it "checks for a lemma suffix in aktyvuoti:" do
-  #     expect(subject.check_for_lemma_suffix(infinitive_verb_lemma_suffix_stripped)).to eq(true)
-  #   end
-  #   it "checks for a lemma suffix in gverti:" do
-  #     expect(subject.check_for_lemma_suffix(infinitive_verbout_lemma_suffix_stripped)).to eq(false)
-  #   end
-  #   it "checks for a lemma suffix in darbuotis:" do
-  #     expect(subject.check_for_lemma_suffix(infinitive_verb_reflexive_lemma_suffix_stripped)).to eq(true)
-  #   end
-  #   it "checks for a lemma suffix in rengtis:" do
-  #     expect(subject.check_for_lemma_suffix(infinitive_verb_reflexiveout_lemma_suffix_stripped)).to eq(false)
-  #   end
-  #
-  #   context "Checked for lemma suffix:" do
-  #     it "creates a classificatory file name for aktyvuoti:" do
-  #         expect(subject.create_classificatory_file_name(infinitive_verb_lemma_suffix)).to eq(file_name_conjugated_verb_from_lemma_suffix)
-  #     end
-  #     it "creates a classificatory file name for gverti:" do
-  #       expect(subject.create_classificatory_file_name(infinitive_verbout_lemma_suffix)).to eq(file_name_conjugated_verb_from_stem_extract)
-  #     end
-  #     it "creates a classificatory file name for darbuotis:" do
-  #       expect(subject.create_classificatory_file_name(infinitive_verb_reflexive_lemma_suffix)).to eq(file_name_conjugated_reflexive_verb_lemma_suffix)
-  #     end
-  #     it "creates a classificatory file name for rengtis:" do
-  #       expect(subject.create_classificatory_file_name(infinitive_verb_reflexiveout_lemma_suffix)).to eq(file_name_conjugated_reflexive_verb_stem_extract)
-  #     end
-  #   end
-  #
-  #     context "classificatory file name created:" do
-  #       it "writes the forms of aktyvuoti to a new file:" do
-  #         expect(subject.write_verb_forms_to_group_file(infinitive_verb_lemma_suffix)).to eq(verb_forms_non_reflexive_lemma)
-  #       end
-  #       it "writes the forms of gverti to a new file:" do
-  #         expect(subject.write_verb_forms_to_group_file(infinitive_verbout_lemma_suffix)).to eq(verb_forms_non_reflexive_no_lemma)
-  #       end
-  #       it "writes the forms of darbuotis to a new file:" do
-  #         expect(subject.write_verb_forms_to_group_file(infinitive_verb_reflexive_lemma_suffix)).to eq(verb_forms_reflexive_lemma)
-  #       end
-  #       it "writes the forms of rengtis to a new file:" do
-  #         expect(subject.write_verb_forms_to_group_file(infinitive_verb_reflexiveout_lemma_suffix)).to eq(verb_forms_reflexive_no_lemma)
-  #       end
-  #     end
-    # end
-  # end
-# end
