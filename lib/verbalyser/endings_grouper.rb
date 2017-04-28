@@ -24,74 +24,56 @@ module Verbalyser
       @from_first_vowel = /[aãàáąą̃ą̀ą́eẽeẽèéęę̃ę̀ę́ėė̃ė̀ė́ė́iĩìíį̃į̀įįoõòóyỹỳýũùúuųų̃ų̀ų́ūū̃ū̀ū́](.*)/
       @accented_vowels = /[aãàáąą̃ą̀ą́eẽeẽèéęę̃ę̀ę́ėė̃ė̀ė́ė́iĩìíį̃į̀įįoõòóyỹỳýũùúuųų̃ų̀ų́ūū̃ū̀ū́]/
 
-
-
-      @lithuanian_letters_with_diacritics_and_accents = {
-        "a"=>["\\61", "a"],
-        "ã"=>["\\e3", "a"],
-        "à"=>["\u00e0", "a"],
-        "á"=>["\\e1", "a"],
-        "ą"=>["\\105"],
-        "ą̀"=>["\\105\u0300", "ą"],
-        "ą́"=>["\\105\u0301", "ą"],
-        "ą̃"=>["\\105\u0303", "ą"],
-        "e"=>["65"],
-        "ẽ"=>["1ebd", "e"],
-        "è"=>["\u00e8", "e"],
-        "é"=>["\u00e9", "e"],
-        "ę"=>["\u0119"],
-        "ę̀"=>["\u0119\u0300", "ę"],
-        "ę́"=>["\u0119\u0301", "ę"],
-        "ę̃"=>["\u0119\u0303", "ę"],
-        "ė"=>["\u0117"],
-        "ė̀"=>["\u0117\u0300", "ė"],
-        "ė́"=>["\u0117\u0301", "ė"],
-        "ė̃"=>["\u0117\u0303", "ė"],
-        "į"=>["\u012f"],
-        "į̀"=>["\u012f", "į"],
-        "į́"=>["\u012f", "į"],
-        "į̃"=>["\u012f", "į"],
-        "ì"=>["\\ec", "į"],
-        "í"=>["\u00ed", "į"],
-        "ĩ"=>["\u0129", "į"],
-        "o"=>["\\6f"],
-        "ò"=>["\u00f2", "o"],
-        "ó"=>["\u00f3", "o"],
-        "õ"=>["\u00f5", "o"],
-        "u"=>["\\75"],
-        "ù"=>["\\00f9", "u"],
-        "ú"=>["\\00fa", "u"],
-        "ũ"=>["\u0169", "u"],
-        "ų"=>["\\173"],
-        "ų̀"=>["\\173\u0300", "ų"],
-        "ų́"=>["\\173\u0301", "ų"],
-        "ų̃"=>["\\173\u0303", "ų"],
-        "ū"=>["\\16b"],
-        "ū̀"=>["\\16b\u0300", "ū"],
-        "ū́"=>["\\16b\u0301", "ū"],
-        "ū̃"=>["\\16b\u0303", "ū"],
-        "y"=>["\\79"],
-        "ỳ"=>["\u1ef3", "y"],
-        "ý"=>["\u00fd", "y"],
-        "ỹ"=>["\u1ef9", "y"],
-        "l"=>["\\6c"],
-        "l̀"=>["\\6c\u0300", "l"],
-        "ĺ"=>["\u013a", "l"],
-        "l̃"=>["\\6c\u0303", "l"],
-        "m"=>["\\6d"],
-        "m̀"=>["\\6d\u0300", "m"],
-        "ḿ"=>["\u1e3f", "m"],
-        "m̃"=>["\\6d\u0303", "m"],
-        "n"=>["\\6e"],
-        "ǹ"=>["\u01f9", "n"],
-        "ń"=>["\u0144", "n"],
-        "ñ"=>["\u00f1", "n"],
-        "r"=>["\\72"],
-        "r̀"=>["\\72\u0300", "r"],
-        "ŕ"=>["\u0155", "r"],
-        "r̃"=>["\\72\u0303", "r"],
+      @lithuanian_letters_diacritics_with_accents = {
+        "ã" => ["\u00e3", "a"],
+        "à" => ["\u00e0", "a"],
+        "á" => ["\u00e1", "a"],
+        "ą̀" => ["\u0105\u0300", "ą"],
+        "ą́" => ["\u0105\u0301", "ą"],
+        "ą̃" => ["\u0105\u0303", "ą"],
+        "ẽ" => ["\u1ebd", "e"],
+        "è" => ["\u00e8", "e"],
+        "é" => ["\u00e9", "e"],
+        "ę̀" => ["\u0119\u0300", "ę"],
+        "ę́" => ["\u0119\u0301", "ę"],
+        "ę̃" => ["\u0119\u0303", "ę"],
+        "ė̀" => ["\u0117\u0300", "ė"],
+        "ė́" => ["\u0117\u0301", "ė"],
+        "ė̃" => ["\u0117\u0303", "ė"],
+        "į̀" => ["\u012f", "į"],
+        "į́" => ["\u012f", "į"],
+        "į̃" => ["\u012f", "į"],
+        "ì" => ["\u00ec", "į"],
+        "í" => ["\u00ed", "į"],
+        "ĩ" => ["\u0129", "į"],
+        "ò" => ["\u00f2", "o"],
+        "ó" => ["\u00f3", "o"],
+        "õ" => ["\u00f5", "o"],
+        "ù" => ["\u00f9", "u"],
+        "ú" => ["\u00fa", "u"],
+        "ũ" => ["\u0169", "u"],
+        "ų̀" => ["\u0173\u0300", "ų"],
+        "ų́" => ["\u0173\u0301", "ų"],
+        "ų̃" => ["\u0173\u0303", "ų"],
+        "ū̀" => ["\u016b\u0300", "ū"],
+        "ū́" => ["\u016b\u0301", "ū"],
+        "ū̃" => ["\u016b\u0303", "ū"],
+        "ỳ" => ["\u1ef3", "y"],
+        "ý" => ["\u00fd", "y"],
+        "ỹ" => ["\u1ef9", "y"],
+        "l̀" => ["\u006c\u0300", "l"],
+        "ĺ" => ["\u013a", "l"],
+        "l̃" => ["\u006c\u0303", "l"],
+        "m̀" => ["\u006d\u0300", "m"],
+        "ḿ" => ["\u1e3f", "m"],
+        "m̃" => ["\u006d\u0303", "m"],
+        "ǹ" => ["\u01f9", "n"],
+        "ń" => ["\u0144", "n"],
+        "ñ" => ["\u00f1", "n"],
+        "r̀" => ["\u0072\u0300", "r"],
+        "ŕ" => ["\u0155", "r"],
+        "r̃" => ["\u0072\u0303", "r"]
       }
-
       # For recording files that are obviously unusual
       # e.g. too long, too short, etc.
       @suspect_path = File.open("spec/review/suspicious_filenames_#{Time.now}.txt", "a+")
@@ -109,6 +91,86 @@ module Verbalyser
       end
       unicode_value = @unicode_value
     end
+
+    # I couldn't find a more elegant way of scrubbing accents
+    # than this ugly stack of sub() executions.
+    def slice_and_scrub_accents(verb_form)
+      lithuanian_letters_diacritics_with_accents = {
+        "ã" => ["\u00e3", "a"],
+        "à" => ["\u00e0", "a"],
+        "á" => ["\u00e1", "a"],
+        "ą̀" => ["\u0105\u0300", "ą"],
+        "ą́" => ["\u0105\u0301", "ą"],
+        "ą̃" => ["\u0105\u0303", "ą"],
+        "ẽ" => ["\u1ebd", "e"],
+        "è" => ["\u00e8", "e"],
+        "é" => ["\u00e9", "e"],
+        "ę̀" => ["\u0119\u0300", "ę"],
+        "ę́" => ["\u0119\u0301", "ę"],
+        "ę̃" => ["\u0119\u0303", "ę"],
+        "ė̀" => ["\u0117\u0300", "ė"],
+        "ė́" => ["\u0117\u0301", "ė"],
+        "ė̃" => ["\u0117\u0303", "ė"],
+        "į̀" => ["\u012f", "į"],
+        "į́" => ["\u012f", "į"],
+        "į̃" => ["\u012f", "į"],
+        "ì" => ["\u00ec", "į"],
+        "í" => ["\u00ed", "į"],
+        "ĩ" => ["\u0129", "į"],
+        "ò" => ["\u00f2", "o"],
+        "ó" => ["\u00f3", "o"],
+        "õ" => ["\u00f5", "o"],
+        "ù" => ["\u00f9", "u"],
+        "ú" => ["\u00fa", "u"],
+        "ũ" => ["\u0169", "u"],
+        "ų̀" => ["\u0173\u0300", "ų"],
+        "ų́" => ["\u0173\u0301", "ų"],
+        "ų̃" => ["\u0173\u0303", "ų"],
+        "ū̀" => ["\u016b\u0300", "ū"],
+        "ū́" => ["\u016b\u0301", "ū"],
+        "ū̃" => ["\u016b\u0303", "ū"],
+        "ỳ" => ["\u1ef3", "y"],
+        "ý" => ["\u00fd", "y"],
+        "ỹ" => ["\u1ef9", "y"],
+        "l̀" => ["\u006c\u0300", "l"],
+        "ĺ" => ["\u013a", "l"],
+        "l̃" => ["\u006c\u0303", "l"],
+        "m̀" => ["\u006d\u0300", "m"],
+        "ḿ" => ["\u1e3f", "m"],
+        "m̃" => ["\u006d\u0303", "m"],
+        "ǹ" => ["\u01f9", "n"],
+        "ń" => ["\u0144", "n"],
+        "ñ" => ["\u00f1", "n"],
+        "r̀" => ["\u0072\u0300", "r"],
+        "ŕ" => ["\u0155", "r"],
+        "r̃" => ["\u0072\u0303", "r"]
+      }
+
+      lithuanian_letters_diacritics_with_accents.each do |key, value|
+        if verb_form.index(key) != nil
+          puts "found: #{verb_form.index(key)}"
+          new_verb = verb_form[verb_form.index(key)].replace(value[1])
+          puts new_verb
+        end
+      end
+
+      # puts lithuanian_letters_diacritics_with_accents
+
+
+      # x = verb_form.split("")
+      # x.each do |letter|
+      #   lithuanian_letters_diacritics_with_accents.each do |key, value|
+      #     if letter == value[0]
+      #       puts "#{letter} is stripped to #{value[1]}"
+      #       @stripped_letter = value[1]
+      #     end
+      #   end
+      # end
+      #
+      # stripped_letter = @stripped_letter
+
+    end
+
 
     # Lithuanian verb ending in "ti" is non-reflexive.
     # Lithuanian verb ending in "tis" is reflexive.
@@ -160,21 +222,6 @@ module Verbalyser
       end
     end
 
-    # I couldn't find a more elegant way of scrubbing accents
-    # than this ugly stack of sub() executions.
-    def slice_and_scrub_accents(verb_form)
-
-      verb_form_array = verb_form.split("")
-
-
-
-
-
-
-      # .sub("ū́", "ū").sub("ė́", "ė").sub("m̃", "m").sub("r̃", "r").sub("ū̃", "ū").sub("ì", "i").sub("ė́", "ė").sub("ì", "i").sub("ė̃", "ė").sub("l̃", "l")
-
-      verb_form.removeaccents.sub("\u0301", "").sub("\u0302", "").sub("\u0303", "").sub("\u1ef9", "y").sub("ū́", "ū").sub("m̃", "m")[@matching_lemma.length..-1]
-    end
 
     # Takes the infinitive verb because
     # it will be stripped by the preceding method
