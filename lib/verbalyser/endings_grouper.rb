@@ -210,11 +210,16 @@ module Verbalyser
         @nugget = ""
       end
 
+
       if @nugget.length > 0
         @nugget_found = true
       else
         @nugget_found = false
       end
+
+      nugget_found = @nugget_found
+
+
     end
 
 
@@ -231,24 +236,21 @@ module Verbalyser
       # Defines the three main verb forms needed
       @verb_database.each do |line|
         verb_array = line.strip.split(",")
+
         # I'd like to something better than cycling through with simple
         # conditionals, but it's the best I've got at the moment
         if verb_array[0].strip == infinitive_verb
+
           # File name is derived from the three main forms,
           # infinitive is already supplied
           # @infinitive_form = verb_array[0].strip
           @present3_form = verb_array[1].strip
+          puts "present3: #{@present3_form}"
           @past3_form = verb_array[2].strip
+          puts "past3: #{@past3_form}"
 
           # I keep the terminal output to a minimum,
           # but this helps when running the code
-          puts "verb_array[0]: #{verb_array[0]}"
-          puts "verb_array[1]: #{verb_array[1]}"
-          puts "verb_array[2]: #{verb_array[2]}"
-          puts "present3: #{@present3_form}"
-          puts "past3: #{@past3_form}"
-          puts "matching lemma: #{@matching_lemma}"
-          puts "nugget_found = #{@nugget_found}"
         end
       end
 
@@ -282,6 +284,28 @@ module Verbalyser
           @new_matching_lemma = infinitive_verb.index("ęsti")
         when infinitive_verb.match?(/\S*urti*/)
           @new_matching_lemma = infinitive_verb.index("urti")
+        when infinitive_verb.match?(/\S*ūti*/)
+          @new_matching_lemma = infinitive_verb.index("ūti")
+        when infinitive_verb.match?(/\S*ybti*/)
+          @new_matching_lemma = infinitive_verb.index("ybti")
+        when infinitive_verb.match?(/\S*izti*/)
+          @new_matching_lemma = infinitive_verb.index("izti")
+        when infinitive_verb.match?(/\S*ąsti*/)
+          @new_matching_lemma = infinitive_verb.index("ąsti")
+        when infinitive_verb.match?(/\S*iaukti*/)
+          @new_matching_lemma = infinitive_verb.index("iaukti")
+        when infinitive_verb.match?(/\S*elti*/)
+          @new_matching_lemma = infinitive_verb.index("elti")
+        when infinitive_verb.match?(/\S*kšti*/)
+          @new_matching_lemma = infinitive_verb.index("kšti")
+        when infinitive_verb.match?(/\S*pšti*/)
+          @new_matching_lemma = infinitive_verb.index("pšti")
+        when infinitive_verb.match?(/\S*isti*/)
+          @new_matching_lemma = infinitive_verb.index("isti")
+        when infinitive_verb.match?(/\S*yžti*/)
+          @new_matching_lemma = infinitive_verb.index("yžti")
+        when infinitive_verb.match?(/\S*ųsti*/)
+          @new_matching_lemma = infinitive_verb.index("ųsti")
         end
 
         @infinitive_slice = infinitive_verb[@new_matching_lemma_index..-1]
@@ -295,152 +319,6 @@ module Verbalyser
       puts "This is the file name: #{@file_name}"
 
       file_name = @file_name
-
-
-
-
-
-
-
-
-            # when @infinitive_slice.match?(/\S*ūti*/)
-            #
-            #   @new_matching_lemma = @infinitive_form.index("ūti")
-            #   @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
-            #   @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
-            #
-            #   @infinitive_slice = @infinitive_form[@new_matching_lemma..-1]
-            #   @present3_slice = @present3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
-            #   @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
-            #   @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
-            #
-            # when @infinitive_slice.match?(/\S*ybti*/)
-            #
-            #   @new_matching_lemma = @infinitive_form.index("ybti")
-            #   @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
-            #   @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
-            #
-            #   @infinitive_slice = @infinitive_form[@new_matching_lemma..-1]
-            #   @present3_slice = @present3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
-            #   @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
-            #   @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
-            #
-            # when @infinitive_slice.match?(/\S*izti*/)
-            #
-            #   @new_matching_lemma = @infinitive_form.index("izti")
-            #   @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
-            #   @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
-            #
-            #   @infinitive_slice = @infinitive_form[@new_matching_lemma..-1]
-            #   @present3_slice = @present3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
-            #   @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
-            #   @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
-            #
-            # when @infinitive_slice.match?(/\S*ąsti*/)
-            #
-            #   @new_matching_lemma = @infinitive_form.index("ąsti")
-            #   @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
-            #   @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
-            #
-            #   @infinitive_slice = @infinitive_form[@new_matching_lemma..-1]
-            #   @present3_slice = @present3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
-            #   @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
-            #   @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
-            #
-            # when @infinitive_slice.match?(/\S*iaukti*/)
-            #
-            #   @new_matching_lemma = @infinitive_form.index("iaukti")
-            #   @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
-            #   @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
-            #
-            #   @infinitive_slice = @infinitive_form[@new_matching_lemma..-1]
-            #   @present3_slice = @present3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
-            #   @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
-            #   @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
-            #
-            # when @infinitive_slice.match?(/\S*elti*/)
-            #
-            #   @new_matching_lemma = @infinitive_form.index("elti")
-            #   @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
-            #   @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
-            #
-            #   @infinitive_slice = @infinitive_form[@new_matching_lemma..-1]
-            #   @present3_slice = @present3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
-            #   @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
-            #   @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
-            #
-            # when @infinitive_slice.match?(/\S*kšti*/)
-            #
-            #   @new_matching_lemma = @infinitive_form.index("kšti")
-            #   @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
-            #   @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
-            #
-            #   @infinitive_slice = @infinitive_form[@new_matching_lemma..-1]
-            #   @present3_slice = @present3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
-            #   @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
-            #   @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
-            #
-            # when @infinitive_slice.match?(/\S*pšti*/)
-            #
-            #   @new_matching_lemma = @infinitive_form.index("pšti")
-            #   @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
-            #   @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
-            #
-            #   @infinitive_slice = @infinitive_form[@new_matching_lemma..-1]
-            #   @present3_slice = @present3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
-            #   @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
-            #   @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
-            #
-            # when @infinitive_slice.match?(/\S*isti*/)
-            #
-            #   @new_matching_lemma = @infinitive_form.index("isti")
-            #   @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e").sub("é", "e")
-            #   @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e").sub("é", "e")
-            #
-            #   @infinitive_slice = @infinitive_form[@new_matching_lemma..-1]
-            #   @present3_slice = @present3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
-            #   @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
-            #   @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
-            #
-            # when @infinitive_slice.match?(/\S*yžti*/)
-            #
-            #   @new_matching_lemma = @infinitive_form.index("yžti")
-            #   @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
-            #   @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
-            #
-            #   @infinitive_slice = @infinitive_form[@new_matching_lemma..-1]
-            #   @present3_slice = @present3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
-            #   @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
-            #   @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
-            #
-            # when @infinitive_slice.match?(/\S*ųsti*/)
-            #
-            #   @new_matching_lemma = @infinitive_form.index("ųsti")
-            #   @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
-            #   @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
-            #
-            #   @infinitive_slice = @infinitive_form[@new_matching_lemma..-1]
-            #   @present3_slice = @present3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
-            #   @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
-            #   @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
-            #
-            # end
-            #
-            # puts "infinitive_form: #{@infinitive_slice}"
-            # puts "present3_slice: #{@present3_slice}"
-            # puts "past3_slice: #{@past3_slice}"
-            # puts "file_name: #{@file_name}"
-            #
-            # puts "\n**************************************\n\n"
-            #
-            # file_name = @file_name
-            # x = file_name
-
-
-
-
-
-
 
     end
   end
@@ -589,9 +467,9 @@ end
 #       end
 #
 #       case
-#       when @infinitive_slice.match?(/\S*ėti*/)
+#       when infinitive_verb.match?(/\S*ėti*/)
 #
-#         @new_matching_lemma = @infinitive_form.index("ėti")
+#         @new_matching_lemma = infinitive_verb.index("ėti")
 #
 #         puts "This ends in -ėti"
 #         puts "old matching_lemma: #{@matching_lemma}"
@@ -607,18 +485,18 @@ end
 #         @past3_slice = @past3.removeaccents.sub("\u0301", "")[@new_matching_lemma..-1]
 #         @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
 #
-#       when @infinitive_slice.match?(/\S*eti*/)
+#       when infinitive_verb.match?(/\S*eti*/)
 #
-#         @new_matching_lemma = @infinitive_form.index("eti")
+#         @new_matching_lemma = infinitive_verb.index("eti")
 #
 #         @infinitive_slice = @infinitive_form[@new_matching_lemma..-1]
 #         @present3_slice = @present3.removeaccents.sub("\u0301", "")[@new_matching_lemma..-1]
 #         @past3_slice = @past3.removeaccents.sub("\u0301", "")[@new_matching_lemma..-1]
 #         @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
 #
-#       when @infinitive_slice.match?(/\S*uoti/)
+#       when infinitive_verb.match?(/\S*uoti/)
 #
-#         @new_matching_lemma = @infinitive_form.index("uoti")
+#         @new_matching_lemma = infinitive_verb.index("uoti")
 #
 #         @infinitive_slice = @infinitive_form[@new_matching_lemma..-1]
 #         @present3_slice = @present3[@new_matching_lemma..-1]
@@ -627,7 +505,7 @@ end
 #
 #       when !@infinitive_slice.match?(/\S*uoti*/) && @infinitive_slice.match?(/\S*oti*/)
 #
-#         @new_matching_lemma = @infinitive_form.index("oti")
+#         @new_matching_lemma = infinitive_verb.index("oti")
 #
 #         @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ì", "i").sub("r̃", "r").sub("ū̃", "ū")
 #         @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ì", "i").sub("r̃", "r").sub("ū̃", "ū")
@@ -637,9 +515,9 @@ end
 #         @past3_slice = @past3[@new_matching_lemma..-1]
 #         @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
 #
-#       when @infinitive_slice.match?(/\S*[bcčdfghjklmnpqrsštvwxzž]ytis/)
+#       when infinitive_verb.match?(/\S*[bcčdfghjklmnpqrsštvwxzž]ytis/)
 #
-#         @new_matching_lemma = @infinitive_form.index("ytis")
+#         @new_matching_lemma = infinitive_verb.index("ytis")
 #
 #         @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ì", "i")
 #         @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ì", "i")
@@ -649,9 +527,9 @@ end
 #         @past3_slice = @past3.removeaccents.sub("\u0303", "")[((@new_matching_lemma)-1)..-1]
 #         @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
 #
-#       when @infinitive_slice.match?(/\S*[bcčdfghjklmnpqrsštvwxzž]yti/)
+#       when infinitive_verb.match?(/\S*[bcčdfghjklmnpqrsštvwxzž]yti/)
 #
-#         @new_matching_lemma = @infinitive_form.index("yti")
+#         @new_matching_lemma = infinitive_verb.index("yti")
 #
 #         @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ì", "i")
 #         @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ì", "i")
@@ -662,9 +540,9 @@ end
 #         @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
 #
 #
-#       when @infinitive_slice.match?(/\S*auti*/)
+#       when infinitive_verb.match?(/\S*auti*/)
 #
-#         @new_matching_lemma = @infinitive_form.index("auti")
+#         @new_matching_lemma = infinitive_verb.index("auti")
 #         @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė")
 #         @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė")
 #
@@ -673,9 +551,9 @@ end
 #         @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
 #         @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
 #
-#       when @infinitive_slice.match?(/\S*enti*/)
+#       when infinitive_verb.match?(/\S*enti*/)
 #
-#         @new_matching_lemma = @infinitive_form.index("enti")
+#         @new_matching_lemma = infinitive_verb.index("enti")
 #         @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
 #         @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
 #
@@ -684,9 +562,9 @@ end
 #         @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
 #         @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
 #
-#       when @infinitive_slice.match?(/\S*ęsti*/)
+#       when infinitive_verb.match?(/\S*ęsti*/)
 #
-#         @new_matching_lemma = @infinitive_form.index("ęsti")
+#         @new_matching_lemma = infinitive_verb.index("ęsti")
 #         @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
 #         @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
 #
@@ -695,9 +573,9 @@ end
 #         @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
 #         @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
 #
-#       when @infinitive_slice.match?(/\S*urti*/)
+#       when infinitive_verb.match?(/\S*urti*/)
 #
-#         @new_matching_lemma = @infinitive_form.index("urti")
+#         @new_matching_lemma = infinitive_verb.index("urti")
 #         @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
 #         @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
 #
@@ -706,9 +584,9 @@ end
 #         @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
 #         @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
 #
-#       when @infinitive_slice.match?(/\S*erti*/)
+#       when infinitive_verb.match?(/\S*erti*/)
 #
-#         @new_matching_lemma = @infinitive_form.index("erti")
+#         @new_matching_lemma = infinitive_verb.index("erti")
 #         @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
 #         @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
 #
@@ -717,9 +595,9 @@ end
 #         @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
 #         @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
 #
-#       when @infinitive_slice.match?(/\S*ūti*/)
+#       when infinitive_verb.match?(/\S*ūti*/)
 #
-#         @new_matching_lemma = @infinitive_form.index("ūti")
+#         @new_matching_lemma = infinitive_verb.index("ūti")
 #         @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
 #         @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
 #
@@ -728,9 +606,9 @@ end
 #         @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
 #         @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
 #
-#       when @infinitive_slice.match?(/\S*ybti*/)
+#       when infinitive_verb.match?(/\S*ybti*/)
 #
-#         @new_matching_lemma = @infinitive_form.index("ybti")
+#         @new_matching_lemma = infinitive_verb.index("ybti")
 #         @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
 #         @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
 #
@@ -739,9 +617,9 @@ end
 #         @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
 #         @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
 #
-#       when @infinitive_slice.match?(/\S*izti*/)
+#       when infinitive_verb.match?(/\S*izti*/)
 #
-#         @new_matching_lemma = @infinitive_form.index("izti")
+#         @new_matching_lemma = infinitive_verb.index("izti")
 #         @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
 #         @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
 #
@@ -750,9 +628,9 @@ end
 #         @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
 #         @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
 #
-#       when @infinitive_slice.match?(/\S*ąsti*/)
+#       when infinitive_verb.match?(/\S*ąsti*/)
 #
-#         @new_matching_lemma = @infinitive_form.index("ąsti")
+#         @new_matching_lemma = infinitive_verb.index("ąsti")
 #         @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
 #         @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
 #
@@ -761,9 +639,9 @@ end
 #         @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
 #         @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
 #
-#       when @infinitive_slice.match?(/\S*iaukti*/)
+#       when infinitive_verb.match?(/\S*iaukti*/)
 #
-#         @new_matching_lemma = @infinitive_form.index("iaukti")
+#         @new_matching_lemma = infinitive_verb.index("iaukti")
 #         @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
 #         @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
 #
@@ -772,9 +650,9 @@ end
 #         @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
 #         @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
 #
-#       when @infinitive_slice.match?(/\S*elti*/)
+#       when infinitive_verb.match?(/\S*elti*/)
 #
-#         @new_matching_lemma = @infinitive_form.index("elti")
+#         @new_matching_lemma = infinitive_verb.index("elti")
 #         @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
 #         @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
 #
@@ -783,9 +661,9 @@ end
 #         @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
 #         @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
 #
-#       when @infinitive_slice.match?(/\S*kšti*/)
+#       when infinitive_verb.match?(/\S*kšti*/)
 #
-#         @new_matching_lemma = @infinitive_form.index("kšti")
+#         @new_matching_lemma = infinitive_verb.index("kšti")
 #         @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
 #         @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
 #
@@ -794,9 +672,9 @@ end
 #         @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
 #         @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
 #
-#       when @infinitive_slice.match?(/\S*pšti*/)
+#       when infinitive_verb.match?(/\S*pšti*/)
 #
-#         @new_matching_lemma = @infinitive_form.index("pšti")
+#         @new_matching_lemma = infinitive_verb.index("pšti")
 #         @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
 #         @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
 #
@@ -805,9 +683,9 @@ end
 #         @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
 #         @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
 #
-#       when @infinitive_slice.match?(/\S*isti*/)
+#       when infinitive_verb.match?(/\S*isti*/)
 #
-#         @new_matching_lemma = @infinitive_form.index("isti")
+#         @new_matching_lemma = infinitive_verb.index("isti")
 #         @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e").sub("é", "e")
 #         @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e").sub("é", "e")
 #
@@ -816,9 +694,9 @@ end
 #         @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
 #         @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
 #
-#       when @infinitive_slice.match?(/\S*yžti*/)
+#       when infinitive_verb.match?(/\S*yžti*/)
 #
-#         @new_matching_lemma = @infinitive_form.index("yžti")
+#         @new_matching_lemma = infinitive_verb.index("yžti")
 #         @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
 #         @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
 #
@@ -827,9 +705,9 @@ end
 #         @past3_slice = @past3.removeaccents.sub("\u0303", "")[(@new_matching_lemma)..-1]
 #         @file_name = "#{@infinitive_slice}_#{@present3_slice}_#{@past3_slice}".removeaccents
 #
-#       when @infinitive_slice.match?(/\S*ųsti*/)
+#       when infinitive_verb.match?(/\S*ųsti*/)
 #
-#         @new_matching_lemma = @infinitive_form.index("ųsti")
+#         @new_matching_lemma = infinitive_verb.index("ųsti")
 #         @present3 = @present3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
 #         @past3 = @past3.sub("ū́", "ū").sub("ė́", "ė").sub("ẽ", "e")
 #
