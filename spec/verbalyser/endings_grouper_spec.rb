@@ -18,9 +18,9 @@ describe Verbalyser::EndingsGrouper do
   let (:reflexive_verb_stem_shaved) {"eng"}
 
   let (:file_name_conjugated_verb_from_lemma_suffix) {"uoti_uoja_avo"}
-  let (:file_name_conjugated_verb_from_stem_extract) {"erti_ęra_ẽro"}
-  let (:file_name_conjugated_reflexive_verb_lemma_suffix) {"uotis_úojasi_ãvosi"}
-  let (:file_name_conjugated_reflexive_verb_stem_extract) {"engtis_eñgiasi_eñgėsi"}
+  let (:file_name_conjugated_verb_from_stem_extract) {"erti_ęra_ero"}
+  let (:file_name_conjugated_reflexive_verb_lemma_suffix) {"uotis_uojasi_avosi"}
+  let (:file_name_conjugated_reflexive_verb_stem_extract) {"engtis_engiasi_engėsi"}
 
   let (:verb_forms_non_reflexive_lemma) {["aktyvuoti", "aktyvuoja", "aktyvavo\n"]}
   let (:verb_forms_non_reflexive_no_lemma) {["gverti", "gvęra", "gvẽro\n"]}
