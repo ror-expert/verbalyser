@@ -1,0 +1,20 @@
+#!/usr/bin/env ruby
+require 'verbalyser'
+require 'time'
+
+
+
+
+@group_generator = Verbalyser::BookBuilder.new
+
+verbs_to_process = File.readlines(ARGV[0])
+
+verbs_to_process.each do |line|
+  # puts "This is the verb: #{line}"
+  line_split = line.split(",")
+  first_form = line_split[0]
+  # puts first_form
+
+  @group_generator.write_verb_forms_to_group_file(first_form)
+
+end
