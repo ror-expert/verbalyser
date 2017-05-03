@@ -10,8 +10,6 @@ module Verbalyser
       puts @new_folder
       @book_hash = Hash.new
       @book_file = @output_folder + "veiksmažodžių_knyga_#{@now.strftime("%Y-%m-%d_%H:%M:%S")}.html"
-
-
     end
 
     def build_book
