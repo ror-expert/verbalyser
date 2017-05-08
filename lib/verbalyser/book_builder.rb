@@ -1,5 +1,7 @@
 require 'fileutils'
 require 'time'
+require 'pry'
+require 'csv'
 
 module Verbalyser
   class BookBuilder
@@ -10,9 +12,12 @@ module Verbalyser
       puts @new_folder
       @book_hash = Hash.new
       @book_file = @output_folder + "veiksmažodžių_knyga_#{@now.strftime("%Y-%m-%d_%H:%M:%S")}.html"
+      @verb_source_data_translations =  "output/nokogiri_text_extract_first_clean.txt"
+
     end
 
     def build_book
+      @open_translations = File.readlines(@verb_source_data_translations)
       # FileUtils::mkdir_p @new_folder
       open_book = File.open(@book_file, "a+")
 
@@ -39,109 +44,97 @@ module Verbalyser
         if File.directory?(item)
           puts "FOLDER: #{item}"
           open_book.write("<h2>#{File.basename(item)}</h2>\n")
+          # binding.pry
 
         elsif item.match(/.*txt/)
-
-          @temp_array = Array.new
-
           puts "FILE: #{item}"
           new_file_name = File.basename(item)[0...-4]
           open_book.write("<h3>#{new_file_name}</h3>\n")
 
           @table_header = "
+          <br>
           <table style='width:100%'>
           <tr>
           <th>bendratis</th>
           <th>esamasis(3)</th>
           <th>butasis kartinis(3)</th>
+          <th>angliškai</th>
           </tr>
           "
           open_book.write(@table_header)
 
-
           File.open(item).each do |line|
 
             verbs = line.split(",")
+
+            infinitive_form = verbs[0]
+            present3_form = verbs[1]
+            past3_form = verbs[2]
+
             open_book.write("""
             <tr>
             <td>#{verbs[0]}</td>
             <td>#{verbs[1]}</td>
             <td>#{verbs[2]}</td>
+            <td>#{@english_translation}</td>
             </tr>
             """)
+            # binding.pry
           end
 
           open_book.write("</table>")
+
+          # @open_translations.each do |verb_line|
         end
       end
 
       open_book.close
-
     end
   end
 end
 
-
 testing = Verbalyser::BookBuilder.new
 testing.build_book
 
-# open_text_file = File.open(item, "r")
 
-# # folder_tree = Dir.glob("data/curated_verbs/**/*/")
-# level_1_folder_tree = Dir.glob("data/curated_verbs/*/")
-# level_1_files = Dir.glob("data/curated_verbs/*")
+
 #
-# level_1_folder_tree.each do |sub_folder|
-#   puts "DIRECTORY: #{sub_folder}"
-#   open_book.write("<h1>#{File.basename(sub_folder)}</h1>\n")
 #
-#   level_1_files.each do |file_level_1|
-#     if File.directory?(file_level_1)
-#       puts "file_level_1: #{file_level_1}"
-#     else
-#       open_book.write("<h2>#{File.basename(file)}</h2>\n")
-#     end
-#   end
+#               if infinitive_form == verb_line.strip.split(",")
+#                 puts "found match: #{infinitive_form} and #{verb_line.strip.split(",")}"
+#               end
 #
-#   level_2_folder_tree = Dir.glob("#{sub_folder}*/")
-#   level_2_files = Dir.glob("#{sub_folder}*")
-#
-#   level_2_folder_tree.each do |sub_sub_folder|
-#     open_book.write("<h2>#{File.basename(sub_sub_folder)}</h2>\n")
-#
-#     level_2_files.each do |sub_file|
-#       if File.directory?(sub_file)
-#         puts "file_level_2: #{sub_file}"
-#       else
-#         open_book.write("<h3>#{File.basename(sub_file)}</h3>\n")
-#       end
-#
-#       level_3_folder_tree = Dir.glob("#{sub_sub_folder}*/")
-#       level_3_files = Dir.glob("#{sub_sub_folder}*")
-#
-#       level_3_folder_tree.each do |sub_sub_sub_folder|
-#         open_book.write("<h3>#{File.basename(sub_sub_sub_folder)}</h3>\n")
-#
-#         level_3_files.each do |sub_sub_file|
-#           if File.directory?(sub_sub_file)
-#             puts "file_level_3: #{sub_sub_file}"
-#           else
-#             open_book.write("<h4>#{File.basename(sub_sub_file)}</h4>\n")
+#               open_book.write("</table>")
+#             end
 #           end
+#
+#           open_book.close
 #         end
 #       end
 #     end
 #   end
 # end
-# level_3_folder_tree = Dir.glob("#{sub_folder}*/")
-# level_3_folder_tree.each do |sub_sub_sub_folder|
-#   puts "#{sub_sub_sub_folder}: sub_directory"
-#   open_book.write("<h3>#{File.basename(sub_sub_folder)}</h3>\n")
 #
-#   level_4_folder_tree = Dir.glob("#{sub_folder}*/")
-#   level_4_folder_tree.each do |sub_sub_sub_sub_folder|
-#     puts "#{sub_sub_sub_sub_folder}: sub_directory"
-#     open_book.write("<h4>#{File.basename(sub_sub_folder)}</h4>\n")
-#   end
-# end
-# end
+#
+#
+#             # binding.pry
+#
+#
+#
+#             #
+#             #   split_extraction = verb_line.strip.split(",")
+#             #
+#             #   # split_extraction = verb_line.split("\n")[1].split(",")
+#             #   english_translation = split_extraction[1]
+#             #   @matching_form = split_extraction[0]
+#             #   puts "infinitive_form: #{@matching_form}"
+#             #   puts "english_translation: #{@english_translation}"
+#             #
+#             #   if @matching_form == infinitive_form
+#             #     puts "matching infinitive_form: #{infinitive_form}"
+#             #     puts "matching @english_translation: #{@english_translation}"
+#             #   end
+#             # end
+#
+#           # end
+#
